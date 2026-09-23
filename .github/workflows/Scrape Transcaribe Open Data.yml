@@ -1,0 +1,56 @@
+name: Scrape Transcaribe Open Data
+
+on:
+  workflow_dispatch:
+
+  # Keep this manual initially.
+  # Once we know the endpoint works reliably, this can be enabled:
+  #
+  # schedule:
+  #   - cron: "30 4 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas openpyxl requests
+
+      - name: Scrape Transcaribe
+        run: |
+          python scripts/scrape_transcaribe.py
+
+      - name: Show debug information
+        if: always()
+        run: |
+          echo "=== Output files ==="
+          find raw -maxdepth 1 -type f -print | sort
+
+          echo
+          echo "=== Debug ==="
+
+          if [ -f raw/transcaribe_debug.json ]; then
+            cat raw/transcaribe_debug.json
+          fi
+
+      - name: Upload scraper output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcaribe-scrape
+          path: raw/
+          retention-days: 30
