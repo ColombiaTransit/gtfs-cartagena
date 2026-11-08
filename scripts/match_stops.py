@@ -16,7 +16,9 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
   1. Build the round trip from the relation's ways, pick its direction and
      rotate it so it starts at the first stop of IDA.
   2. Anchors: stops whose name matches an OSM station / named stop
-     (method osm_station / osm_named). Projected onto the line, in order.
+     (method osm_station / osm_named), else a Photon result with a matching
+     name near the line (method photon, from raw/geocode/photon.json).
+     Projected onto the line, in order.
   3. Between two anchors, unnamed OSM stops on the right-hand side of the line:
      paired in order when the counts match (osm_order), otherwise matched to
      the nearest evenly-spaced expected position (osm_aligned).
@@ -200,6 +202,8 @@ def anchor_for(address: str, named: dict) -> dict | None:
 
 def main() -> int:
     named, unnamed, lines = load_osm()
+    geo_path = RAW / "geocode" / "photon.json"
+    geo = json.loads(geo_path.read_text()) if geo_path.exists() else {}
     od = json.loads((RAW / "transcaribe_stops.json").read_text())
 
     by_route: dict[str, list[dict]] = defaultdict(list)
@@ -221,7 +225,7 @@ def main() -> int:
         options = []
         for cand_line in (line, Line(line.pts[::-1])):
             cand_line = rotate(cand_line, stops, named)
-            p_, m_ = place_anchors(cand_line, stops, named)
+            p_, m_ = place_anchors(cand_line, stops, named, geo, route)
             n = len(stops)
             spread = sum(abs(x - cand_line.length * i / n) for i, x in enumerate(p_) if x is not None)
             options.append(((sum(1 for x in p_ if x is not None), -spread), cand_line, p_, m_))
@@ -312,8 +316,12 @@ def rotate(line: Line, stops, named) -> Line:
     return line
 
 
-def place_anchors(line: Line, stops, named):
-    """Pass 1: stops with a matching OSM name, projected onto the line in order."""
+def place_anchors(line: Line, stops, named, geo=None, route=""):
+    """
+    Pass 1: stops with a matching OSM name, projected onto the line in order.
+    Stops without one may use a Photon result (method photon), if it lies
+    close to the line, in order.
+    """
     pos: list[float | None] = [None] * len(stops)
     meta: list[tuple[str, str, float | None]] = [("", "", None)] * len(stops)
     cursor = -MIN_STEP
@@ -323,6 +331,14 @@ def place_anchors(line: Line, stops, named):
     for i, s in enumerate(stops):
         a = anchor_for(s["Ubicacion_del_Paradero"], named)
         if not a:
+            hit = photon_hit(line, s, geo, route, cursor + MIN_STEP)
+            if hit and last_i is not None:
+                allowed = line.length * (i - last_i) / len(stops) * 3 + 2000
+                if hit[0] - cursor > allowed:
+                    hit = None
+            if hit:
+                pos[i], cursor, last_i = hit[0], hit[0], i
+                meta[i] = ("photon", hit[2], round(hit[1], 1))
             continue
         if i == 0:
             first_osm = a["osm"]
@@ -347,6 +363,40 @@ def place_anchors(line: Line, stops, named):
             pos[i], cursor, last_i = hit[0], hit[0], i
             meta[i] = (a["kind"], a["osm"], round(hit[1], 1))
     return pos, meta
+
+
+STOPWORDS = {"de", "la", "el", "los", "las", "y", "del", "a", "al", "en", "con", "entre",
+             "cc", "c", "mz", "lote", "kr", "cr", "cra", "carrera", "cl", "cll", "calle",
+             "tv", "dg", "no", "frente", "entrada", "antes", "esquina", "sector", "etapa"}
+PHOTON_RADIUS = 60      # m, Photon result to line (POIs are often set back from the road)
+
+
+def tokens(text: str) -> set[str]:
+    return {t for t in norm(text).split() if t not in STOPWORDS and not t.isdigit() and len(t) > 1}
+
+
+def photon_hit(line, s, geo, route, cursor):
+    """Best Photon result for this stop that matches its name and lies on the line."""
+    if not geo:
+        return None
+    entry = geo.get(f"{route}|{s['Sentido']}|{int(s['Paraderos'][1:])}")
+    if not entry or entry.get("name") != s["Ubicacion_del_Paradero"].strip():
+        return None
+    want = tokens(entry["query"])
+    if not want or not any(len(t) >= 4 for t in want):
+        return None
+    best = None
+    for r in entry["results"]:
+        if r.get("osm_key") == "place" or (r.get("osm_key") == "highway" and r.get("osm_value") != "bus_stop"):
+            continue
+        have = tokens(" ".join(str(r.get(k, "")) for k in ("name", "street")))
+        overlap = want & have
+        if len(overlap) / len(want) < 0.5 or not any(len(t) >= 4 for t in overlap):
+            continue
+        hit = line.nearest_after(xy(r["lat"], r["lon"]), cursor, PHOTON_RADIUS)
+        if hit and (best is None or hit[0] < best[0]):
+            best = (hit[0], hit[1], f"{r.get('osm_type', '')}{r.get('osm_id', '')}")
+    return best
 
 
 def align(gap, between, start, end):
@@ -426,7 +476,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},
