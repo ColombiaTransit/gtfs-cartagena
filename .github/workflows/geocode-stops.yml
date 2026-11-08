@@ -1,0 +1,43 @@
+name: Geocode stops with Photon
+
+# Uses the PHOTON_URL secret. It must be a secret, not a variable:
+# GitHub masks secrets in the log, but prints variables in plain text.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Geocode estimated stops
+        env:
+          PHOTON_URL: ${{ secrets.PHOTON_URL }}
+        run: python scripts/geocode_stops.py
+
+      - name: Match stops again
+        run: python scripts/match_stops.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add raw/geocode/ data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Geocode stops with Photon ($(date -u +%Y-%m-%d))"
+            git push
+          fi

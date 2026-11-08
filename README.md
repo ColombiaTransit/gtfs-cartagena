@@ -20,7 +20,11 @@ Research and data collection. No feed is published yet.
     and stop. The `method` column says how sure the position is:
     `osm_station`, `osm_named` or `osm_order` come from OSM; `osm_aligned` is
     an OSM stop paired by position; `interpolated`, `line_start` and
-    `line_end` are estimates that need checking.
+    `line_end` are estimates that need checking; `photon` is a geocoded
+    place with a matching name close to the line.
+- `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
+  estimated stops with our own Photon server into `raw/geocode/photon.json`,
+  then reruns the matching. Needs the `PHOTON_URL` **secret**.
 - `raw/web/`: route maps and PDF from transcaribe.gov.co/index.php/rutas-sitm/
   (workflow *Fetch Transcaribe route maps*). `data/route_hours_web.csv` holds the
   operating hours read from those maps, including the afternoon windows of
