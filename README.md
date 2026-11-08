@@ -21,6 +21,10 @@ Research and data collection. No feed is published yet.
     `osm_station`, `osm_named` or `osm_order` come from OSM; `osm_aligned` is
     an OSM stop paired by position; `interpolated`, `line_start` and
     `line_end` are estimates that need checking.
+- `raw/web/`: route maps and PDF from transcaribe.gov.co/index.php/rutas-sitm/
+  (workflow *Fetch Transcaribe route maps*). `data/route_hours_web.csv` holds the
+  operating hours read from those maps, including the afternoon windows of
+  peak-only routes that the open data leaves out, and A118/C018.
 - `docs/onderzoek.md` holds the research notes (network, timetable, fares,
   sources), in Dutch.
 

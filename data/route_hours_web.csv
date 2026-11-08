@@ -1,0 +1,72 @@
+route,day_type,start,end,source_image,note
+A101,weekday,04:30,22:40,Ruta_A101.png,
+A101,saturday,05:00,22:00,Ruta_A101.png,
+A101,sunday_holiday,05:30,21:30,Ruta_A101.png,
+A102,weekday,05:00,22:00,A102-min.png,
+A102,saturday,06:00,19:00,A102-min.png,
+A103,weekday,04:30,22:40,A103-min.png,
+A103,saturday,05:00,22:00,A103-min.png,
+A103,sunday_holiday,05:30,21:30,A103-min.png,
+A104,weekday,04:30,22:40,A104-min.png,
+A104,saturday,05:00,22:00,A104-min.png,
+A104,sunday_holiday,05:30,21:30,A104-min.png,
+A105,weekday,04:30,22:40,A105-min.png,
+A105,saturday,05:00,22:00,A105-min.png,
+A105,sunday_holiday,05:30,21:30,A105-min.png,
+A107,weekday,04:30,22:40,A107-min.png,
+A107,saturday,05:00,22:00,A107-min.png,
+A107,sunday_holiday,05:30,21:30,A107-min.png,
+A108,weekday,04:30,22:40,A108-min.png,
+A108,saturday,05:00,22:00,A108-min.png,
+A108,sunday_holiday,05:30,21:30,A108-min.png,
+A111,weekday,04:45,09:00,A111-min.png,morning window
+A111,weekday,16:30,19:30,A111-min.png,afternoon window
+A114,weekday,04:30,22:40,A114-min.png,
+A114,saturday,05:00,22:00,A114-min.png,
+A114,sunday_holiday,05:30,21:30,A114-min.png,
+A117,weekday,04:30,22:40,A117-min.png,
+A117,saturday,05:00,22:00,A117-min.png,
+A117,sunday_holiday,05:30,21:30,A117-min.png,
+A118,weekday,04:30,22:40,Mapa_A118_min.png,Portal - Ciudadela de la Paz; not in open data
+A118,saturday,05:00,22:00,Mapa_A118_min.png,
+A118,sunday_holiday,05:30,21:30,Mapa_A118_min.png,
+C001,weekday,04:30,21:30,C001-min.png,
+C001,saturday,05:00,21:30,C001-min.png,
+C001,sunday_holiday,05:30,21:00,C001-min.png,
+C016,weekday,05:30,07:45,C016-min.png,morning window
+C016,weekday,16:30,19:30,C016-min.png,afternoon window
+C017,weekday,05:00,09:00,C017-min.png,morning window
+C017,weekday,16:00,19:00,C017-min.png,afternoon window
+C018,weekday,05:00,10:00,Ruta_C018_.png,morning window; not in open data
+C018,weekday,16:00,20:00,Ruta_C018_.png,afternoon window
+T100E,weekday,06:00,20:00,T100E.png,
+T100E,saturday,06:00,13:00,T100E.png,
+T101,weekday,05:00,21:30,Rutas_T101_Actual-min.png,
+T101,saturday,05:30,20:30,Rutas_T101_Actual-min.png,
+T101,sunday_holiday,06:00,20:00,Rutas_T101_Actual-min.png,
+T102,weekday,05:00,21:00,Mapa_T102-Oct-25-min.jpg,
+T102,saturday,05:30,20:30,Mapa_T102-Oct-25-min.jpg,
+T102,sunday_holiday,06:00,20:00,Mapa_T102-Oct-25-min.jpg,
+T103,weekday,05:00,21:00,Rutas_T103_Actual-min.png,
+T103,saturday,05:30,20:30,Rutas_T103_Actual-min.png,
+T103,sunday_holiday,06:00,20:00,Rutas_T103_Actual-min.png,
+X101,weekday,05:00,21:00,X101-min.png,
+X101,saturday,05:30,20:30,X101-min.png,
+X101,sunday_holiday,06:00,20:00,X101-min.png,
+X102,weekday,05:00,21:00,X102-min.png,
+X102,saturday,05:30,20:30,X102-min.png,
+X102,sunday_holiday,06:00,20:00,X102-min.png,
+X103,weekday,05:00,21:00,X103-min.png,
+X103,saturday,05:30,20:30,X103-min.png,
+X103,sunday_holiday,06:00,20:00,X103-min.png,
+X104,weekday,05:00,21:00,X104-min.png,
+X104,saturday,05:30,20:30,X104-min.png,
+X104,sunday_holiday,06:00,20:00,X104-min.png,
+X105,weekday,05:00,21:00,X105-min-1.png,
+X105,saturday,05:30,20:30,X105-min-1.png,
+X105,sunday_holiday,06:00,20:00,X105-min-1.png,
+X106,weekday,05:00,21:00,X106-Ext-min.png,Variante - Centro
+X106,saturday,05:30,20:30,X106-Ext-min.png,
+X106,sunday_holiday,06:00,20:00,X106-Ext-min.png,
+X106-EXT,weekday,06:30,09:00,X106-Ext-min.png,extension to Gobernación de Bolívar; morning window
+X106-EXT,weekday,14:00,16:30,X106-Ext-min.png,extension; afternoon window
