@@ -34,6 +34,6 @@ Research and data collection. No feed is published yet.
 ## Next steps
 
 1. Improve the interpolated stop positions (geocoding, OSM edits, manual checks).
-2. Fill the gaps: X103 has no OSM line yet; the C017 line is incomplete.
+2. Check the C017 line (incomplete in OSM) and X105 (stop order fits the line poorly).
 3. Build `stops.txt`, `routes.txt`, `shapes.txt` and `trips.txt`/`frequencies.txt`.
 4. Add fares (Fares v2).

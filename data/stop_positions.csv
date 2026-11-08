@@ -719,49 +719,49 @@ X102,VUELTA,54,P54,Aguas de Cartagena,10.392806,-75.48405,interpolated,,,25425
 X102,VUELTA,55,P55,Piko Riko,10.392804,-75.481062,interpolated,,,25854
 X102,VUELTA,56,P56,Madre Bernarda B2,10.395094,-75.478587,osm_station,r13764315,5.7,26284
 X102,VUELTA,57,P57,Patio Portal B2,10.395177,-75.47276,osm_station,r13764314,,27546
-X103,IDA,1,P01,Patio Portal B4,,,no_line,,,
-X103,IDA,2,P02,Madre Bernarda A1,,,no_line,,,
-X103,IDA,3,P03,Chinatown,,,no_line,,,
-X103,IDA,4,P04,Clinica Blas de Lezo,,,no_line,,,
-X103,IDA,5,P05,Auto Coreano,,,no_line,,,
-X103,IDA,6,P06,Tacarigua 1,,,no_line,,,
-X103,IDA,7,P07,Conjunto residencial Tacarigua,,,no_line,,,
-X103,IDA,8,P08,Restaurante En Pin (Cll 30#57-341),,,no_line,,,
-X103,IDA,9,P09,Escallon Villa (Cll 30#56-73),,,no_line,,,
-X103,IDA,10,P10,Escallon Villa (Cll 30#55-69),,,no_line,,,
-X103,IDA,11,P11,La Caci-k (Cll30#50a-115),,,no_line,,,
-X103,IDA,12,P12,Hospital Universitario,,,no_line,,,
-X103,IDA,13,P13,Universidad de Cartagena,,,no_line,,,
-X103,IDA,14,P14,Parque Piedra de Bolivar,,,no_line,,,
-X103,IDA,15,P15,Cruz Roja,,,no_line,,,
-X103,IDA,16,P16,Amberes,,,no_line,,,
-X103,IDA,17,P17,Mitsubishi,,,no_line,,,
-X103,IDA,18,P18,El Prado A1,,,no_line,,,
-X103,IDA,19,P19,Bazurto A1,,,no_line,,,
-X103,IDA,20,P20,Delicias B1,,,no_line,,,
-X103,IDA,21,P21,Centro A1,,,no_line,,,
-X103,IDA,22,P22,La Bodeguita B1,,,no_line,,,
-X103,VUELTA,23,P23,La Bodeguita A2,,,no_line,,,
-X103,VUELTA,24,P24,Centro A2,,,no_line,,,
-X103,VUELTA,25,P25,Delicias B2,,,no_line,,,
-X103,VUELTA,26,P26,Bazurto A2,,,no_line,,,
-X103,VUELTA,27,P27,El Prado A2,,,no_line,,,
-X103,VUELTA,28,P28,Colegio Octaviana,,,no_line,,,
-X103,VUELTA,29,P29,Amberes*,,,no_line,,,
-X103,VUELTA,30,P30,Cruz Roja*,,,no_line,,,
-X103,VUELTA,31,P31,Piedra de Bolivar,,,no_line,,,
-X103,VUELTA,32,P32,Universidad de Cartagena,,,no_line,,,
-X103,VUELTA,33,P33,Hospital Universitario*,,,no_line,,,
-X103,VUELTA,34,P34,Hogar infantil Dulces Sonrisas,,,no_line,,,
-X103,VUELTA,35,P35,Tienda La Nacional (Cll30#53-18),,,no_line,,,
-X103,VUELTA,36,P36,Zaragocilla (Cll30#56-26),,,no_line,,,
-X103,VUELTA,37,P37,Camagüey Sector La Gloria,,,no_line,,,
-X103,VUELTA,38,P38,Conjunto residencial Tacarigua,,,no_line,,,
-X103,VUELTA,39,P39,Paseo de La Castellana,,,no_line,,,
-X103,VUELTA,40,P40,Aguas de Cartagena,,,no_line,,,
-X103,VUELTA,41,P41,Piko Riko,,,no_line,,,
-X103,VUELTA,42,P42,Madre Bernarda A2,,,no_line,,,
-X103,VUELTA,43,P43,Patio Portal B3,,,no_line,,,
+X103,IDA,1,P01,Patio Portal B4,10.395442,-75.472484,osm_station,r13764314,26.7,42
+X103,IDA,2,P02,Madre Bernarda A1,10.395196,-75.478631,osm_station,r13764315,6.6,1029
+X103,IDA,3,P03,Chinatown,10.393701,-75.481851,interpolated,,,1418
+X103,IDA,4,P04,Clinica Blas de Lezo,10.3924886,-75.4851692,osm_aligned,n12135936065,6.8,1808
+X103,IDA,5,P05,Auto Coreano,10.3918184,-75.4867815,osm_aligned,n12135927727,25.2,1975
+X103,IDA,6,P06,Tacarigua 1,10.3906457,-75.4906807,osm_aligned,n12125327579,24.9,2428
+X103,IDA,7,P07,Conjunto residencial Tacarigua,10.392915,-75.491434,interpolated,,,2761
+X103,IDA,8,P08,Restaurante En Pin (Cll 30#57-341),10.395335,-75.492802,interpolated,,,3094
+X103,IDA,9,P09,Escallon Villa (Cll 30#56-73),10.396713,-75.495505,interpolated,,,3428
+X103,IDA,10,P10,Escallon Villa (Cll 30#55-69),10.398355,-75.498044,interpolated,,,3761
+X103,IDA,11,P11,La Caci-k (Cll30#50a-115),10.399916,-75.500644,interpolated,,,4094
+X103,IDA,12,P12,Hospital Universitario,10.401494,-75.503237,interpolated,,,4428
+X103,IDA,13,P13,Universidad de Cartagena,10.4034291,-75.5055388,osm_aligned,n898552127,6.0,4761
+X103,IDA,14,P14,Parque Piedra de Bolivar,10.404924,-75.508372,interpolated,,,5121
+X103,IDA,15,P15,Cruz Roja,10.406196,-75.511352,interpolated,,,5481
+X103,IDA,16,P16,Amberes,10.407797,-75.514216,interpolated,,,5841
+X103,IDA,17,P17,Mitsubishi,10.409478,-75.516783,interpolated,,,6202
+X103,IDA,18,P18,El Prado A1,10.41116,-75.519596,osm_station,w185664292,5.6,6562
+X103,IDA,19,P19,Bazurto A1,10.414007,-75.524328,osm_station,r13764364,6.4,7169
+X103,IDA,20,P20,Delicias B1,10.416529,-75.527724,osm_station,r13764365,7.3,7637
+X103,IDA,21,P21,Centro A1,10.425187,-75.546517,osm_station,r13764366,6.8,10224
+X103,IDA,22,P22,La Bodeguita B1,10.420112,-75.551506,osm_station,r13764367,14.7,11017
+X103,VUELTA,23,P23,La Bodeguita A2,10.421377,-75.550021,interpolated,,,11593
+X103,VUELTA,24,P24,Centro A2,10.425103,-75.546448,osm_station,r13764366,5.2,12169
+X103,VUELTA,25,P25,Delicias B2,10.416444,-75.527822,osm_station,r13764365,6.8,14740
+X103,VUELTA,26,P26,Bazurto A2,10.413586,-75.523865,interpolated,,,15279
+X103,VUELTA,27,P27,El Prado A2,10.41107,-75.519648,osm_station,w185664292,5.9,15818
+X103,VUELTA,28,P28,Colegio Octaviana,10.409409,-75.516954,interpolated,,,16174
+X103,VUELTA,29,P29,Amberes*,10.407764,-75.514158,interpolated,,,16530
+X103,VUELTA,30,P30,Cruz Roja*,10.406181,-75.511325,interpolated,,,16886
+X103,VUELTA,31,P31,Piedra de Bolivar,10.404924,-75.508378,interpolated,,,17243
+X103,VUELTA,32,P32,Universidad de Cartagena,10.4035081,-75.5055126,osm_aligned,n11159488227,3.4,17599
+X103,VUELTA,33,P33,Hospital Universitario*,10.401323,-75.502959,interpolated,,,17973
+X103,VUELTA,34,P34,Hogar infantil Dulces Sonrisas,10.399558,-75.50005,interpolated,,,18346
+X103,VUELTA,35,P35,Tienda La Nacional (Cll30#53-18),10.397849,-75.497109,interpolated,,,18720
+X103,VUELTA,36,P36,Zaragocilla (Cll30#56-26),10.396118,-75.494203,interpolated,,,19094
+X103,VUELTA,37,P37,Camagüey Sector La Gloria,10.394395,-75.49127,interpolated,,,19468
+X103,VUELTA,38,P38,Conjunto residencial Tacarigua,10.392896,-75.488212,interpolated,,,19842
+X103,VUELTA,39,P39,Paseo de La Castellana,10.3923604,-75.4849884,osm_aligned,n12092721013,16.2,20215
+X103,VUELTA,40,P40,Aguas de Cartagena,10.392752,-75.482301,interpolated,,,20545
+X103,VUELTA,41,P41,Piko Riko,10.393682,-75.48091,interpolated,,,20874
+X103,VUELTA,42,P42,Madre Bernarda A2,10.395094,-75.478587,osm_station,r13764315,5.7,21204
+X103,VUELTA,43,P43,Patio Portal B3,10.395177,-75.47276,osm_station,r13764314,,22466
 X104,IDA,1,P01,Terminal de Transportes,10.400639,-75.45827,osm_station,r1798882,26.2,25
 X104,IDA,2,P02,Palmas de Salamanca - Directo,10.401921,-75.457092,interpolated,,,371
 X104,IDA,3,P03,Central de Abastos,10.404042,-75.456619,interpolated,,,717

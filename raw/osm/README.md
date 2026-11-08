@@ -36,5 +36,6 @@ way(r.r);
 out geom;
 ```
 
-Known gap: X103 is tagged `operator=Trasncaribe S.A.`, which this regex
-misses. Use `["operator"~"caribe",i]` next time.
+X103 is tagged `operator=Trasncaribe S.A.`, which this regex misses. It was
+exported separately with `["ref"="X103"]["operator"~"caribe",i]` and merged
+into this file. Use `["operator"~"caribe",i]` for a full re-export.
