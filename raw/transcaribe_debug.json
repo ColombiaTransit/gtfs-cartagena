@@ -1,0 +1,321 @@
+{
+  "base_url": "https://datosabiertos.cartagena.gov.co",
+  "stops_resource_id": "886f50a8-88f0-4e07-9b71-f5bbe4ae7daf",
+  "routes_resource_id": "ab94769a-5f6b-41ad-a5ca-3a4ed8812edf",
+  "methods": {
+    "stops_datastore": {
+      "success": true,
+      "records": 948,
+      "metadata": {
+        "resource_id": "886f50a8-88f0-4e07-9b71-f5bbe4ae7daf",
+        "fields": [
+          {
+            "id": "_id",
+            "type": "int"
+          },
+          {
+            "id": "Gid",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Paraderos",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Siglas de los diferentes paraderos en la ruta",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Ubicacion_del_Paradero",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Dirección de ubicación de los paraderos ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Codigo_Rutas",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Codificación de las rutas de los buses",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Rutas",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Origen y final del recorrido de las rutas",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Tipo",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Origen y final del recorrido de las rutas",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Descripcion",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Descripción de la ruta de los buses  ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Lunes-Viernes_Salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Lunes-Viernes - Salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Sabado_Salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Sabado_Salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Domingo-Festivo_Salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Domingo-Festivo_Salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Nota",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Especifica el tipo ruta y trafico",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Fecha_Activacion",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Fecha de activación de la ruta",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Sentido",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Dirección que toma el vehículo en la vida",
+              "type_override": ""
+            }
+          }
+        ],
+        "total": 948
+      }
+    },
+    "routes_datastore": {
+      "success": true,
+      "records": 25,
+      "metadata": {
+        "resource_id": "ab94769a-5f6b-41ad-a5ca-3a4ed8812edf",
+        "fields": [
+          {
+            "id": "_id",
+            "type": "int"
+          },
+          {
+            "id": "Gid",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Nombre_Rutas",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Nombre de las rutas",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Codigo_Rutas",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Codificación de las rutas",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Rutas",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Origen y final del recorrido de las rutas",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Tipo",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Transportan a los usuarios en vehículos articulados de alta capacidad, alimentadores, troncales y complementarios.",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Descripcion",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Especifica es el recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Lunes-Viernes_salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Lunes-Viernes_salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús ",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_sabado_Salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_sabado_Salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Domingo-Festivos_Salida1",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del primer recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Horario_Domingo-Festivos_Salida2",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Horario de la salida del segundo recorrido del autobús",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Nota",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Especifica el tipo de ruta y trafico",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Fecha_Activacion",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Fecha de activación de la ruta",
+              "type_override": ""
+            }
+          },
+          {
+            "id": "Longitud",
+            "type": "text",
+            "info": {
+              "label": "",
+              "notes": "Punto de georreferenciación",
+              "type_override": ""
+            }
+          }
+        ],
+        "total": 25
+      }
+    }
+  },
+  "route_summary": {
+    "routes": 43
+  },
+  "summary": {
+    "stop_records": 948,
+    "route_records": 25
+  }
+}
