@@ -1,0 +1,2629 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-08T14:28:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 838206485,
+      "lat": 10.4130486,
+      "lon": -75.5299095,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 891268909,
+      "lat": 10.4141609,
+      "lon": -75.5501331,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parque María Mulata-Cl.15",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 892055018,
+      "lat": 10.4159034,
+      "lon": -75.5508144,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hospital Naval",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 898552127,
+      "lat": 10.4034291,
+      "lon": -75.5055388,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 915218479,
+      "lat": 10.2824092,
+      "lon": -75.5218042,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Ferry Pasacaballo - Barú",
+        "operator": "Public",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1102091390,
+      "lat": 10.4134677,
+      "lon": -75.5303851,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156427607,
+      "lat": 10.4151704,
+      "lon": -75.5325028,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156427609,
+      "lat": 10.4187067,
+      "lon": -75.5357513,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156427614,
+      "lat": 10.4163267,
+      "lon": -75.5336481,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156427623,
+      "lat": 10.4143106,
+      "lon": -75.5313486,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1156427627,
+      "lat": 10.4175416,
+      "lon": -75.5347212,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1488786734,
+      "lat": 10.4203914,
+      "lon": -75.5505779,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103606,
+      "lat": 10.4169413,
+      "lon": -75.5518329,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103612,
+      "lat": 10.4217343,
+      "lon": -75.5537668,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103616,
+      "lat": 10.423223,
+      "lon": -75.5543163,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103620,
+      "lat": 10.4233084,
+      "lon": -75.5543523,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103622,
+      "lat": 10.4285763,
+      "lon": -75.5497015,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103626,
+      "lat": 10.4286253,
+      "lon": -75.5492286,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103631,
+      "lat": 10.4286907,
+      "lon": -75.5495565,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103634,
+      "lat": 10.4287916,
+      "lon": -75.5494226,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103639,
+      "lat": 10.4292975,
+      "lon": -75.548693,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103645,
+      "lat": 10.4293674,
+      "lon": -75.5486043,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103649,
+      "lat": 10.4294528,
+      "lon": -75.5484843,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103654,
+      "lat": 10.4303401,
+      "lon": -75.5473502,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103670,
+      "lat": 10.437042,
+      "lon": -75.5336314,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103676,
+      "lat": 10.4386514,
+      "lon": -75.5316431,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Terrazas de San Sebastian - parada de Transcribe",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103690,
+      "lat": 10.4392418,
+      "lon": -75.5303419,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103693,
+      "lat": 10.440387,
+      "lon": -75.5290998,
+      "tags": {
+        "highway": "bus_stop",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103697,
+      "lat": 10.4404888,
+      "lon": -75.5289455,
+      "tags": {
+        "highway": "bus_stop",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223103701,
+      "lat": 10.4405923,
+      "lon": -75.5287904,
+      "tags": {
+        "highway": "bus_stop",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2223123733,
+      "lat": 10.4059535,
+      "lon": -75.5515263,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3172345045,
+      "lat": 10.4335743,
+      "lon": -75.5410505,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "MarSol Transportes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3887891251,
+      "lat": 10.3954026,
+      "lon": -75.5508261,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CitySightseeing Cartagena",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4166766304,
+      "lat": 10.3391643,
+      "lon": -75.4156883,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "la Granja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557420689,
+      "lat": 10.4521241,
+      "lon": -75.5150855,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Bus Stop Para Llegar a Aeropuerto",
+        "name:es": "bus stop para llegar a aeropuerto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4626901291,
+      "lat": 10.4272041,
+      "lon": -75.544528,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus para Pasacaballos",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4710966990,
+      "lat": 10.4346595,
+      "lon": -75.5361599,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Berlinastur",
+        "name:es": "Berlinastur",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4747323122,
+      "lat": 10.443135,
+      "lon": -75.520389,
+      "tags": {
+        "addr:housenumber": "65-129",
+        "addr:street": "Avenida Santander",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Berlinas del Fonce",
+        "name:en": "Berlinas del Fonce",
+        "name:es": "Berlinas del Fonce",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961882628,
+      "lat": 10.4110082,
+      "lon": -75.4450946,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961882629,
+      "lat": 10.4024993,
+      "lon": -75.4599741,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961883128,
+      "lat": 10.4019912,
+      "lon": -75.4618838,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Villas de la Candelaria",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961883144,
+      "lat": 10.3881161,
+      "lon": -75.5048175,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4961883145,
+      "lat": 10.3876882,
+      "lon": -75.5075909,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4964789922,
+      "lat": 10.4224873,
+      "lon": -75.5444019,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Shuttle bus to Playa Blanca (book at Mamallena Hostel)",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5009870523,
+      "lat": 10.4271144,
+      "lon": -75.5515856,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5067529822,
+      "lat": 10.4218926,
+      "lon": -75.5412207,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name:en": "Bus to Bus Terminal",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5305141521,
+      "lat": 10.4425536,
+      "lon": -75.5232479,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357684739,
+      "lat": 10.4147869,
+      "lon": -75.5503361,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "BUS.T103",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357684932,
+      "lat": 10.4221606,
+      "lon": -75.553554,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357685428,
+      "lat": 10.3978684,
+      "lon": -75.5624598,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5529407622,
+      "lat": 10.4255363,
+      "lon": -75.53945,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parada a Pasacaballos",
+        "name:en": "Bus to Pasacaballos",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359787,
+      "lat": 10.4148533,
+      "lon": -75.5505597,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359788,
+      "lat": 10.4104491,
+      "lon": -75.550465,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "BUS.T103",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359789,
+      "lat": 10.4071341,
+      "lon": -75.5518429,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359790,
+      "lat": 10.4049756,
+      "lon": -75.5537274,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359791,
+      "lat": 10.4027557,
+      "lon": -75.5555791,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359792,
+      "lat": 10.397687,
+      "lon": -75.5599134,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912359886,
+      "lat": 10.4104596,
+      "lon": -75.5506436,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "BUS.T103",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912360085,
+      "lat": 10.4017916,
+      "lon": -75.5564949,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912360185,
+      "lat": 10.399401,
+      "lon": -75.5591598,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5912432785,
+      "lat": 10.4028269,
+      "lon": -75.5543229,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "BUS.T103",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6260004639,
+      "lat": 10.4343338,
+      "lon": -75.5397278,
+      "tags": {
+        "addr:street": "Avenida Carrera 1",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "description": "Marsol Bus to Santa Marta",
+        "name": "Marsol",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6336917085,
+      "lat": 10.4428827,
+      "lon": -75.5252521,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "name:en": "T 102 Bus Stop",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6389595014,
+      "lat": 10.4474741,
+      "lon": -75.5174826,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6389595896,
+      "lat": 10.447321,
+      "lon": -75.5174012,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6541330685,
+      "lat": 10.4518807,
+      "lon": -75.5153316,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Taxi colectivo al centro 2200COP",
+        "name:en": "Colectivo to the centre 2200COP",
+        "name:fr": "Taxi colectivo pour le centre 2200COP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7125319373,
+      "lat": 10.4018781,
+      "lon": -75.5192875,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7125328999,
+      "lat": 10.4054651,
+      "lon": -75.520548,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7127192917,
+      "lat": 10.3032602,
+      "lon": -75.4977629,
+      "tags": {
+        "description": "Not confirmed If it's possible to embarque",
+        "highway": "bus_stop",
+        "name": "Bus a Playa Blanco?"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7127194751,
+      "lat": 10.2821506,
+      "lon": -75.5142404,
+      "tags": {
+        "amenity": "bus_station",
+        "name": "Parada a cartagena"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7278506485,
+      "lat": 10.4263258,
+      "lon": -75.5446273,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "moto-taxi to terminal de transporte",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951683259,
+      "lat": 10.379757,
+      "lon": -75.4816197,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "A105",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9951701812,
+      "lat": 10.3811843,
+      "lon": -75.4646084,
+      "tags": {
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "description": "A102\nX106",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "La princesa",
+        "public_transport": "platform",
+        "ref:signed": "no",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10572562210,
+      "lat": 10.4492323,
+      "lon": -75.517212,
+      "tags": {
+        "highway": "bus_stop",
+        "name": "Transcribe",
+        "name:en": "\"Glorimar Store\" Transcribe Stop",
+        "name:es": "Parada de Transcribe \"Tienda Glorimar\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 10920301905,
+      "lat": 10.4445524,
+      "lon": -75.5176588,
+      "tags": {
+        "bench": "yes",
+        "bin": "yes",
+        "highway": "bus_stop",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11159488227,
+      "lat": 10.4035081,
+      "lon": -75.5055126,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11218814647,
+      "lat": 10.3849473,
+      "lon": -75.4859004,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "A107 - Blase de Lezo / Santa Lucía",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "7",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11219143631,
+      "lat": 10.3832607,
+      "lon": -75.486454,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "A107 - Blase de Lezo / Santa Lucía",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11219143632,
+      "lat": 10.3832304,
+      "lon": -75.4862873,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "A107 - Blase de Lezo / Santa Lucía",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "35"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11327594232,
+      "lat": 10.3887336,
+      "lon": -75.4814168,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "A104 | A105",
+        "network": "Transcaribe",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "3 | 3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639266569,
+      "lat": 10.4340374,
+      "lon": -75.5407602,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11639266669,
+      "lat": 10.4328831,
+      "lon": -75.5430509,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11753733979,
+      "lat": 10.3884127,
+      "lon": -75.502027,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "X102",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "38"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11762212699,
+      "lat": 10.3887949,
+      "lon": -75.4998093,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "X102: Portal / Bosque / Centro",
+        "operator": "Transcaribe",
+        "public_transport": "platform",
+        "ref": "39"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12042756474,
+      "lat": 10.3842521,
+      "lon": -75.468771,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "X106",
+        "operator": "Transcaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12059944269,
+      "lat": 10.4435967,
+      "lon": -75.5178701,
+      "tags": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "T102 para Chambacú",
+        "name:en": "T102 to Chambacú station",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12059944270,
+      "lat": 10.4258923,
+      "lon": -75.5405119,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "T102 para aeroport",
+        "name:en": "T102 to the airport",
+        "name:es": "T102 para aeropuerto",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12059944369,
+      "lat": 10.4250282,
+      "lon": -75.5466339,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "X104 para",
+        "name:en": "X104 to the bus terminal",
+        "name:es": "X104 para Terminal de Transporte",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12059944569,
+      "lat": 10.4259039,
+      "lon": -75.5405296,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "X104 para Centro/ Terminal de Transporte",
+        "name:en": "X104 to Centro/ to the bus terminal",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12092721013,
+      "lat": 10.3923604,
+      "lon": -75.4849884,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12092721014,
+      "lat": 10.3909351,
+      "lon": -75.4889653,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12115589561,
+      "lat": 10.4205079,
+      "lon": -75.5509983,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "La Bodeguita",
+        "network": "Transcaribe",
+        "note": "Parada de autobús para las rutas complementarias de Transcaribe frente al parque de la marina.",
+        "operator": "Transcaribe S.A.",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327573,
+      "lat": 10.3886194,
+      "lon": -75.5022539,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327574,
+      "lat": 10.3889805,
+      "lon": -75.499956,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327575,
+      "lat": 10.3893838,
+      "lon": -75.4975215,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327576,
+      "lat": 10.3896515,
+      "lon": -75.4959582,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327577,
+      "lat": 10.3899728,
+      "lon": -75.4940197,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327578,
+      "lat": 10.3903264,
+      "lon": -75.4919813,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125327579,
+      "lat": 10.3906457,
+      "lon": -75.4906807,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135927727,
+      "lat": 10.3918184,
+      "lon": -75.4867815,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135930533,
+      "lat": 10.389162,
+      "lon": -75.4975555,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135936059,
+      "lat": 10.3894366,
+      "lon": -75.4959165,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135936062,
+      "lat": 10.3897565,
+      "lon": -75.4939833,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135936063,
+      "lat": 10.3902099,
+      "lon": -75.4913987,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135936064,
+      "lat": 10.3907521,
+      "lon": -75.4888663,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12135936065,
+      "lat": 10.3924886,
+      "lon": -75.4851692,
+      "tags": {
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12319662369,
+      "lat": 10.3904335,
+      "lon": -75.478567,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TracsCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12319713039,
+      "lat": 10.3876635,
+      "lon": -75.4741242,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cementerio",
+        "network": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12351738587,
+      "lat": 10.4015388,
+      "lon": -75.4640906,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12813209424,
+      "lat": 10.4009763,
+      "lon": -75.4589608,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "Transcaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12966410401,
+      "lat": 10.4010424,
+      "lon": -75.4590527,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bus X104",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13971749120,
+      "lat": 10.3806911,
+      "lon": -75.4966276,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paradero A108 / Santa Lucia - Campestre",
+        "network": "A108",
+        "operator": "Transcaribe SAS",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13971750912,
+      "lat": 10.3824876,
+      "lon": -75.497032,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paradero X105 / Bocagrande - Ciud. 2000",
+        "network": "X105 / Bocagrande - Ciud. 2000",
+        "operator": "Transcaribe SAS",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14077985372,
+      "lat": 10.3813658,
+      "lon": -75.4951806,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Parada X105 Ciudadela 2000 - Bocagrande",
+        "network": "X105",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007603,
+      "lat": 10.3820256,
+      "lon": -75.4960179,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Parada A108 - C001",
+        "network": "A108 - C001",
+        "operator": "Transcaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007604,
+      "lat": 10.3828355,
+      "lon": -75.4968845,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Paradero A108 Campestre - Santa Lucía",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007605,
+      "lat": 10.3825854,
+      "lon": -75.5012011,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Parada Proleca Transcaribe",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform",
+        "shelter": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007606,
+      "lat": 10.3734542,
+      "lon": -75.500309,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paradero Vidrios y Aluminios",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007607,
+      "lat": 10.3725997,
+      "lon": -75.5025271,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paradero Estibas",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007608,
+      "lat": 10.3728429,
+      "lon": -75.5040746,
+      "tags": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paradero Parque de Bellavista",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14078007609,
+      "lat": 10.3758657,
+      "lon": -75.5041009,
+      "tags": {
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Paradero BlocPort",
+        "operator": "Transcaribe S.A.S",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185608086,
+      "center": {
+        "lat": 10.3952063,
+        "lon": -75.4780046
+      },
+      "tags": {
+        "building": "transportation",
+        "name": "Santa Lucía",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185664292,
+      "center": {
+        "lat": 10.4111158,
+        "lon": -75.5196208
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "layer": "1",
+        "name": "El Prado",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185664992,
+      "center": {
+        "lat": 10.4089998,
+        "lon": -75.515866
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "María Auxiliadora",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185664993,
+      "center": {
+        "lat": 10.4082991,
+        "lon": -75.5129379
+      },
+      "tags": {
+        "building": "transportation",
+        "name": "España",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185664994,
+      "center": {
+        "lat": 10.4073482,
+        "lon": -75.5074744
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "República del Líbano",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 612661274,
+      "center": {
+        "lat": 10.4258777,
+        "lon": -75.5404958
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Chambacú",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 612661281,
+      "center": {
+        "lat": 10.4205077,
+        "lon": -75.531088
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "La Popa",
+        "network": "Transcaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028514901,
+      "center": {
+        "lat": 10.395099,
+        "lon": -75.4903525
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Los Ángeles",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028514902,
+      "center": {
+        "lat": 10.3994892,
+        "lon": -75.4936505
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Los Ejecutivos",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1028518383,
+      "center": {
+        "lat": 10.4223737,
+        "lon": -75.53463
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Lo Amador",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298162154,
+      "center": {
+        "lat": 10.3951129,
+        "lon": -75.4782823
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298162155,
+      "center": {
+        "lat": 10.3954132,
+        "lon": -75.4775661
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298166901,
+      "center": {
+        "lat": 10.395495,
+        "lon": -75.4729452
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298166902,
+      "center": {
+        "lat": 10.3952934,
+        "lon": -75.4727253
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298226607,
+      "center": {
+        "lat": 10.3953924,
+        "lon": -75.4723957
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298226608,
+      "center": {
+        "lat": 10.3957663,
+        "lon": -75.4720096
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298648995,
+      "center": {
+        "lat": 10.4249793,
+        "lon": -75.546718
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298648996,
+      "center": {
+        "lat": 10.4253414,
+        "lon": -75.5462684
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298648998,
+      "center": {
+        "lat": 10.4920248,
+        "lon": -75.4776849
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Terminal de Transportes del Norte",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298656584,
+      "center": {
+        "lat": 10.419804,
+        "lon": -75.5516918
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298656585,
+      "center": {
+        "lat": 10.4203076,
+        "lon": -75.5511773
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1298702907,
+      "center": {
+        "lat": 10.4197762,
+        "lon": -75.5516486
+      },
+      "tags": {
+        "bus": "yes",
+        "public_transport": "platform"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1798882,
+      "center": {
+        "lat": 10.4004333,
+        "lon": -75.4583894
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "layer": "1",
+        "name": "Terminal de Transportes de Cartagena",
+        "public_transport": "station",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764314,
+      "center": {
+        "lat": 10.3956156,
+        "lon": -75.4726545
+      },
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Patio Portal",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "station",
+        "type": "multipolygon",
+        "wikidata": "Q29052674",
+        "wikipedia": "es:Patio portal TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764315,
+      "center": {
+        "lat": 10.3951414,
+        "lon": -75.4786075
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Madre Bernarda",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764316,
+      "center": {
+        "lat": 10.3944241,
+        "lon": -75.4864182
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "La Castellana",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764318,
+      "center": {
+        "lat": 10.4037898,
+        "lon": -75.4974463
+      },
+      "tags": {
+        "building": "transportation",
+        "name": "Villa Olímpica",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764319,
+      "center": {
+        "lat": 10.4065222,
+        "lon": -75.5029579
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Cuatro Vientos",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764364,
+      "center": {
+        "lat": 10.4139582,
+        "lon": -75.524358
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Bazurto",
+        "network": "X101,X103,X104,X105,X102,T101,T103,T102",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764365,
+      "center": {
+        "lat": 10.4164847,
+        "lon": -75.5277743
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Las Delicias",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764366,
+      "center": {
+        "lat": 10.4251396,
+        "lon": -75.5464778
+      },
+      "tags": {
+        "building": "transportation",
+        "highway": "bus_stop",
+        "name": "Centro",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 13764367,
+      "center": {
+        "lat": 10.4200192,
+        "lon": -75.5514098
+      },
+      "tags": {
+        "building": "transportation",
+        "name": "La Bodeguita",
+        "network": "TransCaribe",
+        "operator": "TransCaribe",
+        "public_transport": "platform",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17784013,
+      "center": {
+        "lat": 10.4103357,
+        "lon": -75.5121307
+      },
+      "tags": {
+        "colour": "#ec5c0e",
+        "from": "Patio Portal",
+        "name": "Troncal 101 - Portal - Centro - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "T101",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/#mapageneral",
+        "to": "Centro",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17784039,
+      "center": {
+        "lat": 10.4103357,
+        "lon": -75.5121307
+      },
+      "tags": {
+        "colour": "#ff751a",
+        "from": "Patio Portal",
+        "name": "Troncal Expresa - Portal - Centro - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "T100E",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Centro",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17784084,
+      "center": {
+        "lat": 10.4222311,
+        "lon": -75.5131259
+      },
+      "tags": {
+        "colour": "#fb4218",
+        "from": "Patio Portal",
+        "name": "Troncal 102 - Portal - Crespo - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "T102",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/#mapageneral",
+        "to": "Crespo",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17784115,
+      "center": {
+        "lat": 10.4103357,
+        "lon": -75.5159896
+      },
+      "tags": {
+        "colour": "#a83000",
+        "from": "Patio Portal",
+        "name": "Troncal 103 - Portal - Bocagrande - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "T103",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/#mapageneral",
+        "to": "Bocagrande",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17784146,
+      "center": {
+        "lat": 10.392354,
+        "lon": -75.4894618
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Nuevo Bosque",
+        "name": "Ruta A111 - Nuevo Bosque - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A111",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/#mapageneral",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793142,
+      "center": {
+        "lat": 10.3844911,
+        "lon": -75.4901776
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Campestre",
+        "name": "Ruta A108 - Campestre - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A108",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793173,
+      "center": {
+        "lat": 10.3868946,
+        "lon": -75.4607469
+      },
+      "tags": {
+        "colour": "#9f9fc6",
+        "from": "Ciudad Jardín",
+        "name": "Ruta A101 - Ciudad Jardín - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A101",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Patio Portal",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793356,
+      "center": {
+        "lat": 10.4058751,
+        "lon": -75.4620291
+      },
+      "tags": {
+        "colour": "#9f9fc6",
+        "from": "Pozón",
+        "name": "Ruta A117 - Pozón - Villa Estrella - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A117",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Patio Portal",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793398,
+      "center": {
+        "lat": 10.4105541,
+        "lon": -75.4514168
+      },
+      "tags": {
+        "colour": "#9f9fc6",
+        "from": "Flor del Campo",
+        "name": "Ruta A114 - Flor del Campo - Portal",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A114",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Patio Portal",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793438,
+      "center": {
+        "lat": 10.3826765,
+        "lon": -75.483439
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Blas de Lezo",
+        "name": "Ruta A107 - Blas de Lezo - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A107",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793501,
+      "center": {
+        "lat": 10.3870195,
+        "lon": -75.4739843
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Simón Bolívar",
+        "name": "Ruta A105 - Simón Bolívar - Socorro - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A105",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17793536,
+      "center": {
+        "lat": 10.3833561,
+        "lon": -75.4664091
+      },
+      "tags": {
+        "colour": "#9f9fc6",
+        "from": "Patio Portal",
+        "name": "Ruta A102 - Portal - UTB",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A102",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Universidad Tecnológica",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17796668,
+      "center": {
+        "lat": 10.3806144,
+        "lon": -75.4772266
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Mandela",
+        "name": "Ruta A103 - Mandela - San Fernando - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A103",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17796738,
+      "center": {
+        "lat": 10.3782295,
+        "lon": -75.4777142
+      },
+      "tags": {
+        "colour": "#6464aa",
+        "from": "Mandela - Socorro",
+        "name": "Ruta A104 - Mandela - Socorro - Santa Lucía",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "A104",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Santa Lucía",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17797070,
+      "center": {
+        "lat": 10.4010125,
+        "lon": -75.4620291
+      },
+      "tags": {
+        "colour": "#68901d",
+        "from": "Patio Portal",
+        "name": "Ruta C016 - Portal - Terminal de transportes",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "C016",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Terminal de Transportes",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17797212,
+      "center": {
+        "lat": 10.4718171,
+        "lon": -75.5097607
+      },
+      "tags": {
+        "colour": "#68901d",
+        "from": "Centro",
+        "name": "Ruta C017 - Bodeguita - Zona Norte",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "C017",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Zona Norte",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17797345,
+      "center": {
+        "lat": 10.3976354,
+        "lon": -75.5117113
+      },
+      "tags": {
+        "colour": "#68901d",
+        "from": "Ciudadela 2000",
+        "name": "Ruta C001 - Ciudadela 2000 - Manga - Centro",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "C001",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17798436,
+      "center": {
+        "lat": 10.3929042,
+        "lon": -75.4984487
+      },
+      "tags": {
+        "colour": "#004242",
+        "from": "Variante",
+        "name": "Pretroncal X106 - Variante - Centro",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X106",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17798461,
+      "center": {
+        "lat": 10.412573,
+        "lon": -75.5006714
+      },
+      "tags": {
+        "colour": "#005675",
+        "from": "Terminal de Transportes",
+        "name": "Pretroncal X104 - Terminal - Pedro Romero - Centro",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X104",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17798508,
+      "center": {
+        "lat": 10.4014876,
+        "lon": -75.5023485
+      },
+      "tags": {
+        "colour": "#00dbdb",
+        "from": "Los Campanos",
+        "name": "Pretroncal X101 - Campanos - 13 de Junio - Centro",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X101",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17801782,
+      "center": {
+        "lat": 10.4037585,
+        "lon": -75.5121307
+      },
+      "tags": {
+        "colour": "#00adad",
+        "from": "Patio Portal",
+        "name": "Pretroncal X102 - Portal - Bosque - Centro",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X102",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17801793,
+      "center": {
+        "lat": 10.4089427,
+        "lon": -75.5121307
+      },
+      "tags": {
+        "colour": "#007070",
+        "from": "Patio Portal",
+        "name": "Pretroncal X103 - Portal - Consulado - Centro",
+        "operator": "Trasncaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X103",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "La Bodeguita",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17801829,
+      "center": {
+        "lat": 10.4000367,
+        "lon": -75.5157852
+      },
+      "tags": {
+        "colour": "#0d2b2b",
+        "from": "Ciudadela 2000",
+        "name": "Pretroncal X105 - Ciudadela 2000 - Crisanto Luque - Bocagrande",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "X105",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Bocagrande",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 17943278,
+      "center": {
+        "lat": 10.4292385,
+        "lon": -75.534898
+      },
+      "tags": {
+        "colour": "#68901d",
+        "from": "La Bodeguita",
+        "name": "Ruta C018 - Bodeguita - Torices",
+        "operator": "Transcaribe S.A.",
+        "public_transport:version": "2",
+        "ref": "C018",
+        "roundtrip": "yes",
+        "route": "bus",
+        "source": "https://transcaribe.gov.co/index.php/rutas-sitm/",
+        "to": "Torices",
+        "type": "route",
+        "wikidata": "Q26185745",
+        "wikipedia": "es:Anexo:Rutas de TransCaribe"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19228044,
+      "center": {
+        "lat": 10.4046161,
+        "lon": -75.5088932
+      },
+      "tags": {
+        "colour": "#ff0000",
+        "from": "Terminal de Turbaco",
+        "name": "Campestre",
+        "operator": "Coointracar",
+        "ref": "Campestre",
+        "roundtrip": "yes",
+        "route": "bus",
+        "to": "Castillo Grande",
+        "type": "route"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 21197710,
+      "center": {
+        "lat": 10.3998041,
+        "lon": -75.5125642
+      },
+      "tags": {
+        "from": "Membrillal",
+        "name": "Caracoles",
+        "operator": "ETrans LTDA",
+        "ref": "Caracoles R-15",
+        "route": "bus",
+        "to": "Centro",
+        "type": "route"
+      }
+    }
+  ]
+}
