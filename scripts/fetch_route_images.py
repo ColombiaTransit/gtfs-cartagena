@@ -13,7 +13,7 @@ import json
 import re
 import sys
 from pathlib import Path
-from urllib.parse import unquote, urljoin
+from urllib.parse import unquote
 
 import requests
 
@@ -24,9 +24,12 @@ OUT.mkdir(parents=True, exist_ok=True)
 SESSION = requests.Session()
 SESSION.headers["User-Agent"] = "ColombiaTransit-gtfs-cartagena/1.0 (+https://github.com/ColombiaTransit/gtfs-cartagena)"
 
-HEADING = re.compile(r"<h\d[^>]*>\s*(?:<[^>]+>\s*)*((?:Ruta\s+[ATXC]\d{3}E?)|Mapa General)", re.I)
-IMG = re.compile(r"<img[^>]+src=\"([^\"]+/wp-content/uploads/(?!2021/11/)[^\"]+\.(?:png|jpe?g|webp))\"", re.I)
-PDF = re.compile(r"href=\"([^\"]+\.pdf)\"", re.I)
+# any image in the uploads folder, in src, data-src, srcset etc. (the page lazy-loads)
+IMG = re.compile(r"(https?://[^\s\"',]+/wp-content/uploads/(?!2021/11/)[^\s\"',]+?\.(?:png|jpe?g|webp))", re.I)
+PDF = re.compile(r"(https?://[^\s\"']+/wp-content/uploads/[^\s\"']+\.pdf)", re.I)
+# the route code is in the file name: A104-min.png, Rutas_T101_Actual-min.png, Mapa_A118_min.png
+CODE = re.compile(r"(?<![A-Za-z0-9])([ATXC]\d{3}E?)(?![0-9])")
+SIZE = re.compile(r"-\d+x\d+(?=\.\w+$)")
 
 
 def download(url: str) -> str:
@@ -42,22 +45,17 @@ def main() -> int:
     html = SESSION.get(PAGE, timeout=60).text
     (OUT / "rutas-sitm.html").write_text(html, encoding="utf-8")
 
-    events = [(m.start(), "h", m.group(1).strip()) for m in HEADING.finditer(html)]
-    events += [(m.start(), "i", urljoin(PAGE, m.group(1))) for m in IMG.finditer(html)]
-    events.sort()
-
+    urls = sorted({SIZE.sub("", u) for u in IMG.findall(html)})   # full size, no thumbnails
     index: dict[str, list[str]] = {}
-    current = None
-    for _, kind, value in events:
-        if kind == "h":
-            current = re.sub(r"\s+", " ", value)
-        elif current:
-            index.setdefault(current, [])
-            name = download(value)
-            if name not in index[current]:
-                index[current].append(name)
+    for url in urls:
+        name = unquote(url.rsplit("/", 1)[-1])
+        m = CODE.search(name)
+        key = f"Ruta {m.group(1)}" if m else ("Mapa General" if "general" in name.lower() else None)
+        if not key:
+            continue
+        index.setdefault(key, []).append(download(url))
 
-    pdfs = sorted({urljoin(PAGE, u) for u in PDF.findall(html) if "/wp-content/uploads/" in u})
+    pdfs = sorted(set(PDF.findall(html)))
     index["pdf"] = [download(u) for u in pdfs]
 
     (OUT / "index.json").write_text(json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8")
