@@ -19,6 +19,8 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
      (method osm_station / osm_named), else a Photon result with a matching
      name near the line (method photon, from raw/geocode/photon.json).
      Projected onto the line, in order.
+  2b. Stops identified by name on the official route map
+     (data/map_labels/<route>.csv, hand-checked): method map_label.
   3a. Between two anchors, the stop markers of the official route map
      (raw/web/markers.json): paired in order when the counts match
      (map_order), otherwise by expected position (map_aligned).
@@ -35,6 +37,8 @@ from __future__ import annotations
 
 import csv
 import json
+
+import numpy as np
 import math
 import re
 import sys
@@ -246,6 +250,9 @@ def main() -> int:
         if pos[-1] is None:
             pos[-1], meta[-1] = line.length, ("line_end", "", None)
 
+        # pass 1a: stops identified by name on the official route map (hand-checked)
+        label_pass(line, stops, pos, meta, maps.get(route), route)
+
         # pass 1b: stop markers read off the official route map
         map_pass(line, stops, pos, meta, maps.get(route))
 
@@ -405,6 +412,94 @@ def photon_hit(line, s, geo, route, cursor):
         if hit and (best is None or hit[0] < best[0]):
             best = (hit[0], hit[1], f"{r.get('osm_type', '')}{r.get('osm_id', '')}")
     return best
+
+
+LABELS = ROOT / "data" / "map_labels"
+LABEL_RADIUS = 150      # m, labelled marker to line (maps may be squeezed locally)
+LABEL_MAX_MEDIAN = 40   # m, map fit still usable for labelled markers
+TRUSTED = ("osm_station", "osm_named", "map_label")
+
+
+def label_pass(line, stops, pos, meta, info, route):
+    """
+    Use data/map_labels/<route>.csv: per stop the pixel of its marker on the
+    official map, matched by reading the map labels. Where the map fits the
+    route reasonably, its transform gives a coordinate that is projected onto
+    the line in order; where it does not, stops are spread between stations
+    in proportion to the distances on the map. Then anchors from other sources
+    that are out of order with these are dropped.
+    """
+    path = LABELS / f"{route}.csv"
+    if not info or not path.exists():
+        return
+    rows = {(r["direction"], int(r["seq"])): (float(r["px"]), float(r["py"]))
+            for r in csv.DictReader(path.open(encoding="utf-8"))}
+    usable = ((info.get("median_m") or 1e9) <= LABEL_MAX_MEDIAN and "transform" in info
+              and (info.get("share_of_line") or 0) >= 0.3)
+    if usable:
+        # the map transform gives a rough coordinate; take the nearest point
+        # of the line after the previous stop
+        X = np.array(info["transform"])
+        cursor, last_i = -MIN_STEP, 0
+        fixed = [(i, pos[i]) for i, m in enumerate(meta)
+                 if m[0] in ("osm_station", "osm_named") and pos[i] is not None]
+        for i, s in enumerate(stops):
+            if meta[i][0] in ("osm_station", "osm_named") and pos[i] is not None:
+                cursor, last_i = pos[i], i
+                continue
+            px = rows.get((s["Sentido"], int(s["Paraderos"][1:])))
+            if not px:
+                continue
+            mx, my = np.array([px[0], px[1], 1.0]) @ X
+            hit = line.nearest_after((mx, my), cursor + MIN_STEP, LABEL_RADIUS)
+            # a jump far beyond what the stops in between allow is a later pass;
+            # and a stop never lies beyond the next station
+            if hit and hit[0] - max(cursor, 0) > line.length * (i - last_i) / len(stops) * 3 + 1000:
+                hit = None
+            nxt = [p for j, p in fixed if j > i]
+            if hit and nxt and hit[0] >= min(nxt):
+                hit = None
+            if hit:
+                pos[i], cursor, last_i = hit[0], hit[0], i
+                meta[i] = ("map_label", f"map:{int(px[0])},{int(px[1])}", round(hit[1], 1))
+    # labelled stops still without a place (no transform, or too far from the
+    # line): spread them between the known stops around them in proportion to
+    # the distances between their markers on the map
+    known = [i for i, m in enumerate(meta)
+             if pos[i] is not None and m[0] in ("osm_station", "osm_named", "map_label")]
+    ends = ([0] if 0 not in known else []) + known + ([len(stops) - 1] if len(stops) - 1 not in known else [])
+    key = lambda i: (stops[i]["Sentido"], int(stops[i]["Paraderos"][1:]))
+    for a, b in zip(ends, ends[1:]):
+        gap = [i for i in range(a + 1, b) if key(i) in rows]
+        if not gap:
+            continue
+        pa = pos[a] if pos[a] is not None and meta[a][0] in ("osm_station", "osm_named", "map_label") else (0.0 if a == 0 else None)
+        pb = pos[b] if pos[b] is not None and meta[b][0] in ("osm_station", "osm_named", "map_label") else (line.length if b == len(stops) - 1 else None)
+        if pa is None or pb is None:
+            continue
+        # include the neighbours' own markers, when labelled, as the ends of the chain
+        P = [rows[key(i)] for i in gap]
+        steps = [math.dist(p, q) for p, q in zip(P, P[1:])]
+        edge = (sum(steps) / len(steps)) if steps else 1.0
+        first = math.dist(rows[key(a)], P[0]) if key(a) in rows else edge
+        last = math.dist(P[-1], rows[key(b)]) if key(b) in rows else edge
+        cum = [first]
+        for d in steps:
+            cum.append(cum[-1] + d)
+        total = cum[-1] + last
+        for i, c, p in zip(gap, cum, P):
+            pos[i] = pa + (pb - pa) * c / total
+            meta[i] = ("map_label", f"map:{int(p[0])},{int(p[1])}", None)
+
+    # anchors from other sources that contradict the labelled order go
+    trusted = [i for i, m in enumerate(meta) if m[0] in TRUSTED and pos[i] is not None]
+    for i, m in enumerate(meta):
+        if pos[i] is None or m[0] in TRUSTED or i in (0, len(stops) - 1):
+            continue
+        before = [pos[j] for j in trusted if j < i]
+        after = [pos[j] for j in trusted if j > i]
+        if (before and pos[i] < max(before)) or (after and pos[i] > min(after)):
+            pos[i], meta[i] = None, ("", "", None)
 
 
 MAP_RADIUS = 60         # m, georeferenced marker to line
@@ -587,7 +682,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},

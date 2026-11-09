@@ -1,0 +1,23 @@
+direction,seq,px,py,map_label
+IDA,1,883,699,Sena Ternera
+IDA,2,843,655,Quintas del Manantial
+IDA,3,819,628,Centro Industrial Ternera
+IDA,4,765,570,La Princesa
+IDA,5,740,547,Hotel Confort
+IDA,6,712,521,Centro Comercial San Fernando
+IDA,7,640,468,La Bodega del Tablón
+IDA,8,500,371,Urbanización Sevilla
+IDA,9,406,308,Ferreteria Antioquia
+IDA,10,312,250,El Campesino
+IDA,11,245,205,Centro Comercial Santa Lucia
+VUELTA,30,219,229,SonoMarcas
+VUELTA,31,274,266,Centro Comercial La Plazuela
+VUELTA,32,372,326,Parque Santa Monica
+VUELTA,33,514,419,Cementerio Jardines de Cartagena
+VUELTA,34,618,494,La bonguita
+VUELTA,35,679,534,Mi Vaquita
+VUELTA,36,712,559,Colegio de la Policia Nacional
+VUELTA,37,776,626,Entrada Simon Bolivar
+VUELTA,38,818,674,Cerveceria Aguila
+VUELTA,39,863,720,El Rodeo
+VUELTA,40,1135,1009,Gobernación de Bolívar

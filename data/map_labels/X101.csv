@@ -1,0 +1,48 @@
+direction,seq,px,py,map_label
+IDA,1,549,1164,Parque Huellas de Alberto Uribe
+IDA,2,510,1187,Huellas de Alberto Uribe
+IDA,3,432,1191,Abastos La Buenos Aires
+IDA,4,353,1183,Cll 102 Dg Terraza Tribuna Verde
+IDA,5,300,1173,Tienda San José
+IDA,6,258,1167,Tienda El Cambiazo
+IDA,7,252,1110,Cll 35 #100-27
+IDA,8,192,1088,Veterinaria Los Campanos
+IDA,9,138,1069,La Princesa
+IDA,10,168,1029,Drogueria Calidad y Musica RS
+IDA,11,195,1007,Iglesia Ternera
+IDA,12,227,965,U. San Buenaventura Vuelta
+IDA,13,262,881,Marval
+IDA,14,276,793,Iglesia El Recreo
+IDA,15,257,745,Los Abetos
+IDA,16,242,689,Dg32 #71a2-60
+IDA,17,273,623,Colegio Integral Moderno
+IDA,18,297,532,Balcones de Cerezos
+IDA,19,310,493,Entrada Viejo Porvenir
+IDA,20,333,433,Chapacua
+IDA,21,357,378,Olimpica 13 de Junio
+IDA,22,337,304,Tienda La Pradera
+IDA,23,267,241,Gaviotas 1
+IDA,24,190,214,Parque Barrio Militar
+IDA,25,135,190,I.E. Las Gaviotas
+VUELTA,46,81,231,Frente I.E. Las Gaviotas
+VUELTA,47,207,247,Gaviotas Manzana 32 2da Etapa
+VUELTA,48,270,265,Gaviotas Manzana 36 1ra Etapa
+VUELTA,50,329,378,Dg Olimpica 13 de Junio
+VUELTA,51,301,453,Montebianco
+VUELTA,52,269,512,Entrada Los Cerezos
+VUELTA,53,248,613,Paraiso Real
+VUELTA,54,224,732,Entrada Baru
+VUELTA,55,246,787,Colegio Castillo
+VUELTA,56,240,863,Entrada Amarilo
+VUELTA,57,214,910,Villa del sol
+VUELTA,58,202,952,U. San Buenaventura
+VUELTA,59,181,984,CC. San Fernando
+VUELTA,60,142,1014,Viper
+VUELTA,61,101,1106,Entrada Simon Bolivar
+VUELTA,66,216,1109,Ara San José
+VUELTA,67,217,1168,Campanos cll35 #101-08
+VUELTA,68,275,1194,Colegio La verdadera enseñanza
+VUELTA,69,342,1204,Taller Lloreda
+VUELTA,70,429,1216,Supergiros San José
+VUELTA,71,492,1213,Diagonal Drogueria Shelema
+VUELTA,72,540,1198,Huellas de Alberto Uribe Vuelta

@@ -28,6 +28,11 @@ Research and data collection. No feed is published yet.
   Works for A104, A105, A107, A108, A111, X102 and partly A117/X105; schematic
   maps (T routes) do not fit. Run `python scripts/georef_maps.py [ROUTE ...]` to
   redo all maps or only the routes given.
+- `data/map_labels/<route>.csv`: hand-checked link between the markers on the
+  official map (pixel) and the open-data stops, made by reading the map labels.
+  Used before everything but OSM stations (`map_label`); works on distorted maps
+  too, by spreading stops between stations in proportion to the map distances.
+  Done: A103, A114, A117, X101, X103, X104, X106.
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
