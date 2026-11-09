@@ -1,0 +1,94 @@
+direction,seq,px,py,map_label
+IDA,1,1523,1233,Colegio Ciudadela 2000
+IDA,2,1448,1217,Ferreteria y Variedades El Chico
+IDA,3,1405,1206,Restaurante La Florida
+IDA,4,1366,1195,Drogueria y variedades Maria V
+IDA,5,1301,1180,Drogueria Yeika
+IDA,6,1257,1168,Supergiros
+IDA,7,1202,1161,Institucion Educativa Fe y Alegria El Progreso
+IDA,8,1180,1155,UPA La Reina
+IDA,9,1162,1130,Institucion Educativa San Lucas
+IDA,10,1185,1098,Calle 14 #65-34
+IDA,11,1174,1063,Iglesia Nuestra Señora del Carmelo
+IDA,12,1128,1038,Kiosko #61-21
+IDA,13,1122,1000,MZ16 LT A12
+IDA,14,1129,953,Portal de belen
+IDA,15,1162,927,Barberia Plus
+IDA,16,1178,892,Sala de belleza montero
+IDA,17,1158,866,Entrada Buenas Aires
+IDA,18,1117,868,Entrada La Troncal
+IDA,19,1085,868,Plaza Colon
+IDA,20,1061,838,Paradero seguridad al dia ltda
+IDA,21,1040,805,Iglesia San Enrique
+IDA,22,1049,782,Terraza de los Luceros
+IDA,23,1060,738,MZ 96 Lt 28 calamares
+IDA,24,1024,698,Cl 28 entre Kr 54 y 53
+IDA,25,1011,646,La Caci-k (Cll30#50a-115)
+IDA,26,995,608,Tv 50 entre Cl 30C y 30D
+IDA,29,906,542,Dg 30 entre Cl 30A y Kr 49
+IDA,30,859,532,Cruz Roja
+IDA,31,812,598,MZ U lote 2( las lomas)
+IDA,32,788,628,Mz B lote 16
+IDA,33,758,630,Colegio la anunciacion
+IDA,34,708,622,Parque chile
+IDA,35,670,559,Supergiros Bruselas
+IDA,36,511,453,Frente a sociedad portuaria
+IDA,37,456,406,Portus
+IDA,38,424,366,MZ 28 LT 35
+IDA,39,390,381,Alheli
+IDA,40,364,333,Conjunto residencial edificio michael
+IDA,41,342,282,edificio olga
+IDA,42,298,251,Saludarte
+IDA,43,200,190,Fatima (dadis)
+IDA,44,172,152,Iglesia tercera orden
+IDA,45,175,117,Muelle de los Pegasos
+IDA,46,104,148,Parque de la marina
+VUELTA,47,161,177,Centro convenciones
+VUELTA,48,272,277,mz 17 lote 48
+VUELTA,49,311,322,El candil
+VUELTA,50,353,383,Mz 25 LT 42
+VUELTA,51,408,407,DIAN
+VUELTA,52,441,424,Mz 27 LT 18
+VUELTA,53,497,465,Sociedad portuaria
+VUELTA,54,628,533,La Cuchilla
+VUELTA,55,621,579,Coca Cola
+VUELTA,56,640,631,Calle del Mamón
+VUELTA,57,679,597,TCC
+VUELTA,58,721,642,Mz 24 Lt 38
+VUELTA,59,750,644,Colegio latino americano 21a 116
+VUELTA,60,813,642,Junín mz e lt 16
+VUELTA,61,834,577,Casa 26 d 42 Junín 2
+VUELTA,62,852,551,Kr 45 entre Cl 29 y 30
+VUELTA,63,903,569,Piedra de Bolivar
+VUELTA,64,934,593,Universidad de Cartagena
+VUELTA,65,963,628,Hospital Universitario*
+VUELTA,66,998,657,Hogar infantil Dulces Sonrisas
+VUELTA,67,1046,679,Tienda La Nacional (Cll30#53-18)
+VUELTA,68,1034,728,Parque de los calamares
+VUELTA,69,1030,782,Terraza los Luceros
+VUELTA,70,1028,833,Mz e lt 10
+VUELTA,71,1031,871,Colegio INEM
+VUELTA,72,999,873,Universidad del Sinu
+VUELTA,73,969,875,Clinica El Bosque
+VUELTA,74,972,892,Clinica El Bosque V
+VUELTA,75,1001,890,Universidad del Sinu V
+VUELTA,76,1034,889,Colegio INEM V
+VUELTA,77,1076,888,Entrada Almirante Colon
+VUELTA,78,1121,883,Napoleon Perea
+VUELTA,79,1160,891,Caracoles Mz 1 Lote 11
+VUELTA,80,1144,920,Efecty Caracoles
+VUELTA,81,1111,946,Restaurante Nueva Fortuna China
+VUELTA,82,1091,987,Cancha Microfutbol El campestre
+VUELTA,83,1065,1015,Cancha 2
+VUELTA,85,1119,1068,Taller Mañe
+VUELTA,86,1164,1097,Tienda El Puente.Com
+VUELTA,87,1147,1145,Institucion Educativa San Lucas
+VUELTA,88,1165,1167,UPA La Reina
+VUELTA,89,1202,1178,Institucion Educativa Fe y Alegria El Progreso
+VUELTA,90,1237,1181,Celumax
+VUELTA,91,1262,1188,Surtimax
+VUELTA,92,1296,1198,Super Drywall
+VUELTA,93,1330,1205,Surtimateriales La Consolata
+VUELTA,94,1386,1217,Ferreterias y materiales El Educador
+VUELTA,95,1439,1234,Iglesia Cristiana El acta del pacto
+VUELTA,96,1503,1229,Estadio de Softbol

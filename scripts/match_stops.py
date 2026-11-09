@@ -233,7 +233,7 @@ def main() -> int:
         # so try both and keep the one where more named stops line up in order
         options = []
         for cand_line in (line, Line(line.pts[::-1])):
-            cand_line = rotate(cand_line, stops, named)
+            cand_line = rotate(cand_line, stops, named, label_points(maps.get(route), route, stops))
             p_, m_ = place_anchors(cand_line, stops, named, geo, route)
             n = len(stops)
             spread = sum(abs(x - cand_line.length * i / n) for i, x in enumerate(p_) if x is not None)
@@ -307,23 +307,47 @@ def main() -> int:
     return 0
 
 
-def rotate(line: Line, stops, named) -> Line:
+def label_points(info, route, stops) -> dict[int, tuple[float, float]]:
+    """Rough positions (metres) of the labelled stops, if the map transform is usable."""
+    path = LABELS / f"{route}.csv"
+    if (not info or not path.exists() or "transform" not in info
+            or (info.get("median_m") or 1e9) > LABEL_MAX_MEDIAN or (info.get("share_of_line") or 0) < 0.3):
+        return {}
+    X = np.array(info["transform"])
+    rows = {(r["direction"], int(r["seq"])): (float(r["px"]), float(r["py"]))
+            for r in csv.DictReader(path.open(encoding="utf-8"))}
+    out = {}
+    for i, s in enumerate(stops):
+        px = rows.get((s["Sentido"], int(s["Paraderos"][1:])))
+        if px:
+            mx, my = np.array([px[0], px[1], 1.0]) @ X
+            out[i] = (float(mx), float(my))
+    return out
+
+
+def rotate(line: Line, stops, named, hints=None) -> Line:
     """
     Start a closed round trip at the first stop.
 
-    If the first stop has no OSM match, use the first stop that has one and
-    start the line the proportional distance (by stop count) before it.
+    If the first stop has no OSM match, use the first stop that has one (or a
+    labelled map marker, whichever comes first) and start the line the
+    proportional distance (by stop count) before it.
     """
     pts = line.pts
     if math.dist(pts[0], pts[-1]) > 50:
         return line
+    target = None
     for i, s in enumerate(stops):
         a = anchor_for(s["Ubicacion_del_Paradero"], named)
         if a:
+            target = xy(a["lat"], a["lon"])
             break
-    else:
+        if hints and i in hints:
+            target = hints[i]
+            break
+    if target is None:
         return line
-    at = min(line.project(xy(a["lat"], a["lon"])), key=lambda t: (round(t[1] / 20), t[0]))[0]
+    at = min(line.project(target), key=lambda t: (round(t[1] / 20), t[0]))[0]
     start = (at - line.length * i / len(stops)) % line.length
     k = max(j for j, c in enumerate(line.cum) if c <= start)
     if 0 < k < len(pts) - 1:
