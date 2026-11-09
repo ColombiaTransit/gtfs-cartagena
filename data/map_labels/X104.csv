@@ -1,0 +1,52 @@
+direction,seq,px,py,map_label
+IDA,2,972,1152,Palmas de Salamanca - Directo
+IDA,3,1079,1188,Central de Abastos
+IDA,4,1108,1174,Frente Central de Abastos
+IDA,5,1062,1158,Entrada Pozón
+IDA,6,1001,1141,El Cariñoso
+IDA,7,945,1122,Portales de Alicante
+IDA,8,874,1090,Villa de la Candelaria
+IDA,9,828,1064,Megaluminios
+IDA,10,792,1055,Ipanema
+IDA,11,753,998,Entrada Las palmeras
+IDA,12,721,926,Entrada Nuevo Paraiso
+IDA,13,699,865,Entrada Fredonia
+IDA,14,678,790,Cementerio de Olaya
+IDA,15,650,747,Olaya sector Playa Blanca
+IDA,16,600,712,Olaya Sector La Puntilla
+IDA,17,572,685,Centro comercial Olaya plaza
+IDA,18,539,631,Olaya sector La Central
+IDA,19,508,588,Colegio Almirante Colon
+IDA,20,475,542,Casa justicia Chiquinquira
+IDA,21,446,502,Cai Arrocera
+IDA,22,414,458,Salida perimetral Sector Rafael Nuñez
+IDA,23,385,416,Olaya Sector El Tancón
+IDA,24,346,364,El Libano
+IDA,25,317,321,Boston
+IDA,26,289,290,Pollito Pio
+IDA,27,256,262,La esquina del Sabor
+IDA,28,234,226,La Candelaria
+IDA,29,211,163,Liceo Pedro de Heredia
+IDA,30,192,128,Alcibia
+VUELTA,41,173,143,Alcibia*
+VUELTA,42,199,189,Liceo Pedro de Heredia*
+VUELTA,43,207,228,La Candelaria*
+VUELTA,44,238,277,La esquina del sabor*
+VUELTA,45,273,307,Tienda La Unica
+VUELTA,46,301,339,Boston*
+VUELTA,47,326,376,El Libano*
+VUELTA,48,362,426,Olaya sector El Tancón*
+VUELTA,49,396,474,Salida perimetral Sector Rafael Nuñez*
+VUELTA,50,430,522,Cai Arrocera*
+VUELTA,51,459,561,Casa justicia Chiquinquira*
+VUELTA,52,505,627,I.E. Fulgencio Lequerica
+VUELTA,53,531,664,Olaya sector La Central*
+VUELTA,54,555,702,Centro comercial Olaya Plaza*
+VUELTA,55,603,742,Olaya Sector Estela
+VUELTA,56,653,788,Olaya Sector Playa Blanca*
+VUELTA,57,661,833,Cementerio de Olaya*
+VUELTA,58,684,888,Entrada Fredonia*
+VUELTA,59,690,1032,Entrada Las Palmeras
+VUELTA,60,790,1080,Altamare
+VUELTA,61,850,1103,Bomba Petromil
+VUELTA,62,887,1126,Centro comercial Mio

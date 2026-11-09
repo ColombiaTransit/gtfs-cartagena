@@ -1,0 +1,30 @@
+direction,seq,px,py,map_label
+IDA,3,1084,829,Chinatown
+IDA,4,1040,885,Clinica Blas de Lezo
+IDA,5,983,901,Auto Coreano
+IDA,6,881,828,Tacarigua 1
+IDA,7,880,774,Conjunto residencial Tacarigua
+IDA,8,856,685,Restaurante En Pin (Cll 30#57-341)
+IDA,9,769,620,Escallon Villa (Cll 30#56-73)
+IDA,10,690,560,Escallon Villa (Cll 30#55-69)
+IDA,11,614,501,La Caci-k (Cll30#50a-115)
+IDA,12,548,446,Hospital Universitario
+IDA,13,501,389,Universidad de Cartagena
+IDA,14,427,335,Parque Piedra de Bolivar
+IDA,15,348,296,Cruz Roja
+IDA,16,277,246,Amberes
+IDA,17,220,200,Mitsubishi
+VUELTA,28,176,231,Colegio Octaviana
+VUELTA,29,235,278,Amberes*
+VUELTA,30,313,331,Cruz Roja*
+VUELTA,31,383,373,Piedra de Bolivar
+VUELTA,32,469,429,Universidad de Cartagena
+VUELTA,33,523,490,Hospital Universitario*
+VUELTA,34,565,523,Hogar infantil Dulces Sonrisas
+VUELTA,35,639,582,Tienda La Nacional (Cll30#53-18)
+VUELTA,36,717,640,Zaragocilla (Cll30#56-26)
+VUELTA,37,818,719,Camagüey Sector La Gloria
+VUELTA,38,916,738,Conjunto residencial Tacarigua
+VUELTA,39,986,787,Paseo de La Castellana
+VUELTA,40,1129,868,Aguas de Cartagena
+VUELTA,41,1187,869,Piko Riko

@@ -1,0 +1,33 @@
+direction,seq,px,py,map_label
+IDA,2,174,721,Villa Rosita
+IDA,3,314,733,Altamare
+IDA,4,402,746,Bomba Petromil
+IDA,5,472,770,Centro comercial Mio
+IDA,6,575,779,Palmas de Salamanca
+IDA,7,705,786,Central de Abastos
+IDA,8,1006,772,Urbanización La India
+IDA,9,1459,624,Estación Terpel
+IDA,10,1232,672,La Sevillana 1
+VUELTA,11,1204,622,La Sevillana 2
+VUELTA,12,1206,542,Villa de Aranjuez Mz 1G
+VUELTA,13,1207,462,Ciudad del Bicentenario 1
+VUELTA,14,1190,417,Bicentenario Mz 79
+VUELTA,15,1157,436,Bicentenario Mz 75
+VUELTA,16,1143,484,Ciudad del Bicentenario 2
+VUELTA,17,1084,479,Bicentenario Mz 35 Lote 1
+VUELTA,18,1052,470,Bicentenario Mz 7 Lote 1
+VUELTA,19,1040,494,Colegio Gabriel Garcia Marquez
+VUELTA,20,1048,535,Flor del Campo Mz 1C Lote 4
+VUELTA,21,1067,585,Abastos Giraldo
+VUELTA,22,1074,632,Colombiatón  Mz 3G Casa 470
+VUELTA,23,1082,681,Colegio Gustavo Pulecio Gomez
+VUELTA,24,1025,751,Urbanización La India V
+VUELTA,25,806,774,Frente Central de Abastos
+VUELTA,26,725,768,Entrada Pozón
+VUELTA,27,619,763,El Cariñoso
+VUELTA,28,549,759,Portales de Alicante
+VUELTA,29,463,748,Villa de la Candelaria
+VUELTA,30,385,720,Megaluminios
+VUELTA,31,331,715,Ipanema
+VUELTA,32,216,706,Entrada Las Palmeras
+VUELTA,33,171,700,Las Palmeras
