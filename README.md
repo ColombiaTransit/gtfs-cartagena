@@ -25,7 +25,9 @@ Research and data collection. No feed is published yet.
 - `scripts/georef_maps.py` fits each official route map onto the OSM line and
   reads the stop markers off it (`raw/web/markers.json`). The matching uses them
   between anchors: `map_order` (counts match) or `map_aligned` (check these).
-  Works for A104, A105, A108, A117 and partly X105; schematic maps (T routes) do not fit.
+  Works for A104, A105, A107, A108, A111, X102 and partly A117/X105; schematic
+  maps (T routes) do not fit. Run `python scripts/georef_maps.py [ROUTE ...]` to
+  redo all maps or only the routes given.
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
