@@ -19,7 +19,10 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
      (method osm_station / osm_named), else a Photon result with a matching
      name near the line (method photon, from raw/geocode/photon.json).
      Projected onto the line, in order.
-  3. Between two anchors, unnamed OSM stops on the right-hand side of the line:
+  3a. Between two anchors, the stop markers of the official route map
+     (raw/web/markers.json): paired in order when the counts match
+     (map_order), otherwise by expected position (map_aligned).
+  3b. Between two anchors, unnamed OSM stops on the right-hand side of the line:
      paired in order when the counts match (osm_order), otherwise matched to
      the nearest evenly-spaced expected position (osm_aligned).
   4. Everything else is spread evenly along the line between its neighbours
@@ -204,6 +207,8 @@ def main() -> int:
     named, unnamed, lines = load_osm()
     geo_path = RAW / "geocode" / "photon.json"
     geo = json.loads(geo_path.read_text()) if geo_path.exists() else {}
+    maps_path = RAW / "web" / "markers.json"
+    maps = json.loads(maps_path.read_text()) if maps_path.exists() else {}
     od = json.loads((RAW / "transcaribe_stops.json").read_text())
 
     by_route: dict[str, list[dict]] = defaultdict(list)
@@ -240,6 +245,9 @@ def main() -> int:
             pos[0], meta[0] = 0.0, ("line_start", "", None)
         if pos[-1] is None:
             pos[-1], meta[-1] = line.length, ("line_end", "", None)
+
+        # pass 1b: stop markers read off the official route map
+        map_pass(line, stops, pos, meta, maps.get(route))
 
         # pass 2: unnamed OSM stops between anchors, paired in order when counts match
         cand = []
@@ -399,6 +407,81 @@ def photon_hit(line, s, geo, route, cursor):
     return best
 
 
+MAP_RADIUS = 60         # m, georeferenced marker to line
+MAP_SAME_STOP = 120     # m, a marker this close to an anchor is that anchor's stop
+
+
+def map_pass(line, stops, pos, meta, info):
+    """
+    Fill the gaps between anchors with the markers of the official route map
+    (raw/web/markers.json, made by scripts/georef_maps.py).
+
+    Each colour on the map is one direction. Where both directions use the
+    same road a marker projects onto both passes of the round trip; it takes
+    the pass of its colour's direction, found by majority over the markers
+    that project onto only one pass.
+    """
+    if not info or not info.get("ok"):
+        return
+    markers = info["markers"]
+    n_free = sum(1 for m in meta if m[0] in ("", "line_start", "line_end"))
+    # a map whose marker count is far off is read wrongly (or shows another variant)
+    if not markers or not 0.75 * n_free <= len(markers) <= 1.25 * n_free + 2:
+        return
+    n_ida = sum(1 for s in stops if s["Sentido"] == "IDA")
+    turn = line.length * n_ida / len(stops) if n_ida < len(stops) else None
+
+    projected = []
+    for m in markers:
+        c = sorted(((p, d) for p, d, _ in line.project(xy(m["lat"], m["lon"])) if d <= MAP_RADIUS),
+                   key=lambda t: t[1])
+        passes = []
+        for p, d in c:
+            if all(abs(p - q) > 200 for q, _ in passes):
+                passes.append((p, d))
+        if passes:
+            projected.append((m, passes))
+
+    half_of = {}
+    if turn is not None:
+        votes: dict[str, list[int]] = {}
+        for m, passes in projected:
+            sides = {p < turn for p, _ in passes}
+            if len(sides) == 1:
+                votes.setdefault(m["colour"], [0, 0])[0 if sides.pop() else 1] += 1
+        half_of = {c: v[0] >= v[1] for c, v in votes.items()}   # True = outbound half
+
+    cand = []
+    for m, passes in projected:
+        want = half_of.get(m["colour"])
+        pref = [t for t in passes if want is None or (t[0] < turn) == want] or passes
+        p, d = pref[0]
+        cand.append((p, {"osm": f"map:{m['px'][0]},{m['px'][1]}"}, d))
+    cand.sort(key=lambda c: c[0])
+
+    known = [i for i, p in enumerate(pos) if p is not None]
+    # markers at an anchor belong to that anchor's stop
+    taken = set()
+    for i in known:
+        near = [k for k, c in enumerate(cand) if k not in taken and abs(c[0] - pos[i]) <= MAP_SAME_STOP]
+        if near:
+            taken.add(min(near, key=lambda k: abs(cand[k][0] - pos[i])))
+    free = [c for k, c in enumerate(cand) if k not in taken]
+
+    for a, b in zip(known, known[1:]):
+        gap = list(range(a + 1, b))
+        between = [c for c in free if pos[a] < c[0] < pos[b]]
+        if not gap or not between:
+            continue
+        if len(between) == len(gap):
+            pairs, method = list(zip(gap, between)), "map_order"
+        else:
+            pairs, method = align(gap, between, pos[a], pos[b]), "map_aligned"
+        for i, c in pairs:
+            pos[i] = c[0]
+            meta[i] = (method, c[1]["osm"], round(c[2], 1))
+
+
 def align(gap, between, start, end):
     """
     Order-preserving match of OSM candidates to stops when the counts differ.
@@ -476,7 +559,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},

@@ -22,6 +22,10 @@ Research and data collection. No feed is published yet.
     an OSM stop paired by position; `interpolated`, `line_start` and
     `line_end` are estimates that need checking; `photon` is a geocoded
     place with a matching name close to the line.
+- `scripts/georef_maps.py` fits each official route map onto the OSM line and
+  reads the stop markers off it (`raw/web/markers.json`). The matching uses them
+  between anchors: `map_order` (counts match) or `map_aligned` (check these).
+  Works for A104, A105, A108, A117 and partly X105; schematic maps (T routes) do not fit.
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
