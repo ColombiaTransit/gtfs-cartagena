@@ -1,0 +1,73 @@
+direction,seq,px,py,map_label
+IDA,1,1542,1009,Colegio Ciudadela 2000
+IDA,2,1514,1022,Estadio de Softbol
+IDA,3,1538,966,La algodonera
+IDA,4,1500,915,Calamarí
+IDA,5,1457,911,Clinica ESE Rafael Calvo
+IDA,6,1409,908,Portales de San Fernando
+IDA,7,1360,903,Efecty Socorro MG1 L22
+IDA,8,1330,901,Los Jardines MG2 L16
+IDA,9,1283,900,Districarnes JG
+IDA,10,1224,897,Iglesia Nuestra Señora del Carmelo
+IDA,11,1184,882,Kiosko #61-21
+IDA,12,1134,875,Cll 14 Parque Campestre
+IDA,13,1094,850,Punta Alta
+IDA,14,1056,833,Prosegur (Villa Leon)
+IDA,15,1047,808,Los Corales
+IDA,16,1027,784,Edificio Conjunto Militar Los Corales
+IDA,17,976,762,Entrada Nuevo Bosque
+IDA,18,934,768,Estación de Policia Nuevo Bosque
+IDA,19,878,774,San Isidro No. 25-43
+IDA,20,829,754,Entrada San Isidro No. 53-58
+IDA,21,766,750,Punte peatonal Cll Periodistas
+IDA,22,713,742,Bodega Copetran
+IDA,23,717,683,Ara Buenos Aires
+IDA,24,720,634,Colegio Fernandez Baena
+IDA,25,723,586,Bosque #45-57
+IDA,26,741,532,Supergiros Bruselas
+IDA,27,722,469,EDS Esso Bruselas
+IDA,28,716,432,Tv 33 entre Kr 22 y 23
+IDA,29,747,413,Tv 33 con 29B
+IDA,35,190,294,Monumento Maria Mulata
+IDA,36,199,378,Supermercado Olimpica
+IDA,37,177,438,Frente Ambientes
+IDA,38,148,473,Frente Crepes
+IDA,39,119,509,Frente Miska
+IDA,40,89,542,Dulceria
+IDA,41,51,572,El pueblito
+VUELTA,43,54,606,Cll 5A
+VUELTA,44,110,559,Frente Berlitz
+VUELTA,45,135,537,Frente Porvenir
+VUELTA,46,165,502,Frente Maternidad
+VUELTA,47,193,468,Cll 10
+VUELTA,48,213,422,Frente Ed. Grupo Area
+VUELTA,49,220,374,Entre Cll 12 y Cll 13
+VUELTA,50,221,308,Edificio La Marina
+VUELTA,56,679,404,Martinez Martelo Dg 22 No. 20-50
+VUELTA,57,676,429,Cancha Microfutbol Martinez Martelo
+VUELTA,58,690,494,La Cuchilla
+VUELTA,59,686,542,Coca Cola
+VUELTA,60,680,605,Hogar San Pedro Claver
+VUELTA,61,676,668,Restaurante Bumangues
+VUELTA,62,674,699,Entrada Manzanillo
+VUELTA,63,696,766,Postobon
+VUELTA,64,755,770,Navitrans
+VUELTA,65,797,772,Tv 54 con Dg 22
+VUELTA,66,833,777,Nuevo Oriente (Bascula)
+VUELTA,67,861,791,Bajo San Isidro
+VUELTA,68,955,824,Entrada Ceballos
+VUELTA,69,1037,871,Proleca
+VUELTA,70,1056,854,Punta Alta Vuelta
+VUELTA,71,1098,874,Cll 14 Entrada Golf
+VUELTA,72,1149,898,El Milagro Soldadura Diaz
+VUELTA,73,1180,910,Taller Mañe
+VUELTA,74,1208,928,Tienda El Puente.Com
+VUELTA,75,1229,929,Calle 14 #65-34
+VUELTA,76,1273,919,Super Mercado Precio Facil
+VUELTA,77,1331,922,Los Jardines
+VUELTA,78,1380,926,Nueva Jerusalen La Consolata
+VUELTA,79,1418,929,Villa Rubia
+VUELTA,80,1448,930,Clinica ESE Rafael Calvo
+VUELTA,81,1509,937,Restaurante Chung Fa
+VUELTA,82,1518,968,La algodonera
+VUELTA,83,1516,1001,Hogar de bien
