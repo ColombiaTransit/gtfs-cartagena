@@ -413,13 +413,29 @@ MAP_SAME_STOP = 120     # m, a marker this close to an anchor is that anchor's s
 
 def map_pass(line, stops, pos, meta, info):
     """
+    Run the map pass with both ways of choosing the direction of a marker on a
+    shared road and keep whichever places more stops (on some maps the colour
+    offset is too small for the side of the road to be reliable).
+    """
+    best = None
+    for strategy in ("side", "half"):
+        p_, m_ = list(pos), list(meta)
+        _map_pass(line, stops, p_, m_, info, strategy)
+        filled = sum(1 for a, b in zip(meta, m_) if a != b)
+        if best is None or filled > best[0]:
+            best = (filled, p_, m_)
+    pos[:], meta[:] = best[1], best[2]
+
+
+def _map_pass(line, stops, pos, meta, info, strategy):
+    """
     Fill the gaps between anchors with the markers of the official route map
     (raw/web/markers.json, made by scripts/georef_maps.py).
 
     Each colour on the map is one direction. Where both directions use the
     same road a marker projects onto both passes of the round trip; it takes
-    the pass of its colour's direction, found by majority over the markers
-    that project onto only one pass.
+    the pass on which it lies on its colour's side of the road (learnt from
+    the markers that project onto only one pass).
     """
     if not info or not info.get("ok"):
         return
@@ -433,30 +449,42 @@ def map_pass(line, stops, pos, meta, info):
 
     projected = []
     for m in markers:
-        c = sorted(((p, d) for p, d, _ in line.project(xy(m["lat"], m["lon"])) if d <= MAP_RADIUS),
+        c = sorted(((p, d, side) for p, d, side in line.project(xy(m["lat"], m["lon"])) if d <= MAP_RADIUS),
                    key=lambda t: t[1])
         passes = []
-        for p, d in c:
-            if all(abs(p - q) > 200 for q, _ in passes):
-                passes.append((p, d))
+        for p, d, side in c:
+            if all(abs(p - q[0]) > 200 for q in passes):
+                passes.append((p, d, side))
         if passes:
             projected.append((m, passes))
 
-    half_of = {}
-    if turn is not None:
-        votes: dict[str, list[int]] = {}
-        for m, passes in projected:
-            sides = {p < turn for p, _ in passes}
-            if len(sides) == 1:
-                votes.setdefault(m["colour"], [0, 0])[0 if sides.pop() else 1] += 1
-        half_of = {c: v[0] >= v[1] for c, v in votes.items()}   # True = outbound half
+    # The map draws each direction as its own line, offset to one side of the
+    # road, with its markers next to it. So per colour the markers sit on a
+    # fixed side of their direction of travel. Learn that side from markers
+    # with only one possible pass, then use it where both directions share a road.
+    side_votes: dict[str, int] = {}
+    half_votes: dict[str, list[int]] = {}
+    for m, passes in projected:
+        if len(passes) == 1:
+            side_votes[m["colour"]] = side_votes.get(m["colour"], 0) + passes[0][2]
+            if turn is not None:
+                half_votes.setdefault(m["colour"], [0, 0])[0 if passes[0][0] < turn else 1] += 1
 
     cand = []
     for m, passes in projected:
-        want = half_of.get(m["colour"])
-        pref = [t for t in passes if want is None or (t[0] < turn) == want] or passes
-        p, d = pref[0]
-        cand.append((p, {"osm": f"map:{m['px'][0]},{m['px'][1]}"}, d))
+        pick = passes[0]
+        if len(passes) > 1 and strategy == "half" and m["colour"] in half_votes:
+            out = half_votes[m["colour"]][0] >= half_votes[m["colour"]][1]
+            pick = next((t for t in passes if (t[0] < turn) == out), passes[0])
+        elif len(passes) > 1:
+            side = side_votes.get(m["colour"], 0)
+            same_side = [t for t in passes if side and (t[2] > 0) == (side > 0)]
+            if len(same_side) == 1:
+                pick = same_side[0]
+            elif m["colour"] in half_votes:
+                out = half_votes[m["colour"]][0] >= half_votes[m["colour"]][1]
+                pick = next((t for t in passes if (t[0] < turn) == out), passes[0])
+        cand.append((pick[0], {"osm": f"map:{m['px'][0]},{m['px'][1]}"}, pick[1]))
     cand.sort(key=lambda c: c[0])
 
     known = [i for i, p in enumerate(pos) if p is not None]

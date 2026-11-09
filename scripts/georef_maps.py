@@ -39,10 +39,12 @@ LAT0 = 10.4
 KX = 111320 * math.cos(math.radians(LAT0))
 KY = 110574
 
-COLOURS = {"green": (45, 114, 70), "orange": (240, 83, 55)}
-COLOUR_TOL = 40
+# route colours by hue (degrees), so thin anti-aliased lines count too;
+# teal (titles, boxes, ~185 degrees) is left out
+HUES = {"green": (115, 165), "orange": (-15, 22)}
+MIN_SATURATION = {"green": 0.30, "orange": 0.45}
 MARKER_MIN_RADIUS = 4.5     # px; the route line is ~3 px from its centre to its edge
-MARKER_MAX_RADIUS = 12     # px; anything thicker is a box, a label or a filled loop
+MARKER_MAX_RADIUS = 16     # px; anything thicker is a box, a label or a filled loop
 OK_MEDIAN_M = 15            # median distance image line -> OSM line
 OK_P80_M = 45               # 80% of the image line lies this close to the OSM line
 OK_SHARE = 0.3              # the map shows at least this share of the OSM line
@@ -52,8 +54,21 @@ def to_m(lon, lat):
     return np.c_[np.asarray(lon) * KX, np.asarray(lat) * KY]
 
 
-def colour_mask(im, rgb):
-    return np.abs(im - np.array(rgb)).sum(2) < COLOUR_TOL
+RGB = {"green": (45, 114, 70), "orange": (240, 83, 55)}
+
+
+def colour_masks(path, mode="rgb40"):
+    """Route colour masks. rgb<N>: within N of the house colours; hsv: by hue."""
+    if mode.startswith("rgb"):
+        im = np.array(Image.open(path).convert("RGB")).astype(int)
+        tol = int(mode[3:])
+        return {c: np.abs(im - np.array(rgb)).sum(2) < tol for c, rgb in RGB.items()}
+    hsv = np.array(Image.open(path).convert("RGB").convert("HSV")).astype(float)
+    h = hsv[..., 0] * 360 / 255
+    h = np.where(h > 300, h - 360, h)
+    s, v = hsv[..., 1] / 255, hsv[..., 2] / 255
+    return {c: (h >= lo) & (h <= hi) & (s >= MIN_SATURATION[c]) & (v >= 0.25)
+            for c, (lo, hi) in HUES.items()}
 
 
 def drop_small(mask, minsize=200):
@@ -140,11 +155,48 @@ def icp(z, Sw, a, b, iters, trim=0.85, symmetric=True):
     return a, b, float(np.median(d)), float(np.quantile(d, 0.8)), float((d2 <= 40).mean())
 
 
+def icp_affine(P, S, X, iters=40, trim=0.8):
+    """Affine refinement (for maps that are squeezed or stretched)."""
+    T = cKDTree(S)
+    A = np.c_[P, np.ones(len(P))]
+    for _ in range(iters):
+        Q = A @ X
+        d, i = T.query(Q)
+        k = d <= np.quantile(d, trim)
+        X, *_ = np.linalg.lstsq(A[k], S[i[k]], rcond=None)
+    Q = A @ X
+    d, _ = T.query(Q)
+    d2, _ = cKDTree(Q).query(S)
+    return X, float(np.median(d)), float(np.quantile(d, 0.8)), float((d2 <= 40).mean())
+
+
 def georef(path: Path, coords) -> dict:
-    im = np.array(Image.open(path).convert("RGB")).astype(int)
-    masks = {c: colour_mask(im, rgb) for c, rgb in COLOURS.items()}
-    line = drop_small(drop_thick(masks["green"] | masks["orange"]))
-    ys, xs = np.nonzero(line)
+    """Try a few ways of reading the colours; keep the best fit."""
+    best = None
+    for mode in ("rgb40", "rgb80", "hsv"):
+        r = georef_mode(path, coords, mode)
+        r["mask"] = mode
+        key = (r.get("ok", False), -(r.get("p80_m") or 1e9))
+        if best is None or key > best[0]:
+            best = (key, r)
+        if r.get("ok"):
+            break
+    return best[1]
+
+
+def georef_mode(path: Path, coords, mode) -> dict:
+    masks = colour_masks(path, mode)
+    line = drop_small(drop_thick(masks["green"] | masks["orange"]), 80)
+    # find the markers first and leave them out of the fit: on some maps they
+    # are pins standing next to the line rather than discs on it
+    found = {c: find_markers(m, line & m) for c, m in masks.items()}
+    fit_px = line.copy()
+    for P in found.values():
+        for x, y in P:
+            fit_px[max(0, int(y) - 20):int(y) + 21, max(0, int(x) - 20):int(x) + 21] = False
+    if fit_px.sum() < 0.3 * line.sum():
+        fit_px = line
+    ys, xs = np.nonzero(fit_px)
     if len(xs) < 500:
         return {"ok": False, "reason": "no route line found"}
     pix = np.c_[xs, ys].astype(float)
@@ -167,25 +219,34 @@ def georef(path: Path, coords) -> dict:
                 if best is None or score(r) < score(best):
                     best = r
     a, b, med, p80, share = icp(z, Sw, best[0], best[1], 40, trim=0.8, symmetric=False)
+    kind = "similarity"
+    # pixel (x, y) -> metres as an affine matrix, so both kinds convert the same way
+    X = np.array([[a.real, a.imag], [a.imag, -a.real], [b.real, b.imag]])
+    if not (med <= OK_MEDIAN_M and p80 <= OK_P80_M):
+        Xa, med_a, p80_a, share_a = icp_affine(pix, S, X)
+        sv = np.linalg.svd(Xa[:2], compute_uv=False)
+        # accept a moderate squeeze only; a collapsed fit is not a map
+        if med_a < med and sv[1] / sv[0] > 0.5:
+            X, med, p80, share, kind = Xa, med_a, p80_a, share_a, "affine"
 
     out = {
         "ok": med <= OK_MEDIAN_M and p80 <= OK_P80_M and share >= OK_SHARE,
         "median_m": round(med, 1),
         "p80_m": round(p80, 1),
         "share_of_line": round(share, 2),
-        "m_per_px": round(abs(a), 3),
-        "rotation_deg": round(math.degrees(np.angle(a)), 1),
-        "transform": [a.real, a.imag, b.real, b.imag],
+        "fit": kind,
+        "m_per_px": round(float(np.sqrt(abs(np.linalg.det(X[:2])))), 3),
+        "rotation_deg": round(math.degrees(math.atan2(X[0, 1], X[0, 0])), 1),
+        "transform": X.tolist(),
         "markers": [],
     }
-    for colour, mask in masks.items():
-        P = find_markers(mask, line & mask)
+    for colour, P in found.items():
         if not len(P):
             continue
-        w = a * cz(P) + b
-        for (x, y), m in zip(P, w):
+        W = np.c_[P, np.ones(len(P))] @ X
+        for (x, y), (mx, my) in zip(P, W):
             out["markers"].append({"colour": colour, "px": [int(round(x)), int(round(y))],
-                                   "lat": round(m.imag / KY, 6), "lon": round(m.real / KX, 6)})
+                                   "lat": round(my / KY, 6), "lon": round(mx / KX, 6)})
     return out
 
 
@@ -198,6 +259,8 @@ def main() -> int:
         if not key.startswith("Ruta "):
             continue
         route = key[5:]
+        if len(sys.argv) > 1 and route not in sys.argv[1:]:
+            continue
         if route not in shapes:
             result[route] = {"ok": False, "reason": "no OSM line", "image": files[0]}
             print(f"{route:6s} skipped: no OSM line")
@@ -205,9 +268,12 @@ def main() -> int:
         r = georef(WEB / files[0], shapes[route])
         r["image"] = files[0]
         result[route] = r
-        print(f"{route:6s} ok={r['ok']!s:5s} median={r.get('median_m')} p80={r.get('p80_m')} share={r.get('share_of_line')} "
+        print(f"{route:6s} ok={r['ok']!s:5s} {r.get('mask', '')} {r.get('fit', '')} median={r.get('median_m')} p80={r.get('p80_m')} share={r.get('share_of_line')} "
               f"m/px={r.get('m_per_px')} rot={r.get('rotation_deg')} markers={len(r.get('markers', []))}")
-    (WEB / "markers.json").write_text(json.dumps(result, indent=1), encoding="utf-8")
+    path = WEB / "markers.json"
+    if len(sys.argv) > 1 and path.exists():
+        result = {**json.loads(path.read_text()), **result}
+    path.write_text(json.dumps(result, indent=1, sort_keys=True), encoding="utf-8")
     return 0
 
 
