@@ -555,7 +555,7 @@ def photon_hit(line, s, geo, route, cursor):
 LABELS = ROOT / "data" / "map_labels"
 LABEL_RADIUS = 150      # m, labelled marker to line (maps may be squeezed locally)
 LABEL_MAX_MEDIAN = 40   # m, map fit still usable for labelled markers
-TRUSTED = ("osm_station", "osm_named", "map_label")
+TRUSTED = ("osm_station", "osm_named", "map_label", "shared_stop")
 
 
 def label_pass(line, stops, pos, meta, info, route):
@@ -604,15 +604,16 @@ def label_pass(line, stops, pos, meta, info, route):
     # line): spread them between the known stops around them in proportion to
     # the distances between their markers on the map
     known = [i for i, m in enumerate(meta)
-             if pos[i] is not None and m[0] in ("osm_station", "osm_named", "map_label")]
+             if pos[i] is not None and m[0] in ("osm_station", "osm_named", "map_label", "shared_stop")]
     ends = ([0] if 0 not in known else []) + known + ([len(stops) - 1] if len(stops) - 1 not in known else [])
     key = lambda i: (stops[i]["Sentido"], int(stops[i]["Paraderos"][1:]))
     for a, b in zip(ends, ends[1:]):
         gap = [i for i in range(a + 1, b) if key(i) in rows]
         if not gap:
             continue
-        pa = pos[a] if pos[a] is not None and meta[a][0] in ("osm_station", "osm_named", "map_label") else (0.0 if a == 0 else None)
-        pb = pos[b] if pos[b] is not None and meta[b][0] in ("osm_station", "osm_named", "map_label") else (line.length if b == len(stops) - 1 else None)
+        anchor = ("osm_station", "osm_named", "map_label", "shared_stop")
+        pa = pos[a] if pos[a] is not None and meta[a][0] in anchor else (0.0 if a == 0 else None)
+        pb = pos[b] if pos[b] is not None and meta[b][0] in anchor else (line.length if b == len(stops) - 1 else None)
         if pa is None or pb is None:
             continue
         # include the neighbours' own markers, when labelled, as the ends of the chain
