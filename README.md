@@ -56,6 +56,12 @@ Research and data collection. No feed is published yet.
   item names, and `routes.csv` with the items per route, newest first. Use it
   for stop lists of routes missing from the open data (C017, C018, A118),
   frequency changes and special timetables (`calendar_dates.txt`).
+- `data/headways_news.csv`: headways per route and time window from the news
+  and El Universal, with source and start date (old figures: 2018–2024).
+- `data/service_changes_news.csv`: per date range the day type used on
+  holidays, suspended routes, detours with skipped stops, and extra stops or
+  trips (31 Dec 2024 to Nov 2026). Basis for `calendar_dates.txt`.
+  `X106-ext` is the X106 extension to the Gobernación de Bolívar.
 - `docs/onderzoek.md` holds the research notes (network, timetable, fares,
   sources), in Dutch.
 
