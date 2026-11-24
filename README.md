@@ -33,6 +33,15 @@ Research and data collection. No feed is published yet.
   Used before everything but OSM stations (`map_label`); works on distorted maps
   too, by spreading stops between stations in proportion to the map distances.
   Done: A103, A114, A117, C001, T102, T103, X101, X103, X104, X106.
+- `data/news_stops.csv`: stop lists from the news items (`news_id` = file in
+  `raw/news/text/`) for routes missing from the open data (C018, A118) or
+  incomplete there (C017: the open data leaves out the 27 stops on Av.
+  Santander and in the centre). They replace the open-data stops of that route
+  (`source` column in `stop_positions.csv`). For these routes a stop with the
+  same name as a stop of another route on the same road takes that position:
+  `shared_stop` (that stop is well placed) or `shared_estimate` (it is an
+  estimate itself, check it). A118 has no OSM line yet, so its stops have no
+  position.
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
@@ -60,6 +69,11 @@ Research and data collection. No feed is published yet.
 ## Next steps
 
 1. Improve the interpolated stop positions (geocoding, OSM edits, manual checks).
-2. Check the C017 line (incomplete in OSM) and X105 (stop order fits the line poorly).
+2. Fix the C017 relation in OSM: it has a gap at the Crespo tunnel, and it runs
+   through Crespo on the way back, while the news (5309) has it through Crespo
+   (T102 stops) on the way out and through the tunnel on the way back. Until
+   then most C017 stops north of Terrazas de San Sebastián are wrong.
+   Add an A118 relation (Portal – Terminal – Cra 92 – Ciudadela de la Paz).
+   Check X105 (stop order fits the line poorly).
 3. Build `stops.txt`, `routes.txt`, `shapes.txt` and `trips.txt`/`frequencies.txt`.
 4. Add fares (Fares v2).

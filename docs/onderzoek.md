@@ -11,7 +11,8 @@
 - Troncal: T100E, T101, T102 Portal–Crespo (via Av. Santander), T103 (Bocagrande).
 - Pretroncal: X101–X106 (X102 Portal–Bosque–Centro; X103 El Rodeo–…–Bodeguita; X106 met verlenging naar Gobernación).
 - Alimentador: A101, A102, A107, A108, A111, A114, A117 e.a.
-- Complementaria: C001 Ciudadela 2000–Manga, C017, C018 Bodeguita–Torices (circulair, sinds 6 aug 2024), C106 Bodeguita–Zona Norte (ook als C016 genoemd – nagaan).
+- Complementaria: C001 Ciudadela 2000–Manga, C017, C018 Bodeguita–Torices (circulair, sinds 6 aug 2024), C017 Bodeguita–Zona Norte (sinds 12 feb 2024). C016 is Portal–Terminal de Transportes; "C106" en "X016" in nieuwsbericht 6077 zijn tikfouten voor C017 en X106.
+- Alimentador A118 Portal–Ciudadela de la Paz sinds 27 okt 2025 (25e route), dagelijks; haltes in nieuwsbericht 7309.
 - 2025: route Ciudadela La Paz. Gepland: Castillogrande–Laguito, Parque Heredia, Mamonal.
 - Overstappen tussen routes zonder extra kosten (o.a. bij Bodeguita en Parque de la Marina).
 
@@ -19,7 +20,8 @@
 - Werkdag: troncal/pretroncal 05:00–21:00; alimentadoras tot 22:30.
 - Zaterdag: troncal/pretroncal 05:30–20:30; alimentadoras 05:00–22:00 (C001 tot 21:30).
 - Zon-/feestdag: troncal/pretroncal 06:00–20:00; alimentadoras vanaf 05:00/05:30 tot ~21:30.
-- Frequenties per route: nog niet gevonden; de paradero-dataset heeft mogelijk vertrektijden (zie hieronder).
+- Frequenties per route: deels uit nieuws. C017: 4 padrones, interval 20 min (bericht 5309). Ouder (ca. 2021, El Universal): A101 15 min begin/eind en 10 min pm-spits; A107 10 min in spitsen; A114 6,5 min am-spits, 8 min pm-spits, 15 min eind; A117 8 min pm-spits, 15 min eind; X105 8 min; X106 6 min in spitsen; T102 12 min 6:00–18:30. Ontwerpnorm: 2 min minimaal, max 8 min spits, 15 min dal.
+- Feestdagen 2026: Decreto 0478 de 2026 (Fiestas de Independencia, 11–16 nov): zaterdagdienst op 11, 12 en 14 nov; A111, C017, C018, A102, T100E en de X106-verlenging naar de Gobernación opgeschort (bericht 10211).
 
 ## Tarieven 2026
 - Algemeen 3.900 COP vanaf 23 jan 2026 (Decreto 017 van 15 jan 2026); 2025: 3.400.
@@ -44,4 +46,5 @@
 - Bevat de paradero-dataset coördinaten en haltevolgorde?
 - Is de GTFS van het UTB-onderzoek beschikbaar?
 - Frequenties per route; haltelijsten van alimentadoras/complementarias.
-- C016 of C106 voor Bodeguita–Zona Norte?
+- ~~C016 of C106 voor Bodeguita–Zona Norte?~~ C017 (zie boven).
+- Rijdt C016 (Portal–Terminal) nog naast A118? A118 deelt vrijwel al zijn haltes.

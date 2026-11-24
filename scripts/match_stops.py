@@ -6,6 +6,9 @@ Inputs
     raw/transcaribe_stops.json       open data: stops per route/direction, in order
     raw/osm/overpass_stops.json      OSM bus stops, platforms and stations
     raw/osm/overpass_routes.json     OSM route relations with way geometry
+    data/news_stops.csv              stop lists from transcaribe.gov.co news items, for
+                                     routes missing from (or incomplete in) the open data;
+                                     they replace the open-data stops of that route
 
 Outputs
     data/shapes_osm.geojson          one round-trip line per route (from OSM)
@@ -19,6 +22,11 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
      (method osm_station / osm_named), else a Photon result with a matching
      name near the line (method photon, from raw/geocode/photon.json).
      Projected onto the line, in order.
+  2a. For routes from data/news_stops.csv only: stops with the same name as a
+      well-placed stop of another route (OSM, map label, map marker or Photon)
+      on the same road, e.g. the T102 stops on Av. Santander that C017 shares
+      (method shared_stop; shared_estimate when that stop is itself an estimate,
+      so it needs checking).
   2b. Stops identified by name on the official route map
      (data/map_labels/<route>.csv, hand-checked): method map_label.
   3a. Between two anchors, the stop markers of the official route map
@@ -197,12 +205,74 @@ def load_osm():
 
 
 def anchor_for(address: str, named: dict) -> dict | None:
+    c = anchor_candidates(address, named)
+    return c[0] if c else None
+
+
+def anchor_candidates(address: str, named: dict) -> list[dict]:
     a = norm(address)
     a = re.sub(r" [a-d]\d$", "", a)          # vagón suffix: "madre bernarda a1"
     if a in named:
-        return named[a]
-    # "Patio Portal D2", "Frente a Las Américas" etc.: longest OSM name contained in the address
-    return None
+        return [named[a]]
+    # stops of other routes with the same name (only while placing news routes)
+    return SHARED.get(shared_key(address), [])
+
+
+# ---------------------------------------------------------------- shared stops
+
+SHARED: dict[str, list[dict]] = {}       # shared_key -> well-placed stops of other routes
+SHARED_METHODS = ("osm_station", "osm_named", "osm_order", "map_label", "map_order", "photon")
+SHARED_ESTIMATES = ("osm_aligned", "map_aligned", "interpolated")   # -> shared_estimate
+NEWS_MAX_GAP = 1000     # m, gap in an OSM round trip that is closed for news routes
+SHARED_STEP = 100       # m per stop in between, before a shared stop can be used
+SHARED_DROP = {"de", "la", "el", "los", "las", "y", "del", "a", "al", "en", "con",
+               "frente", "estacion", "hotel", "paradero", "parada"}
+SHARED_ALIASES = {                       # news name -> name used by other routes
+    "adolfo mejia teatro": "heredia teatro",
+    "boquetillo concordia paz": "boquete concordia diego paz san",
+    "concordia paz puerta": "boquete concordia diego paz san",
+}
+
+
+def shared_key(name: str) -> str:
+    toks = set()
+    for t in norm(name).split():
+        if t in SHARED_DROP or t.isdigit() or len(t) < 2 or re.fullmatch(r"[a-d]\d", t):   # vagón: "chambacu a1"
+            continue
+        toks.add(t[:-1] if len(t) > 4 and t.endswith("s") else t)   # terrazas = terraza
+    key = " ".join(sorted(toks))
+    return SHARED_ALIASES.get(key, key)
+
+
+def build_shared(rows: list[dict]) -> dict[str, list[dict]]:
+    out: dict[str, list[dict]] = defaultdict(list)
+    for r in rows:
+        if r["method"] not in SHARED_METHODS + SHARED_ESTIMATES or r["lat"] is None:
+            continue
+        key = shared_key(r["name"])
+        if not key or not any(len(t) >= 4 for t in key.split()):
+            continue
+        p = xy(r["lat"], r["lon"])
+        if any(math.dist(p, xy(o["lat"], o["lon"])) < 15 for o in out[key]):
+            continue
+        kind = "shared_stop" if r["method"] in SHARED_METHODS else "shared_estimate"
+        out[key].append({"lat": r["lat"], "lon": r["lon"], "kind": kind,
+                         "osm": f"{r['route']}:{r['direction']}:{r['seq']}"})
+    return dict(out)
+
+
+def load_news_stops() -> dict[str, list[dict]]:
+    """data/news_stops.csv in the shape of the open-data stops."""
+    path = OUT / "news_stops.csv"
+    if not path.exists():
+        return {}
+    by_route: dict[str, list[dict]] = defaultdict(list)
+    for r in csv.DictReader(path.open(encoding="utf-8")):
+        by_route[r["route"]].append({
+            "Codigo_Rutas": r["route"], "Gid": r["seq"], "Paraderos": f"P{int(r['seq']):02d}",
+            "Ubicacion_del_Paradero": r["name"], "Sentido": r["direction"],
+            "source": f"news:{r['news_id']}"})
+    return dict(by_route)
 
 
 # ---------------------------------------------------------------- main
@@ -218,22 +288,47 @@ def main() -> int:
     by_route: dict[str, list[dict]] = defaultdict(list)
     for s in od:
         by_route[s["Codigo_Rutas"]].append(s)
+    news = load_news_stops()
+    for route, stops in news.items():
+        if route in by_route:
+            print(f"{route}: {len(by_route[route])} open-data stops replaced by {len(stops)} from the news")
+        by_route[route] = stops
 
     rows, shapes, report = [], [], []
-    for route, stops in sorted(by_route.items()):
+    ctx = (named, unnamed, lines, geo, maps)
+    # routes from the news last, so they can use the stops placed for other routes
+    for route in sorted(r for r in by_route if r not in news):
+        process_route(route, by_route[route], ctx, rows, shapes, report)
+    SHARED.update(build_shared(rows))
+    for route in sorted(news):
+        process_route(route, by_route[route], ctx, rows, shapes, report)
+    SHARED.clear()
+
+    rows.sort(key=lambda r: r["route"])          # stable: keeps the stop order per route
+    shapes.sort(key=lambda f: f["properties"]["route"])
+    write_outputs(rows, shapes, named, unnamed)
+    for r in sorted(report):
+        print(*r)
+    return 0
+
+
+def process_route(route, stops, ctx, rows, shapes, report):
+    named, unnamed, lines, geo, maps = ctx
+    if True:
         stops.sort(key=lambda s: int(s["Gid"]))
         line = lines.get(route)
         if not line:
             report.append((route, len(stops), "no OSM line"))
             for s in stops:
                 rows.append(row(route, s, None, None, "no_line", "", None))
-            continue
+            return
 
         # orientation: OSM relations are not always drawn in the direction of IDA,
         # so try both and keep the one where more named stops line up in order
         options = []
         for cand_line in (line, Line(line.pts[::-1])):
-            cand_line = rotate(cand_line, stops, named, label_points(maps.get(route), route, stops))
+            cand_line = rotate(cand_line, stops, named, label_points(maps.get(route), route, stops),
+                               max_gap=NEWS_MAX_GAP if stops[0].get("source", "").startswith("news") else 50)
             p_, m_ = place_anchors(cand_line, stops, named, geo, route)
             n = len(stops)
             spread = sum(abs(x - cand_line.length * i / n) for i, x in enumerate(p_) if x is not None)
@@ -301,11 +396,6 @@ def main() -> int:
             counts[meta[i][0]] += 1
         report.append((route, len(stops), dict(counts)))
 
-    write_outputs(rows, shapes, named, unnamed)
-    for r in report:
-        print(*r)
-    return 0
-
 
 def label_points(info, route, stops) -> dict[int, tuple[float, float]]:
     """Rough positions (metres) of the labelled stops, if the map transform is usable."""
@@ -325,7 +415,7 @@ def label_points(info, route, stops) -> dict[int, tuple[float, float]]:
     return out
 
 
-def rotate(line: Line, stops, named, hints=None) -> Line:
+def rotate(line: Line, stops, named, hints=None, max_gap=50) -> Line:
     """
     Start a closed round trip at the first stop.
 
@@ -334,7 +424,8 @@ def rotate(line: Line, stops, named, hints=None) -> Line:
     proportional distance (by stop count) before it.
     """
     pts = line.pts
-    if math.dist(pts[0], pts[-1]) > 50:
+    gap = math.dist(pts[0], pts[-1])
+    if gap > max_gap:
         return line
     target = None
     for i, s in enumerate(stops):
@@ -351,7 +442,8 @@ def rotate(line: Line, stops, named, hints=None) -> Line:
     start = (at - line.length * i / len(stops)) % line.length
     k = max(j for j, c in enumerate(line.cum) if c <= start)
     if 0 < k < len(pts) - 1:
-        return Line(pts[k:] + pts[1:k + 1])
+        # a round trip with a gap (missing ways in OSM) is closed with a straight piece
+        return Line(pts[k:] + (pts[1:k + 1] if gap <= 50 else pts[:k + 1]))
     return line
 
 
@@ -368,7 +460,29 @@ def place_anchors(line: Line, stops, named, geo=None, route=""):
     seen: set[str] = set()
     last_i: int | None = None
     for i, s in enumerate(stops):
-        a = anchor_for(s["Ubicacion_del_Paradero"], named)
+        cands = anchor_candidates(s["Ubicacion_del_Paradero"], named)
+        if cands and cands[0]["kind"] in ("shared_stop", "shared_estimate"):
+            # same name on several roads or sides: the earliest fit wins; leave room
+            # for the stops in between, so a later pass of the same road is used
+            start = cursor + (SHARED_STEP * (i - last_i) if last_i is not None else MIN_STEP)
+            hits = [(line.nearest_after(xy(c["lat"], c["lon"]), start, STOP_RADIUS, right_side=True), c)
+                    for c in cands]
+            hits = [(h, c) for h, c in hits if h]
+            if hits and last_i is not None:
+                allowed = line.length * (i - last_i) / len(stops) * 3 + 2000
+                hits = [(h, c) for h, c in hits if h[0] - cursor <= allowed]
+            if hits:
+                # well-placed stops before estimates; then the earliest, and within
+                # 300 m of that, one served in the same direction
+                best = min(hits, key=lambda hc: (hc[1]["kind"] != "shared_stop", hc[0][0]))
+                near = [hc for hc in hits if hc[1]["kind"] == best[1]["kind"] and hc[0][0] - best[0][0] < 300
+                        and hc[1]["osm"].split(":")[1] == s["Sentido"]]
+                h, c = near[0] if near else best
+                pos[i], cursor, last_i = h[0], h[0], i
+                meta[i] = (c["kind"], c["osm"], round(h[1], 1))
+                continue
+            cands = []
+        a = cands[0] if cands else None
         if not a:
             hit = photon_hit(line, s, geo, route, cursor + MIN_STEP)
             if hit and last_i is not None:
@@ -690,6 +804,7 @@ def row(route, s, lat, lon, method, osm, dist, pos=None):
         "osm_id": osm,
         "osm_dist_m": dist,
         "pos_m": None if pos is None else round(pos),
+        "source": s.get("source", "open_data"),
     }
 
 
@@ -706,7 +821,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069", "shared_stop": "#0a3069", "shared_estimate": "#cf222e",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},
