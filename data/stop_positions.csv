@@ -95,81 +95,81 @@ A103,VUELTA,36,P36,El Campesino,10.39035,-75.478177,map_label,"map:437,291",48.9
 A103,VUELTA,37,P37,Centro Comercial Santa Lucia,10.39141,-75.479939,map_label,"map:374,254",45.8,11426,open_data
 A103,VUELTA,38,P38,Transferencia Santa Lucia,10.394936,-75.478804,osm_station,w185608086,,12012,open_data
 A104,IDA,1,P01,Transferencia Santa Lucia,10.395265,-75.47803,osm_station,w185608086,7.1,92,open_data
-A104,IDA,2,P02,SonoMarcas,10.392367,-75.481658,photon,N13702806329,18.1,1545,open_data
-A104,IDA,3,P03,Shopping center,10.390576,-75.480087,map_order,"map:1066,200",37.4,1892,open_data
-A104,IDA,4,P04,Biblioteca Distrital,10.388997,-75.481306,photon,W1199654357,48.8,2117,open_data
-A104,IDA,5,P05,Colegio Naval,10.386194,-75.480997,map_aligned,"map:934,336",26.7,2503,open_data
-A104,IDA,6,P06,Centro Crisitana Nueva Vida,10.383616,-75.480447,map_aligned,"map:896,419",25.7,2850,open_data
-A104,IDA,7,P07,Brasas de Cartagena,10.381423,-75.479596,map_aligned,"map:872,518",26.2,3160,open_data
-A104,IDA,8,P08,Portales de San Fernando III,10.380221,-75.479392,photon,N8214359417,16.6,3349,open_data
-A104,IDA,9,P09,Iglesia La Consolata,10.377615,-75.480239,map_aligned,"map:767,611",35.4,3654,open_data
-A104,IDA,10,P10,Baby Celnet Celulares,10.375078,-75.480828,map_aligned,"map:693,679",32.4,3942,open_data
-A104,IDA,11,P11,Ferreterias y materiales El Educador,10.374497,-75.478395,map_aligned,"map:756,769",34.4,4252,open_data
-A104,IDA,12,P12,Iglesia Cristiana El acta del pacto,10.373983,-75.476044,map_aligned,"map:819,837",33.0,4518,open_data
-A104,IDA,13,P13,Punto frio el Gavilan,10.373705,-75.473539,interpolated,,,4795,open_data
-A104,IDA,14,P14,Coosalud,10.372198,-75.473285,interpolated,,,5071,open_data
-A104,IDA,15,P15,Tienda La Primaveral,10.370211,-75.474815,map_aligned,"map:778,962",36.4,5348,open_data
-A104,IDA,16,P16,Iglesia Cristiana sendero de Salvacion,10.367867,-75.475448,map_aligned,"map:708,1021",39.6,5734,open_data
-A104,IDA,17,P17,Asadero don Rico Pollo,10.366174,-75.477656,map_aligned,"map:601,1025",42.4,6040,open_data
-A104,IDA,18,P18,Restaurante Rossy,10.365173,-75.480848,map_aligned,"map:484,988",40.2,6414,open_data
-A104,IDA,19,P19,Los trupillos,10.364095,-75.48176,map_aligned,"map:421,1016",16.4,6683,open_data
-A104,VUELTA,20,P20,Disco black and white,10.36177,-75.481351,map_aligned,"map:378,1099",28.1,7032,open_data
-A104,VUELTA,21,P21,Colegio bertha suttner,10.360288,-75.479964,photon,N12485840101,24.0,7256,open_data
-A104,VUELTA,22,P22,Las vegas 1,10.361916,-75.477808,map_order,"map:505,1182",31.2,7627,open_data
-A104,VUELTA,23,P23,Colegio jesus maestro,10.363705,-75.476306,map_order,"map:592,1157",27.4,7885,open_data
-A104,VUELTA,24,P24,La batea MZ A LT #7,10.365123,-75.476959,map_order,"map:612,1087",33.9,8095,open_data
-A104,VUELTA,25,P25,Frigocarnes Mandela,10.366932,-75.476572,map_order,"map:653,1051",32.3,8391,open_data
-A104,VUELTA,26,P26,Variedades,10.368036,-75.475229,map_order,"map:720,1048",39.2,8582,open_data
-A104,VUELTA,27,P27,Drogeria MK,10.36932,-75.474726,map_order,"map:776,1002",37.5,8802,open_data
-A104,VUELTA,28,P28,Frente Chinito Expres,10.371882,-75.473517,map_order,"map:862,961",32.5,9171,open_data
-A104,VUELTA,29,P29,Esquina Alegre,10.373286,-75.472522,map_order,"map:926,940",38.3,9361,open_data
-A104,VUELTA,30,P30,Ferreteria y Variedades El Chico,10.373956,-75.475402,map_order,"map:854,832",39.2,9698,open_data
-A104,VUELTA,31,P31,Restaurante La Florida,10.374359,-75.477754,map_order,"map:793,770",42.1,9961,open_data
-A104,VUELTA,32,P32,Drogueria y variedades Maria V,10.37464,-75.479521,map_order,"map:740,721",36.1,10158,open_data
-A104,VUELTA,33,P33,Variedades solo Kato,10.376,-75.480619,map_order,"map:738,674",42.4,10449,open_data
-A104,VUELTA,34,P34,Iglesia La Consolata,10.378517,-75.479997,map_order,"map:812,608",40.7,10735,open_data
-A104,VUELTA,35,P35,Portales San Fernando III,10.380221,-75.479392,photon,N8214359417,16.6,10936,open_data
-A104,VUELTA,36,P36,Parque Lorduy,10.382344,-75.480204,map_order,"map:889,479",30.8,11271,open_data
-A104,VUELTA,37,P37,Parque Plan 134,10.383705,-75.4799,map_order,"map:928,442",28.0,11425,open_data
-A104,VUELTA,38,P38,Colegio Dulce Corazon de Maria,10.385556,-75.479749,photon,N12485837476,7.7,11636,open_data
-A104,VUELTA,39,P39,Colegio Juan Jose Nieto,10.386433,-75.481245,map_order,"map:954,312",43.4,11827,open_data
-A104,VUELTA,40,P40,Biblioteca Distrital,10.388976,-75.481238,photon,W1199654357,41.0,12170,open_data
-A104,VUELTA,41,P41,Bodytech,10.39029,-75.480274,map_order,"map:1058,230",35.2,12354,open_data
-A104,VUELTA,42,P42,Centro Comercial Santa Lucia,10.391665,-75.480358,photon,W1474552162,37.9,12594,open_data
+A104,IDA,2,P02,SonoMarcas,10.392015,-75.481075,map_label,"map:1059,150",32.3,1620,open_data
+A104,IDA,3,P03,Shopping center,10.390575,-75.480087,map_label,"map:1066,200",37.4,1892,open_data
+A104,IDA,4,P04,Biblioteca Distrital,10.387809,-75.481674,map_label,"map:950,256",34.0,2254,open_data
+A104,IDA,5,P05,Colegio Naval,10.386194,-75.480997,map_label,"map:934,336",26.7,2503,open_data
+A104,IDA,6,P06,Centro Crisitana Nueva Vida,10.383633,-75.480444,map_label,"map:896,418",27.8,2848,open_data
+A104,IDA,7,P07,Brasas de Cartagena,10.381423,-75.479596,map_label,"map:872,518",26.2,3160,open_data
+A104,IDA,8,P08,Portales de San Fernando III,10.379588,-75.479709,map_label,"map:830,559",34.1,3428,open_data
+A104,IDA,9,P09,Iglesia La Consolata,10.377614,-75.48024,map_label,"map:767,611",35.4,3654,open_data
+A104,IDA,10,P10,Baby Celnet Celulares,10.375077,-75.480828,map_label,"map:693,679",32.5,3942,open_data
+A104,IDA,11,P11,Ferreterias y materiales El Educador,10.374497,-75.478395,map_label,"map:756,769",34.4,4252,open_data
+A104,IDA,12,P12,Iglesia Cristiana El acta del pacto,10.373982,-75.476029,map_label,"map:819,838",35.3,4520,open_data
+A104,IDA,13,P13,Punto frio el Gavilan,10.372517,-75.473054,map_label,"map:883,929",34.2,5028,open_data
+A104,IDA,14,P14,Coosalud,10.370211,-75.474815,map_label,"map:778,962",36.4,5348,open_data
+A104,IDA,15,P15,Tienda La Primaveral,10.367867,-75.475448,map_label,"map:708,1021",39.5,5734,open_data
+A104,IDA,16,P16,Iglesia Cristiana sendero de Salvacion,10.366174,-75.477656,map_label,"map:601,1025",42.4,6040,open_data
+A104,IDA,17,P17,Asadero don Rico Pollo,10.365602,-75.4792,interpolated,,,6227,open_data
+A104,IDA,18,P18,Restaurante Rossy,10.365173,-75.480848,map_label,"map:484,988",40.1,6414,open_data
+A104,IDA,19,P19,Los trupillos,10.364095,-75.48176,map_label,"map:421,1016",16.3,6683,open_data
+A104,VUELTA,20,P20,Disco black and white,10.36177,-75.481351,map_label,"map:378,1099",28.1,7032,open_data
+A104,VUELTA,21,P21,Colegio bertha suttner,10.360044,-75.479751,map_label,"map:390,1189",27.6,7291,open_data
+A104,VUELTA,22,P22,Las vegas 1,10.361916,-75.477808,map_label,"map:505,1182",31.2,7627,open_data
+A104,VUELTA,23,P23,Colegio jesus maestro,10.363706,-75.476305,map_label,"map:592,1157",27.4,7885,open_data
+A104,VUELTA,24,P24,La batea MZ A LT #7,10.365123,-75.476959,map_label,"map:612,1087",33.9,8095,open_data
+A104,VUELTA,25,P25,Frigocarnes Mandela,10.366932,-75.476573,map_label,"map:653,1051",32.4,8391,open_data
+A104,VUELTA,26,P26,Variedades,10.368036,-75.475229,map_label,"map:720,1048",39.2,8582,open_data
+A104,VUELTA,27,P27,Drogeria MK,10.369321,-75.474728,map_label,"map:776,1002",36.1,8803,open_data
+A104,VUELTA,28,P28,Frente Chinito Expres,10.371882,-75.473517,map_label,"map:862,961",32.5,9171,open_data
+A104,VUELTA,29,P29,Esquina Alegre,10.373286,-75.472522,map_label,"map:926,940",38.3,9361,open_data
+A104,VUELTA,30,P30,Ferreteria y Variedades El Chico,10.373956,-75.475402,map_label,"map:854,832",39.1,9698,open_data
+A104,VUELTA,31,P31,Restaurante La Florida,10.374359,-75.477754,map_label,"map:793,770",42.1,9961,open_data
+A104,VUELTA,32,P32,Drogueria y variedades Maria V,10.37464,-75.479521,map_label,"map:740,721",36.1,10158,open_data
+A104,VUELTA,33,P33,Variedades solo Kato,10.376009,-75.480617,map_label,"map:738,674",43.4,10450,open_data
+A104,VUELTA,34,P34,Iglesia La Consolata,10.378517,-75.479997,map_label,"map:812,608",40.6,10735,open_data
+A104,VUELTA,35,P35,Portales San Fernando III,10.380556,-75.47921,map_label,"map:879,562",38.9,10978,open_data
+A104,VUELTA,36,P36,Parque Lorduy,10.382344,-75.480204,map_label,"map:889,479",30.8,11271,open_data
+A104,VUELTA,37,P37,Parque Plan 134,10.383705,-75.4799,map_label,"map:928,442",28.1,11425,open_data
+A104,VUELTA,38,P38,Colegio Dulce Corazon de Maria,10.385234,-75.479737,map_label,"map:968,398",31.5,11599,open_data
+A104,VUELTA,39,P39,Colegio Juan Jose Nieto,10.386431,-75.48124,map_label,"map:954,312",44.7,11827,open_data
+A104,VUELTA,40,P40,Biblioteca Distrital,10.388688,-75.481322,map_label,"map:996,256",38.4,12136,open_data
+A104,VUELTA,41,P41,Bodytech,10.39029,-75.480274,map_label,"map:1058,230",35.2,12354,open_data
+A104,VUELTA,42,P42,Centro Comercial Santa Lucia,10.391499,-75.480083,map_label,"map:1102,178",40.5,12559,open_data
 A104,VUELTA,43,P43,Transferencia Santa Lucia,10.394936,-75.478804,osm_station,w185608086,,13126,open_data
-A105,IDA,1,P01,Transferencia Santa Lucia,10.395265,-75.47803,osm_station,w185608086,7.1,17,open_data
-A105,IDA,2,P02,SonoMarcas,10.396192,-75.47628,interpolated,,,587,open_data
-A105,IDA,3,P03,Shopping center,10.393907,-75.477154,map_aligned,"map:568,288",14.9,1157,open_data
-A105,IDA,4,P04,Biblioteca Distrital,10.388976,-75.481238,photon,W1199654357,41.0,1868,open_data
-A105,IDA,5,P05,Colegio Juan Jose Nieto,10.386246,-75.482178,map_order,"map:275,723",20.6,2188,open_data
-A105,IDA,6,P06,Supergiros,10.384186,-75.482887,map_order,"map:231,841",19.1,2428,open_data
-A105,IDA,7,P07,Olimpica Carmelo,10.380756,-75.484166,photon,N4961883140,24.7,2833,open_data
-A105,IDA,8,P08,Los Jardines,10.379769,-75.483479,map_order,"map:183,1080",23.2,3063,open_data
-A105,IDA,9,P09,Nueva Jerusalen La Consolata,10.37958,-75.480689,map_order,"map:343,1093",26.0,3370,open_data
-A105,IDA,10,P10,Villa Rubia,10.379352,-75.478914,map_order,"map:445,1102",38.3,3567,open_data
-A105,IDA,11,P11,Clinica ESE Rafael Calvo,10.379088,-75.475865,map_order,"map:619,1121",38.5,3904,open_data
-A105,IDA,12,P12,Restaurante Chung Fa,10.378839,-75.472553,map_order,"map:808,1142",34.7,4268,open_data
-A105,IDA,13,P13,Institución Educativa Mecerdes Abrego,10.379814,-75.470305,map_order,"map:943,1101",16.3,4614,open_data
-A105,IDA,14,P14,Olimpica San Fernando,10.37794,-75.468614,map_order,"map:1034,1208",18.4,4894,open_data
-A105,IDA,15,P15,Colegio de la Policia Nacional,10.377665,-75.466321,map_order,"map:1156,1228",17.4,5164,open_data
-A105,IDA,16,P16,Entrada Simon Bolivar,10.378514,-75.465181,photon,R19013034,12.0,5321,open_data
-A105,IDA,17,P17,Inicio Simon Bolivar,10.378765,-75.464837,photon,R19013034,48.3,5367,open_data
-A105,VUELTA,18,P18,Parque Simon Bolivar,10.380262,-75.463858,map_aligned,"map:1309,1086",8.4,5627,open_data
-A105,VUELTA,19,P19,Parque 11 de Noviembre,10.382387,-75.466273,map_aligned,"map:1174,956",14.1,5982,open_data
-A105,VUELTA,20,P20,Portal de Medellin,10.382172,-75.46919,map_aligned,"map:994,965",20.8,6434,open_data
-A105,VUELTA,21,P21,Calamarí,10.379574,-75.470931,map_aligned,"map:904,1122",9.4,6779,open_data
-A105,VUELTA,22,P22,Clinica ESE Rafael Calvo,10.378852,-75.472724,map_aligned,"map:796,1163",8.4,7026,open_data
-A105,VUELTA,23,P23,Portales de San Fernando,10.379093,-75.476368,map_aligned,"map:588,1143",5.0,7426,open_data
-A105,VUELTA,24,P24,Efecty Socorro MG1 L22,10.379301,-75.478974,map_aligned,"map:439,1128",6.2,7714,open_data
-A105,VUELTA,25,P25,Los Jardines MG2 L16,10.379764,-75.48338,map_aligned,"map:187,1103",20.1,8201,open_data
-A105,VUELTA,26,P26,Olimpica Carmelo,10.380756,-75.484166,photon,N4961883140,24.7,8442,open_data
-A105,VUELTA,27,P27,Supergiros,10.390233,-75.480432,photon,N13726640117,6.9,9578,open_data
-A105,VUELTA,28,P28,Colegio Juan Jose Nieto,10.395849,-75.476828,photon,N12485840116,59.1,11284,open_data
-A105,VUELTA,29,P29,Biblioteca Distrital,10.395727,-75.477032,interpolated,,,11310,open_data
-A105,VUELTA,30,P30,Bodytech,10.395606,-75.477236,interpolated,,,11337,open_data
-A105,VUELTA,31,P31,Coliseo Colegio Biffi,10.39551,-75.477454,interpolated,,,11363,open_data
-A105,VUELTA,32,P32,Clinica Madre Bernarda,10.395417,-75.477672,interpolated,,,11389,open_data
-A105,VUELTA,33,P33,Transferencia Santa Lucia,10.395324,-75.477891,osm_station,w185608086,,11415,open_data
+A105,IDA,1,P01,Transferencia Santa Lucia,10.3952063,-75.4780046,osm_station,w185608086,,,open_data
+A105,IDA,2,P02,SonoMarcas,10.392718,-75.482244,map_georef,"map:263,355",22.2,,open_data
+A105,IDA,3,P03,Shopping center,10.390036,-75.480639,map_georef,"map:352,496",16.2,,open_data
+A105,IDA,4,P04,Biblioteca Distrital,10.388439,-75.481472,map_georef,"map:297,590",22.1,,open_data
+A105,IDA,5,P05,Colegio Juan Jose Nieto,10.386512,-75.482089,map_georef,"map:256,699",29.0,,open_data
+A105,IDA,6,P06,Supergiros,10.38392,-75.482979,map_georef,"map:203,848",26.5,,open_data
+A105,IDA,7,P07,Olimpica Carmelo,10.381187,-75.484005,map_georef,"map:140,1004",28.5,,open_data
+A105,IDA,8,P08,Los Jardines,10.379764,-75.483381,map_georef,"map:187,1102",18.3,,open_data
+A105,IDA,9,P09,Nueva Jerusalen La Consolata,10.379565,-75.480518,map_georef,"map:350,1120",23.9,,open_data
+A105,IDA,10,P10,Villa Rubia,10.379301,-75.478973,map_georef,"map:439,1128",6.2,,open_data
+A105,IDA,11,P11,Clinica ESE Rafael Calvo,10.379093,-75.476367,map_georef,"map:588,1143",5.5,,open_data
+A105,IDA,12,P12,Restaurante Chung Fa,10.378852,-75.472724,map_georef,"map:796,1163",8.4,,open_data
+A105,IDA,13,P13,Institución Educativa Mecerdes Abrego,10.379566,-75.470937,map_georef,"map:903,1122",7.9,,open_data
+A105,IDA,14,P14,Olimpica San Fernando,10.382172,-75.46919,map_georef,"map:994,965",20.8,,open_data
+A105,IDA,15,P15,Colegio de la Policia Nacional,10.382394,-75.466283,map_georef,"map:1174,956",14.3,,open_data
+A105,IDA,16,P16,Entrada Simon Bolivar,10.380257,-75.463854,map_georef,"map:1309,1086",7.7,,open_data
+A105,IDA,17,P17,Inicio Simon Bolivar,10.378868,-75.464696,map_georef,"map:1249,1158",23.0,,open_data
+A105,VUELTA,18,P18,Parque Simon Bolivar,10.377665,-75.466321,map_georef,"map:1156,1228",17.3,,open_data
+A105,VUELTA,19,P19,Parque 11 de Noviembre,10.377939,-75.468611,map_georef,"map:1034,1208",17.5,,open_data
+A105,VUELTA,20,P20,Portal de Medellin,10.379814,-75.470305,map_georef,"map:943,1101",16.3,,open_data
+A105,VUELTA,21,P21,Calamarí,10.378839,-75.472552,map_georef,"map:808,1142",33.8,,open_data
+A105,VUELTA,22,P22,Clinica ESE Rafael Calvo,10.379088,-75.475864,map_georef,"map:619,1121",38.5,,open_data
+A105,VUELTA,23,P23,Portales de San Fernando,10.379352,-75.478914,map_georef,"map:445,1102",38.3,,open_data
+A105,VUELTA,24,P24,Efecty Socorro MG1 L22,10.37958,-75.480689,map_georef,"map:343,1093",26.0,,open_data
+A105,VUELTA,25,P25,Los Jardines MG2 L16,10.379769,-75.483479,map_georef,"map:183,1080",23.2,,open_data
+A105,VUELTA,26,P26,Olimpica Carmelo,10.381625,-75.483841,map_georef,"map:173,988",19.0,,open_data
+A105,VUELTA,27,P27,Supergiros,10.384185,-75.482887,map_georef,"map:231,841",19.2,,open_data
+A105,VUELTA,28,P28,Colegio Juan Jose Nieto,10.386246,-75.482178,map_georef,"map:275,723",20.7,,open_data
+A105,VUELTA,29,P29,Biblioteca Distrital,10.388586,-75.481352,map_georef,"map:324,588",18.0,,open_data
+A105,VUELTA,30,P30,Bodytech,10.39005,-75.480527,map_georef,"map:373,511",24.7,,open_data
+A105,VUELTA,31,P31,Coliseo Colegio Biffi,10.392348,-75.478463,map_georef,"map:495,380",25.0,,open_data
+A105,VUELTA,32,P32,Clinica Madre Bernarda,10.393907,-75.477154,map_georef,"map:568,288",14.9,,open_data
+A105,VUELTA,33,P33,Transferencia Santa Lucia,10.3952063,-75.4780046,osm_station,w185608086,,,open_data
 A107,IDA,1,P01,Transferencia Santa Lucia,10.395265,-75.47803,osm_station,w185608086,7.1,92,open_data
 A107,IDA,2,P02,Chinatown,10.392517,-75.484934,map_label,"map:463,152",50.2,1596,open_data
 A107,IDA,3,P03,Clinica Blas de Lezo,10.391469,-75.487478,map_label,"map:347,195",53.2,1898,open_data
@@ -246,30 +246,30 @@ A108,VUELTA,30,P30,Aguas de Cartagena,10.392426,-75.484923,map_order,"map:1070,2
 A108,VUELTA,31,P31,Piko Riko,10.392817,-75.482409,photon,W1494497146,23.5,9776,open_data
 A108,VUELTA,32,P32,Transferencia Santa Lucia,10.394936,-75.478804,osm_station,w185608086,,10397,open_data
 A111,CIRCULAR,1,P01,Transferencia Santa Lucia,10.395265,-75.47803,osm_station,w185608086,7.1,92,open_data
-A111,CIRCULAR,2,P02,Chinatown,10.392476,-75.485035,photon,N13829893969,21.1,1608,open_data
-A111,CIRCULAR,3,P03,Clinica Blas de Lezo,10.391699,-75.486913,photon,W94668897,24.7,1831,open_data
-A111,CIRCULAR,4,P04,Auto Coreano,10.391074,-75.488456,photon,W1206729530,30.2,2014,open_data
-A111,CIRCULAR,5,P05,Tacarigua 1,10.394269,-75.491671,photon,W1366660997,26.5,2726,open_data
-A111,CIRCULAR,6,P06,Conjunto residencial Tacarigua,10.395997,-75.493958,map_aligned,"map:535,514",37.3,3054,open_data
-A111,CIRCULAR,7,P07,Restaurante En Pin (Cll 30#57-341),10.395965,-75.495713,map_aligned,"map:426,586",39.6,3325,open_data
-A111,CIRCULAR,8,P08,Danna Express,10.394409,-75.496499,interpolated,,,3549,open_data
-A111,CIRCULAR,9,P09,Tienda La rebaja Oficial,10.394958,-75.498468,interpolated,,,3773,open_data
-A111,CIRCULAR,10,P10,Terraza los Luceros,10.393333,-75.499226,interpolated,,,3997,open_data
-A111,CIRCULAR,11,P11,Mz49 Lote 16,10.39175,-75.500112,map_aligned,"map:326,901",33.0,4221,open_data
-A111,CIRCULAR,12,P12,Mz56 Lote8,10.391397,-75.502957,map_aligned,"map:190,994",34.9,4535,open_data
-A111,CIRCULAR,13,P13,Excursiones Maria Elena,10.38976,-75.503426,map_aligned,"map:211,1113",23.2,4786,open_data
-A111,CIRCULAR,14,P14,Clinica El Bosque V,10.388411,-75.502272,map_aligned,"map:326,1158",33.7,5107,open_data
-A111,CIRCULAR,15,P15,Universidad del Sinu V,10.388818,-75.499935,map_aligned,"map:435,1076",36.0,5366,open_data
-A111,CIRCULAR,16,P16,Colegio INEM V,10.389229,-75.497457,map_aligned,"map:550,990",37.4,5644,open_data
-A111,CIRCULAR,17,P17,Entrada Almirante Colon,10.389493,-75.495903,map_aligned,"map:624,936",40.5,5817,open_data
-A111,CIRCULAR,18,P18,Napoleon Perea,10.389825,-75.493927,map_aligned,"map:714,867",40.7,6036,open_data
-A111,CIRCULAR,19,P19,Entrada Los Caracoles,10.390246,-75.491469,map_aligned,"map:830,782",45.1,6315,open_data
-A111,CIRCULAR,20,P20,Olimpica Caracoles,10.390718,-75.489078,map_aligned,"map:941,689",41.1,6584,open_data
-A111,CIRCULAR,21,P21,Cl 30 entre Tv 54 y Kr 67,10.3907521,-75.4888663,osm_order,n12135936064,5.0,6607,open_data
-A111,CIRCULAR,22,P22,Cl 30 entre Kr 68B y 68D,10.390547,-75.483545,map_aligned,"map:1211,556",36.8,7251,open_data
-A111,CIRCULAR,23,P23,Cl 30 entre Kr 69 y 70,10.389763,-75.482009,map_aligned,"map:1310,556",37.8,7440,open_data
-A111,CIRCULAR,24,P24,Bodytech,10.390095,-75.48048,map_aligned,"map:1392,483",26.9,7657,open_data
-A111,CIRCULAR,25,P25,Centro Comercial Santa Lucia,10.391665,-75.480358,photon,W1474552162,37.9,7929,open_data
+A111,CIRCULAR,2,P02,Chinatown,10.392466,-75.485061,map_label,"map:1065,464",42.6,1611,open_data
+A111,CIRCULAR,3,P03,Clinica Blas de Lezo,10.391644,-75.487046,map_label,"map:986,559",42.7,1847,open_data
+A111,CIRCULAR,4,P04,Auto Coreano,10.390979,-75.488697,map_label,"map:921,638",39.9,2042,open_data
+A111,CIRCULAR,5,P05,Tacarigua 1,10.391461,-75.491186,map_label,"map:780,706",41.7,2411,open_data
+A111,CIRCULAR,6,P06,Conjunto residencial Tacarigua,10.394716,-75.491874,map_label,"map:674,560",30.7,2785,open_data
+A111,CIRCULAR,7,P07,Restaurante En Pin (Cll 30#57-341),10.395998,-75.493958,map_label,"map:535,514",37.2,3054,open_data
+A111,CIRCULAR,8,P08,Danna Express,10.395965,-75.495713,map_label,"map:426,586",39.5,3325,open_data
+A111,CIRCULAR,9,P09,Tienda La rebaja Oficial,10.394624,-75.497274,map_label,"map:399,673",37.4,3637,open_data
+A111,CIRCULAR,10,P10,Terraza los Luceros,10.394221,-75.498977,map_label,"map:309,762",35.4,3895,open_data
+A111,CIRCULAR,11,P11,Mz49 Lote 16,10.39175,-75.500112,map_label,"map:326,901",33.0,4221,open_data
+A111,CIRCULAR,12,P12,Mz56 Lote8,10.391397,-75.502957,map_label,"map:190,994",35.0,4535,open_data
+A111,CIRCULAR,13,P13,Excursiones Maria Elena,10.38976,-75.503426,map_label,"map:211,1113",23.2,4786,open_data
+A111,CIRCULAR,14,P14,Clinica El Bosque V,10.38841,-75.502278,map_label,"map:326,1158",33.2,5106,open_data
+A111,CIRCULAR,15,P15,Universidad del Sinu V,10.388818,-75.499935,map_label,"map:435,1076",35.9,5366,open_data
+A111,CIRCULAR,16,P16,Colegio INEM V,10.389229,-75.497458,map_label,"map:550,990",37.4,5644,open_data
+A111,CIRCULAR,17,P17,Entrada Almirante Colon,10.389494,-75.495896,map_label,"map:624,936",41.1,5818,open_data
+A111,CIRCULAR,18,P18,Napoleon Perea,10.389827,-75.49392,map_label,"map:715,867",41.3,6037,open_data
+A111,CIRCULAR,19,P19,Entrada Los Caracoles,10.390245,-75.491476,map_label,"map:829,782",44.6,6315,open_data
+A111,CIRCULAR,20,P20,Olimpica Caracoles,10.390718,-75.489078,map_label,"map:941,689",41.1,6584,open_data
+A111,CIRCULAR,21,P21,Cl 30 entre Tv 54 y Kr 67,10.391535,-75.485502,map_label,"map:1085,559",40.0,7010,open_data
+A111,CIRCULAR,22,P22,Cl 30 entre Kr 68B y 68D,10.390547,-75.483545,map_label,"map:1211,556",36.8,7251,open_data
+A111,CIRCULAR,23,P23,Cl 30 entre Kr 69 y 70,10.389763,-75.482009,map_label,"map:1310,556",37.8,7440,open_data
+A111,CIRCULAR,24,P24,Bodytech,10.390095,-75.48048,map_label,"map:1392,483",26.9,7657,open_data
+A111,CIRCULAR,25,P25,Centro Comercial Santa Lucia,10.391403,-75.479928,map_label,"map:1372,392",8.8,7873,open_data
 A111,CIRCULAR,26,P26,Transferencia Santa Lucia,10.394936,-75.478804,osm_station,w185608086,,8461,open_data
 A114,IDA,1,P01,Patio Portal D5,10.395741,-75.472777,osm_station,r13764314,19.3,80,open_data
 A114,IDA,2,P02,Villa Rosita,10.399857,-75.46727,map_label,"map:174,721",19.0,1350,open_data
@@ -335,45 +335,45 @@ A117,VUELTA,27,P27,Ipanema,10.400567,-75.466114,map_label,"map:892,912",78.4,858
 A117,VUELTA,28,P28,Entrada Las Palmeras,10.398428,-75.470852,map_label,"map:716,1054",47.0,9153,open_data
 A117,VUELTA,29,P29,Las Palmeras,10.398024,-75.472223,map_label,"map:663,1089",31.7,9311,open_data
 A117,VUELTA,30,P30,Patio Portal C1,10.396242,-75.472251,osm_station,r13764314,,10112,open_data
-A118,IDA,1,P01,Patio Portal,,,no_line,,,,news:7309
-A118,IDA,2,P02,Villa Rosita,,,no_line,,,,news:7309
-A118,IDA,3,P03,Altamare,,,no_line,,,,news:7309
-A118,IDA,4,P04,Bomba Petromil,,,no_line,,,,news:7309
-A118,IDA,5,P05,Centro Comercial MIO,,,no_line,,,,news:7309
-A118,IDA,6,P06,Terminal de Transportes,,,no_line,,,,news:7309
-A118,IDA,7,P07,Palmas de Salamanca 2,,,no_line,,,,news:7309
-A118,IDA,8,P08,Palmas de Salamanca,,,no_line,,,,news:7309
-A118,IDA,9,P09,Central de Abastos,,,no_line,,,,news:7309
-A118,IDA,10,P10,Frente a Yesos Cartagena,,,no_line,,,,news:7309
-A118,IDA,11,P11,Frente a Taller,,,no_line,,,,news:7309
-A118,IDA,12,P12,Frente a Chatarrería,,,no_line,,,,news:7309
-A118,IDA,13,P13,Corazón de Jesús (Mz 211),,,no_line,,,,news:7309
-A118,IDA,14,P14,Frente a Tienda Florecer,,,no_line,,,,news:7309
-A118,IDA,15,P15,Frente a Polideportivo El 20,,,no_line,,,,news:7309
-A118,IDA,16,P16,Frente a Panadería La Bendición de Dios,,,no_line,,,,news:7309
-A118,IDA,17,P17,Mz A1 Torre 5,,,no_line,,,,news:7309
-A118,IDA,18,P18,Mz D Lote 3 (frente al parque),,,no_line,,,,news:7309
-A118,IDA,19,P19,Panadería Angie,,,no_line,,,,news:7309
-A118,IDA,20,P20,Mz H Bloque 1,,,no_line,,,,news:7309
-A118,IDA,21,P21,Mz I Bloque 1,,,no_line,,,,news:7309
-A118,VUELTA,22,P22,Mz I Bloque 1,,,no_line,,,,news:7309
-A118,VUELTA,23,P23,Sector La Unión Mz H,,,no_line,,,,news:7309
-A118,VUELTA,24,P24,Hogar Fami Mis Primeros Pasos,,,no_line,,,,news:7309
-A118,VUELTA,25,P25,Sector Minuto de Dios (lote),,,no_line,,,,news:7309
-A118,VUELTA,26,P26,Miramar Mz 201 Lote 12,,,no_line,,,,news:7309
-A118,VUELTA,27,P27,Al lado de Chatarrería,,,no_line,,,,news:7309
-A118,VUELTA,28,P28,Al lado de Taller Mecánico,,,no_line,,,,news:7309
-A118,VUELTA,29,P29,Mi Tiendita,,,no_line,,,,news:7309
-A118,VUELTA,30,P30,Frente a Central de Abastos,,,no_line,,,,news:7309
-A118,VUELTA,31,P31,Entrada El Pozón,,,no_line,,,,news:7309
-A118,VUELTA,32,P32,El Cariñoso,,,no_line,,,,news:7309
-A118,VUELTA,33,P33,Portales de Alicante,,,no_line,,,,news:7309
-A118,VUELTA,34,P34,Villas de la Candelaria,,,no_line,,,,news:7309
-A118,VUELTA,35,P35,Megaluminios,,,no_line,,,,news:7309
-A118,VUELTA,36,P36,Ipanema,,,no_line,,,,news:7309
-A118,VUELTA,37,P37,Entrada a Las Palmeras,,,no_line,,,,news:7309
-A118,VUELTA,38,P38,Las Palmeras,,,no_line,,,,news:7309
-A118,VUELTA,39,P39,Patio Portal,,,no_line,,,,news:7309
+A118,IDA,1,P01,Patio Portal,10.3956156,-75.4726545,osm_station,r13764314,,,news:7309
+A118,IDA,2,P02,Villa Rosita,10.400024,-75.46698,map_georef,"map:355,1110",19.3,,news:7309
+A118,IDA,3,P03,Altamare,10.401436,-75.463544,map_georef,"map:574,1101",11.7,,news:7309
+A118,IDA,4,P04,Bomba Petromil,10.40214,-75.460908,map_georef,"map:738,1103",16.9,,news:7309
+A118,IDA,5,P05,Centro Comercial MIO,10.402842,-75.459009,map_georef,"map:858,1122",15.6,,news:7309
+A118,IDA,6,P06,Terminal de Transportes,10.4004333,-75.4583894,osm_station,r1798882,,,news:7309
+A118,IDA,7,P07,Palmas de Salamanca 2,10.40147,-75.456979,map_georef,"map:1003,1247",117.8,,news:7309
+A118,IDA,8,P08,Palmas de Salamanca,10.404011,-75.456681,map_georef,"map:1013,1108",18.2,,news:7309
+A118,IDA,9,P09,Central de Abastos,10.405913,-75.452189,map_georef,"map:1304,1097",16.1,,news:7309
+A118,IDA,10,P10,Frente a Yesos Cartagena,10.407165,-75.450716,map_georef,"map:1409,1010",73.2,,news:7309
+A118,IDA,11,P11,Frente a Taller,10.409611,-75.452544,map_georef,"map:1364,873",,,news:7309
+A118,IDA,12,P12,Frente a Chatarrería,10.41173,-75.453194,map_georef,"map:1374,740",,,news:7309
+A118,IDA,13,P13,Corazón de Jesús (Mz 211),10.41387,-75.454393,map_georef,"map:1354,594",,,news:7309
+A118,IDA,14,P14,Frente a Tienda Florecer,10.416022,-75.45556,map_georef,"map:1336,448",,,news:7309
+A118,IDA,15,P15,Frente a Polideportivo El 20,10.418056,-75.456663,map_georef,"map:1319,310",,,news:7309
+A118,IDA,16,P16,Frente a Panadería La Bendición de Dios,10.420122,-75.457778,map_georef,"map:1302,170",,,news:7309
+A118,IDA,17,P17,Mz A1 Torre 5,10.421462,-75.459527,map_georef,"map:1234,57",,,news:7309
+A118,IDA,18,P18,Mz D Lote 3 (frente al parque),10.420828,-75.46025,map_georef,"map:1180,77",,,news:7309
+A118,IDA,19,P19,Panadería Angie,10.419857,-75.459905,map_georef,"map:1178,139",,,news:7309
+A118,IDA,20,P20,Mz H Bloque 1,10.420501,-75.459618,map_georef,"map:1208,109",,,news:7309
+A118,IDA,21,P21,Mz I Bloque 1,10.421269,-75.459289,map_georef,"map:1243,73",,,news:7309
+A118,VUELTA,22,P22,Mz I Bloque 1,10.421269,-75.459289,map_georef,"map:1243,73",,,news:7309
+A118,VUELTA,23,P23,Sector La Unión Mz H,10.419696,-75.457773,map_georef,"map:1293,194",,,news:7309
+A118,VUELTA,24,P24,Hogar Fami Mis Primeros Pasos,10.418384,-75.457061,map_georef,"map:1304,283",,,news:7309
+A118,VUELTA,25,P25,Sector Minuto de Dios (lote),10.415646,-75.455611,map_georef,"map:1325,468",,,news:7309
+A118,VUELTA,26,P26,Miramar Mz 201 Lote 12,10.413413,-75.454376,map_georef,"map:1345,620",,,news:7309
+A118,VUELTA,27,P27,Al lado de Chatarrería,10.411352,-75.453298,map_georef,"map:1360,759",,,news:7309
+A118,VUELTA,28,P28,Al lado de Taller Mecánico,10.409374,-75.452649,map_georef,"map:1353,884",,,news:7309
+A118,VUELTA,29,P29,Mi Tiendita,10.407059,-75.450936,map_georef,"map:1393,993",106.8,,news:7309
+A118,VUELTA,30,P30,Frente a Central de Abastos,10.406768,-75.451534,map_georef,"map:1359,1063",15.9,,news:7309
+A118,VUELTA,31,P31,Entrada El Pozón,10.40586,-75.453355,map_georef,"map:1238,1074",14.7,,news:7309
+A118,VUELTA,32,P32,El Cariñoso,10.404306,-75.456093,map_georef,"map:1051,1093",2.3,,news:7309
+A118,VUELTA,33,P33,Portales de Alicante,10.403408,-75.457882,map_georef,"map:932,1105",2.0,,news:7309
+A118,VUELTA,34,P34,Villas de la Candelaria,10.402462,-75.459968,map_georef,"map:794,1100",26.2,,news:7309
+A118,VUELTA,35,P35,Megaluminios,10.401966,-75.461773,map_georef,"map:687,1083",37.2,,news:7309
+A118,VUELTA,36,P36,Ipanema,10.401363,-75.463779,map_georef,"map:560,1090",6.8,,news:7309
+A118,VUELTA,37,P37,Entrada a Las Palmeras,10.400398,-75.466242,map_georef,"map:402,1098",6.1,,news:7309
+A118,VUELTA,38,P38,Las Palmeras,10.399741,-75.46769,map_georef,"map:307,1101",1.2,,news:7309
+A118,VUELTA,39,P39,Patio Portal,10.3956156,-75.4726545,osm_station,r13764314,,,news:7309
 C001,IDA,1,P01,Colegio Ciudadela 2000,10.373914,-75.471466,map_label,"map:1523,1233",21.3,18,open_data
 C001,IDA,2,P02,Ferreteria y Variedades El Chico,10.373954,-75.475353,map_label,"map:1448,1217",51.9,653,open_data
 C001,IDA,3,P03,Restaurante La Florida,10.374359,-75.477754,map_label,"map:1405,1206",41.9,922,open_data
@@ -488,46 +488,46 @@ C016,CIRCULAR,15,P15,Ipanema,10.399735,-75.467706,interpolated,,,6373,open_data
 C016,CIRCULAR,16,P16,Entrada Las Palmeras,10.398257,-75.471465,interpolated,,,6817,open_data
 C016,CIRCULAR,17,P17,Las Palmeras,10.396666,-75.475153,interpolated,,,7261,open_data
 C016,CIRCULAR,18,P18,Patio Portal C1,10.396242,-75.472251,osm_station,r13764314,,7705,open_data
-C017,IDA,1,P01,Parque de la Marina,10.420411,-75.551139,shared_stop,C001:IDA:46,21.3,30,news:5309
-C017,IDA,2,P02,Cancha Bambino,10.422747,-75.5489,interpolated,,,390,news:5309
-C017,IDA,3,P03,Teatro Adolfo Mejía,10.4250282,-75.5466339,osm_aligned,n12059944369,5.4,750,news:5309
-C017,IDA,4,P04,El Boquetillo,10.428429,-75.545025,interpolated,,,1258,news:5309
-C017,IDA,5,P05,Colegio Modelo de la Costa,10.431921,-75.544727,shared_stop,T102:IDA:15,9.7,1767,news:5309
-C017,IDA,6,P06,Droguería Inglesa Edificio Zafiro,10.4328831,-75.5430509,osm_aligned,n11639266669,5.5,1979,news:5309
-C017,IDA,7,P07,Entrada al Cabrero,10.434638,-75.53968,shared_stop,T102:IDA:17,11.8,2397,news:5309
-C017,IDA,8,P08,DATT,10.436541,-75.53645,shared_stop,T102:IDA:18,11.9,2808,news:5309
-C017,IDA,9,P09,Edificio Altamar,10.438273,-75.532063,shared_stop,T102:IDA:19,8.4,3341,news:5309
-C017,IDA,10,P10,Terrazas de San Sebastián,10.439791,-75.529994,shared_stop,T102:IDA:20,22.5,3623,news:5309
-C017,IDA,11,P11,Global Center,10.447102,-75.521811,interpolated,,,4839,news:5309
-C017,IDA,12,P12,Bomba Terpel,10.454053,-75.513314,interpolated,,,6055,news:5309
-C017,IDA,13,P13,Parque de las Américas,10.461078,-75.504863,interpolated,,,7271,news:5309
-C017,IDA,14,P14,Calle 67,10.469279,-75.497557,interpolated,,,8487,news:5309
-C017,IDA,15,P15,Puente Crespito,10.477743,-75.490506,interpolated,,,9703,news:5309
-C017,IDA,16,P16,Iglesia Cristo Rey,10.487121,-75.484765,interpolated,,,10919,news:5309
-C017,IDA,17,P17,Carrera 6,10.496414,-75.478829,interpolated,,,12135,news:5309
-C017,IDA,18,P18,Ferretería Crespo 70,10.505892,-75.473249,interpolated,,,13351,news:5309
-C017,IDA,19,P19,Frente a Hotel Las Américas,10.51599,-75.468935,interpolated,,,14567,news:5309
-C017,IDA,20,P20,Terminal del Norte,10.522163,-75.46599,interpolated,,,15783,news:5309
-C017,IDA,21,P21,Serena del Mar,10.512099,-75.470432,interpolated,,,16999,news:5309
-C017,IDA,22,P22,Frente a Barcelona de Indias,10.503673,-75.474013,interpolated,,,18215,news:5309
-C017,VUELTA,23,P23,Barceloneta,10.494361,-75.476583,interpolated,,,19431,news:5309
-C017,VUELTA,24,P24,Barcelona de Indias,10.496267,-75.477033,interpolated,,,20647,news:5309
-C017,VUELTA,25,P25,Las Ramblas,10.487896,-75.481514,interpolated,,,21863,news:5309
-C017,VUELTA,26,P26,Frente a Serena del Mar,10.478362,-75.486991,interpolated,,,23079,news:5309
-C017,VUELTA,27,P27,Boquilla 1,10.470232,-75.494434,interpolated,,,24296,news:5309
-C017,VUELTA,28,P28,Boquilla 2,10.463011,-75.502776,interpolated,,,25512,news:5309
-C017,VUELTA,29,P29,Morros Vitri,10.455878,-75.511069,interpolated,,,26728,news:5309
-C017,VUELTA,30,P30,Murano,10.4474741,-75.5174826,osm_aligned,n6389595014,4.3,27944,news:5309
-C017,VUELTA,31,P31,Playa Azul,10.4435967,-75.5178701,osm_aligned,n12059944269,3.1,28374,news:5309
-C017,VUELTA,32,P32,Terrazas de San Sebastián,10.439182,-75.530554,shared_stop,T102:VUELTA:39,17.2,29929,news:5309
-C017,VUELTA,33,P33,Frente al ARA,10.436895,-75.534329,interpolated,,,30417,news:5309
-C017,VUELTA,34,P34,Bellavista Hotel,10.435306,-75.538355,shared_stop,T102:VUELTA:41,12.1,30904,news:5309
-C017,VUELTA,35,P35,El Cabrero,10.433579,-75.541402,shared_stop,T102:VUELTA:42,8.9,31289,news:5309
-C017,VUELTA,36,P36,Costa Azul,10.432143,-75.544129,shared_stop,T102:VUELTA:43,9.5,31627,news:5309
-C017,VUELTA,37,P37,Frente a Parque Apolo,10.4294528,-75.5484843,osm_aligned,n2223103649,15.2,32205,news:5309
-C017,VUELTA,38,P38,Boquetillo de Paz y Concordia,10.4271144,-75.5515856,osm_aligned,n5009870523,7.8,32625,news:5309
-C017,VUELTA,39,P39,Estación Centro,10.423223,-75.5543163,osm_aligned,n2223103616,17.6,33202,news:5309
-C017,VUELTA,40,P40,Parque de la Marina,10.420258,-75.551363,line_end,,,33808,news:5309
+C017,IDA,1,P01,Parque de la Marina,10.420066,-75.551591,map_georef,"map:257,1052",43.1,,news:5309
+C017,IDA,2,P02,Cancha Bambino,10.42139,-75.553468,map_georef,"map:233,1028",49.1,,news:5309
+C017,IDA,3,P03,Teatro Adolfo Mejía,10.427092,-75.551598,map_georef,"map:276,972",12.2,,news:5309
+C017,IDA,4,P04,El Boquetillo,10.428614,-75.549395,map_georef,"map:305,963",24.9,,news:5309
+C017,IDA,5,P05,Colegio Modelo de la Costa,10.432033,-75.544332,map_georef,"map:370,940",20.6,,news:5309
+C017,IDA,6,P06,Droguería Inglesa Edificio Zafiro,10.433233,-75.542115,map_georef,"map:398,935",36.8,,news:5309
+C017,IDA,7,P07,Entrada al Cabrero,10.434267,-75.540095,map_georef,"map:423,928",21.6,,news:5309
+C017,IDA,8,P08,DATT,10.435824,-75.537479,map_georef,"map:456,918",15.5,,news:5309
+C017,IDA,9,P09,Edificio Altamar,10.437094,-75.533681,map_georef,"map:501,915",12.7,,news:5309
+C017,IDA,10,P10,Terrazas de San Sebastián,10.438533,-75.531569,map_georef,"map:530,910",59.9,,news:5309
+C017,IDA,11,P11,Global Center,10.43948,-75.530097,map_georef,"map:548,901",30.3,,news:5309
+C017,IDA,12,P12,Bomba Terpel,10.441513,-75.527137,map_georef,"map:586,886",16.6,,news:5309
+C017,IDA,13,P13,Parque de las Américas,10.44265,-75.523082,map_georef,"map:633,884",1.2,,news:5309
+C017,IDA,14,P14,Calle 67,10.442886,-75.519932,map_georef,"map:668,891",4.0,,news:5309
+C017,IDA,15,P15,Puente Crespito,10.442954,-75.518323,map_georef,"map:686,894",6.1,,news:5309
+C017,IDA,16,P16,Iglesia Cristo Rey,10.444932,-75.517705,map_georef,"map:702,876",36.5,,news:5309
+C017,IDA,17,P17,Carrera 6,10.44736,-75.517455,map_georef,"map:712,850",36.6,,news:5309
+C017,IDA,18,P18,Ferretería Crespo 70,10.448935,-75.517278,map_georef,"map:718,833",30.3,,news:5309
+C017,IDA,19,P19,Frente a Hotel Las Américas,10.458792,-75.507247,map_georef,"map:854,753",0.8,,news:5309
+C017,IDA,20,P20,Terminal del Norte,10.49393,-75.4765,map_georef,"map:1296,457",16.1,,news:5309
+C017,IDA,21,P21,Serena del Mar,10.50882,-75.470209,map_georef,"map:1413,307",69.0,,news:5309
+C017,IDA,22,P22,Frente a Barcelona de Indias,10.518056,-75.467906,map_georef,"map:1462,218",22.5,,news:5309
+C017,VUELTA,23,P23,Barceloneta,10.525449,-75.464906,map_georef,"map:1515,144",,,news:5309
+C017,VUELTA,24,P24,Barcelona de Indias,10.522039,-75.466272,map_georef,"map:1488,176",23.6,,news:5309
+C017,VUELTA,25,P25,Las Ramblas,10.517353,-75.468316,map_georef,"map:1451,221",32.3,,news:5309
+C017,VUELTA,26,P26,Frente a Serena del Mar,10.507448,-75.472553,map_georef,"map:1377,319",9.9,,news:5309
+C017,VUELTA,27,P27,Boquilla 1,10.477239,-75.491013,map_georef,"map:1084,594",42.2,,news:5309
+C017,VUELTA,28,P28,Boquilla 2,10.469739,-75.497225,map_georef,"map:996,662",0.0,,news:5309
+C017,VUELTA,29,P29,Morros Vitri,10.467274,-75.499156,map_georef,"map:966,681",28.1,,news:5309
+C017,VUELTA,30,P30,Murano,10.465018,-75.501211,map_georef,"map:937,700",25.5,,news:5309
+C017,VUELTA,31,P31,Playa Azul,10.458173,-75.508331,map_georef,"map:839,752",45.7,,news:5309
+C017,VUELTA,32,P32,Terrazas de San Sebastián,10.438348,-75.53196,map_georef,"map:522,902",31.7,,news:5309
+C017,VUELTA,33,P33,Frente al ARA,10.436561,-75.536415,map_georef,"map:469,910",14.8,,news:5309
+C017,VUELTA,34,P34,Bellavista Hotel,10.435279,-75.538399,map_georef,"map:444,920",2.7,,news:5309
+C017,VUELTA,35,P35,El Cabrero,10.433896,-75.540939,map_georef,"map:412,927",4.5,,news:5309
+C017,VUELTA,36,P36,Costa Azul,10.43276,-75.543174,map_georef,"map:384,932",13.5,,news:5309
+C017,VUELTA,37,P37,Frente a Parque Apolo,10.430209,-75.544639,map_georef,"map:358,958",27.6,,news:5309
+C017,VUELTA,38,P38,Boquetillo de Paz y Concordia,10.427563,-75.544869,map_georef,"map:348,986",22.6,,news:5309
+C017,VUELTA,39,P39,Estación Centro,10.424225,-75.547644,map_georef,"map:311,1016",20.3,,news:5309
+C017,VUELTA,40,P40,Parque de la Marina,10.420066,-75.551591,map_georef,"map:257,1052",43.1,,news:5309
 C018,IDA,1,P01,Parque de la Marina,10.420411,-75.551139,shared_stop,C001:IDA:46,21.3,482,news:6077
 C018,IDA,2,P02,Mall Plaza,10.426483,-75.541143,map_label,"map:544,692",,1914,news:6077
 C018,IDA,3,P03,Universidad Rafael Núñez,10.426361,-75.538934,map_label,"map:667,665",,2277,news:6077
@@ -759,25 +759,25 @@ X101,VUELTA,71,P71,Diagonal Drogueria Shelema,10.383055,-75.460343,map_label,"ma
 X101,VUELTA,72,P72,Huellas de Alberto Uribe Vuelta,10.384053,-75.458901,line_end,,,32053,open_data
 X102,IDA,1,P01,Patio Portal B6,10.395442,-75.472484,osm_station,r13764314,26.7,42,open_data
 X102,IDA,2,P02,Madre Bernarda B1,10.395196,-75.478631,osm_station,r13764315,6.6,1029,open_data
-X102,IDA,3,P03,Chinatown,10.392476,-75.485035,photon,N13829893969,21.1,1795,open_data
-X102,IDA,4,P04,Clinica Blas de Lezo,10.3909351,-75.4889653,osm_aligned,n12092721014,6.6,2258,open_data
-X102,IDA,5,P05,Auto Coreano,10.3906457,-75.4906807,osm_aligned,n12125327579,24.9,2428,open_data
-X102,IDA,6,P06,Entrada Buenas Aires,10.3899728,-75.4940197,osm_aligned,n12125327577,28.0,2798,open_data
-X102,IDA,7,P07,Entrada La Troncal,10.3896515,-75.4959582,osm_aligned,n12125327576,6.2,3041,open_data
-X102,IDA,8,P08,Plaza Colon,10.3889805,-75.499956,osm_aligned,n12125327574,22.3,3464,open_data
-X102,IDA,9,P09,Colegio INEM,10.3886194,-75.5022539,osm_aligned,n12125327573,9.6,3740,open_data
-X102,IDA,10,P10,Universidad del Sinu,10.3881161,-75.5048175,osm_aligned,n4961883144,8.9,4027,open_data
-X102,IDA,11,P11,Clinica El Bosque,10.3876882,-75.5075909,osm_aligned,n4961883145,10.6,4334,open_data
-X102,IDA,12,P12,Entrada Nuevo Bosque,10.387653,-75.511474,map_aligned,"map:507,858",59.5,4772,open_data
-X102,IDA,13,P13,Estación de Policia Nuevo Bosque,10.388842,-75.514393,interpolated,,,5118,open_data
-X102,IDA,14,P14,San Isidro No. 25-43,10.391236,-75.516183,map_aligned,"map:400,780",46.8,5464,open_data
-X102,IDA,15,P15,Entrada San Isidro No. 53-58,10.395053,-75.517331,interpolated,,,5904,open_data
-X102,IDA,16,P16,Crisanto Luque Los olivos No. 52-49,10.398867,-75.518494,map_aligned,"map:347,595",56.9,6345,open_data
-X102,IDA,17,P17,Paradero Provisional,10.402088,-75.519462,map_aligned,"map:323,517",53.0,6716,open_data
-X102,IDA,18,P18,El Marión No. 46-43,10.404868,-75.520317,interpolated,,,7038,open_data
-X102,IDA,19,P19,Supergiros Bruselas,10.407647,-75.521157,interpolated,,,7359,open_data
-X102,IDA,20,P20,EDS Esso Bruselas,10.410386,-75.522111,interpolated,,,7680,open_data
-X102,IDA,21,P21,EDS Mobil El Bosque,10.41241,-75.521877,interpolated,,,8002,open_data
+X102,IDA,3,P03,Chinatown,10.392393,-75.485242,map_label,"map:1121,742",102.0,1820,open_data
+X102,IDA,4,P04,Clinica Blas de Lezo,10.391621,-75.487103,map_label,"map:1076,759",107.6,2040,open_data
+X102,IDA,5,P05,Auto Coreano,10.390795,-75.48916,map_label,"map:1028,779",103.0,2284,open_data
+X102,IDA,6,P06,Entrada Buenas Aires,10.390235,-75.492237,map_label,"map:959,793",92.3,2628,open_data
+X102,IDA,7,P07,Entrada La Troncal,10.389857,-75.494391,map_label,"map:908,803",85.4,2868,open_data
+X102,IDA,8,P08,Plaza Colon,10.389551,-75.496234,map_label,"map:864,811",80.3,3072,open_data
+X102,IDA,9,P09,Colegio INEM,10.389288,-75.497773,map_label,"map:827,816",84.8,3243,open_data
+X102,IDA,10,P10,Universidad del Sinu,10.388878,-75.500199,map_label,"map:769,826",81.5,3513,open_data
+X102,IDA,11,P11,Clinica El Bosque,10.388505,-75.502393,map_label,"map:716,834",83.8,3757,open_data
+X102,IDA,12,P12,Entrada Nuevo Bosque,10.388029,-75.504854,map_label,"map:658,844",87.0,4032,open_data
+X102,IDA,13,P13,Estación de Policia Nuevo Bosque,10.387604,-75.507518,map_label,"map:594,855",80.8,4327,open_data
+X102,IDA,14,P14,San Isidro No. 25-43,10.387642,-75.511443,map_label,"map:508,858",61.2,4768,open_data
+X102,IDA,15,P15,Entrada San Isidro No. 53-58,10.388754,-75.514186,map_label,"map:442,833",49.8,5093,open_data
+X102,IDA,16,P16,Crisanto Luque Los olivos No. 52-49,10.391236,-75.516183,map_label,"map:400,780",46.8,5464,open_data
+X102,IDA,17,P17,Paradero Provisional,10.393508,-75.516855,map_label,"map:384,725",47.0,5725,open_data
+X102,IDA,18,P18,El Marión No. 46-43,10.398905,-75.518505,map_label,"map:347,594",58.1,6349,open_data
+X102,IDA,19,P19,Supergiros Bruselas,10.402075,-75.519458,map_label,"map:324,517",57.4,6715,open_data
+X102,IDA,20,P20,EDS Esso Bruselas,10.405366,-75.520438,map_label,"map:301,438",58.2,7095,open_data
+X102,IDA,21,P21,EDS Mobil El Bosque,10.408618,-75.521493,map_label,"map:276,359",59.5,7473,open_data
 X102,IDA,22,P22,Bazurto A1,10.414007,-75.524328,osm_station,r13764364,6.4,8323,open_data
 X102,IDA,23,P23,Delicias A1,10.416529,-75.527724,osm_station,r13764365,7.3,8792,open_data
 X102,IDA,24,P24,Lo Amador A1,10.422435,-75.534619,osm_station,w1028518383,6.9,9820,open_data
@@ -787,31 +787,31 @@ X102,VUELTA,27,P27,La Bodeguita B2,10.421377,-75.550021,interpolated,,,12748,ope
 X102,VUELTA,28,P28,Centro B2,10.425103,-75.546448,osm_station,r13764366,5.2,13324,open_data
 X102,VUELTA,29,P29,Lo Amador A2,10.422321,-75.534639,osm_station,w1028518383,5.9,14874,open_data
 X102,VUELTA,30,P30,Delicias A2,10.416444,-75.527822,osm_station,r13764365,6.8,15894,open_data
-X102,VUELTA,31,P31,Bazurto A2,10.4137,-75.524047,interpolated,,,16410,open_data
-X102,VUELTA,32,P32,Martinez Martelo Dg 22 No. 20-50,10.410785,-75.522243,interpolated,,,16925,open_data
-X102,VUELTA,33,P33,Cancha Microfutbol Martinez Martelo,10.407598,-75.522621,photon,W232230186,18.2,17441,open_data
-X102,VUELTA,34,P34,La Cuchilla,10.404402,-75.521427,map_aligned,"map:259,464",28.2,18257,open_data
-X102,VUELTA,35,P35,Coca Cola,10.399615,-75.521115,interpolated,,,18842,open_data
-X102,VUELTA,36,P36,Calle del Mamón,10.39664,-75.517929,interpolated,,,19427,open_data
-X102,VUELTA,37,P37,El Refugio,10.391572,-75.51639,interpolated,,,20013,open_data
-X102,VUELTA,38,P38,Olimpica Alto Bosque,10.388213,-75.513638,map_aligned,"map:449,864",39.6,20598,open_data
-X102,VUELTA,39,P39,Alto Bosque Tv 51,10.387311,-75.511576,map_aligned,"map:496,886",40.0,20846,open_data
-X102,VUELTA,40,P40,Colegio Olga Gonzalez Arrauth,10.384697,-75.506714,map_aligned,"map:620,939",23.8,21452,open_data
-X102,VUELTA,41,P41,Nuevo Oriente (Bascula),10.380249,-75.504187,interpolated,,,22102,open_data
-X102,VUELTA,42,P42,Bajo San Isidro,10.384065,-75.500693,map_aligned,"map:768,961",37.1,22753,open_data
-X102,VUELTA,43,P43,Entrada Ceballos,10.388165,-75.502773,photon,W1204337296,18.6,23288,open_data
-X102,VUELTA,44,P44,Proleca,10.388528,-75.501658,map_aligned,"map:738,856",20.7,23419,open_data
-X102,VUELTA,45,P45,Los Corales,10.388799,-75.500042,map_aligned,"map:776,850",21.1,23599,open_data
-X102,VUELTA,46,P46,Edificio Conjunto Militar Los Corales,10.389248,-75.497336,map_aligned,"map:841,839",17.0,23902,open_data
-X102,VUELTA,47,P47,Clinica El Bosque V,10.389536,-75.495668,map_aligned,"map:881,833",19.5,24087,open_data
-X102,VUELTA,48,P48,Universidad del Sinu V,10.389847,-75.493706,map_aligned,"map:927,826",19.1,24305,open_data
-X102,VUELTA,49,P49,Colegio INEM V,10.389972,-75.492433,map_aligned,"map:958,820",4.4,24448,open_data
-X102,VUELTA,50,P50,Entrada Almirante Colon,10.3902099,-75.4913987,osm_order,n12135936063,5.0,24567,open_data
-X102,VUELTA,51,P51,Napoleon Perea,10.390711,-75.489094,map_aligned,"map:1038,804",8.9,24826,open_data
-X102,VUELTA,52,P52,Entrada Los Caracoles,10.3907521,-75.4888663,osm_order,n12135936064,5.0,24851,open_data
-X102,VUELTA,53,P53,Olimpica Caracoles,10.3923604,-75.4849884,osm_order,n12092721013,16.2,25295,open_data
-X102,VUELTA,54,P54,Aguas de Cartagena,10.392601,-75.48453,map_aligned,"map:1146,757",4.2,25368,open_data
-X102,VUELTA,55,P55,Piko Riko,10.392817,-75.482409,photon,W1494497146,23.5,25611,open_data
+X102,VUELTA,31,P31,Bazurto A2,10.413266,-75.52335,interpolated,,,16500,open_data
+X102,VUELTA,32,P32,Martinez Martelo Dg 22 No. 20-50,10.409226,-75.521784,map_label,"map:244,352",61.1,17106,open_data
+X102,VUELTA,33,P33,Cancha Microfutbol Martinez Martelo,10.407592,-75.522476,map_label,"map:240,391",17.0,17425,open_data
+X102,VUELTA,34,P34,La Cuchilla,10.404401,-75.521427,map_label,"map:259,464",28.2,18257,open_data
+X102,VUELTA,35,P35,Coca Cola,10.401711,-75.521548,map_label,"map:248,528",65.3,18555,open_data
+X102,VUELTA,36,P36,Calle del Mamón,10.399585,-75.520707,map_label,"map:282,584",16.0,18887,open_data
+X102,VUELTA,37,P37,El Refugio,10.397541,-75.518196,map_label,"map:329,634",62.9,19324,open_data
+X102,VUELTA,38,P38,Olimpica Alto Bosque,10.394513,-75.517278,map_label,"map:349,708",72.3,19673,open_data
+X102,VUELTA,39,P39,Alto Bosque Tv 51,10.393103,-75.516851,map_label,"map:359,742",73.0,19836,open_data
+X102,VUELTA,40,P40,Colegio Olga Gonzalez Arrauth,10.39057,-75.516079,map_label,"map:378,803",70.1,20129,open_data
+X102,VUELTA,41,P41,Nuevo Oriente (Bascula),10.388214,-75.513643,map_label,"map:449,864",37.3,20597,open_data
+X102,VUELTA,42,P42,Bajo San Isidro,10.38731,-75.511576,map_label,"map:496,886",40.0,20846,open_data
+X102,VUELTA,43,P43,Entrada Ceballos,10.384697,-75.506714,map_label,"map:620,939",23.8,21452,open_data
+X102,VUELTA,44,P44,Proleca,10.381204,-75.501937,map_label,"map:737,1031",33.9,22408,open_data
+X102,VUELTA,45,P45,Los Corales,10.384065,-75.500693,map_label,"map:768,961",37.1,22753,open_data
+X102,VUELTA,46,P46,Edificio Conjunto Militar Los Corales,10.387081,-75.502225,map_label,"map:727,883",21.9,23143,open_data
+X102,VUELTA,47,P47,Clinica El Bosque V,10.388528,-75.501657,map_label,"map:738,856",20.7,23419,open_data
+X102,VUELTA,48,P48,Universidad del Sinu V,10.388795,-75.500063,map_label,"map:776,850",20.7,23596,open_data
+X102,VUELTA,49,P49,Colegio INEM V,10.389248,-75.497335,map_label,"map:841,839",17.0,23902,open_data
+X102,VUELTA,50,P50,Entrada Almirante Colon,10.389536,-75.495668,map_label,"map:881,833",19.5,24087,open_data
+X102,VUELTA,51,P51,Napoleon Perea,10.389847,-75.493706,map_label,"map:927,826",19.2,24305,open_data
+X102,VUELTA,52,P52,Entrada Los Caracoles,10.389972,-75.492433,map_label,"map:958,820",4.5,24448,open_data
+X102,VUELTA,53,P53,Olimpica Caracoles,10.390711,-75.489095,map_label,"map:1038,804",8.9,24826,open_data
+X102,VUELTA,54,P54,Aguas de Cartagena,10.392601,-75.48453,map_label,"map:1146,757",4.2,25368,open_data
+X102,VUELTA,55,P55,Piko Riko,10.392669,-75.482163,map_label,"map:1204,755",9.8,25643,open_data
 X102,VUELTA,56,P56,Madre Bernarda B2,10.395094,-75.478587,osm_station,r13764315,5.7,26284,open_data
 X102,VUELTA,57,P57,Patio Portal B2,10.395177,-75.47276,osm_station,r13764314,,27546,open_data
 X103,IDA,1,P01,Patio Portal B4,10.395442,-75.472484,osm_station,r13764314,26.7,42,open_data
@@ -919,89 +919,89 @@ X104,VUELTA,59,P59,Entrada Las Palmeras,10.398521,-75.470424,map_label,"map:690,
 X104,VUELTA,60,P60,Altamare,10.401228,-75.464213,map_label,"map:790,1080",,27017,open_data
 X104,VUELTA,61,P61,Bomba Petromil,10.40217,-75.460397,map_label,"map:850,1103",,27448,open_data
 X104,VUELTA,62,P62,Centro comercial Mio,10.400751,-75.458469,line_end,,,27740,open_data
-X105,IDA,1,P01,Colegio Ciudadela 2000,10.423182,-75.537279,line_start,,,0,open_data
-X105,IDA,2,P02,Estadio de Softbol,10.4250282,-75.5466339,osm_aligned,n12059944369,6.3,1261,open_data
-X105,IDA,3,P03,La algodonera,10.408525,-75.550732,map_aligned,"map:213,422",51.7,3377,open_data
-X105,IDA,4,P04,Calamarí,10.403885,-75.55343,map_aligned,"map:165,502",42.8,4438,open_data
-X105,IDA,5,P05,Clinica ESE Rafael Calvo,10.400925,-75.557303,map_aligned,"map:89,542",53.1,6006,open_data
-X105,IDA,6,P06,Portales de San Fernando,10.4104596,-75.5506436,osm_order,n5912359886,5.7,7322,open_data
-X105,IDA,7,P07,Efecty Socorro MG1 L22,10.4104491,-75.550465,osm_order,n5912359788,13.9,7323,open_data
-X105,IDA,8,P08,Los Jardines MG2 L16,10.4147869,-75.5503361,osm_order,n5357684739,17.4,7801,open_data
-X105,IDA,9,P09,Districarnes JG,10.4259039,-75.5405296,osm_order,n12059944569,6.7,10105,open_data
-X105,IDA,10,P10,Iglesia Nuestra Señora del Carmelo,10.40936,-75.518709,map_aligned,"map:747,413",46.4,13338,open_data
-X105,IDA,11,P11,Kiosko #61-21,10.398808,-75.520302,map_aligned,"map:723,586",47.2,14886,open_data
-X105,IDA,12,P12,Cll 14 Parque Campestre,10.389611,-75.5208,map_aligned,"map:713,742",40.1,15905,open_data
-X105,IDA,13,P13,Punta Alta,10.387376,-75.510717,map_aligned,"map:878,774",39.2,17274,open_data
-X105,IDA,14,P14,Prosegur (Villa Leon),10.383891,-75.500363,photon,W1204083963,38.9,18684,open_data
-X105,IDA,15,P15,Los Corales,10.38101,-75.492505,map_aligned,"map:1184,882",50.0,19692,open_data
-X105,IDA,16,P16,Edificio Conjunto Militar Los Corales,10.37985,-75.486471,map_aligned,"map:1283,900",60.0,20372,open_data
-X105,IDA,17,P17,Entrada Nuevo Bosque,10.379274,-75.477915,interpolated,,,21315,open_data
-X105,IDA,18,P18,Estación de Policia Nuevo Bosque,10.376591,-75.471651,map_aligned,"map:1538,966",45.4,22257,open_data
-X105,IDA,19,P19,San Isidro No. 25-43,10.375559,-75.471751,interpolated,,,23168,open_data
-X105,IDA,20,P20,Entrada San Isidro No. 53-58,10.379134,-75.476593,map_aligned,"map:1448,930",56.3,24079,open_data
-X105,IDA,21,P21,Punte peatonal Cll Periodistas,10.379092,-75.489766,map_aligned,"map:1229,929",48.3,25570,open_data
-X105,IDA,22,P22,Bodega Copetran,10.380256,-75.492529,map_aligned,"map:1180,910",52.8,25913,open_data
-X105,IDA,23,P23,Ara Buenos Aires,10.382215,-75.501468,map_aligned,"map:1037,871",43.7,27144,open_data
-X105,IDA,24,P24,Colegio Fernandez Baena,10.38358,-75.506012,interpolated,,,28075,open_data
-X105,IDA,25,P25,Bosque #45-57,10.388028,-75.513015,map_aligned,"map:833,777",59.9,29005,open_data
-X105,IDA,26,P26,Supergiros Bruselas,10.388773,-75.521112,interpolated,,,29899,open_data
-X105,IDA,27,P27,EDS Esso Bruselas,10.396109,-75.521957,interpolated,,,30793,open_data
-X105,IDA,28,P28,Tv 33 entre Kr 22 y 23,10.404165,-75.521439,map_aligned,"map:690,494",49.0,31686,open_data
-X105,IDA,29,P29,Tv 33 con 29B,10.407602,-75.522723,map_aligned,"map:676,429",49.5,32518,open_data
-X105,IDA,30,P30,Bazurto A1,10.413911,-75.524388,osm_station,r13764364,6.1,33604,open_data
-X105,IDA,31,P31,Delicias A1,10.416444,-75.527822,osm_station,r13764365,6.8,34076,open_data
-X105,IDA,32,P32,Lo Amador A1,10.422321,-75.534639,osm_station,w1028518383,5.9,35096,open_data
-X105,IDA,33,P33,Centro B1,10.42233,-75.534693,interpolated,,,35102,open_data
-X105,IDA,34,P34,La Bodeguita A1,10.422339,-75.534748,interpolated,,,35108,open_data
-X105,IDA,35,P35,Monumento Maria Mulata,10.422347,-75.534803,interpolated,,,35114,open_data
-X105,IDA,36,P36,Supermercado Olimpica,10.422356,-75.534858,interpolated,,,35120,open_data
-X105,IDA,37,P37,Frente Ambientes,10.422365,-75.534912,interpolated,,,35127,open_data
-X105,IDA,38,P38,Frente Crepes,10.422374,-75.534967,interpolated,,,35133,open_data
-X105,IDA,39,P39,Frente Miska,10.422383,-75.535022,interpolated,,,35139,open_data
-X105,IDA,40,P40,Dulceria,10.422391,-75.535077,interpolated,,,35145,open_data
-X105,IDA,41,P41,El pueblito,10.4224,-75.535132,interpolated,,,35151,open_data
-X105,IDA,42,P42,Club Cartagena,10.422409,-75.535186,interpolated,,,35157,open_data
-X105,VUELTA,43,P43,Cll 5A,10.422418,-75.535241,interpolated,,,35163,open_data
-X105,VUELTA,44,P44,Frente Berlitz,10.422426,-75.535296,interpolated,,,35169,open_data
-X105,VUELTA,45,P45,Frente Porvenir,10.422435,-75.535351,interpolated,,,35175,open_data
-X105,VUELTA,46,P46,Frente Maternidad,10.422444,-75.535405,interpolated,,,35181,open_data
-X105,VUELTA,47,P47,Cll 10,10.422453,-75.53546,interpolated,,,35187,open_data
-X105,VUELTA,48,P48,Frente Ed. Grupo Area,10.422462,-75.535515,interpolated,,,35193,open_data
-X105,VUELTA,49,P49,Entre Cll 12 y Cll 13,10.42247,-75.53557,interpolated,,,35199,open_data
-X105,VUELTA,50,P50,Edificio La Marina,10.422479,-75.535625,interpolated,,,35205,open_data
-X105,VUELTA,51,P51,La Bodeguita B2,10.422488,-75.535679,interpolated,,,35212,open_data
-X105,VUELTA,52,P52,Centro B2,10.422497,-75.535734,interpolated,,,35218,open_data
-X105,VUELTA,53,P53,Lo Amador A2,10.422505,-75.535789,interpolated,,,35224,open_data
-X105,VUELTA,54,P54,Delicias A2,10.422514,-75.535844,interpolated,,,35230,open_data
-X105,VUELTA,55,P55,Bazurto A2,10.422523,-75.535899,interpolated,,,35236,open_data
-X105,VUELTA,56,P56,Martinez Martelo Dg 22 No. 20-50,10.422532,-75.535953,interpolated,,,35242,open_data
-X105,VUELTA,57,P57,Cancha Microfutbol Martinez Martelo,10.422541,-75.536008,interpolated,,,35248,open_data
-X105,VUELTA,58,P58,La Cuchilla,10.42255,-75.536063,interpolated,,,35254,open_data
-X105,VUELTA,59,P59,Coca Cola,10.422563,-75.536117,interpolated,,,35260,open_data
-X105,VUELTA,60,P60,Hogar San Pedro Claver,10.422576,-75.53617,interpolated,,,35266,open_data
-X105,VUELTA,61,P61,Restaurante Bumangues,10.422592,-75.536224,interpolated,,,35272,open_data
-X105,VUELTA,62,P62,Entrada Manzanillo,10.422608,-75.536277,interpolated,,,35278,open_data
-X105,VUELTA,63,P63,Postobon,10.422625,-75.536329,interpolated,,,35284,open_data
-X105,VUELTA,64,P64,Navitrans,10.422646,-75.536381,interpolated,,,35291,open_data
-X105,VUELTA,65,P65,Tv 54 con Dg 22,10.422666,-75.536433,interpolated,,,35297,open_data
-X105,VUELTA,66,P66,Nuevo Oriente (Bascula),10.422686,-75.536484,interpolated,,,35303,open_data
-X105,VUELTA,67,P67,Bajo San Isidro,10.422707,-75.536536,interpolated,,,35309,open_data
-X105,VUELTA,68,P68,Entrada Ceballos,10.42273,-75.536586,interpolated,,,35315,open_data
-X105,VUELTA,69,P69,Proleca,10.422753,-75.536636,interpolated,,,35321,open_data
-X105,VUELTA,70,P70,Punta Alta Vuelta,10.422778,-75.536686,interpolated,,,35327,open_data
-X105,VUELTA,71,P71,Cll 14 Entrada Golf,10.422804,-75.536735,interpolated,,,35333,open_data
-X105,VUELTA,72,P72,El Milagro Soldadura Diaz,10.422831,-75.536783,interpolated,,,35339,open_data
-X105,VUELTA,73,P73,Taller Mañe,10.422859,-75.536831,interpolated,,,35345,open_data
-X105,VUELTA,74,P74,Tienda El Puente.Com,10.422888,-75.536878,interpolated,,,35351,open_data
-X105,VUELTA,75,P75,Calle 14 #65-34,10.422919,-75.536924,interpolated,,,35357,open_data
-X105,VUELTA,76,P76,Super Mercado Precio Facil,10.42295,-75.53697,interpolated,,,35363,open_data
-X105,VUELTA,77,P77,Los Jardines,10.422981,-75.537015,interpolated,,,35370,open_data
-X105,VUELTA,78,P78,Nueva Jerusalen La Consolata,10.423013,-75.53706,interpolated,,,35376,open_data
-X105,VUELTA,79,P79,Villa Rubia,10.423045,-75.537105,interpolated,,,35382,open_data
-X105,VUELTA,80,P80,Clinica ESE Rafael Calvo,10.42308,-75.537149,interpolated,,,35388,open_data
-X105,VUELTA,81,P81,Restaurante Chung Fa,10.423114,-75.537192,interpolated,,,35394,open_data
-X105,VUELTA,82,P82,La algodonera,10.423148,-75.537235,interpolated,,,35400,open_data
-X105,VUELTA,83,P83,Hogar de bien,10.423182,-75.537279,line_end,,,35406,open_data
+X105,IDA,1,P01,Colegio Ciudadela 2000,10.373797,-75.471274,map_georef,"map:1542,1009",28.9,,open_data
+X105,IDA,2,P02,Estadio de Softbol,10.373288,-75.472521,map_georef,"map:1514,1022",30.8,,open_data
+X105,IDA,3,P03,La algodonera,10.376577,-75.471653,map_georef,"map:1538,966",31.0,,open_data
+X105,IDA,4,P04,Calamarí,10.378924,-75.473676,map_georef,"map:1500,915",69.9,,open_data
+X105,IDA,5,P05,Clinica ESE Rafael Calvo,10.379142,-75.476236,map_georef,"map:1457,911",72.0,,open_data
+X105,IDA,6,P06,Portales de San Fernando,10.37936,-75.478999,map_georef,"map:1409,908",67.6,,open_data
+X105,IDA,7,P07,Efecty Socorro MG1 L22,10.379685,-75.481994,map_georef,"map:1360,903",64.5,,open_data
+X105,IDA,8,P08,Los Jardines MG2 L16,10.379785,-75.483767,map_georef,"map:1330,901",66.5,,open_data
+X105,IDA,9,P09,Districarnes JG,10.379855,-75.486557,map_georef,"map:1283,900",65.4,,open_data
+X105,IDA,10,P10,Iglesia Nuestra Señora del Carmelo,10.380156,-75.490183,map_georef,"map:1224,897",54.4,,open_data
+X105,IDA,11,P11,Kiosko #61-21,10.381041,-75.492588,map_georef,"map:1184,882",55.4,,open_data
+X105,IDA,12,P12,Cll 14 Parque Campestre,10.381509,-75.495574,map_georef,"map:1134,875",50.4,,open_data
+X105,IDA,13,P13,Punta Alta,10.382941,-75.497942,map_georef,"map:1094,850",54.2,,open_data
+X105,IDA,14,P14,Prosegur (Villa Leon),10.383843,-75.50024,map_georef,"map:1056,833",66.1,,open_data
+X105,IDA,15,P15,Los Corales,10.385622,-75.500968,map_georef,"map:1047,808",53.2,,open_data
+X105,IDA,16,P16,Edificio Conjunto Militar Los Corales,10.386948,-75.502095,map_georef,"map:1027,784",53.9,,open_data
+X105,IDA,17,P17,Entrada Nuevo Bosque,10.388053,-75.504692,map_georef,"map:976,762",59.1,,open_data
+X105,IDA,18,P18,Estación de Policia Nuevo Bosque,10.387666,-75.507165,map_georef,"map:934,768",63.4,,open_data
+X105,IDA,19,P19,San Isidro No. 25-43,10.387395,-75.510771,map_georef,"map:878,774",56.9,,open_data
+X105,IDA,20,P20,Entrada San Isidro No. 53-58,10.388561,-75.513718,map_georef,"map:829,754",59.6,,open_data
+X105,IDA,21,P21,Punte peatonal Cll Periodistas,10.388633,-75.517288,map_georef,"map:766,750",73.6,,open_data
+X105,IDA,22,P22,Bodega Copetran,10.389789,-75.520791,map_georef,"map:713,742",42.4,,open_data
+X105,IDA,23,P23,Ara Buenos Aires,10.393276,-75.520596,map_georef,"map:717,683",47.5,,open_data
+X105,IDA,24,P24,Colegio Fernandez Baena,10.396153,-75.52044,map_georef,"map:720,634",50.1,,open_data
+X105,IDA,25,P25,Bosque #45-57,10.398958,-75.5203,map_georef,"map:723,586",54.4,,open_data
+X105,IDA,26,P26,Supergiros Bruselas,10.401939,-75.519412,map_georef,"map:741,532",77.6,,open_data
+X105,IDA,27,P27,EDS Esso Bruselas,10.405649,-75.52052,map_georef,"map:722,469",75.6,,open_data
+X105,IDA,28,P28,Tv 33 entre Kr 22 y 23,10.408364,-75.520401,map_georef,"map:716,432",43.5,,open_data
+X105,IDA,29,P29,Tv 33 con 29B,10.409445,-75.518577,map_georef,"map:747,413",41.2,,open_data
+X105,IDA,30,P30,Bazurto A1,10.4139582,-75.524358,osm_station,r13764364,,,open_data
+X105,IDA,31,P31,Delicias A1,10.4164847,-75.5277743,osm_station,r13764365,,,open_data
+X105,IDA,32,P32,Lo Amador A1,10.4223737,-75.53463,osm_station,w1028518383,,,open_data
+X105,IDA,33,P33,Centro B1,10.4251396,-75.5464778,osm_station,r13764366,,,open_data
+X105,IDA,34,P34,La Bodeguita A1,10.4200192,-75.5514098,osm_station,r13764367,,,open_data
+X105,IDA,35,P35,Monumento Maria Mulata,10.416284,-75.551207,map_georef,"map:190,294",32.3,,open_data
+X105,IDA,36,P36,Supermercado Olimpica,10.411188,-75.550535,map_georef,"map:199,378",45.0,,open_data
+X105,IDA,37,P37,Frente Ambientes,10.407236,-75.55174,map_georef,"map:177,438",75.3,,open_data
+X105,IDA,38,P38,Frente Crepes,10.405231,-75.553436,map_georef,"map:148,473",74.0,,open_data
+X105,IDA,39,P39,Frente Miska,10.403134,-75.555244,map_georef,"map:119,509",65.5,,open_data
+X105,IDA,40,P40,Dulceria,10.401163,-75.557069,map_georef,"map:89,542",64.4,,open_data
+X105,IDA,41,P41,El pueblito,10.399249,-75.559334,map_georef,"map:51,572",76.5,,open_data
+X105,IDA,42,P42,Club Cartagena,10.398578,-75.559492,interpolated,,,,open_data
+X105,VUELTA,43,P43,Cll 5A,10.397907,-75.559651,map_georef,"map:54,606",14.3,,open_data
+X105,VUELTA,44,P44,Frente Berlitz,10.400659,-75.556338,map_georef,"map:110,559",14.6,,open_data
+X105,VUELTA,45,P45,Frente Porvenir,10.402076,-75.555002,map_georef,"map:135,537",36.0,,open_data
+X105,VUELTA,46,P46,Frente Maternidad,10.40413,-75.553222,map_georef,"map:165,502",36.0,,open_data
+X105,VUELTA,47,P47,Cll 10,10.406119,-75.551545,map_georef,"map:193,468",34.3,,open_data
+X105,VUELTA,48,P48,Frente Ed. Grupo Area,10.408762,-75.550657,map_georef,"map:213,422",61.3,,open_data
+X105,VUELTA,49,P49,Entre Cll 12 y Cll 13,10.411514,-75.550378,map_georef,"map:220,374",75.1,,open_data
+X105,VUELTA,50,P50,Edificio La Marina,10.414946,-75.55049,map_georef,"map:221,308",103.3,,open_data
+X105,VUELTA,51,P51,La Bodeguita B2,10.4200192,-75.5514098,osm_station,r13764367,,,open_data
+X105,VUELTA,52,P52,Centro B2,10.4251396,-75.5464778,osm_station,r13764366,,,open_data
+X105,VUELTA,53,P53,Lo Amador A2,10.4223737,-75.53463,osm_station,w1028518383,,,open_data
+X105,VUELTA,54,P54,Delicias A2,10.4164847,-75.5277743,osm_station,r13764365,,,open_data
+X105,VUELTA,55,P55,Bazurto A2,10.4139582,-75.524358,osm_station,r13764364,,,open_data
+X105,VUELTA,56,P56,Martinez Martelo Dg 22 No. 20-50,10.409806,-75.52197,map_georef,"map:679,404",50.7,,open_data
+X105,VUELTA,57,P57,Cancha Microfutbol Martinez Martelo,10.407598,-75.522615,map_georef,"map:676,429",66.2,,open_data
+X105,VUELTA,58,P58,La Cuchilla,10.404352,-75.521429,map_georef,"map:690,494",36.3,,open_data
+X105,VUELTA,59,P59,Coca Cola,10.401526,-75.521638,map_georef,"map:686,542",39.8,,open_data
+X105,VUELTA,60,P60,Hogar San Pedro Claver,10.397799,-75.521843,map_georef,"map:680,605",56.7,,open_data
+X105,VUELTA,61,P61,Restaurante Bumangues,10.394095,-75.522062,map_georef,"map:676,668",59.1,,open_data
+X105,VUELTA,62,P62,Entrada Manzanillo,10.39228,-75.522139,map_georef,"map:674,699",63.7,,open_data
+X105,VUELTA,63,P63,Postobon,10.388806,-75.521354,map_georef,"map:696,766",50.0,,open_data
+X105,VUELTA,64,P64,Navitrans,10.388593,-75.517885,map_georef,"map:755,770",52.4,,open_data
+X105,VUELTA,65,P65,Tv 54 con Dg 22,10.388496,-75.515392,map_georef,"map:797,772",54.8,,open_data
+X105,VUELTA,66,P66,Nuevo Oriente (Bascula),10.388077,-75.513122,map_georef,"map:833,777",44.2,,open_data
+X105,VUELTA,67,P67,Bajo San Isidro,10.387226,-75.511419,map_georef,"map:861,791",43.6,,open_data
+X105,VUELTA,68,P68,Entrada Ceballos,10.384521,-75.50655,map_georef,"map:955,824",73.6,,open_data
+X105,VUELTA,69,P69,Proleca,10.382291,-75.501433,map_georef,"map:1037,871",34.1,,open_data
+X105,VUELTA,70,P70,Punta Alta Vuelta,10.383676,-75.499814,map_georef,"map:1056,854",61.0,,open_data
+X105,VUELTA,71,P71,Cll 14 Entrada Golf,10.38259,-75.497248,map_georef,"map:1098,874",73.5,,open_data
+X105,VUELTA,72,P72,El Milagro Soldadura Diaz,10.381116,-75.494547,map_georef,"map:1149,898",60.8,,open_data
+X105,VUELTA,73,P73,Taller Mañe,10.380264,-75.492609,map_georef,"map:1180,910",44.8,,open_data
+X105,VUELTA,74,P74,Tienda El Puente.Com,10.379238,-75.49069,map_georef,"map:1208,928",58.2,,open_data
+X105,VUELTA,75,P75,Calle 14 #65-34,10.379088,-75.489793,map_georef,"map:1229,929",38.8,,open_data
+X105,VUELTA,76,P76,Super Mercado Precio Facil,10.379882,-75.487093,map_georef,"map:1273,919",61.4,,open_data
+X105,VUELTA,77,P77,Los Jardines,10.379777,-75.483634,map_georef,"map:1331,922",69.6,,open_data
+X105,VUELTA,78,P78,Nueva Jerusalen La Consolata,10.379581,-75.480704,map_georef,"map:1380,926",74.3,,open_data
+X105,VUELTA,79,P79,Villa Rubia,10.379294,-75.47845,map_georef,"map:1418,929",62.2,,open_data
+X105,VUELTA,80,P80,Clinica ESE Rafael Calvo,10.379142,-75.476679,map_georef,"map:1448,930",52.0,,open_data
+X105,VUELTA,81,P81,Restaurante Chung Fa,10.378876,-75.473046,map_georef,"map:1509,937",68.5,,open_data
+X105,VUELTA,82,P82,La algodonera,10.376349,-75.471675,map_georef,"map:1518,968",97.3,,open_data
+X105,VUELTA,83,P83,Hogar de bien,10.374377,-75.471888,map_georef,"map:1516,1001",87.6,,open_data
 X106,IDA,1,P01,Sena Ternera,10.365866,-75.450369,line_start,,,0,open_data
 X106,IDA,2,P02,Quintas del Manantial,10.371151,-75.455138,map_label,"map:843,655",,784,open_data
 X106,IDA,3,P03,Centro Industrial Ternera,10.374306,-75.458087,map_label,"map:819,628",,1260,open_data

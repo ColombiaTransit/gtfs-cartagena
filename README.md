@@ -32,8 +32,8 @@ Research and data collection. No feed is published yet.
   official map (pixel) and the open-data stops, made by reading the map labels.
   Used before everything but OSM stations (`map_label`); works on distorted maps
   too, by spreading stops between stations in proportion to the map distances.
-  Done: A101, A102, A103, A107, A114, A117, C001, C018, T102, T103, X101,
-  X103, X104, X106. A101: the map shows Carolina del Mar, El Club and Frente
+  Done: A101, A102, A103, A104, A105, A107, A111, A114, A117, A118, C001,
+  C017, C018, T102, T103, X101, X102, X103, X104, X105, X106. A101: the map shows Carolina del Mar, El Club and Frente
   al Ara where the open data has seq 4-11 (Bomba Petromil to Cl 39H); those
   are left unlabelled. A102 and C018 maps do not fit OSM, so their stops are
   spread between anchors by map distance (C018 between shared stops).
@@ -44,8 +44,18 @@ Research and data collection. No feed is published yet.
   (`source` column in `stop_positions.csv`). For these routes a stop with the
   same name as a stop of another route on the same road takes that position:
   `shared_stop` (that stop is well placed) or `shared_estimate` (it is an
-  estimate itself, check it). A118 has no OSM line yet, so its stops have no
-  position.
+  estimate itself, check it).
+- `scripts/fit_map_labels.py` georeferences a map from its labelled stops, for
+  routes whose OSM line is missing or wrong: control points are labelled stops
+  with the name of a well-placed stop of another route, refined with OSM lines
+  the map follows (`ROUTE=LINE+LINE`). Writes `data/map_labels/transforms.json`;
+  `match_stops.py` then places every labelled stop of that route at its map
+  position, pulled onto one of those lines when within 120 m (`map_georef`).
+  OSM stations stay at the station, other stops go straight between their
+  neighbours. Used for C017 (`C017=C017`), A118 (`A118=C016+A101+A117+A114+X104`;
+  the Carrera 92 stops are unsnapped map positions), X105 (`X105=X105`) and,
+  with the `georef_maps.py` fit (`"from": "markers"`), A105 (OSM runs the
+  Simón Bolívar loop the other way round).
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
@@ -78,12 +88,11 @@ Research and data collection. No feed is published yet.
 
 ## Next steps
 
-1. Improve the interpolated stop positions (geocoding, OSM edits, manual checks).
-2. Fix the C017 relation in OSM: it has a gap at the Crespo tunnel, and it runs
-   through Crespo on the way back, while the news (5309) has it through Crespo
-   (T102 stops) on the way out and through the tunnel on the way back. Until
-   then most C017 stops north of Terrazas de San Sebastián are wrong.
-   Add an A118 relation (Portal – Terminal – Cra 92 – Ciudadela de la Paz).
-   Check X105 (stop order fits the line poorly).
+1. Check the remaining estimated stops (C016, T102, X101, A101) and the
+   `map_georef` stops on a map; positions from map labels are typically within
+   50 m, but where several routes label the same stop they can differ by more.
+2. Shapes: generate them from the stops (routing) rather than taking the OSM
+   relations; the C017 relation runs the Crespo loop the wrong way round and
+   has a gap at the tunnel, A118 has none, X105 leaves the trunk outbound.
 3. Build `stops.txt`, `routes.txt`, `shapes.txt` and `trips.txt`/`frequencies.txt`.
 4. Add fares (Fares v2).
