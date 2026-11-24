@@ -1,0 +1,22 @@
+direction,seq,px,py,map_label
+IDA,2,210,645,Terrazas de Granada Eje 6
+IDA,3,326,747,Colegio Castillo
+IDA,4,453,636,Entrada Amarilo
+IDA,5,586,636,Villa del Sol
+IDA,6,679,624,U. San Buenaventura
+IDA,7,751,617,C.C. San Fernando
+IDA,8,843,663,Viper
+IDA,9,1004,663,Entrada Simón Bolívar
+IDA,11,1324,912,Tenaris
+VUELTA,12,1451,983,Universidad Tecnológica
+VUELTA,13,1380,878,Tenaris
+VUELTA,14,1205,557,Quintas del Manantial
+VUELTA,15,1090,582,C.C. Industrial
+VUELTA,16,966,610,Urb. La Princesa
+VUELTA,17,871,612,Droguería Calidad
+VUELTA,18,792,568,Iglesia Ternera
+VUELTA,19,677,557,U. San Buenaventura
+VUELTA,20,548,564,Marval
+VUELTA,21,372,610,Iglesia de El Recreo
+VUELTA,22,284,708,Los Abetos
+VUELTA,23,268,620,Terrazas de Granada Eje 6

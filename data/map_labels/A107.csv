@@ -1,0 +1,41 @@
+direction,seq,px,py,map_label
+IDA,2,463,152,Restaurante Chinatown
+IDA,3,347,195,Clínica Blas de Lezo
+IDA,4,229,234,Auto Coreano
+IDA,5,266,274,Olímpica
+IDA,6,366,326,Cl 27A Bis entre Kr 65 y 65A
+IDA,7,405,430,Kr 68 entre Kr 66 y Cl 25
+IDA,8,399,511,Kr 68 entre Cl 22A y 22
+IDA,9,350,599,Kr 68 entre Cl 21 y 19
+IDA,10,313,675,Kr 68 entre Cl 18 y 17
+IDA,11,202,697,Iglesia Sta Lucía del Carmelo
+IDA,12,139,713,Tienda Puentecito
+IDA,13,153,755,Tienda El Puente.Com
+IDA,14,169,828,I.E San Lucas
+IDA,15,174,904,UPA La Reina
+IDA,16,342,963,Fe y Alegría
+IDA,17,424,970,Celumax
+IDA,18,481,979,Surtimax
+IDA,19,534,988,Super Drywall
+IDA,20,597,999,Super Materiales
+IDA,21,563,1097,Kr 78A con Cl 4
+IDA,22,511,1152,Kr 78A entre Cl 3O y 3J
+IDA,23,489,1238,Kr 78A La Gitana Mz F
+VUELTA,24,544,1188,Kr 78A entre Cl 3J y 3O
+VUELTA,25,597,1127,Kr 78A entre Cl 3O y 4
+VUELTA,26,740,1038,Cl 4 con Kr 80A
+VUELTA,28,685,965,Droguería María V
+VUELTA,29,583,950,Cl 5 entre Kr 79 y 77
+VUELTA,30,515,938,Droguería Yeika
+VUELTA,31,432,925,Supergiros
+VUELTA,32,315,918,Fe y Alegría
+VUELTA,33,215,880,UPA La Reina
+VUELTA,34,223,815,Colegio San Lucas
+VUELTA,35,260,778,Cll 14 #65-34
+VUELTA,36,361,680,Kr 68 entre Cl 16 y 17
+VUELTA,37,399,612,Kr 68 entre Cl 19 y 21
+VUELTA,38,446,512,Kr 68 entre Cl 22 y 24
+VUELTA,39,453,416,Kr 68 entre Cl 26 y 26A
+VUELTA,40,366,266,Cl 27A Bis entre Kr 68 y Tv 54A
+VUELTA,41,520,180,Aguas de Cartagena
+VUELTA,42,590,190,Piko Rico
