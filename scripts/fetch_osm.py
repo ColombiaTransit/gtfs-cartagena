@@ -35,6 +35,7 @@ from urllib.parse import urlparse
 import requests
 
 OUT = Path(__file__).resolve().parent.parent / "raw" / "osm"
+USER_AGENT = "ColombiaTransit-gtfs-cartagena/1.0 (+https://github.com/ColombiaTransit/gtfs-cartagena)"
 BBOX = "10.28,-75.58,10.52,-75.40"          # south, west, north, east (Cartagena + Turbaco road)
 
 QUERIES = {
@@ -89,7 +90,7 @@ def query(url: str, scrub, name: str, q: str) -> dict:
     for attempt in range(4):
         try:
             r = requests.post(url, data={"data": q}, timeout=900,
-                              headers={"User-Agent": "ColombiaTransit-gtfs-cartagena/1.0"})
+                              headers={"User-Agent": USER_AGENT})
             if r.status_code == 200:
                 data = r.json()
                 if data.get("remark", "").lower().startswith(("runtime error", "error")):
