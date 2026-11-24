@@ -37,6 +37,10 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
      the nearest evenly-spaced expected position (osm_aligned).
   4. Everything else is spread evenly along the line between its neighbours
      (method interpolated) and needs checking.
+  6. Last, every stop still estimated takes the place of a well-placed stop
+     of another route with the same name on its line (shared_stop), or of a
+     named OSM place from raw/osm/pois.csv (osm_poi): stations
+     (building=transportation) by name, other places only on an exact name.
   5. Routes in data/map_labels/transforms.json (scripts/fit_map_labels.py: OSM
      line missing or wrong; or "from": "markers" to use the georef_maps.py fit
      where only the order along the OSM line is off, e.g. a loop the other way
@@ -243,7 +247,7 @@ SHARED_ALIASES = {                       # news name -> name used by other route
 def shared_key(name: str) -> str:
     toks = set()
     for t in norm(name).split():
-        if t in SHARED_DROP or t.isdigit() or len(t) < 2 or re.fullmatch(r"[a-d]\d", t):   # vagón: "chambacu a1"
+        if t in SHARED_DROP or (len(t) < 2 and not t.isdigit()) or re.fullmatch(r"[a-d]\d", t):   # vagón: "chambacu a1"
             continue
         toks.add(t[:-1] if len(t) > 4 and t.endswith("s") else t)   # terrazas = terraza
     key = " ".join(sorted(toks))
@@ -311,6 +315,7 @@ def main() -> int:
     SHARED.clear()
 
     georef_pass(rows, named, lines, report)
+    final_pass(rows, lines, report)
     rows.sort(key=lambda r: r["route"])          # stable: keeps the stop order per route
     shapes.sort(key=lambda f: f["properties"]["route"])
     write_outputs(rows, shapes, named, unnamed)
@@ -377,6 +382,70 @@ def georef_pass(rows, named, lines, report):
                 r.update(lat=round(a["lat"] + (b["lat"] - a["lat"]) * t, 6),
                          lon=round(a["lon"] + (b["lon"] - a["lon"]) * t, 6),
                          method="interpolated", osm_id="", osm_dist_m=None, pos_m=None)
+        counts = defaultdict(int)
+        for r in rows:
+            if r["route"] == route:
+                counts[r["method"]] += 1
+        report[:] = [x for x in report if x[0] != route] + [(route, sum(counts.values()), dict(counts))]
+
+
+ESTIMATED = ("interpolated", "line_start", "line_end", "osm_aligned", "map_aligned", "shared_estimate")
+WELL_PLACED = ("osm_station", "osm_named", "osm_order", "map_label", "map_order", "photon", "shared_stop",
+               "map_georef")
+FINAL_LINE_M = 80       # m, another route's stop to this route's line
+FINAL_POI_LINE_M = 120  # m, a named place to this route's line (places sit back from the road)
+FINAL_MAX_MOVE = 2000   # m, from the estimate: further away, the same name is another place
+POI_KINDS = ("amenity=", "shop=", "office=", "tourism=", "healthcare=", "leisure=", "building=transportation",
+             "building=government", "building=school", "building=hospital", "building=church")
+
+
+def final_pass(rows, lines, report):
+    good: dict[str, list[dict]] = defaultdict(list)
+    for r in rows:
+        if r["method"] in WELL_PLACED and r["lat"] is not None:
+            key = shared_key(r["name"])
+            if key:
+                good[key].append(r)
+    pois: dict[str, list[dict]] = defaultdict(list)
+    path = RAW / "osm" / "pois.csv"
+    if path.exists():
+        for p in csv.DictReader(path.open(encoding="utf-8")):
+            if not p["kind"].startswith(POI_KINDS):
+                continue
+            station = p["kind"] == "building=transportation"
+            key = shared_key(p["name"])
+            # stations by name; other places only on a distinctive name
+            if key and (station or len(key.split()) >= 2):
+                pois[key].append({"lat": float(p["lat"]), "lon": float(p["lon"]), "osm": p["osm_id"],
+                                  "station": station})
+    changed = defaultdict(int)
+    for r in rows:
+        if r["method"] not in ESTIMATED or r["lat"] is None:
+            continue
+        key = shared_key(r["name"])
+        line = lines.get(r["route"])
+        here = xy(float(r["lat"]), float(r["lon"]))
+        cands = [(xy(float(g["lat"]), float(g["lon"])), "shared_stop", f"{g['route']}:{g['direction']}:{g['seq']}",
+                  FINAL_LINE_M) for g in good.get(key, []) if g["route"] != r["route"]]
+        cands += [(xy(p["lat"], p["lon"]), "osm_poi", p["osm"], FINAL_POI_LINE_M) for p in pois.get(key, [])]
+        best = None
+        for q, method, ref, radius in cands:
+            move = math.dist(q, here)
+            if move > FINAL_MAX_MOVE:
+                continue
+            spot, dist = q, None
+            if line:
+                pr = min(line.project(q), key=lambda t: t[1])
+                if pr[1] > radius:
+                    continue
+                spot, dist = line.point_at(pr[0]), round(pr[1], 1)
+            if best is None or move < best[0]:
+                best = (move, spot, method, ref, dist)
+        if best:
+            la, lo = latlon(*best[1])
+            r.update(lat=round(la, 6), lon=round(lo, 6), method=best[2], osm_id=best[3], osm_dist_m=best[4])
+            changed[r["route"]] += 1
+    for route, n in changed.items():
         counts = defaultdict(int)
         for r in rows:
             if r["route"] == route:
@@ -894,7 +963,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069", "shared_stop": "#0a3069", "shared_estimate": "#cf222e", "map_georef": "#0a3069",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069", "shared_stop": "#0a3069", "shared_estimate": "#cf222e", "map_georef": "#0a3069", "osm_poi": "#1a7f37",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},
