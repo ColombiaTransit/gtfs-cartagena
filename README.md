@@ -40,6 +40,13 @@ Research and data collection. No feed is published yet.
   (workflow *Fetch Transcaribe route maps*). `data/route_hours_web.csv` holds the
   operating hours read from those maps, including the afternoon windows of
   peak-only routes that the open data leaves out, and A118/C018.
+- `scripts/fetch_news.py` (workflow *Fetch Transcaribe news*, weekly and on
+  demand) downloads all news items from the transcaribe.gov.co WordPress API
+  into `raw/news/`: one text file per item, `index.csv` with the route codes
+  and topics (paraderos, desvio, horario, frecuencia, festivo, tarifa) each
+  item names, and `routes.csv` with the items per route, newest first. Use it
+  for stop lists of routes missing from the open data (C017, C018, A118),
+  frequency changes and special timetables (`calendar_dates.txt`).
 - `docs/onderzoek.md` holds the research notes (network, timetable, fares,
   sources), in Dutch.
 

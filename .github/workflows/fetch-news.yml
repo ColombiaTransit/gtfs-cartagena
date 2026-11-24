@@ -1,0 +1,37 @@
+name: Fetch Transcaribe news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays 06:17 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download news items
+        run: python scripts/fetch_news.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add raw/news/
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update Transcaribe news ($(date -u +%Y-%m-%d))"
+            git push
+          fi
