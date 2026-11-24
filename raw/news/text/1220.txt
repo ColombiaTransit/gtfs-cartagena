@@ -1,0 +1,16 @@
+Este domingo, desvíos en rutas A101, A102 y X101 de Transcaribe por cambio de torres de energía
+2021-08-27 (modified 2021-08-27)
+https://transcaribe.gov.co/index.php/noticia/este-domingo-desvios-en-rutas-a101-a102-y-x101-de-transcaribe-por-cambio-de-torres-de-energia/
+
+Un tramo de la Diagonal 32 (vía antigua de Ternera) estará cerrado entre doce de la noche y las cuatro de la tarde.
+
+Por trabajos de cambio de torres de energía a cargo de la empresa Emdesa, este domingo 29 de agosto desde las 00:00 horas hasta las 4:00 pm estará cerrada la Diagonal 32 (vía antigua de Ternera) entre la Carrera 86 hasta la Troncal del Caribe (en la bomba de La Princesa).
+
+Por esta razón, se verá afectado el recorrido de las rutas A101 Portal – La Carolina, A102 Portal – Universidad Tecnológica, y X101 San José de los Campanos – 13 de junio – Las Gaviotas – Centro. La afectación en el recorrido será en los dos sentidos. Ante esto, y para garantizar la continuidad de la operación, Transcaribe activará un desvío durante el tiempo que se realicen estos trabajos.
+
+Los buses del sistema, en sentido Norte-Sur, seguirán su recorrido habitual por la Diagonal 32 (antigua vía de Ternera) hasta llegar al Cementerio de Ternera, donde girarán a la derecha por la carrera 84 hasta el Centro Comercial San Fernando, y empalmarán con la Troncal del Caribe para retomar su recorrido habitual. En sentido Sur-Norte, se aplicará el mismo desvío pero en el sentido contrario.
+
+El recorrido de nuestras rutas se normalizará una vez concluyan los trabajos de la empresa Emdesa, la cual ha informado que esto sucederá a las cuatro de la tarde del mismo domingo.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Feste-domingo-desvios-en-rutas-a101-a102-y-x101-de-transcaribe-por-cambio-de-torres-de-energia%2F

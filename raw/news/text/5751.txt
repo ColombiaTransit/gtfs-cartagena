@@ -1,0 +1,15 @@
+Transcaribe opera con normalidad: superada afectación por falla tecnológica
+2024-07-19 (modified 2024-07-19)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-opera-con-normalidad-superada-afectacion-por-falla-tecnologica/
+
+Transcaribe informa que el sistema está operando con normalidad.
+
+La falla tecnológica que afecto múltiples sistemas a nivel mundial provocó que, esta madrugada, un porcentaje mínimo de vehículos del sistema no pudiera abastecerse de combustible. Sin embargo, 95% de los vehículos programados para la operación lograron cargar combustible y salieron a operar.
+
+No se reportaron mayores afectaciones a la operación. Los equipos en centro de control y vía tomaron las decisiones correspondientes y aplicaron regulaciones para que se minimizara el impacto.
+
+En este momento, la falla fue superada y el sistema opera de manera habitual.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/07/DSC_3332-1-scaled.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-opera-con-normalidad-superada-afectacion-por-falla-tecnologica%2F

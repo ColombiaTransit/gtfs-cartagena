@@ -1,0 +1,32 @@
+Desde este martes, usuarios podrán personalizar su tarjeta Transcaribe en estaciones
+2021-05-31 (modified 2021-05-31)
+https://transcaribe.gov.co/index.php/noticia/desde-este-martes-usuarios-podran-personalizar-su-tarjeta-transcaribe-en-estaciones/
+
+Con su tarjeta Transcaribe personalizada, los usuarios podrán recargar en línea por PSE.
+
+Transcaribe realizará esta semana una jornada de personalización de tarjetas para sus usuarios en varias de las estaciones del sistema.
+
+De acuerdo con el cronograma de normalización del recaudo presentado por Colcard, la jornada se desarrollará desde este martes 1 de junio hasta el viernes 4 de junio, entre las ocho de la mañana y las doce del mediodía, y entre las dos y las cinco de la tarde, así:
+
+1 de junio, Patio Portal.
+
+2 de junio, estación Madre Bernarda.
+
+3 de junio, estación La Castellana.
+
+4 de junio, estación Bodeguita.
+
+Personalizar la tarjeta Transcaribe no tiene costo. El usuario debe acercarse a los puntos establecidos con su documento de identidad y su tarjeta en buen estado, y diligenciar el formulario que le entregarán.
+
+Con su tarjeta Transcaribe personalizada, los usuarios podrán recargar en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula, podrá tener el historial de sus viajes.
+
+¿Cómo recargar en línea la tarjeta Transcaribe?
+
+Para recargar en línea, el usuario debe ingresar a la web www.colcard.com y dar clic en la opción “Recarga en línea”. Luego debe iniciar sesión con su cuenta de usuario, o crear su cuenta diligenciando el formulario, utilizando el mismo correo electrónico con el que personalizó su tarjeta.
+
+Tras diligenciar su información, el usuario debe seleccionar su entidad financiera, y realizar la recarga a través del sistema de PSE. En su correo electrónico recibirá la confirmación de la transacción, con el saldo por activarse en la tarjeta.
+
+Una vez finalizado el proceso de recarga, el usuario debe esperar 24 horas para que su saldo se active. Si desea que su recarga se active de manera inmediata, podrá acercarse a las estaciones y pasar su tarjeta por los validadores de saldo instalados.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fdesde-este-martes-usuarios-podran-personalizar-su-tarjeta-transcaribe-en-estaciones%2F

@@ -1,0 +1,21 @@
+Personalización de tarjetas Transcaribe en la Universidad del Sinú
+2023-03-28 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/personalizacion-de-tarjetas-transcaribe-en-la-universidad-del-sinu/
+
+El martes 28 de marzo en la Sede Santillana, y el miércoles 29 de marzo, en la sede Plaza Colón.
+
+El martes 28 y miércoles 29 de marzo de 2023, Transcaribe adelantará jornadas de personalización y activación de Tarjetas Transcaribe en las sedes Santillana y Plaza Colón de la Universidad del Sinú.
+
+La personalización estará dirigida únicamente a la comunidad de la Universidad del Sinú. Además, habrá venta de tarjetas Transcaribe.
+
+La jornada del martes 28 de marzo se realizará en la sede Santillana, de 8:00 de la mañana a 12:00 del mediodía y de 3:00 de la tarde a 7:00 de la noche. Entretanto, el miércoles 29 de marzo, la jornada se realizará en la sede Plaza Colón, de 1:00 de la tarde a 7:00 de la noche.
+
+Ni la personalización ni la activación tienen costo alguno. Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, también podrán llevarlas para que sean reactivadas.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-03-27-at-3.37.39-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fpersonalizacion-de-tarjetas-transcaribe-en-la-universidad-del-sinu%2F

@@ -1,0 +1,15 @@
+Transcaribe pide a COLCARD cumplir con lo establecido en el plan de contingencia
+2023-03-02 (modified 2023-03-02)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-pide-a-colcard-cumplir-con-lo-establecido-en-el-plan-de-contingencia/
+
+Transcaribe identificó que el concesionario COLCARD, a pesar de la reunión de coordinación para la implementación del plan de contingencia realizada anoche, ha dado una instrucción que va en contravía del cumplimiento del mismo: liberó los torniquetes dejando en gratuidad el servicio en la tarde y noche de hoy, miércoles.
+
+El plan de contingencia establece que, ante ausencia del sistema de recaudo, se iniciará operación manual con venta de tiquetes. Es decir que la liberación de torniquetes sin venta de tiquetes es un incumplimiento del plan de contingencia, y los recursos que deje de percibir el sistema por la decisión tomada por COLCARD serán responsabilidad del concesionario, y sujetos a reclamo por parte del ente gestor.
+
+En caso de que COLCARD no cuente con los tiquetes requeridos para el plan de contingencia, los cuales deberían estar en el inventario del concesionario, Transcaribe cuenta con los tiquetes necesarios para cumplir la contingencia. Ante esto, ya se solicitó al concesionario que, al finalizar la operación de este miércoles, se coordine la recogida y entrega de este material para la operación del jueves, cumpliendo a cabalidad con lo establecido en el plan de contingencia.
+
+A partir de mañana la operación del SITM se realizará con venta de tiquetes en las distintas estaciones. Esto como parte del plan de contingencia que se ha tomado de mutuo acuerdo con la empresa COLCARD.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-01-at-8.53.08-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-pide-a-colcard-cumplir-con-lo-establecido-en-el-plan-de-contingencia%2F

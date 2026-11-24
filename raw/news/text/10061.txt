@@ -1,0 +1,63 @@
+Todo lo que debes saber para pagar tu pasaje en TransCaribe con tu tarjeta VISA
+2026-09-02 (modified 2026-09-02)
+https://transcaribe.gov.co/index.php/noticia/todo-lo-que-debes-saber-para-pagar-tu-pasaje-en-transcaribe-con-tu-tarjeta-visa/
+
+Ahora puedes pagar tu pasaje en TransCaribe de manera fácil, rápida y segura utilizando tu tarjeta VISA débito o crédito sin contacto, o una tarjeta VISA habilitada en dispositivos móviles mediante Apple Pay o Google Pay.
+
+Solo debes acercar tu tarjeta, celular o reloj inteligente a los validadores habilitados en los buses y estaciones de TransCaribe. No necesitas registrarte previamente, recargar saldo ni digitar ningún PIN.
+
+¿Cómo pagar tu pasaje con VISA?
+
+Para utilizar este medio de pago, debes contar con una tarjeta VISA débito o crédito sin contacto o tener una tarjeta VISA habilitada en Apple Pay o Google Pay.
+
+Al momento de ingresar al sistema, acerca directamente la tarjeta o el dispositivo móvil al validador. Una vez realizada la validación, el valor del pasaje será procesado directamente de la cuenta o cupo asociado a la tarjeta VISA.
+
+No es necesario insertar la tarjeta en el dispositivo, digitar la clave o entregar la tarjeta a otra persona.
+
+Para una correcta lectura, se recomienda sacar la tarjeta VISA de la billetera y acercarla directamente al validador, especialmente si llevas varias tarjetas en ella.
+
+¿Es necesario registrarse o recargar saldo?
+
+No. Una de las ventajas de pagar con VISA en TransCaribe es que no tienes que registrarte previamente ni recargar un saldo.
+
+El pago se realiza directamente con la tarjeta VISA utilizada en el validador, por lo que puedes acceder al sistema utilizando tu tarjeta débito o crédito sin contacto, o tu tarjeta VISA habilitada en un dispositivo compatible.
+
+¿Cómo funcionan los transbordos con VISA?
+
+En TransCaribe cuentas con una ventana de 90 minutos para realizar transbordos entre rutas en el mismo sentido, sin cobro adicional.
+
+Si realizas un transbordo después de haber pagado con VISA, es fundamental que utilices el mismo medio de pago con el que validaste el inicio de tu viaje.
+
+Si tu primer viaje lo validaste con una tarjeta VISA física, debes utilizar esa misma tarjeta para realizar el transbordo.
+
+Si, por el contrario, validaste el inicio del viaje con tu VISA habilitada en Apple Pay o Google Pay desde tu celular, debes utilizar ese mismo dispositivo para validar el transbordo.
+
+Esto se debe a que, técnicamente, una tarjeta VISA física y esa misma tarjeta registrada en un dispositivo móvil pueden ser reconocidas como medios de pago diferentes.
+
+Por esta razón, aunque se trate de la misma tarjeta bancaria, no se debe cambiar entre la tarjeta física y el dispositivo móvil durante un mismo viaje con transbordo.
+
+¿Pueden dos personas pagar con la misma tarjeta VISA?
+
+Cada pasajero debe utilizar su propio medio de pago.
+
+Los validadores de TransCaribe aceptan un solo pago con una tarjeta VISA cada hora, debido a los controles de seguridad incorporados al sistema para evitar usos consecutivos indebidos de un mismo instrumento de pago.
+
+Por eso, si viajas acompañado, cada usuario debe pagar su pasaje con su propia tarjeta VISA débito o crédito física, o con su tarjeta VISA habilitada en su propio dispositivo mediante Apple Pay o Google Pay.
+
+Recomendaciones para pagar con VISA en TransCaribe
+
+Para que la validación se realice correctamente, recuerda acercar directamente al validador la tarjeta VISA sin contacto o el dispositivo móvil en el que está habilitada.
+
+No insertes la tarjeta, no digites ningún PIN y no entregues tu tarjeta a otra persona.
+
+Si llevas la tarjeta dentro de una billetera, es preferible sacarla y acercarla directamente al validador, para evitar que el sistema detecte otros instrumentos de pago.
+
+Y si necesitas realizar un transbordo, recuerda siempre utilizar el mismo medio de pago empleado en la primera validación.
+
+Con el pago mediante VISA, TransCaribe ofrece a sus usuarios una alternativa práctica, rápida y segura para acceder al sistema sin necesidad de manejar efectivo ni realizar recargas previas.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-26-at-11.08.55.jpeg
+https://transcaribe.gov.co/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-00.56.46.jpeg
+https://transcaribe.gov.co/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-00.56.46-1.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftodo-lo-que-debes-saber-para-pagar-tu-pasaje-en-transcaribe-con-tu-tarjeta-visa%2F

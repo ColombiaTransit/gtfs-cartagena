@@ -1,0 +1,33 @@
++ Conectados: Transcaribe mejora los recorridos de dos rutas
+2023-05-04 (modified 2023-05-09)
+https://transcaribe.gov.co/index.php/noticia/conectados-transcaribe-mejora-los-recorridos-de-dos-rutas/
+
+Desde el lunes 8 de mayo, se mejoran los recorridos de las rutas X103 y X104.
+
+Desde el lunes 8 de mayo, los usuarios de Transcaribe estarán más conectados con la mejora en los recorridos de dos rutas del sistema, decisiones pensadas para atender de mejor manera la demanda de pasajeros de las mismas.
+
+RUTA X103
+
+La ruta X103 cambia su punto de inicio y final de recorrido, creando una conexión directa entre Patio Portal y Madre Bernarda, y la zona de la avenida del Consulado, la cual no existía. Los buses de esta ruta ahora saldrán desde el Patio Portal y harán paradas en la estación Madre Bernarda.
+
+Luego, continuarán su recorrido habitual por la Transversal 54, la avenida del Consulado y la avenida Pedro de Heredia hasta el Centro Histórico, e iniciará su recorrido de vuelta hacia Patio Portal.
+
+Los usuarios que abordaban la ruta X103 en El Rodeo y la zona de la Variante podrán usar las siguientes alternativas:
+
+-Ruta A101 hasta Patio Portal y realizar transbordo.
+
+-Rutas A103 y A105 hasta estación de Transferencia Santa Lucía, y hacer transbordo en Madre Bernarda.
+
+– Ruta X106 hasta estación Castellana y hacer transbordo en la Avenida del Consulado
+
+– Ruta X106 hasta estación Castellana, desde aquí ir hacia estación Madre Bernarda y hacer transbordo.
+
+RUTA X104
+
+La ruta X104 extenderá su recorrido, y en sentido ida, luego de salir de la Terminal de Transportes, llegará hasta la Glorieta de El Pozón, para luego continuar su recorrido habitual por la avenida Pedro Romero hacia el Centro Histórico.
+
+Esta conexión permitirá que los usuarios de la ruta A114 puedan hacer transbordo en este punto para continuar hacia el Centro.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-09-at-09.19.30.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fconectados-transcaribe-mejora-los-recorridos-de-dos-rutas%2F

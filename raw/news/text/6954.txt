@@ -1,0 +1,25 @@
+Bodeguita – Pie de la Popa, séptimo recorrido de prueba del Ecobús de Transcaribe
+2025-05-31 (modified 2025-06-16)
+https://transcaribe.gov.co/index.php/noticia/bodeguita-pie-de-la-popa-septimo-recorrido-de-prueba-del-ecobus-de-transcaribe/
+
+Esta ruta experimental gratuita operará desde el próximo miércoles 4 de junio, en días hábiles, de 6:00 am a 9:00 am y de 5:00 pm a 8:00 pm.
+
+Bodeguita – Pie de la Popa será el séptimo recorrido de prueba gratuito del Ecobús Piloto de Transcaribe, el cual iniciará su operación el próximo miércoles 4 de junio.
+
+Este es un nuevo trazado de prueba concertado con la comunidad del Pie de la Popa, que permitirá -como todos los recorridos piloto que se han realizado por el Ecobús- recabar pruebas de demanda, tiempos y recorrido, para una eventual futura implementación oficial de la ruta.
+
+La ruta de prueba Bodeguita – Pie de la Popa operará los días hábiles de 6:00 a 9:00 de la mañana y de 5:00 de la tarde a 8:00 de la noche, y los usuarios podrán abordarla gratuitamente, sin necesidad de tener tarjeta Transcaribe.
+
+Será un recorrido circular con punto de inicio y final en el paradero del Parque de la Marina. Tomará la avenida Venezuela hacia Chambacú, girando a la derecha a la altura del Mall Plaza para salir hacia el Reloj Floral, y tomar la Calle 30, pasando por el Centro Comercial San Felipe y los concesionarios de la zona.
+
+Al llegar a la bomba Texaco del Pie de la Popa, girará a la derecha, tomando la Carrera 22, para luego ingresar a la Calle 29D, en sentido Pie de la Popa – Centro, pasando La Ermita, y luego cruzando hacia la Calle 31, cubriendo así la Universidad Los Libertadores y el estadio Mono Judas.
+
+Tomará la Carrera 18 pasa salir a la altura de las Botas Viejas nuevamente a la Calle 30, donde girará a la derecha pasando por el Castillo de San Felipe, hasta tomar la Avenida Pedro de Heredia, y continuar hasta el Parque de la Marina.
+
+Paraderos del recorrido de prueba Bodeguita – Pie de la Popa
+
+Parque de la Marina, Mall Plaza, Parque de la comida Caribeña, Reloj Solar, CC San Felipe, Nissan, Laboratorio Santa Lucía, frente a Clínica Cartagena del Mar, Mediblanc, D1, frente a Notaría Tercera, Drogas La Rebaja, La Ermita, Universidad Los Libertadores, Estadio Mono Judas, Las Botas Viejas, Castillo de San Felipe, Chambacú, Avenida Venezuela, Parque de la Marina.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-16-at-10.30.20.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fbodeguita-pie-de-la-popa-septimo-recorrido-de-prueba-del-ecobus-de-transcaribe%2F

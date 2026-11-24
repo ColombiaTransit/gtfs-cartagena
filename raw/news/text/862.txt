@@ -1,0 +1,20 @@
+Transcaribe escucha a sus usuarios, e implementa mejoras operacionales en sus servicios
+2021-09-22 (modified 2021-11-21)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-escucha-a-sus-usuarios-e-implementa-mejoras-operacionales-en-sus-servicios/
+
+El sistema de todos los cartageneros escucha a sus usuarios, e implementó varios cambios operacionales que buscan optimizar los servicios de Transcaribe para ajustarlos a la demanda actual y mejorar el nivel de satisfacción de los pasajeros.
+
+El más llamativo de estos cambios es el cambio de tipología en la ruta T103 Portal – Bocagrande, la cual ahora funciona con buses articulados, ampliando la capacidad de los vehículos en una ruta con una alta afluencia de pasajeros.
+
+En esa misma línea, las rutas X102 Portal – Bosque – Centro, y X106 Variante – Centro ahora son atendidas por vehículos tipo padrón, manteniendo la capacidad de atender la demanda existente, y mejorando los intervalos de operación de esta ruta, para reducir tiempos de espera.
+
+Con el regreso gradual a clases presenciales, Transcaribe también mejoró las frecuencias de la ruta A102 Portal – Universidad Tecnológica. Ahora tendremos más servicios y mejores frecuencias a lo largo del día en “la ruta de los estudiantes”.
+
+La optimización también incluye más y mejores frecuencias en hora pico en las rutas alimentadoras, mejorando el servicio a los usuarios que inician sus viajes en la troncal y los continúan en los buses alimentadores.
+
+“Cuando decimos que Transcaribe es el sistema de todos los cartageneros, es porque de verdad los usuarios son el centro de nuestra operación, por eso estamos en constante escucha de sus comentarios, opiniones, peticiones y sugerencias para mejorar nuestro servicio en función de ellos. Estos cambios operacionales responden precisamente a las necesidades de nuestros pasajeros, a quienes vamos a seguir escuchando, para consolidar un proceso de mejora constante en Transca”, manifestó María Claudia Peñas Arana, gerente del SITM.
+
+“Sabemos que aún tenemos aspectos por mejorar en el sistema, relacionados con las frecuencias y la cobertura del servicio, la infraestructura y los puntos externos de recarga, pero les garantizamos que trabajamos día a día para poder darles la solución correspondiente. La invitación a los cartageneros es a que se sigan moviendo a bordo de su sistema”, concluyó la funcionaria.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-escucha-a-sus-usuarios-e-implementa-mejoras-operacionales-en-sus-servicios%2F

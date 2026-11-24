@@ -1,0 +1,19 @@
+Regresa la Ruta C016 (Circular Portal – Terminal de Transportes) de Transcaribe
+2022-05-14 (modified 2022-05-14)
+https://transcaribe.gov.co/index.php/noticia/regresa-la-ruta-c016-circular-portal-terminal-de-transportes-de-transcaribe/
+
+Desde este lunes 16 de mayo, la ruta operará en las franjas pico de la mañana y la tarde noche, entre Patio Portal y la Terminal de Transportes.
+
+Desde este lunes 16 de mayo de 2022, Transcaribe vuelve a poner en operación la Ruta C016 Circular Portal – Terminal de Transportes. La ruta operará en las franjas pico de la mañana y de la tarde-noche, con vehículos tipo busetón.
+
+La Ruta C016 iniciará su recorrido en el Patio Portal, saliendo por la Avenida de la Cordialidad, para ingresar a la Terminal de Transportes. Luego, saldrá nuevamente a la Avenida Cordialidad, tomará la rotonda de El Pozón, y regresará al Patio Portal.
+
+Esta ruta operará los días hábiles entre las 5:30 y las 7:45 de la mañana, y entre las 4:30 de la tarde y las 7:30 de la noche, en un recorrido circular que busca atender la demanda desde y hacia el terminal terrestre en horas pico.
+
+La ruta C016 cubrirá 18 paraderos, así:
+
+Patio Portal, Villa Rosita, Altamare, Bomba Petromil, Centro Comercial Mío, Terminal de Transportes, Palmas de Salamanca, Central de Abastos, Frente a Central de Abastos, Entrada El Pozón, El Cariñoso, Portales de Alicante, Villas de la Candelaria, Megaluminios, Ipanema, Entrada Las Palmeras, Las Palmeras y Patio Portal.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-14-at-4.44.07-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fregresa-la-ruta-c016-circular-portal-terminal-de-transportes-de-transcaribe%2F

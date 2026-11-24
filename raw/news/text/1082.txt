@@ -1,0 +1,16 @@
+Comenzó a rodar la ruta C001 Ciudadela 2000 – Manga – Centro
+2019-12-19 (modified 2019-12-19)
+https://transcaribe.gov.co/index.php/noticia/comenzo-a-rodar-la-ruta-c001-ciudadela-2000-manga-centro/
+
+Los nuevos usuarios de Transcaribe recibieron con gran satisfacción la entrada en operación de la ruta C001 Ciudadela 2000 – Manga – Centro.
+
+“Es la primera vez que uso Transcaribe y es muy bueno que lo tengamos porque contábamos con un transporte malísimo y ahora llegaremos más rápido al Centro”, contó Sonia Ariza, residente del barrio Manga.
+
+El equipo de Gestión Social socializó con los usuarios los paraderos de esta nueva ruta y las conexiones con otras rutas del sistema alrededor de su recorrido.
+
+“Me parece perfecta la entrada en operación de esta ruta, porque es un transporte digno para las personas y con aire acondicionado. Normalmente me desplazo hacia Centro y Bocagrande en transporte particular, pero ahora cuento con esta opción”, destacó Yadira Sarabia, usuaria del sistema.
+
+El gerente de Transcaribe, Humberto Ripoll Durango, precisó que “es la primera ruta complementaria que se integra al sistema y en su etapa comercial contará con 20 busetones, con capacidad de 50 pasajeros cada uno, y una frecuencia aproximada de 8 minutos”.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomenzo-a-rodar-la-ruta-c001-ciudadela-2000-manga-centro%2F

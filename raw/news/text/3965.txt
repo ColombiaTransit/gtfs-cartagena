@@ -1,0 +1,17 @@
+Nuevo desvío en la ruta C001 de Transcaribe: no ingresará a Los Calamares
+2023-04-17 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/nuevo-desvio-en-la-ruta-c001-de-transcaribe-no-ingresara-a-los-calamares/
+
+En los desvíos, la ruta C001 hará paradas provisionales donde las solicite el usuario, para minimizar la afectación.
+
+Debido a cierres viales y bloqueos por parte de la comunidad, la ruta C001 de Transcaribe no ingresará al barrio Los Calamares hasta nuevo aviso. Ante esta situación, el sistema de los cartageneros activó desvíos en el recorrido de dicha ruta, los cuales se mantendrán hasta que se superen los cierres.
+
+En sentido Ciudadela – Manga, los buses de la Ruta C001, al llegar a Plaza Colón, seguirán por la Transversal 54 hasta la entrada del Nuevo Bosque. Allí pasarán por la iglesia San Esteban Protomártir, barrio La Campiña y barrio Zaragocilla hasta retomar su recorrido habitual en la Avenida del Consulado, a la altura de Delicarnes.
+
+En sentido Manga – Ciudadela, en la Avenida del Consulado, tras pasar Delicarnes, los buses girarán hacia la derecha para cruzar por los barrios La Campiña y Nuevo Bosque, hasta retomar su recorrido habitual en el CAI de Ceballos.
+
+La ruta C001 hará paradas provisionales donde las solicite el usuario, para minimizar la afectación.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-26-at-7.30.53-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fnuevo-desvio-en-la-ruta-c001-de-transcaribe-no-ingresara-a-los-calamares%2F

@@ -1,0 +1,33 @@
+Así operará Transcaribe este jueves 2 de marzo de 2023
+2023-03-01 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-este-jueves-2-de-marzo-de-2023-2/
+
+Ante la suspensión total del sistema de recaudo de Transcaribe por parte de la firma Dataprom, socia y proveedora del concesionario COLCARD, este jueves se activará el protocolo de recaudo manual con tiquetes para el acceso al sistema.
+
+Durante toda la operación, habrá taquilleros en todas las estaciones, quienes venderán a los usuarios los tiquetes de acceso, recibiendo el pago en efectivo. Cada tiquete tendrá el costo correspondiente al valor habitual del pasaje en el sistema, es decir, $3.000, y se venderán máximo dos tiquetes por usuario.
+
+En cada estación, se habilitará un torniquete único para entrada y otro para salida. En el torniquete de entrada, el usuario entregará su tiquete al guarda de seguridad, quien se quedará con la colilla, mientras que el resto del tiquete se devolverá al usuario.
+
+Los usuarios de las rutas troncales T102 y T103, de todas las rutas pretroncales (X101, X102, X103, X104, X105, X106) y de la complementaria C001, así como de todas las rutas alimentadoras, podrán abordar los buses en los paraderos acostumbrados, y deberán pagar su tiquete en los puntos de conexión correspondientes a cada ruta, a saber: Patio Portal, estaciones Madre Bernarda, Castellana, El Prado, María Auxiliadora, o Centro, según sea el caso.
+
+Para agilizar las transacciones, los taquilleros solo recibirán billetes de hasta veinte mil pesos. Los tiquetes serán válidos únicamente por el día en que fueron adquiridos. Los usuarios deberán conservar su tiquete durante todo el viaje, pues puede ser requerido por las autoridades y/o personal autorizado como evidencia del correcto pago del pasaje.
+
+¿Qué pasa con las tarjetas Transcaribe?
+
+Es importante resaltar que el funcionamiento de las tarjetas Transcaribe dependerá de la decisión del socio y proveedor Dataprom de suspender o no el servicio de recaudo. En todo caso, si las tarjetas no llegasen a funcionar, el usuario no perderá el saldo que tenga recargado previamente, y una vez superada la contingencia, podrá volver a utilizar la tarjeta con dicho saldo.
+
+Ajustes a los cambios en la operación
+
+En cuanto a los cambios operacionales aplicados desde este miércoles en las rutas del sistema, luego del análisis de la operación y del impacto en los usuarios, se decidió realizar los siguientes ajustes:
+
+– La ruta T100E Portal-Centro ampliará su horario de operación, iniciando a las 5:30 de la mañana y realizando su último recorrido a las 9:00 de la noche.
+
+– Las rutas T100E y T101 operarán con buses articulados en su totalidad.
+
+– La ruta T103, que realiza recorrido circular Chambacú-Bocagrande, trabajará con vehículos tipo padrón, con una frecuencia de cada dos minutos.
+
+– La ruta X106 reajustará su recorrido: iniciará en la Variante y seguirá su ruta habitual hasta la Estación Castellana. Luego hará un retorno, y continuará en sentido Castellana-Variante.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-03-01-at-6.40.17-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-este-jueves-2-de-marzo-de-2023-2%2F

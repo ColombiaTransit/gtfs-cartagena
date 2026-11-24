@@ -1,0 +1,18 @@
+En el día sin moto, Transcaribe supera los 70 mil usuarios
+2021-03-13 (modified 2021-03-13)
+https://transcaribe.gov.co/index.php/noticia/en-el-dia-sin-moto-transcaribe-supera-los-70-mil-usuarios/
+
+Este viernes 12 de marzo, 74.349 pasajeros se movilizaron en el sistema de los cartageneros.
+
+El sistema integrado de transporte masivo de los cartageneros superó este viernes, por primera vez desde que se empezaron a aplicar restricciones por la COVID-19, la cifra de setenta mil pasajeros movilizados en un mismo día.
+
+En total, 74.349 cartageneros y visitantes utilizaron Transcaribe este viernes, día sin moto en el Distrito de Cartagena, para movilizarse por la ciudad. Esta es una noticia positiva para el Sistema, teniendo en cuenta que antes de la pandemia se transportaban en promedio 140 mil usuarios diarios y que, con la llegada del COVID-19 y las restricciones consecuentes, el flujo de pasajeros disminuyó hasta en un 93%.
+
+“Los cartageneros siguen demostrando que confían en su Sistema para viajar seguros a sus destinos. Superar los setenta mil pasajeros es un hecho positivo para Transcaribe y para la ciudad, y esperamos que la cifra de ciudadanos movilizados siga creciendo. Transcaribe trabaja incansablemente por brindarles el mejor servicio, y por hacer del sistema un espacio bioseguro, cumpliendo con todas las medidas de prevención del COVID-19. La invitación a los cartageneros es que sigan viajando en su Transca”, afirmó Sindry Camargo Martínez, gerente del SITM.
+
+Cabe recordar que, desde el 17 de febrero de 2021, el Gobierno Nacional y la Alcaldía Distrital de Cartagena de Indias autorizaron la operación del sistema con hasta el 70% de la capacidad de los vehículos, cumpliendo con todos los protocolos de bioseguridad.
+
+Transcaribe realiza permanentemente la desinfección y el lavado de su flota y estaciones, e invita a todos sus usuarios a desinfectar y lavar constantemente sus manos, evitar hablar e ingerir alimentos dentro del sistema, y usar permanentemente el tapabocas, para que todos podamos viajar seguros en Transca.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fen-el-dia-sin-moto-transcaribe-supera-los-70-mil-usuarios%2F

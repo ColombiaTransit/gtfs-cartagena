@@ -1,0 +1,27 @@
+Transcaribe realizará personalización de tarjetas para personas con discapacidad física (PMR) en estación Bodeguita
+2025-05-26 (modified 2025-05-26)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-realizara-personalizacion-de-tarjetas-para-personas-con-discapacidad-fisica-pmr-en-estacion-bodeguita/
+
+La tarjeta personalizada es obligatoria para aquellos usuarios que requieran el uso de la puerta para movilidad reducida en las estaciones troncales.
+
+Transcaribe realizará esta semana una jornada de personalización de tarjetas PMR, es decir, las tarjetas especiales para usuarios con movilidad reducida, las cuales permiten el acceso al sistema a través de los torniquetes PMR en las estaciones. La jornada se realizará el miércoles 28, jueves 29 y viernes 30 de mayo de 2025, de 8 a 11 de la mañana, en la estación Bodeguita.
+
+La tarjeta personalizada es obligatoria para aquellos usuarios que requieran el uso de la puerta para movilidad reducida en las estaciones troncales, es decir, usuarios en sillas de ruedas o muletas que no puedan acceder por torniquetes regulares, tal como está establecido desde el inicio de la operación de Transcaribe en el Manual del Usuario.
+
+Los interesados deberán acudir al punto de personalización en la estación Bodeguita, dentro de los días y horas establecidos, y entregar sus nombres y apellidos completo, fecha de nacimiento, dirección, correo electrónico y número de celular, además de presentar el certificado de discapacidad emitido por el DADIS o por la EPS. El proceso de personalización es gratuito.
+
+Sobre la tarjeta personalizada PMR
+
+El acceso de las personas con discapacidad al sistema con tarjeta personalizada PMR tiene unas reglas establecidas en el Manual del Usuario, las cuales son de cumplimiento obligatorio.
+
+Estos usuarios deben validar su tarjeta de manera regular a través del torniquete PMR en estaciones, pagando así la tarifa vigente del SITM. Todo acompañante debe validar su pasaje con su tarjeta regular por el torniquete habitual.
+
+A la salida de las estaciones, el usuario debe validar nuevamente su tarjeta personalizada PMR por la puerta destinada a tal fin, para que este pueda abrirse. La validación de la tarjeta para salir no genera cobro.
+
+En caso de acceder en autobuses de rutas pretroncales, troncales o complementarias, deben hacerlo por la puerta dos, entregando la tarjeta al operador para que valide el pasaje. El acompañante del usuario con discapacidad debe acceder, como es habitual, por la puerta uno del autobús, validando su propio pasaje, con su propia tarjeta.
+
+El uso indebido de la tarjeta PMR personalizada amerita su bloqueo y la suspensión del beneficio de acceso, así como el retiro de la estación o del sistema.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/05/MEDIDOR-70.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-realizara-personalizacion-de-tarjetas-para-personas-con-discapacidad-fisica-pmr-en-estacion-bodeguita%2F

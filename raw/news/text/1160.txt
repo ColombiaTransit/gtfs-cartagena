@@ -1,0 +1,18 @@
+Vigilancia nocturna en todas las estaciones de Transcaribe
+2021-01-21 (modified 2021-01-21)
+https://transcaribe.gov.co/index.php/noticia/vigilancia-nocturna-en-todas-las-estaciones-de-transcaribe/
+
+Una grata noticia para todos los cartageneros que utilizan el sistema diariamente.
+
+Desde el pasado sábado 16 de enero, todas las estaciones del sistema integrado de transporte masivo Transcaribe cuentan con un nuevo dispositivo de seguridad permanente en horario nocturno.
+
+“Esta es una grata noticia que queremos darle a toda la ciudadanía cartagenera. Así, podemos garantizar mayores niveles de seguridad a nuestros usuarios, y poder ejercer el control necesario para el cumplimiento de las medidas de bioseguridad y el autocuidado dentro del sistema”, señaló Julio Mario Duque, Secretario General de Transcaribe.
+
+En el pasado mes de diciembre, se registraron varios ataques y actos vandálicos contra el sistema, que traumatizaron la operación del mismo. Este nuevo dispositivo de seguridad, que ya se implementó en las 17 estaciones, busca evitar que estos hechos lamentables vuelvan a presentarse.
+
+“Invitamos a toda la ciudadanía a seguir utilizando Transcaribe, que es el sistema de todos los cartageneros. Seguimos trabajando día a día para mejorar el servicio que les prestamos, y para garantizar el cumplimiento de las medidas de bioseguridad”, enfatizó el funcionario.
+
+Las estaciones de mayor afluencia de usuarios contarán con el dispositivo de seguridad durante las veinticuatro horas del día.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fvigilancia-nocturna-en-todas-las-estaciones-de-transcaribe%2F

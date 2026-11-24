@@ -1,0 +1,14 @@
+Comunicado a la opinión pública
+2019-12-13 (modified 2019-12-13)
+https://transcaribe.gov.co/index.php/noticia/comunicado-a-la-opinion-publica/
+
+La gerencia del Sistema Integrado de Transporte Masivo de Cartagena, Transcaribe S.A. se permite aclarar, ante informaciones mal intencionadas de algunos medios y personas particulares sobre los «saldos» en las tarjetas del servicio que:
+
+1. Ningún saldo se vence al entrar el próximo año 2020.
+
+2. El plazo de vencimiento del saldo en las tarjetas son 365 días a partir de la última recarga realizada.
+
+3. Los usuarios que tengan alguna duda pueden solicitar información en nuestras estaciones, Patio Portal o en las oficinas de Transcaribe en la Urbanización Anita.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-a-la-opinion-publica%2F

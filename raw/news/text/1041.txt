@@ -1,0 +1,20 @@
+Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+2019-02-28 (modified 2019-02-28)
+https://transcaribe.gov.co/index.php/noticia/arranco-la-nueva-ruta-nuevo-bosque-santa-lucia/
+
+Sigue la jornada pedagógica de la nueva ruta Nuevo Bosque – Santa Lucía, la cual tendrá dos nomenclaturas para diferenciar sus recorridos, pues las vías no permiten realizar el mismo trazado de ida y vuelta.
+
+Identificarás la ruta de la siguiente manera: la A111 Nuevo Bosque – Santa Lucía saldrá de su origen en sentido contrario a las manecillas del reloj; ingresando por Tacarigua, recorriendo Los Calamares y finalizando en San Pedro para retornar por Santa Lucía.
+
+La A109 Nuevo Bosque – Santa Lucía sale de su origen en el sentido de las manecillas del reloj, ingresando por la Transversal 54 (Outlet El Bosque), siguiendo por el Nuevo Bosque, Los Calamares y finalizando por la avenida El Consulado.
+
+El primer sentido de la ruta te permitirá integrarte con otras rutas del sistema, instituciones hospitalarias, educativas y comerciales. El segundo sentido, además, te ofrece menor tiempo en su recorrido.
+
+¡Ubica el sentido que más se ajusta a tus necesidades!
+
+Esta ruta operará con busetones con capacidad de 50 pasajeros cada uno, beneficiando a los barrios Nuevo Bosque, Los Calamares, Los Ejecutivos, Transversal 54, avenida El Consulado, Tacarigua, Santa Lucía, Blas de Lezo y San Pedro.
+
+La nueva ruta, en sus dos sentidos, se conectará con las rutas X102, X103, A108, A107, A103 y A104, entre otras.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Farranco-la-nueva-ruta-nuevo-bosque-santa-lucia%2F

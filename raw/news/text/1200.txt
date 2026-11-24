@@ -1,0 +1,26 @@
+Transcaribe activa su recaudo en las taquillas de las estaciones
+2021-05-21 (modified 2021-05-21)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-su-recaudo-en-las-taquillas-de-las-estaciones/
+
+El alcalde, William Dau Chamat, validó y recargó su tarjeta en muestra de su apoyo al sistema.
+
+Transcaribe reactivó hoy el recaudo en las taquillas de las 18 estaciones del sistema. En muestra de su apoyo al sistema de transporte masivo, el alcalde, William Dau Chamat, llegó esta mañana muy temprano a la estación de La Bodeguita para validar su tarjeta y recargarla.
+
+El mandatario explicó que desde su gobierno se vienen haciendo gestiones que permitan salvar al sistema y que los cartageneros tengan una movilidad segura y sin contratiempos.
+
+“Transcaribe ha sido un paciente en cuidados intensivos que tenemos que salvarlo a mediano y largo plazo y pueda sobrevivir. Estamos implementado medidas para que se vuelva autosostenible, pero se necesita sobrevivir de la crisis actual», precisó Dau Chamat.
+
+El Alcalde recordó que durante el tiempo que no se cobró el pasaje, los cartageneros contaron con el servicio y pudieran movilizarse a sus casas y lugares de trabajo
+
+“Tomen Transcaribe, es un servicio tranquilo y seguro para llegar a sus trabajos, colegios o estudios”.
+
+La gerente suplente de Transcaribe, María Claudia Peñas, precisó que se espera que las conversaciones entre Colcard y Supergiros lleguen a buen fin, de tal manera que se pueda habilitar la red de recarga externa, que es absolutamente necesaria, por su cercanía a los ciudadanos y permitiría habilitar muchos más puntos de recarga.
+
+“Si no se puede acercar a las taquillas de las estaciones o de Patio Portal, los ciudadanos que tengan sus tarjetas personalizadas pueden ingresar a la página de Colcard y recargar en línea a través de botón de PSE, y la recarga se habilita 24 horas más tarde, o también se puede activar en algunas de las estaciones”, dijo la funcionaria.
+
+Peñas manifestó que, con el liderazgo del alcalde, William Dau Chamat, se trabaja para que el sistema preste un servicio óptimo de calidad a los cartageneros.
+
+“Seguimos en mesas de conversaciones con los concesionarios, revisando cómo mejorar la prestación del servicio y evitar que situaciones pasadas se repitan.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-su-recaudo-en-las-taquillas-de-las-estaciones%2F

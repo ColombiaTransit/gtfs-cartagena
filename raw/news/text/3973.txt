@@ -1,0 +1,17 @@
+Así operará Transcaribe durante la Semana Santa 2023
+2023-04-01 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-durante-la-semana-santa-2023/
+
+Durante la Semana Santa de 2023, Transcaribe tendrá algunas novedades en su operación. Los días lunes 3, martes 4 y miércoles 5 de abril, el sistema de los cartageneros mantendrá su operación y horarios habituales: rutas alimentadoras de 4:30 a.m. a 10:30 p.m., y rutas troncales y pretroncales de 5:00 a.m. a 9:00 p.m. (la ruta T101, hasta las 9:30 p.m.)
+
+Además, la ruta A102 funcionará de 5:00 a.m. a 10:00 p.m.; la ruta C001 de 4:30 a.m. hasta las 9:30 p.m. y la ruta T100E desde las 6:00 a.m. hasta las 8:00 p.m.
+
+Los días feriados jueves 6 y viernes 7 de abril de 2023, así como el domingo 9 de abril, Transcaribe operará con horario de domingo. Las rutas alimentadoras funcionarán de 5:00 a.m. a 9:30 p.m., y las rutas troncales y pretroncales, de 6:00 a.m. a 8:00 p.m.
+
+El día sábado 8 de abril de 2023, el sistema circulará con horario de sábado, es decir, las rutas alimentadoras funcionarán de 4:30 a.m. a 10:00 p.m., y las rutas troncales y pretroncales, de 5:30 a.m. a 8:30 p.m.
+
+La ruta A111 dejará de operar entre el jueves 6 y el domingo 9 de abril. Entretanto, la ruta T100E no operará los días jueves 6 y viernes 7, y el sábado 8, circulará en su horario habitual de 6:00 a.m. a 1:00 p.m.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/Transcaribe-Semana-Santa.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-durante-la-semana-santa-2023%2F

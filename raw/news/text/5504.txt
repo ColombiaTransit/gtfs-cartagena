@@ -1,0 +1,33 @@
+Usuarios de Transcaribe ya pueden visualizar su saldo en validadores de buses y estaciones
+2024-03-23 (modified 2024-04-05)
+https://transcaribe.gov.co/index.php/noticia/usuarios-de-transcaribe-ya-pueden-visualizar-su-saldo-en-validadores-de-buses-y-estaciones/
+
+Además, se activó la opción de consultar el saldo solo con el número de tarjeta en www.transcaribe.gov.co.
+
+Desde este sábado 23 de marzo de 2024, los usuarios de Transcaribe pueden visualizar el saldo de su tarjeta en los validadores, al acceder a los buses y estaciones del sistema.
+
+Al acceder al sistema con su tarjeta Transcaribe, el validador le mostrará al usuario el saldo anterior a ese uso. Es decir, la cifra que se visualice corresponderá al último saldo que tenía la tarjeta antes de que el usuario validara ese pasaje. Por eso, en el mensaje del validador se mostrará la fecha y hora correspondientes a ese saldo.
+
+Vale la pena recordar que el sistema de recaudo implementado en Transcaribe tras la modernización es un sistema ABT, basado en cuentas, en el que el saldo del usuario está en la nube y no se escribe sobre la tarjeta, como en el pasado.
+
+Los usuarios podrán, además, consultar su saldo en cualquier momento a través de www.transcaribe.gov.co, en la opción “consultar saldo”, digitando el número de su tarjeta, el cual encontrará en el respaldo de la misma, debajo del código de barras.
+
+Además, registrándose en el Portal del Usuario, también en la página web del sistema, e inscribiendo su tarjeta, los usuarios pueden consultar todos los movimientos de su medio de pago.
+
+Transcaribe continúa avanzando en la consolidación de su moderno sistema de recaudo, trabajando en la ampliación de la red externa de puntos de recarga, y la diversificación de medios de acceso al sistema.
+
+DATOS QUE EL USUARIO DEBE SABER
+
+1- El saldo que verá en pantalla, corresponde al último saldo actualizado en el validador que estás utilizando. Es decir, el saldo que tenía en la tarjeta ANTES DE ese uso.
+
+2- Si utiliza la misma tarjeta en el mismo validador más de una vez, en un corto período de tiempo, el validador seguirá mostrando el mismo saldo, hasta que actualice su base de datos.
+
+3- Si utiliza la misma tarjeta en dos validadores, en un corto período de tiempo, ambos validadores seguirán mostrando el mismo saldo anterior.
+
+4- Los validadores no son para consultar tu saldo. Cada vez que se pase la tarjeta en el validador, se cobrará un uso.
+
+5- Puede consultar su saldo cuando lo desees en www.transcaribe.gov.co, en el apartado “Consultar saldo”, con el número de tarjeta (lo encuentra debajo del código de barras).
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-05-at-13.45.31-scaled.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fusuarios-de-transcaribe-ya-pueden-visualizar-su-saldo-en-validadores-de-buses-y-estaciones%2F

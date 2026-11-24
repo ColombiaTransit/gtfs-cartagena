@@ -1,0 +1,57 @@
+Se reactiva el recaudo electrónico en Transcaribe: usuarios pueden volver a usar y recargar sus tarjetas
+2023-03-13 (modified 2023-04-21)
+https://transcaribe.gov.co/index.php/noticia/se-reactiva-el-recaudo-electronico-en-transcaribe-usuarios-pueden-volver-a-usar-y-recargar-sus-tarjetas/
+
+Se firmó un acuerdo con el concesionario Colcard para la terminación bilateral del contrato.
+
+El miércoles 15, todas las rutas retomarán sus recorridos habituales. Hasta el jueves 16 serán válidos los tiquetes para acceder a estaciones.
+
+Transcaribe y el concesionario de recaudo Colcard firmaron un acuerdo para la terminación bilateral del contrato de concesión, que implica la reactivación del sistema de recaudo. Con este acuerdo, Transcaribe comienza la fase de reactivación de su sistema de recaudo, y desde este lunes 13 de marzo de 2023 al mediodía, los usuarios podrán volver a usar y recargar sus tarjetas Transcaribe, y disponer de sus saldos precargados.
+
+Las rutas del sistema que sufrieron ajustes en sus trazados por la contingencia, retomarán sus recorridos habituales a partir del miércoles 15 de marzo. Los usuarios que todavía tengan tiquetes, podrán seguir utilizándolos para acceder a las estaciones hasta el próximo jueves 16 de marzo.
+
+El acuerdo entre Transcaribe y Colcard
+
+Transcaribe y Colcard retomaron las negociaciones desde mayo de 2022, y con el acompañamiento de la Procuraduría General de la Nación y el Ministerio de Transporte, se llegó a un acuerdo que se firmó este domingo, y que permitió la reactivación del recaudo.
+
+Se acordó la terminación bilateral del contrato entre Transcaribe y Colcard, de mutuo acuerdo, lo cual es una posibilidad que está contemplada en el mismo contrato. Una vez liquidado el contrato, se darán las reclamaciones correspondientes por la vía judicial.
+
+A partir de la firma del acuerdo, habrá 180 días para la terminación bilateral del contrato por mutuo acuerdo. Durante esos 180 días, Colcard seguirá operando de la misma manera en que lo hacía antes del 28 de febrero de 2023, y Transcaribe tendrá ese mismo tiempo para concretar la búsqueda de un operador de recaudo.
+
+Durante los primeros 30 días después de la firma del acuerdo, se construirá conjuntamente el mecanismo que permitirá hacer la transición en el recaudo, y allí Colcard deberá entregar la información y bases de datos necesarias para la operación del recaudo.
+
+Así será la fase de reactivación del sistema de recaudo de Transcaribe:
+
+Lunes 13 de marzo:
+
+Desde el mediodía, los usuarios podrán volver a usar y recargar tus tarjetas Transcaribe, y volver a disponer de sus saldos precargados.
+
+Martes 14 de marzo:
+
+Hasta ese día se venderán tiquetes, y cada usuario podrá comprar máximo dos tiquetes. Sin embargo, podrán usarse hasta el jueves 16.
+
+Será el último día en que las rutas hagan sus recorridos provisionales de contingencia.
+
+Será el último día en que podrá abordarse los buses en los pasajeros sin validar la tarjeta.
+
+Miércoles 15 de marzo:
+
+Todas las rutas retomarán sus recorridos habituales.
+
+Ya no se venderán tiquetes, pero todavía podrán usarse para acceder a las estaciones hasta el jueves 16.
+
+Para abordar los buses en los paraderos será necesario validar la Tarjeta Transcaribe.
+
+Jueves 16 de marzo:
+
+Será el último día en que puedan usarse tiquetes para acceder a las estaciones.
+
+Este día quedará activada la red externa de puntos de recarga en su totalidad.
+
+Viernes 17 de marzo:
+
+La tarjeta Transcaribe vuelve a ser el único medio de pago para acceder al sistema en buses y estaciones.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-13-at-9.37.33-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fse-reactiva-el-recaudo-electronico-en-transcaribe-usuarios-pueden-volver-a-usar-y-recargar-sus-tarjetas%2F

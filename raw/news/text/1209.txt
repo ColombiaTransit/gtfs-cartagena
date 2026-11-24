@@ -1,0 +1,128 @@
+Se reactivan puntos de recarga externa para usuarios de Transcaribe
+2021-07-08 (modified 2021-07-08)
+https://transcaribe.gov.co/index.php/noticia/se-reactivan-puntos-de-recarga-externa-para-usuarios-de-transcaribe/
+
+El concesionario Colcard informó que se activarán este jueves 37 puntos de recarga, adscritos a la empresa Punto de Pago.
+
+De acuerdo a lo informado por el concesionario de recaudo y control de flotas Colcard, desde este jueves 8 de julio se reactiva el servicio de recarga externa para los usuarios de Transcaribe en los barrios de la ciudad.
+
+El concesionario informó que llegó a un acuerdo con la empresa Punto de Pago, la cual será la encargada de prestar el servicio de recargas externas en sus puntos ubicados en establecimientos de comercio en la ciudad.
+
+Inicialmente, y de acuerdo a lo señalado por Colcard, la red de recargas se activará este jueves en 37 puntos ubicados en el sur de Cartagena, y progresivamente se irá extendiendo a toda la ciudad.
+
+Transcaribe continúa haciendo seguimiento permanente al cumplimiento de este compromiso por parte del concesionario de recaudo, y trabaja en la verificación de la funcionalidad de cada uno de los puntos que entrarán en operación.
+
+Estos son los 37 puntos que se habilitarán desde este 8 de julio:
+
+Ciudadela 2000:
+
+Papelería y miscelánea Algo Bonito
+
+El Pozón:
+
+Autoservicio Tricompleto
+
+Chinocell sector La Paz
+
+Compupartes FyL Servicio Técnico
+
+Droguería Denis
+
+Papelería Cielo
+
+Papelería Cristo Te Ama
+
+Papelería Padre Pío
+
+El Nazareno:
+
+Blanca Nieve Telefonía
+
+13 de junio:
+
+Compraventa 13 de junio
+
+Fredonia:
+
+Compraventa Fredonia
+
+Olaya Herrera:
+
+Confitería y piñatería M y M
+
+Drogas Domar
+
+Droguería La 57, sector Ricaurte
+
+Droguería Marta Luz
+
+El comando del comercio
+
+El educador:
+
+Cyber mundo digital
+
+San Fernando:
+
+Farmacia Mallfarma
+
+Droguería La Bendición
+
+Droguería Pharmavida sur
+
+Daher.tech.com, sector Simón Bolívar
+
+Droguería Ana María Express, sector Simón Bolívar
+
+Droguería HZ, sector Simón Bolívar
+
+San José de Los Campanos:
+
+Droguería Said
+
+Frigocarnes de Colombia
+
+Publicity CTG diseño, publicidad y mercadeo
+
+Droguería Pharma Élite
+
+La Consolata:
+
+Empire Cell, sector Alcázares
+
+Nelson Mandela:
+
+FG Móvil
+
+Droguería Mi Comunidad
+
+El Carmelo:
+
+Migue Cell
+
+Los Jardines:
+
+Papelería Samms
+
+Villa Estrella:
+
+Tienda Carlos Agámez
+
+San Pedro:
+
+Biocell
+
+El Socorro:
+
+Café internet El Poly
+
+La Carolina:
+
+Efecty La Carolina Inversiones Guadalupe
+
+Huellas Alberto Uribe:
+
+Droguería Farma Huellas
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fse-reactivan-puntos-de-recarga-externa-para-usuarios-de-transcaribe%2F

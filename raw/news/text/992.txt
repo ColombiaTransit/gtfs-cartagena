@@ -1,0 +1,30 @@
+Se iniciaron las pruebas de cámaras de seguridad que se instalarán en las 17 estaciones de Transcaribe
+2017-09-21 (modified 2017-09-21)
+https://transcaribe.gov.co/index.php/noticia/se-iniciaron-las-pruebas-de-camaras-de-seguridad-que-se-instalaran-en-las-17-estaciones-de-transcaribe/
+
+CARTAGENA, SEPTIEMBRE 2017
+
+Transcaribe inició las pruebas de uno de los servicios que brindará mayor seguridad a los usuarios y contribuirá a un efectivo monitoreo del desarrollo y las necesidades de la operación regular del sistema.
+
+Se trata de la instalación de un centenar de cámaras, que seguirán el transcurrir diario en las 17 estaciones y en Patio Portal. Esto asegura una tele vigilancia en tiempo real para atender con rapidez los requerimientos que se presenten, tanto en materia de seguridad como en el plano operativo.
+
+Cada estación contará de 3 a 6 cámaras en servicio, utilizando tecnología de punta y conectadas, por fibra óptica, con el Centro de Control del sistema, ubicado en Patio Portal. La instalación de las cámaras se inició en la estación Centro.
+
+Las cámaras estarán en puntos estratégicos para tener un panorama completo de lo que ocurre, segundo a segundo, incluso desde antes de que se dé inicio a la operación. Vigilarán la parte de las taquillas o zonas de recaudo; en la de los torniquetes o validadores; y en el área de espera de los pasajeros que entran y salen de los buses.
+
+El gerente de Transcaribe, Humberto Ripoll, dijo que esto reforzará la confiablidad al sistema por cuanto se contará con una visión real de lo que está pasando en cada una de las estaciones. Igual permitirá reaccionar con rapidez cada vez que haya un flujo considerable de usuarios y se necesite enviar buses de refuerzo para evacuar determinada ruta.
+
+La instalación se hará de manera gradual. Las primeras estaciones con este servicio serán Centro y, después, Madre Bernarda, puesto que concentran gran participación de movilizados en los vehículos de Transcaribe.
+
+El concesionario de recaudo Colcard realizó, con base en sus obligaciones contractuales con Transcaribe, el proceso de compra e instalación del Sistema de Vigilancia.
+
+Completo sistema de vigilancia
+
+Como complemento a este moderno sistema de cámaras, el Sistema Integrado de Transporte Masivo (SITM) contará en las taquillas de las estaciones con un teléfono IP que tendrá comunicación directa con el Centro de Control y que hará más ágil el reporte del transcurrir de la operación y sus eventualidades, en caso de que se registren.
+
+Estos teléfonos los utilizarán las funcionarias de recaudo de las estaciones.
+
+FIN DEL COMUNICADO
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fse-iniciaron-las-pruebas-de-camaras-de-seguridad-que-se-instalaran-en-las-17-estaciones-de-transcaribe%2F

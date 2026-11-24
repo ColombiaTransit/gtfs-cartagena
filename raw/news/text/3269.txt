@@ -1,0 +1,19 @@
+Este miércoles, personaliza y activa tu tarjeta Transcaribe en Unitecnar
+2022-04-26 (modified 2022-04-26)
+https://transcaribe.gov.co/index.php/noticia/este-miercoles-personaliza-y-activa-tu-tarjeta-transcaribe-en-unitecnar/
+
+La jornada de personalización y activación de tarjetas se realizará entre 9:00 am y 12:00 pm, y entre 5:00 pm y 7:00 pm.
+
+Este miércoles 27 de abril, Transcaribe realizará una jornada de personalización y activación de tarjetas en las instalaciones de Unitecnar, para acercar este servicio a los estudiantes de esta institución educativa que son usuarios del sistema.
+
+La jornada se realizará entre las nueve de la mañana y las doce del mediodía, y luego entre las cinco de la tarde y las siete de la noche.
+
+Con su tarjeta Transcaribe personalizada, los usuarios podrán recargar en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrá tener el historial de sus viajes.
+
+Los usuarios solo deben llevar su tarjeta Transcaribe en buen estado y su documento de identidad, y diligenciar el formulario que les entregarán los funcionarios del concesionario de recaudo.
+
+Quienes tengan una tarjeta Transcaribe bloqueada por falta de uso, podrán llevarla para que sea desbloqueada. Vale la pena recordar que estos servicios no tienen ningún costo.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-26-at-5.49.27-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Feste-miercoles-personaliza-y-activa-tu-tarjeta-transcaribe-en-unitecnar%2F

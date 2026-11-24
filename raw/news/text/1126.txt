@@ -1,0 +1,14 @@
+Rutas A109 y A111 tendrán nuevo horario
+2020-07-10 (modified 2020-07-10)
+https://transcaribe.gov.co/index.php/noticia/rutas-a109-y-a111-tendran-nuevo-horario/
+
+Para responder a las necesidades de los usuarios que se movilizan durante el aislamiento preventivo obligatorio, desde este lunes 13 de julio Transcaribe modifica los horarios de las rutas A109 y A111 Nuevo Bosque – Santa Lucía.
+
+Las rutas operarán desde las 5:00 hasta las 9:00 a. m., y luego desde las 16:30 hasta las 19:30, saliendo desde su origen, es decir, la estación de transferencia Santa Lucía.
+
+“Estos ajustes operacionales corresponden a un análisis de oferta – demanda que se realiza durante la emergencia sanitaria en la ciudad. Informaremos sobre las conexiones que le funcionan a las comunidades de la zona de influencia para que sigan movilizándose en el sistema”, destacó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+Los Calamares, Tacarigua, Camagüey y Los Ejecutivos tienen alternativas desde los diferentes paraderos con las rutas X103 Variante – Consulado – Centro; mientras que Nuevo Bosque, El Country, La Troncal y Buenos Aires tienen alternativas con la ruta X102 Portal – Bosque – Centro.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Frutas-a109-y-a111-tendran-nuevo-horario%2F

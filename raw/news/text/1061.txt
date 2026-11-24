@@ -1,0 +1,12 @@
+Transcaribe no realiza operativos
+2019-07-11 (modified 2019-07-11)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-no-es-autoridad-de-transito-para-realizar-operativos/
+
+Transcaribe informa que como sistema de transporte masivo no es competente para realizar operativos en la ciudad para garantizar el control en el transporte informal.
+
+Esta función le compete a la autoridad de tránsito, que para Cartagena es el Departamento Administrativo de Tránsito y Transporte (DATT), entidad que hace parte del Distrito de Cartagena, al cual Transcaribe no es ajeno.
+
+El SITM considera que la ciudadanía debe apoyar este tipo de iniciativas y que, en tal sentido, deben articularse todos los esfuerzos interinstitucionales que sean necesarios para garantizar el control y operativos en contra de la informalidad que transita en la ciudad, la cual sin duda ataca atributos tan importantes de la calidad de vida tales como la confianza y la seguridad.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-no-es-autoridad-de-transito-para-realizar-operativos%2F

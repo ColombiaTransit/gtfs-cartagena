@@ -1,0 +1,26 @@
+Telemetría: la apuesta de Transcaribe en control de operación
+2020-02-11 (modified 2020-02-11)
+https://transcaribe.gov.co/index.php/noticia/telemetria-la-apuesta-de-transcaribe-en-control-de-operacion/
+
+Esta tecnología de punta permite controlar en tiempo real la operación de los vehículos y a sus conductores.
+
+Conocer el comportamiento del operador en la vía en vehículos del sistema, desde el frenado, la velocidad, si lleva puertas abiertas, el uso del cinturón de seguridad, si dio reversa y control en las geozonas, las cuales son áreas geográficas en diversos puntos de la ciudad donde deben transitar nuestros vehículos a baja velocidad, es posible gracias a una tecnología implementada por Transcaribe.
+
+Todos estos atributos garantizan la seguridad de nuestros usuarios a bordo, generando una mayor confianza.
+
+“El propósito de esta tecnología es optimizar el servicio a través del control de los indicadores de prácticas de los operadores que se actualiza constantemente, y podemos reconstruir segundo a segundo la operación. Toda la flota de Transcaribe cuenta con el computador a bordo configurado y los datos se emiten en tiempo real a los dispositivos donde se controla”, explicó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+Una de las ventajas de este software son las geozonas, áreas delimitadas en puntos estratégicos de la ciudad para que los operadores transiten a baja velocidad y, cuando sobrepasen el límite, se emita una alerta luminosa y sonora.
+
+“Cada operador tiene su llave con la que ingresa al computador, lo que arrojará un historial de comportamientos para medir su rendimiento en la operación. Esto nos permitirá otorgar reconocimientos o sanciones”, añadió el gerente de Transcaribe.
+
+Además del control en la operación, se mide el viaje con indicador de mantenimiento, teniendo en cuenta que la vida útil del vehículo se mide por el buen uso que le dé el conductor.
+
+Igualmente se podrá disminuir el índice de accidentalidad, controlar y aumentar la asertividad en el cumplimiento de la programación de las rutas.
+
+“Esta también es una apuesta del sistema al concepto de ciudades inteligentes, debido a que se usa tecnología de punta solo para Transcaribe”, puntualizó Ripoll Durango.
+
+_Comunicado 007_
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftelemetria-la-apuesta-de-transcaribe-en-control-de-operacion%2F

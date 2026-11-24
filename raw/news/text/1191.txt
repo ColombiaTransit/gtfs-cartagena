@@ -1,0 +1,12 @@
+Transcaribe modifica sus horarios de acuerdo con el nuevo decreto de toque de queda
+2021-04-26 (modified 2021-04-26)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-modifica-sus-horarios-de-acuerdo-con-el-nuevo-decreto-de-toque-de-queda/
+
+De acuerdo con las medidas contenidas en el Decreto 0452 del 26 de abril de 2021, expedido por la Alcaldía Distrital de Cartagena, Transcaribe informa que se modifican los horarios de su operación.
+
+Durante la vigencia del mencionado decreto, el último servicio por la troncal será despachado de patio portal a las 7:15 de la noche. Los servicios alimentadores se cerrarán a las ocho de la noche.
+
+En cuanto a la operación en fin de semana, cuando el toque de queda iniciará desde el mediodía, Transcaribe informará próximamente los ajustes que se realizarán a los horarios en ese sentido.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-modifica-sus-horarios-de-acuerdo-con-el-nuevo-decreto-de-toque-de-queda%2F

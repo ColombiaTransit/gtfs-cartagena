@@ -1,0 +1,22 @@
+Hasta que se recuperen saldos prestados, se suspenderá viaje a crédito en Transcaribe
+2020-07-27 (modified 2020-07-27)
+https://transcaribe.gov.co/index.php/noticia/hasta-que-se-recuperen-saldos-prestados-se-suspendera-viaje-a-credito-en-transcaribe/
+
+- La decisión se toma luego de analizar el comportamiento financiero presentado en los últimos 4 meses, donde los valores validados a créditos superarían los saldos existentes y se agotarían los recursos del fondo destinado para tal fin.
+
+- Un poco más de 34 mil pasajes prestados no han sido devueltos al sistema.
+
+Desde el 25 de marzo que comenzó el aislamiento preventivo obligatorio, decretado por el Presidente de la República, Transcaribe habilitó para todos sus usuarios el viaje a crédito como una de las medidas de contingencia para prevención del Covid-19, el cual solo estaba disponible para usuarios con tarjetas personalizadas.
+
+Sin embargo, a la fecha el fondo que se usa para el viaje a crédito se le agotan los recursos debido al no recaudo de pasajes prestados, faltándole un poco más de 34 mil que representan 85 millones de pesos. Por esto, a partir de esta semana se suspenderá esta opción para todas las tarjetas habilitadas.
+
+Según el manual del usuario de Transcaribe, el usuario “tiene la opción de utilizar un crédito en las rutas alimentadoras, pretroncales y complementarias de Transcaribe hasta por el valor máximo de un pasaje. Para hacer transbordo en servicios troncales, el usuario deberá pagar el crédito cuando llegue a una estación del sistema. Si el usuario no realiza transbordo a servicio troncal, en la siguiente recarga que haga, será cobrado el crédito”.
+
+“Con preocupación notamos que estos viajes a créditos no están siendo regresados al fondo que administra Transcaribe. Al no devolver esos ‘viajes prestados’ los recursos se agotan, como ocurriría si no suspendemos esta opción. En el análisis que se realiza semanalmente al comportamiento financiero del fondo, se identifica que en algunas semanas los usuarios prestaron hasta 12 millones de pesos, pero solo se recaudaron o devolvieron 100 mil pesos”, explicó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+El gerente del ente gestor aclaró que como se habilitó esta opción a todas las tarjetas, hay muchos números que no pueden ser identificados fácilmente porque no tienen datos de la ciudadanía.
+
+Además, invitó a los usuarios del sistema a que recarguen sus tarjetas si han prestado pasajes en los últimos meses con el fin de recuperar los recursos del fondo y activar nuevamente el viaje a crédito para beneficio de los mismos.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fhasta-que-se-recuperen-saldos-prestados-se-suspendera-viaje-a-credito-en-transcaribe%2F

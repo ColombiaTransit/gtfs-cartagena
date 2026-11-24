@@ -1,0 +1,25 @@
+Transcaribe activa el “Portal del Usuario” para la consulta de saldos y la gestión de los viajes
+2023-12-23 (modified 2023-12-23)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-el-portal-del-usuario-para-la-consulta-de-saldos-y-la-gestion-de-los-viajes/
+
+La opción está disponible en www.transcaribe.gov.co. Los usuarios deben registrarse y agregar sus tarjetas. Podrán consultar su saldo, conocer las últimas fechas en que usaron sus tarjetas, bloquearlas por robo o pérdida, e interponer reclamos, entre otros
+
+Dentro del proceso de implementación del nuevo sistema de recaudo de Transcaribe, de la mano de Sonda S.A., operador de ese sistema, se activó el “Portal del Usuario”, una alternativa digital a través de la cual los usuarios podrán consultar su saldo y gestionar sus viajes, además de bloquear su tarjeta, enviar un reclamo y, próximamente, conocer los puntos de recarga más cercanos.
+
+Esta alternativa permite al usuario conocer cuál es su saldo disponible, las fechas de sus últimas recargas y las fechas de los últimos usos de las tarjetas que asocien a su cuenta, así como bloquear la tarjeta en caso de pérdida, o interponer reclamos relacionados con el recaudo, y consultar en los próximos días los puntos de recarga y puntos de atención al usuario más cercanos a su ubicación. Cada usuario podrá asociar a su cuenta todas las tarjetas que use.
+
+Ver esta publicación en Instagram
+
+Una publicación compartida por Transcaribe S.A. (@transcaribecartagena)
+
+Para acceder a esta nueva herramienta, se debe ingresar a la página web oficial de Transcaribe, www.transcaribe.gov.co, y dar click en el banner “Portal del Usuario”. Cada usuario deberá crear su cuenta, ingresando en la opción “Usuario Transcaribe, quiero registrarme”, donde deberá agregar los datos solicitados y asignar su contraseña.
+
+Finalizado el proceso de registro, el usuario recibirá un correo electrónico con un enlace para activar su cuenta, y una vez activada, podrá ingresar con su número de identificación y la contraseña que asignó.
+
+Para agregar las tarjetas que usa, el usuario debe seleccionar la opción «medios de acceso» en el menú superior. Luego, introducirá el número ubicado debajo del código de barras de la tarjeta que quiera agregar, y le asignará un nombre con el que quiera identificarla. Cada usuario podrá tener agregadas hasta cinco tarjetas a su cuenta.
+
+Una vez surtido este proceso, el usuario podrá consultar saldo y las últimas veces que recargó y utilizó su tarjeta, dando click en el menú «resumen”. Entretanto, para bloquear la tarjeta por pérdida o robo, o enviar un reclamo o solicitud relacionados con el recaudo, se debe dar click en la opción “tengo problemas con mi medio de acceso”, ubicada debajo del gráfico de la tarjeta.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-23-at-10.02.14.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-el-portal-del-usuario-para-la-consulta-de-saldos-y-la-gestion-de-los-viajes%2F

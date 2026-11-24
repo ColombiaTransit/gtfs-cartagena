@@ -1,0 +1,29 @@
+Transcaribe activa desvíos en las rutas X103 y C001 a la altura de Piedra de Bolívar
+2023-06-13 (modified 2023-06-14)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-desvios-en-las-rutas-x103-y-c001-a-la-altura-de-piedra-de-bolivar/
+
+Debido al cierre total de la Calle 30 a la altura del parque del barrio Piedra de Bolívar, desde este 14 de junio.
+
+A causa del cierre de la Calle 30, por la realización de obras a la altura del parque del barrio Piedra de Bolívar, Transcaribe activará desde mañana miércoles 14 de junio, desvíos en sus rutas X103 y C001.
+
+Los desvíos estarán activos hasta que concluyan las obras, las cuales, de acuerdo a la información suministrada por el contratista, tienen una duración estimada de siete días.
+
+RUTA X103
+
+En sentido Portal-Consulado-Centro:
+
+A la altura de la sede Piedra de Bolívar de la Universidad de Cartagena, los buses bajarán por la calle 30ª hasta la diagonal 30, donde se incorporarán a su recorrido habitual en el parque Piedra de Bolívar.
+
+En sentido Centro-Consulado-Portal:
+
+En la Cruz Roja, los buses girarán a la derecha para tomar la Carrera 45, para luego tomar la Calle 29 hasta la Carrera 49, retomando su recorrido habitual por la Avenida del Consulado a la altura de la I.E. Madre Laura.
+
+RUTA C001
+
+En sentido Centro – Manga – Ciudadela 2000:
+
+En el barrio Junín, los buses tomarán la Calle 29, hasta la Carrera 49, incorporándose a la Avenida del Consulado, retomando su recorrido habitual en la I.E. Madre Laura.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/Transcaribe-Semana-Santa.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-desvios-en-las-rutas-x103-y-c001-a-la-altura-de-piedra-de-bolivar%2F

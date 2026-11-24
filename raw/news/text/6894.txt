@@ -1,0 +1,17 @@
+Falla eléctrica afecta operación de Transcaribe en estación Bodeguita
+2025-05-14 (modified 2025-05-14)
+https://transcaribe.gov.co/index.php/noticia/falla-electrica-afecta-operacion-de-transcaribe-en-estacion-bodeguita/
+
+Una falla eléctrica que inició cerca de las cuatro de la mañana, y que mantiene sin energía al barrio Bocagrande y gran parte del Centro Histórico, está causando afectaciones en la operación de Transcaribe.
+
+Debido a este incidente, la estación Bodeguita del SITM no cuenta con fluido eléctrico en este momento, haciendo imposible el funcionamiento de los sistemas de recaudo.
+
+Ante esto, y como es costumbre en el sistema, se activó el protocolo de contingencia de recaudo para este tipo de situaciones.
+
+El acceso a la estación Bodeguita se está realizando con venta manual de tiquetes.
+
+Lamentamos esta situación y las afectaciones que pueda provocar a nuestros usuarios, y les informamos que estamos trabajando para ofrecer una solución próxima a esta situación.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/05/MEDIDOR-21.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ffalla-electrica-afecta-operacion-de-transcaribe-en-estacion-bodeguita%2F

@@ -1,0 +1,16 @@
+Transcaribe aclara diferencias entre la tarifa técnica y la tarifa al usuario
+2021-02-03 (modified 2021-02-03)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-aclara-diferencias-entre-la-tarifa-tecnica-y-la-tarifa-al-usuario/
+
+Transcaribe emitió el pasado 30 de septiembre una concepto no vinculante al Distrito, con respecto al comportamiento de la tarifa técnica durante el 2020.
+
+La tarifa técnica es lo que le cuesta al sistema movilizar a un usuario. La tarifa técnica cubre cinco aspectos: el costo de los kilómetros recorridos por los buses, el costo de la plataforma tecnológica de recaudo, el costo del ente gestor administrativo, el costo de la fiduciaria y el costo de chatarrización.
+
+La tarifa al usuario es la que decreta el Distrito, y la que establece el costo del pasaje. Es distinta de la tarifa técnica que establece el concepto emitido por el sistema.
+
+La Administración Distrital, en cabeza del Alcalde William Dau Chamat, jamás irá en contra de la economía de los cartageneros.
+
+Por eso, de la mano de Transcaribe, el Distrito trabaja en las distintas alternativas financieras que permitan cubrir el diferencial entre tarifa técnica y tarifa al usuario, para garantizar la sostenibilidad del sistema sin afectar el bolsillo de los usuarios.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-aclara-diferencias-entre-la-tarifa-tecnica-y-la-tarifa-al-usuario%2F

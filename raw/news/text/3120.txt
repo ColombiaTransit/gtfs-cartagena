@@ -1,0 +1,49 @@
+Transcaribe comunica primeros avances en la investigación por incendio de bus
+2022-01-03 (modified 2022-01-03)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-comunica-primeros-avances-en-la-investigacion-por-incendio-de-bus/
+
+El comité que asumió la investigación de lo sucedido evalúa cuatro hipótesis sobre las causas de la conflagración.
+
+Con respecto a los sucesos ocurridos el pasado 30 de diciembre de 2021, en los que un vehículo del sistema se incendió en cercanías a la estación Cuatro Vientos, por fortuna sin que se registrara ningún herido, gracias al rápido accionar por parte del Operador, Transcaribe informa los siguientes avances en cuanto a las investigaciones en curso:
+
+El bus afectado fue el TC11018, que hace parte del primer lote de articulados que se vinculó al sistema, estando en operación desde 2016, acumulando 331.229 km en seis años de servicio.
+
+Durante la conflagración no se registraron explosiones, y los sistemas de seguridad con los que cuenta el bus, especialmente el sistema de gas natural comprimido y el mecanismo automático de extinción de incendios operaron como estaba previsto. Sin embargo, debido a la naturaleza y ubicación de la conflagración y la velocidad con la que se propagó, la activación de estos mecanismos no fue suficiente para contener las llamas, que solo pudieron sofocarse con la acción del cuerpo de bomberos.
+
+El fuego se propagó desde la parte trasera izquierda hasta el vagón delantero, incinerando gran parte de la carrocería y afectando el chasis, especialmente los componentes ubicados en el habitáculo del motor.
+
+Una vez superado el incidente, se instaló un comité que adelanta un proceso riguroso de investigación que busca esclarecer los motivos del incendio y determinar las medidas subsecuentes. De este comité hacen parte representantes de los fabricantes del vehículo, proveedores de mantenimiento, profesionales de seguridad industrial del concesionario Sotramac, y un representante del Ente Gestor Transcaribe.
+
+De manera preliminar, considerando la evidencia y los análisis, el comité de investigación ha establecido cuatro posibles hipótesis sobre la causa del incendio. Vale la pena recordar que, al existir una investigación en curso, es probable que se descarten algunas de estas hipótesis o se sumen nuevas, de acuerdo con las comprobaciones que se adelantan.
+
+Las cuatro posibles hipótesis que se tienen hasta el momento son las siguientes:
+
+1- Una fuga masiva de aceite del sistema hidráulico del paquete de refrigeración del motor y la transmisión. Bajo esta condición, el aceite pudo alcanzar su punto de inflamación y permanecer por un tiempo tal que el fuego se haya propagado a otros elementos combustibles del habitáculo del motor.
+
+2- Temperatura elevada de líneas eléctricas por pérdida de protecciones eléctricas y corto circuito, condición que pudo ser propiciada por el aumento importante de la temperatura en el cofre motor. Se analiza especialmente en este caso la condición de la central eléctrica del sistema de aire acondicionado, que recibe la señal del alternador del mismo sistema y que se encuentra cerca del cofre motor.
+
+3- Falla en el turbocompresor del motor. Una disfunción en el sistema de recirculación de gases de escape, pudo ocasionar un incremento inusitado de la temperatura de estos componentes, que a su vez elevó la temperatura
+
+de piezas y elementos cercanos con menores puntos de inflamación y fusión. Bajo esta hipótesis, también se evalúa una eventual fuga de gases de escape a través del turbo o los ductos aguas arriba o abajo del mismo, estos gases calientes pudieron acumularse alcanzando elementos combustibles e iniciando la conflagración.
+
+4- Elemento combustible en contacto con alguna de las fuentes de calor en el cofre motor. Por desprendimiento de algún elemento de la carrocería o el chasis (por ejemplo, material aislante, protecciones eléctricas, o elementos externos que pudieran alojarse en algún momento en esta zona). Esta condición pudo propiciar la combinación de calor, oxígeno y combustible requeridos para la generación y propagación del fuego.
+
+Conforme al avance de la investigación, se han establecido varias acciones para prevenir que ninguna de las condiciones que se evalúan como posibles causas del incendio se encuentren presentes en otros vehículos. Algunas de estas acciones han sido:
+
+Inspecciones rápidas de todos los buses en busca de condiciones anormales o mal funcionamiento.
+
+Revisión y diagnóstico detallado de todos los buses, priorizando los más antiguos, verificando aspectos como el funcionamiento y estado del paquete de refrigeración del motor, revisión del turbocompresor, las mantas de protección térmica, líneas eléctricas, sistema automático de extinción de incendios, entre otros.
+
+Reinducción a los operadores para recordar la obligatoriedad de detener y apagar los vehículos al detectar anomalías en el motor o transmisión.
+
+Actualización del software de protección del motor frente a eventos de alta temperatura de la transmisión automática, y ampliación de la cobertura del sistema automático de extinción de incendios del cofremotor.
+
+Adicionalmente a estas acciones tomadas, vale la pena reiterar que Transcaribe realiza constante seguimiento y supervisión a la ejecución y cumplimiento de los planes de mantenimiento preventivo y correctivo que cada uno de los concesionarios de la operación tiene diseñados para sus vehículos.
+
+Estos planes de mantenimiento se ejecutan tomando como referencia el kilometraje recorrido por los buses. Así, cada 5.000 km se realizan mantenimientos al sistema de refrigeración del motor, a los sistemas de alta presión, a las líneas de presión y a los cilindros de gas natural vehicular, y cada 15.000 km, los mantenimientos se aplican al tren motriz, incluyendo actividades preventivas en los frenos, la dirección y la suspensión.
+
+El ente gestor tiene el compromiso y la responsabilidad de garantizar que se cumplan con los protocolos establecidos para la confiabilidad de la operación de transporte en términos de seguridad, confort e imagen. Por eso, también se verifica que, en los patios talleres de cada concesionario, se realicen diariamente revisiones rigurosas al desempeño de los vehículos, garantizando la confiabilidad y la vida útil de los mismos. Algunas de estas inspecciones están a cargo, incluso, de los fabricantes de chasis y carrocerías, o por personal calificado y capacitado por los distribuidores. Todos los planes de mantenimiento están adaptados a las condiciones especiales de la ciudad en cuanto a salinidad y temperatura.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/01/E484A2E8-0744-425C-84CB-CE0FAEDC08D9-scaled-e1641240683856.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-comunica-primeros-avances-en-la-investigacion-por-incendio-de-bus%2F

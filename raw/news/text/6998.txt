@@ -1,0 +1,21 @@
+Recarga y consulta tu saldo de Transcaribe, ahora desde tu casa o trabajo, con la app de SuperGiros
+2025-07-15 (modified 2025-07-15)
+https://transcaribe.gov.co/index.php/noticia/recarga-y-consulta-tu-saldo-de-transcaribe-ahora-desde-tu-casa-o-trabajo-con-la-app-de-supergiros/
+
+Con esta funcionalidad SuperGiros y Transcaribe reafirman su compromiso con la innovación, la inclusión digital y la mejora continua de los servicios que benefician a miles de ciudadanos diariamente.
+
+SuperGiros y Transcaribe refuerzan su alianza, fortaleciendo el servicio de recargas de pasajes para el sistema masivo de transporte de Cartagena, que desde ahora estará disponible también a través de la aplicación móvil de SuperGiros, permitiendo a los usuarios realizar recargas y consultar el saldo de sus tarjetas online de forma rápida, segura y sin desplazamientos.
+
+Este nuevo servicio representa un gran avance en la digitalización y accesibilidad del transporte público en la región. Esta posibilidad que se le brinda a partir de ahora a los usuarios se suma a la implementación del pasado 9 de abril, donde las recargas de tarjetas Transcaribe se pueden realizar a través de los más de 2.000 puntos de venta físicos de SuperGiros del departamento de Bolívar, ampliando así las opciones para los usuarios del sistema integrado de transporte masivo de la ciudad.
+
+“En SuperGiros, estamos comprometidos con la innovación y en ofrecer soluciones que simplifiquen la vida de nuestros usuarios. Con el lanzamiento de las recargas de Transcaribe a través de nuestra aplicación, damos un paso gigante en la comodidad y eficiencia, permitiendo que miles de ciudadanos gestionen sus viajes sin contratiempos y directamente desde sus dispositivos móviles, permitiéndonos estar más cerca de los cartageneros y bolivarenses”, afirmó Luis Bernardo Correa, gerente de SuperGiros.
+
+“Desde la Alcaldía de Cartagena, con el respaldo de nuestro alcalde Dumek Turbay Paz, y todo el equipo de Transcaribe, seguimos comprometidos con la mejora constante del servicio, y con alternativas como esta que estamos presentando, la posibilidad de recargar sus pasajes a través de la app de SuperGiros, seguimos facilitándole la vida a nuestros usuarios. Así, podemos seguir entregándole buenas noticias a cartageneros y visitantes que se mueven a bordo del sistema, a las que se sumará la incorporación de más de cincuenta nuevos vehículos a la flota, proceso que avanza satisfactoriamente”, acotó Ercilia Barrios Flórez, gerente de Transcaribe.
+
+Con esta funcionalidad SuperGiros y Transcaribe reafirman su compromiso con la innovación, la inclusión digital y la mejora continua de los servicios que benefician a miles de ciudadanos diariamente.
+
+La app SuperGiros está disponible en Play Store y App Store.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/07/MEDIDOR-2025-07-15T100050.697.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Frecarga-y-consulta-tu-saldo-de-transcaribe-ahora-desde-tu-casa-o-trabajo-con-la-app-de-supergiros%2F

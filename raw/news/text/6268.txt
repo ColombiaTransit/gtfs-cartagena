@@ -1,0 +1,19 @@
+Transcaribe lanza su canal oficial de WhatsApp, para informar en tiempo real novedades de su operación
+2024-11-20 (modified 2024-11-20)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-lanza-su-canal-oficial-de-whatsapp-para-informar-en-tiempo-real-novedades-de-su-operacion/
+
+Con el canal de WhatsApp “Transcaribe te informa”, se busca fortalecer la información al usuario acerca de las novedades y cambios que registre la operación del sistema.
+
+Transcaribe lanza su nuevo canal oficial de WhatsApp “Transcaribe te informa” con el que la entidad busca fortalecer la comunicación en tiempo real a los usuarios de las distintas novedades, cambios o afectaciones que se presenten en la operación del sistema.
+
+A través de esta herramienta, los usuarios que se unan al canal oficial, podrán recibir a través de WhatsApp podrán recibir actualizaciones constantes acerca de desvíos, retrasos o cambios en las rutas del sistema, lo que les permitirá estar al tanto del funcionamiento y operación de Transcaribe al momento de utilizarlo.
+
+Los usuarios podrán unirse al canal oficial de WhatsApp de Transcaribe dando click en el enlace https://whatsapp.com/channel/0029VawqMjFEKyZDzUcLa53Y, escaneando los códigos QR que se instalarán para tal fin en las estaciones del sistema, o buscando en el apartado de canales de su aplicación “Transcaribe te informa”.
+
+“Nos parece fundamental aprovechar las distintas herramientas que la tecnología nos ofrece para fortalecer un aspecto importante dentro de nuestra operación, que es la información al usuario en tiempo real. Los invitamos a unirse al Canal de WhatsApp “Transcaribe te informa”, activar las notificaciones, e invitar a más personas a vincularse, para estar permanentemente informados sobre la operación del sistema”, indicó Ercilia Barrios Flórez, gerente de Transcaribe.
+
+Los canales de WhatsApp son una herramienta que ofrece la aplicación de mensajería, los cuales permiten difundir mensajes públicos a grandes audiencias, en una vía unidireccional: solo el administrador del canal, es decir, Transcaribe, podrá enviar información a los integrantes del espacio.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-20-at-11.27.55.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-lanza-su-canal-oficial-de-whatsapp-para-informar-en-tiempo-real-novedades-de-su-operacion%2F

@@ -1,0 +1,15 @@
+Transcaribe activa protocolo de recaudo manual debido a falla eléctrica
+2024-01-10 (modified 2024-01-11)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-protocolo-de-recaudo-manual-debido-a-falla-electrica/
+
+Transcaribe informa que, debido a una aparente falla en el servicio de energía, en este momento se presentan problemas de fluido eléctrico, y por consiguiente, de sistema, en algunas estaciones del sistema.
+
+La falla afecta a las estaciones Ejecutivos, Villa Olímpica, El Líbano, Delicias, Chambacú y Centro.
+
+Ante esta situación, se ha activado el protocolo de contingencia en el recaudo: el ingreso de los usuarios y la venta de pasajes se está realizando, provisionalmente, de forma manual, con tiquetes.
+
+Transcaribe lamenta las afectaciones para los usuarios. Trabajamos para poder superar esta situación, y restablecer el servicio de forma habitual a la mayor brevedad.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-10-at-08.42.15.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-protocolo-de-recaudo-manual-debido-a-falla-electrica%2F

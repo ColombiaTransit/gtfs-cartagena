@@ -1,0 +1,14 @@
+Comunicado de Transcaribe sobre accidente en Centro Histórico
+2021-10-11 (modified 2021-11-25)
+https://transcaribe.gov.co/index.php/noticia/comunicado-de-transcaribe-sobre-accidente-en-centro-historico/
+
+Pasadas las cinco de la tarde, tres vehículos de Transcaribe se vieron involucrados en un accidente de tránsito en el Centro Histórico de Cartagena, a pocos metros de la estación Bodeguita.
+
+Tres pasajeros que se movilizaban en los buses del sistema resultaron lesionados con golpes en el incidente, y fueron trasladados de inmediato en ambulancias gestionadas por el centro de control de operaciones de Transcaribe a la Clínica de Fracturas. El más reciente reporte indica que los afectados presentan contusiones leves.
+
+A pesar del incidente, la operación del SITM no se detuvo, pudiendo movilizar a los pasajeros que esperaban en la hora pico de la tarde. Sin embargo, se registraron algunos retrasos, propios de la situación en el carril solobús.
+
+La información preliminar recolectada por las autoridades y suministrada por testigos indica que un taxi habría invadido la vía, provocando que el primero de los buses de Transcaribe frenara intempestivamente, y chocando con los otros dos vehículos. El incidente ya está en investigación.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-de-transcaribe-sobre-accidente-en-centro-historico%2F

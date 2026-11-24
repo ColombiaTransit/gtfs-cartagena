@@ -1,0 +1,16 @@
+Transcaribe registra el número más alto de pasajeros diarios tras la pandemia
+2021-02-23 (modified 2021-02-23)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-registra-el-numero-mas-alto-de-pasajeros-diarios-tras-la-pandemia/
+
+El lunes 22 de febrero se movilizaron 54.598 pasajeros en Transcaribe, luego de que la Alcaldía autorizara el aumento del aforo de los buses a un 70%.
+
+Transcaribe, el sistema de transporte masivo de los cartageneros, registró este lunes 22 de febrero de 2021 el número más alto de pasajeros movilizados en un día, desde que se empezaron a aplicar restricciones en marzo del 2020 a raíz de la pandemia de la COVID-19.
+
+El SITM movilizó este lunes 54.498 pasajeros, una buena noticia para el sistema de todos los cartageneros, que antes de la pandemia había llegado a transportar 140 mil usuarios diarios y que, con la llegada del virus y las restricciones consecuentes, vio disminuido el flujo de pasajeros hasta en un 93%.
+
+Este récord de pasajeros movilizados se produce luego de la autorización, por parte de la Alcaldía Distrital de Cartagena de Indias a través del Decreto 0186 del 17 de febrero de 2021, del aumento del aforo permitido en el sistema hasta el 70% de la capacidad de los vehículos, de conformidad con lo dispuesto por el Ministerio de Salud en la Resolución 0002475 del 20 de diciembre de 2020, y siguiendo las recomendaciones del Departamento Administrativo Distrital de Salud.
+
+Transcaribe reitera a sus usuarios la invitación a cumplir con todos los protocolos de bioseguridad dentro del sistema, desinfectando y lavando constantemente sus manos, usando permanentemente el tapabocas y evitando hablar e ingerir alimentos dentro de los vehículos. Asimismo, reafirma su compromiso con la desinfección permanente de toda la flota y estaciones del sistema, para disminuir el riesgo de contagio.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-registra-el-numero-mas-alto-de-pasajeros-diarios-tras-la-pandemia%2F

@@ -1,0 +1,26 @@
+Cinco cosas debes saber sobre la ruta gratuita de prueba Aeropuerto – Laguito del Ecobús Piloto de Transcaribe
+2025-01-21 (modified 2025-01-21)
+https://transcaribe.gov.co/index.php/noticia/cinco-cosas-debes-saber-sobre-la-ruta-gratuita-de-prueba-aeropuerto-laguito-del-ecobus-piloto-de-transcaribe/
+
+1- ¿Qué es el Ecobús Piloto?
+
+Es un bus de última tecnología de Transcaribe, con un doble propósito: realizar pruebas para una futura adquisición de nueva flota por parte del sistema, y al tiempo, desarrollar pruebas de distintos recorridos para la evaluación de la viabilidad de nuevas rutas.
+
+2- ¿Cómo operará el Ecobús Piloto?
+
+El Ecobús Piloto funcionará para evaluar cinco rutas experimentales, recopilar datos de tiempos, recorridos y demanda, y probar estos recorridos para evaluar su eventual implementación o no, en un futuro. Su primera ruta experimental es Aeropuerto – Laguito.
+
+3- ¿Cómo está operando la ruta experimental Aeropuerto – Laguito con el Ecobús Piloto de Transcaribe?
+
+Esta ruta experimental operará del lunes 20 de enero al viernes 31 de enero, solo los días hábiles, entre las 6 y las 9 de la mañana, y las 5 y las 8 de la noche, cubriendo el recorrido Aeropuerto – Bocagrande – Laguito – Castillogrande.
+
+4- ¿Cuál es el recorrido de esta ruta y cuáles son los paraderos habilitados?
+
+5- ¿Moverse en el Ecobús Piloto es gratuito?
+
+Los usuarios podrán abordar este vehículo de forma gratuita durante este horario, sin necesidad de presentar la Tarjeta Transcaribe, subiendo y bajando en los paraderos destinados a este recorrido de prueba.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/01/MEDIDOR-84.jpg
+https://transcaribe.gov.co/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-21-at-11.07.08.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcinco-cosas-debes-saber-sobre-la-ruta-gratuita-de-prueba-aeropuerto-laguito-del-ecobus-piloto-de-transcaribe%2F

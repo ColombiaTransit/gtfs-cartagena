@@ -1,0 +1,12 @@
+Se reactivan obras en el barrio Zaragocilla
+2020-11-23 (modified 2020-11-23)
+https://transcaribe.gov.co/index.php/noticia/se-reactivan-obras-en-el-barrio-zaragocilla/
+
+Transcaribe retoma obras de rehabilitación de rutas precarga complementarias en el barrio La Campiña, por lo que se hará un cierre de la carrera 50, entre calle 24 y calle 30 (avenida del Consulado).
+
+El plan de manejo de tráfico aprobado por el Departamento Administrativo de Tránsito y Transporte (DATT) indica que los vehículos que transiten por la transversal 50 y se dirijan hacia la diagonal 30, tomarán esta vía hasta la calle 24 de la carrera 50, normalizando su recorrido hacia el CAI de Ceballos.
+
+Los vehículos que vienen de la diagonal 30 hacia el Consulado, se desvían por la carrera 53 hasta la calle 30 o avenida del Consulado.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fse-reactivan-obras-en-el-barrio-zaragocilla%2F

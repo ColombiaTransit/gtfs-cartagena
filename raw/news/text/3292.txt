@@ -1,0 +1,35 @@
+Crisis de chips e insumos a nivel mundial provoca escasez de tarjetas Transcaribe
+2022-05-03 (modified 2022-05-03)
+https://transcaribe.gov.co/index.php/noticia/crisis-de-chips-e-insumos-a-nivel-mundial-provoca-escasez-de-tarjetas-transcaribe/
+
+El sistema invita a los cartageneros a activar sus tarjetas bloqueadas o inactivas en las estaciones. Se garantizará el acceso de los usuarios al servicio.
+
+Desde el año anterior, en todo el mundo se viene presentando una crisis con este tipo de tarjetas, debido a la escasez de chips y otros insumos con los que son fabricadas.
+
+En este momento, existe internacionalmente una sobredemanda de tarjetas por este fenómeno lo que, especialmente sumado al elevado precio del dólar, ha provocado el aumento de costos y la falta de disponibilidad por parte de proveedores.
+
+Transcaribe no ha sido ajeno a estas situaciones, y desde 2021 viene experimentando falta de nuevas tarjetas para usuarios. A finales del año anterior, un nuevo lote de estos elementos fue adquiridos, solventando la situación, pero en estos momentos el sistema volvió a verse afectado por la escasez.
+
+Ante esta situación, la entidad ya inició el proceso de adquisición de un nuevo lote de estos elementos. Sin embargo, invitamos a los usuarios que tengan tarjetas Transcaribe bloqueadas o inactivas por falta de uso, a que vuelvan a activarlas.
+
+Este proceso no tiene costo, y se puede realizar todos los días, en el mismo horario de funcionamiento de las taquillas, en las siguientes estaciones:
+
+-Madre Bernarda
+
+-La Castellana
+
+-Los Ejecutivos
+
+-Centro / vagón 2
+
+-Bodeguita / vagón 1
+
+-CAU en Patio Portal.
+
+En los próximos días, el sistema anunciará nuevas jornadas de activación en diferentes zonas de la ciudad.
+
+A pesar de la situación actual, Transcaribe garantizará el acceso de los usuarios al sistema. Si un usuario requiere acceder, y no existe disponibilidad de tarjetas, el personal de taquillas ha recibido la instrucción de habilitar su ingreso.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-26-at-5.49.27-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcrisis-de-chips-e-insumos-a-nivel-mundial-provoca-escasez-de-tarjetas-transcaribe%2F

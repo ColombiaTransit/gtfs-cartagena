@@ -1,0 +1,30 @@
+Transcaribe extiende su horario una hora
+2020-08-24 (modified 2020-08-24)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-extiende-su-horario-una-hora/
+
+• El último servicio de las rutas troncales y pretroncales saldrá desde su origen a las 7 p. m., mientras que el último servicio de las rutas alimentadoras saldrá a las 8:30 p. m.
+
+• Este ajuste obedece a las nuevas disposiciones de la Alcaldía de Cartagena y a favor de la ciudadanía que usa el sistema diariamente.
+
+Teniendo en cuenta las nuevas disposiciones distritales y el comportamiento de la demanda de usuarios del sistema, desde el sábado 22 de agosto se extendió el horario de cierre del SITM Transcaribe hasta las 8:30 p. m.
+
+“El sistema sigue operando continuamente para beneficio de la ciudadanía, teniendo en cuenta las normas de bioseguridad dispuestas desde el Gobierno Nacional y local para evitar la propagación del Covid -19, por eso con el nuevo horario de cierre de supermercados y centros comerciales hasta las 8 de la noche, mediante decreto distrital, el sistema ajustó sus rutas para que quienes están dentro de las excepciones o necesitan usar el sistema lo hagan de manera segura”, explicó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+La extensión de horario quedó de la siguiente manera:
+
+• Rutas troncales: T102 Portal – Crespo, T101 Portal – Centro y T100 Expresa tienen su último servicio a las 7 p. m., saliendo desde Patio Portal.
+
+• Rutas pretroncales: X101, X102, X103; X104, X105 y X106, tienen su último servicio también a las 7 p. m., saliendo desde cada uno de sus puntos de inicio: Huellas de Alberto Uribe, Patio Portal, Variante, Terminal de Transporte y Ciudadela 2000.
+
+• Rutas alimentadoras y complementaria: A101, A103, A104, A105, A107, A108, A114, A117 y C001 tendrán su último servicio a las 8:30 de la noche, saliendo desde Patio Portal y estación de transferencia Santa Lucía.
+
+Mientras que la A102, A109 y A111 tendrán su último servicio a las 7:30 p. m.
+
+• El último servicio de la ruta T103 Portal – Bocagrande, que sigue como la de mayor demanda de usuarios, saldrá a las 7:30 p. m. desde Patio Portal y así movilizaría más usuarios.
+
+Este mismo horario se manejará de lunes a viernes, mientras que el domingo las rutas troncales y pretroncales finalizarán a las 6 p. m., y las alimentadoras a las 7:30 p. m.
+
+Desde operaciones de Transcaribe se vigila el comportamiento de los usuarios para enviar servicios adicionales, si así se requiere.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-extiende-su-horario-una-hora%2F

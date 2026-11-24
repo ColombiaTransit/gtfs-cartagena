@@ -1,0 +1,16 @@
+Transcaribe rechaza agresiones contra personal de vigilancia en estaciones
+2021-05-24 (modified 2021-05-24)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-rechaza-agresiones-contra-personal-de-vigilancia-en-estaciones/
+
+El sistema de todos los cartageneros hace un llamado a la tolerancia y el respeto del manual del usuario.
+
+Transcaribe rechaza los ataques y agresiones que se han registrado en los últimos días contra el personal de vigilancia de las estaciones y operadores de los vehículos, por parte de usuarios que han intentado ingresar al sistema sin pagar su pasaje.
+
+El más reciente caso de intolerancia se registró el viernes anterior, cuando un guarda de seguridad del patio portal fue agredido por evitar que un ciudadano se colara al sistema. Son varios los reportes de agresiones tanto verbales como físicas contra el personal de campo de Transcaribe, que ponen en riesgo la integridad de estos.
+
+Para prevenir y contrarrestar estas situaciones, el equipo de Gestión Social adelanta de manera permanente jornadas de pedagogía y acompañamiento a los usuarios, para propiciar espacios pacíficos e incentivar el respeto, la tolerancia y el cumplimiento del manual del usuario.
+
+Transcaribe es un patrimonio de todos los cartageneros, por eso la invitación a la ciudadanía es a pagar debidamente sus pasajes y evitar la evasión, recargando sus tarjetas en las taquillas de las estaciones o en línea a través de www.colcard.com. El personal de Transcaribe en estaciones y patio portal, así como los operadores de los vehículos, están al servicio de la ciudadanía, y requieren de la colaboración de todos en el cumplimiento del manual del usuario del sistema.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-rechaza-agresiones-contra-personal-de-vigilancia-en-estaciones%2F

@@ -1,0 +1,25 @@
+Atención: por falla de fluido eléctrico, Transcaribe activará plan de contingencia este miércoles en Patio Portal
+2025-03-25 (modified 2025-03-25)
+https://transcaribe.gov.co/index.php/noticia/atencion-por-falla-de-fluido-electrico-transcaribe-activara-plan-de-contingencia-este-miercoles-en-patio-portal/
+
+El problema fue reportado y atendido por la empresa prestadora del servicio de energía, pero su arreglo aún se demora. Se espera que la situación esté superada sobre las 10:00 a.m.
+
+Debido a una falla en el fluido eléctrico en el Patio Portal de Transcaribe, que aún está siendo atendida por la empresa prestadora del servicio de energía, Transcaribe debe activar este miércoles 26 de marzo de 2025 un plan de contingencia para garantizar la prestación del servicio en ese punto.
+
+El problema en el servicio eléctrico se identificó y reportó en la tarde de este martes. Sin embargo, hasta el momento la empresa prestadora del servicio no ha logrado su solución, dado lo complejo del daño, obligando a la activación del plan de contingencia, para minimizar, en lo posible, las afectaciones a nuestros usuarios.
+
+La contingencia solo se activará en Patio Portal, y afectará sólo a los usuarios que deban validar su pasaje para acceder por la entrada peatonal del mismo, dada la imposibilidad de funcionamiento del sistema de recaudo en dicha entrada.
+
+Implicará las siguientes acciones:
+
+Para los usuarios que tengan saldo en su tarjeta, se ubicará un bus en la entrada vehicular del patio portal, en el cual el equipo social y de recaudo del sistema le pedirá validar su pasaje pasando la tarjeta por el validador del mismo. Una vez que se pase la tarjeta, el usuario podrá ingresar por la misma entrada vehicular.
+
+Para los usuarios que no tengan saldo en su tarjeta, y deban recargarla, se les venderán tiquetes manuales para su ingreso al sistema, en los torniquetes de la entrada peatonal del patio, como lo dicta el protocolo de contingencias de recaudo.
+
+Se espera que el problema eléctrico se pueda resolver definitivamente sobre las diez de la mañana, y se pueda regresar a la operación habitual en el patio portal. Transcaribe lamenta estas afectaciones, y se disculpa de antemano con sus usuarios por las incomodidades que se puedan presentar.
+
+La contingencia no afectará a los usuarios que se suban al sistema en estaciones o paraderos.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/03/MEDIDOR-12.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fatencion-por-falla-de-fluido-electrico-transcaribe-activara-plan-de-contingencia-este-miercoles-en-patio-portal%2F

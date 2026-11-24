@@ -1,0 +1,21 @@
+Esta semana, personalización de Tarjetas Transcaribe en la Umayor
+2023-04-11 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/esta-semana-personalizacion-de-tarjetas-transcaribe-en-la-umayor/
+
+Las jornadas se realizarán el miércoles 12 y jueves 13 de abril. Habrá activación y venta de tarjetas.
+
+Transcaribe continúa realizando jornadas de personalización en los principales centros universitarios de Cartagena, para que los estudiantes, usuarios frecuentes del sistema, puedan contar con su tarjeta personalizada y disfrutar de los beneficios que esto trae.
+
+Este miércoles 12 y jueves 13 de abril, la Institución Universitaria Mayor de Cartagena, en su sede del Centro Histórico, recibirá las jornadas de personalización. El miércoles 12, se realizará entre la 1:00 y las 7:00 p.m., y el jueves 13, la actividad tendrá lugar de 7:00 a.m. a 1:00 p.m.
+
+La personalización estará dirigida únicamente a la comunidad de la Umayor, y además, habrá venta de tarjetas Transcaribe, y activación de tarjetas bloqueadas. Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, podrán llevarlas para que sean reactivadas.
+
+Ni la personalización ni la activación tienen costo alguno. Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+¿Para qué sirve personalizar la tarjeta Transcaribe?
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-04-11-at-2.24.35-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Festa-semana-personalizacion-de-tarjetas-transcaribe-en-la-umayor%2F

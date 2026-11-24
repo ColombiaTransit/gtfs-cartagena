@@ -1,0 +1,14 @@
+Para mejorar velocidades y nivel de servicio, la X101 opera por el puente 13 de Junio
+2020-01-06 (modified 2020-01-06)
+https://transcaribe.gov.co/index.php/noticia/para-mejorar-velocidades-y-nivel-de-servicio-desde-este-sabado-la-x101-operara-por-el-puente-13-de-junio/
+
+Desde el sábado 4 de enero de 2020, la ruta X101 San José de los Campanos – 13 de Junio – Gaviotas – Centro tiene un nuevo recorrido por el puente 13 de Junio que representa mayores beneficios para sus usuarios.
+
+Con el puente habilitado, la ruta X101 realiza su recorrido original permitiendo menores tiempos en sus planes de viaje programados e inhabilitando los paraderos provisionales en la avenida Pedro Romero.
+
+Los paraderos en este tramo original son: de ida (sentido 13 de Junio – Centro) tienda la pradera; y de regreso (Centro – 13 de Junio) en la transversal 69a #64b -14 del barrio 13 de Junio.
+
+“Es una buena noticia para el sistema que el puente esté habilitado porque beneficia principalmente a los usuarios. Recordemos que esta ruta cuenta con 40 padrones, con capacidad de 90 pasajeros cada uno”, destacó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fpara-mejorar-velocidades-y-nivel-de-servicio-desde-este-sabado-la-x101-operara-por-el-puente-13-de-junio%2F

@@ -1,0 +1,43 @@
+Transcaribe recuerda a usuarios con movilidad reducida que es necesario contar con su tarjeta personalizada PMR para acceder al SITM
+2025-05-16 (modified 2025-05-19)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-recuerda-a-usuarios-con-movilidad-reducida-que-es-necesario-contar-con-su-tarjeta-personalizada-pmr-para-acceder-al-sitm/
+
+Es necesario realizar el proceso de personalización dado que los torniquetes PMR en estaciones se habilitan únicamente validando con estas tarjetas personalizadas.
+
+Transcaribe invita a sus usuarios con discapacidad física (usuarios de sillas de rueda) que no cuenten con su tarjeta personalizada para el acceso por las puertas y torniquetes establecidos para tal fin, a realizar el proceso de personalización, para evitar que se generen incomodidades o afectaciones en su ingreso o salida del sistema.
+
+La tarjeta personalizada es obligatoria para aquellos usuarios que requieran el uso de la puerta para movilidad reducida en las estaciones troncales, es decir, usuarios en sillas de ruedas o muletas que no puedan acceder por torniquetes regulares, tal como está establecido desde el inicio de la operación de Transcaribe en el Manual del Usuario.
+
+El proceso debe realizarse a través del Centro de Atención al Usuario, o de forma virtual, a través de la línea de WhatsApp de servicio 3332206769 y el correo pqr@transcaribe.gov.co , a donde se deben enviar los siguientes datos requeridos:
+
+Nombres y apellidos completos
+
+Documento de identidad
+
+Fecha de nacimiento
+
+Número de tarjeta de usuario
+
+Edad
+
+Certificado de discapacidad emitido por el DADIS o por la EPS
+
+Dirección completa
+
+Correo electrónico
+
+Teléfono de contacto
+
+El acceso de las personas con discapacidad al sistema con tarjeta personalizada PMR tiene unas reglas establecidas en el Manual del Usuario, las cuales son de cumplimiento obligatorio.
+
+Estos usuarios deben validar su tarjeta de manera regular a través del torniquete PMR en estaciones, pagando así la tarifa vigente del SITM. Todo acompañante debe validar su pasaje con su tarjeta regular por el torniquete habitual.
+
+A la salida de las estaciones, el usuario debe validar nuevamente su tarjeta personalizada PMR por la puerta destinada a tal fin, para que este pueda abrirse. La validación de la tarjeta para salir no genera cobro.
+
+En caso de acceder en autobuses de rutas pretroncales, troncales o complementarias, deben hacerlo por la puerta dos, entregando la tarjeta al operador para que valide el pasaje. El acompañante del usuario con discapacidad debe acceder, como es habitual, por la puerta uno del autobús, validando su propio pasaje, con su propia tarjeta.
+
+El uso indebido de la tarjeta PMR personalizada amerita su bloqueo y la suspensión del beneficio de acceso, así como el retiro de la estación o del sistema.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/05/0274a8b6-293e-4f83-8ece-6d74a677f9ca.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-recuerda-a-usuarios-con-movilidad-reducida-que-es-necesario-contar-con-su-tarjeta-personalizada-pmr-para-acceder-al-sitm%2F

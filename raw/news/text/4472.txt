@@ -1,0 +1,17 @@
+Todo bajo control y sin personas afectadas: comunicado de Transcaribe sobre falso conato de incendio en bus
+2023-10-11 (modified 2023-10-11)
+https://transcaribe.gov.co/index.php/noticia/todo-bajo-control-y-sin-personas-afectadas-comunicado-de-transcaribe-sobre-falso-conato-de-incendio-en-bus/
+
+Todo bajo control: una situación en la que un articulado del sistema de todos los cartageneros comenzó a emitir humo, fue controlada sin novedades, y sin que ninguna persona resultara afectada.
+
+Sucedió cerca de las 6:50 de la mañana de este miércoles 11 de octubre de 2023, a la altura de la estación María Auxiliadora. Según las primeras indagaciones, gracias a la rápida acción del operador del vehículo, la situación pudo ser controlada y ningún pasajero resultó afectado.
+
+El reporte del operador señala que detectó la presencia de humo en la parte trasera del vehículo, tras ser alertado por algunos pasajeros. Ante esto, se procedió a evacuar a los pasajeros y mover el vehículo a un punto donde no presentara riesgo. Al realizar la inspección, el operador detectó exceso de humo proveniente del habitáculo del motor y activo el protocolo de seguridad para estos casos.
+
+En la revisión técnica se concluyó que se presentó una fuga de gas refrigerante del sistema de aire acondicionado, produciendo emanación de vapor en exceso en el habitáculo del motor.
+
+Las autoridades llegaron al sitio y verificaron que todo se encontraba bajo control. El vehículo será trasladado al patio correspondiente para la evaluación de la situación, y así continuar estableciendo las posibles causas de esta situación.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/08/MEDIDOR-59.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftodo-bajo-control-y-sin-personas-afectadas-comunicado-de-transcaribe-sobre-falso-conato-de-incendio-en-bus%2F

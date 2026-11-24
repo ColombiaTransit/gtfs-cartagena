@@ -1,0 +1,19 @@
+Personaliza tu tarjeta Transcaribe esta semana en la Estación Centro
+2023-06-14 (modified 2023-06-14)
+https://transcaribe.gov.co/index.php/noticia/personaliza-tu-tarjeta-transcaribe-esta-semana-en-la-estacion-centro/
+
+El miércoles 14 y jueves 15 de junio, entre 1:30 y 6:30 p.m., los usuarios podrán solicitar estos servicios en una de las taquillas de la estación.
+
+La Estación Centro de Transcaribe recibirá esta semana las jornadas de personalización y activación de tarjetas para los usuarios del sistema.
+
+Este miércoles 14 y jueves 15 de junio, de 1:30 p.m. a 6:30 p.m, los cartageneros podrán solicitar este servicio, acercándose con su tarjeta en buen estado a la Taquilla 1 del Vagón A de la estación Centro.
+
+Personalizar la Tarjeta Transcaribe le permite a los usuarios acceder a la recarga en línea a través de PSE en la página web www.colcard.com. Otro beneficio de contar con la tarjeta personalizada es que, en caso de robo o pérdida, los saldos podrán ser recuperados y transferidos a una nueva tarjeta. Además, los usuarios personalizados podrán tener el historial de sus viajes con su número de identificación.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, también podrán llevarlas para que sean reactivadas. Vale la pena recordar que ni la personalización ni la activación tienen costo alguno.
+
+Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-14-at-10.16.47.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fpersonaliza-tu-tarjeta-transcaribe-esta-semana-en-la-estacion-centro%2F

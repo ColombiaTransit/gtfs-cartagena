@@ -1,0 +1,21 @@
+Comunicado de Transcaribe sobre situación con saldos de algunas tarjetas
+2023-12-15 (modified 2023-12-15)
+https://transcaribe.gov.co/index.php/noticia/comunicado-de-transcaribe-sobre-situacion-con-saldos-de-algunas-tarjetas/
+
+El pasado 8 de diciembre, se inició el proceso implementación del nuevo sistema de recaudo de Transcaribe, de la mano de la empresa chilena Sonda S.A., con experiencia en transportes masivos de varios países del continente.
+
+Este proceso implica una fase de transición entre el antiguo sistema de recaudo, basado en medios, y el nuevo sistema de recaudo, basado en cuentas y con avances tecnológicos que permitirán diversificar los medios de pago y las alternativas de recarga para nuestros usuarios. Dicha etapa de transición se extenderá, según lo contemplado, hasta el próximo 30 de diciembre.
+
+El nuevo sistema implica un avance tecnológico importante, que requiere que los dispositivos de recaudo estén 100% en línea. Lamentablemente, durante los últimos días, hemos presentado inconvenientes de conectividad que han provocado que algunos validadores se encuentren momentáneamente fuera de línea.
+
+Al estar fuera de línea, los validadores no pueden transmitir la información de las transacciones al sistema central. La lista de validación de estos validadores estuvo desactualizada durante este lapso, y algunos usuarios pudieron viajar sin que se actualizaran sus saldos, es decir, sin que se descontara la tarifa.
+
+Cuando se reactivó la conectividad de estos validadores, estos reiniciaron el envío de información al sistema central, y se actualizaron los saldos. Debido a esta situación, aproximadamente el 4% de los usuarios que utilizaron el servicio sin recargar su cuenta, quedaron con saldos negativos, lo que provoca que, al validar su tarjeta, le aparezca el mensaje “tarjeta suspendida”.
+
+Para regularizar estas tarjetas el usuario debe recargar las tarjetas y cubrir el monto negativo asociado a su tarjeta.
+
+Desde Transcaribe, lamentamos profundamente esta situación y pedimos disculpas a nuestros usuarios afectados por la misma. El sistema, junto a Sonda S.A., está trabajando en realizar los ajustes correspondientes para fortalecer el componente de conectividad del sistema, y prevenir que se repitan estas situaciones.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-15-at-06.51.31.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-de-transcaribe-sobre-situacion-con-saldos-de-algunas-tarjetas%2F

@@ -1,0 +1,30 @@
+El lunes 7 de julio, el Ecobús Piloto de Transcaribe inicia la ruta de prueba Bodeguita – San Francisco – La María
+2025-07-04 (modified 2025-07-04)
+https://transcaribe.gov.co/index.php/noticia/el-lunes-7-de-julio-el-ecobus-piloto-de-transcaribe-inicia-la-ruta-de-prueba-bodeguita-san-francisco-la-maria/
+
+El recorrido conectará el Centro Histórico con La María y sectores aledaños. Operará gratuitamente, en las franjas picos, solo los días hábiles.
+
+Bodeguita – San Francisco – La María será el octavo recorrido gratuito de prueba del Ecobús Piloto de Transcaribe, el cual iniciará operaciones el próximo lunes 7 de julio, en un recorrido que conecta el Centro Histórico con barrios como Daniel Lemaitre, Canapote, San Francisco, La María, y otros sectores aledaños.
+
+La ruta de prueba operará, de forma gratuita, solo los días hábiles, entre 6:00 a.m. y 9:00 am, en la franja de la mañana, y entre 5:00 p.m. y 8:00 p.m., en la franja de la tarde. Su operación iniciará el lunes 7 de julio, y se extenderá hasta el viernes 18 de julio, y los usuarios podrán abordarla gratuitamente, y sin necesidad de tener tarjeta Transcaribe.
+
+El recorrido iniciará en el paradero del parque de La Marina, saliendo por la Avenida Venezuela hasta Chambacú, tomando la glorieta San Felipe para luego ingresar por el Paseo Bolívar, siguiendo por la carrera 17, pasando por Daniel Lemaitre, girando a la derecha por la calle 76 hacia San Francisco, y luego la carrera 34 hasta la Iglesia María de los Ángeles.
+
+Luego, emprenderá su recorrido de retorno en la cancha sintética de La María por toda la carrera 30, hasta volver a ingresar a San Francisco por El Wío. Continuará nuevamente por la carrera 34 y la calle 17, pasando por el mercado de Santa Rita y tomando la carrera 14 (carretera de Torices) hasta Chambacú, donde girará a la derecha, y retornará al Parque de la Marina por la Avenida Venezuela.
+
+Con este recorrido de prueba, al igual que con los siete anteriores, Transcaribe busca realizar pruebas de demanda, tiempos y recorrido, recabando datos para analizar una eventual futura implementación oficial de nuevas rutas.
+
+Paraderos del recorrido de prueba Bodeguita – San Francisco – La María
+
+En sentido Bodeguita – La María:
+
+Parque de la Marina, Mall Plaza, Universidad Rafael Núñez, Alitas Super Wings, El punto del movimiento, Antiguo Telecom – D1, Lubricantes y filtros del Caribe, Pollo Express, Mercado de Santa Rita, Frente a las Dunas, 64-56, Parque Lemaitre, Iglesia Éxodo, Tiendas Ara, Puesto de salud San Francisco, CAI San Francisco, Cancha de softbol San Francisco, Biblioparque San Francisco, Cancha múltiple de San Francisco, Refrimac, Frente a Abastos Los Corales, Iglesia María de los Ángeles.
+
+En sentido La María – Bodeguita:
+
+Cancha sintética La María, Llantería Junior, Variedades Anita, Llantería Alex, Campo bola de caucho, Frente a cancha de softbol San Francisco, Refresquería y desechables Punto Familiar, frente a puesto de salud de San Francisco, colegio Liceo de Bolívar, Drogas La Rebaja, Farmacenter V, frente al mercado de Santa Rita, parque San Pedro, Surtimax, superabasto Torices, clínica San José de Torices, Loma del diamante, parque Espíritu del Manglar, Chambacú, Centro (paradero avenida Venezuela), paradero Parque De La Marina.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/07/MEDIDOR-96.jpg
+https://transcaribe.gov.co/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-03-at-16.25.33.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fel-lunes-7-de-julio-el-ecobus-piloto-de-transcaribe-inicia-la-ruta-de-prueba-bodeguita-san-francisco-la-maria%2F

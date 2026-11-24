@@ -1,0 +1,20 @@
+Transcaribe aumenta a un 55 % su oferta disponible para los usuarios
+2020-07-21 (modified 2020-07-21)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-aumentara-a-un-55-su-oferta-disponible-para-los-usuarios/
+
+• El ajuste operacional es desde hoy martes 21 de julio, teniendo en cuenta la proyección de la demanda de acuerdo a las nuevas medidas distritales.
+
+• Dentro de los ajustes también se incluyen mejoras en las frecuencias de las rutas de mayor demanda.
+
+Desde este martes 21 de julio Transcaribe tiene nuevas mejoras operacionales para usuarios del SITM que incluyen optimización de frecuencias en rutas de mayor demanda, aumento de la oferta disponible en un 55 % y nueva parada de la ruta X105 Ciudadela 2000 – Crisanto Luque – Bocagrande.
+
+“Estos ajustes corresponden a las proyecciones en las que trabaja el equipo de operaciones del sistema y de acuerdo a las nuevas medidas establecidas por el Distrito con la reapertura de peluquerías y plan piloto de centros comerciales. También reforzaremos la pedagogía con líderes y usuarios para acatar las medidas de bioseguridad dentro de los buses como evitar tocarse la cara durante el viaje, el distanciamiento físico de más de un metro o dejar una silla de por medio y evitar hablar o conversar dentro del vehículo”, explicó el gerente de Transcaribe Humberto Ripoll Durango.
+
+Algunos de los ajustes corresponden a la ruta X105, debido a que presenta una mayor carga de usuarios hacia Bocagrande, mejorando el intervalo en hora pico de 5.5 minutos a 5 minutos. Además *esta ruta tendrá una parada adicional en la estación Bodeguita, sentido Bazurto – Bocagrande se detiene en el primer vagón y sentido Bocagrande – Bazurto lo hace en el segundo vagón*
+
+Transcaribe recuerda a los usuarios el uso obligatorio de tapabocas en el sistema y lavarse las manos de manera frecuente, preferiblemente antes y después de cada viaje.
+
+Es de anotar que el SITM Transcaribe continúa con la medida del 35 % de capacidad de ocupación, que por cada tipología de vehículo corresponde a: busetón 18 usuarios, padrón 32 usuarios y articulado 56 usuarios.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-aumentara-a-un-55-su-oferta-disponible-para-los-usuarios%2F

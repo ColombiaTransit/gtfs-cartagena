@@ -1,0 +1,15 @@
+Transcaribe controló situación con la pérgola de la estación Bazurto
+2024-01-03 (modified 2024-01-03)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-controlo-situacion-con-la-pergola-de-la-estacion-bazurto/
+
+La estructura colapsada se retiró, y en este momento, no existe riesgo para los usuarios ni la operación.
+
+Al inicio de la operación del sistema este miércoles 3 de enero, se recibió el reporte del desprendimiento de parte de la estructura de la pérgola ubicada en el acceso a la estación Bazurto del sistema.
+
+Una vez se recibió el reporte, Transcaribe procedió a atender la situación: se realizó el desmonte de la estructura colapsada, y se logró controlar el riesgo para los usuarios del sistema. En este momento, la estructura no presenta ningún tipo de riesgos, y la operación se desarrolla de manera habitual.
+
+Vale la pena resaltar que Transcaribe, junto a la Administración Distrital, trabajan en la implementación de un plan de mantenimiento y readecuación de las estaciones, para mejorar su infraestructura y las condiciones para los usuarios que diariamente se mueven en el sistema.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/01/Bazurto_estacion.png
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-controlo-situacion-con-la-pergola-de-la-estacion-bazurto%2F

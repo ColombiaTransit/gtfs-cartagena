@@ -1,0 +1,14 @@
+Transcaribe suspende operación, de manera preventiva, ante nuevas protestas
+2021-05-05 (modified 2021-05-05)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-suspende-operacion-de-manera-preventiva-ante-nuevas-protestas/
+
+Teniendo en cuenta los ataques vandálicos registrados contra la infraestructura del sistema en los dos días anteriores, y ante el inicio de una nueva jornada de protestas en la ciudad, Transcaribe informa que se suspende toda la operación de manera preventiva.
+
+Los días lunes y martes, individuos atacaron y destruyeron parte de la infraestructura de las estaciones Centro, Chambacú, Lo Amador y Madre Bernarda. Esta última, ayer, resultó seriamente afectada, pues fueron destruidos incluso los monitores de información, las cámaras de seguridad y el mobiliario de la taquilla.
+
+“Estos ataques han representado graves pérdidas económicas para Transcaribe. Hacemos un llamado respetuoso a la ciudadanía cartagenera a cuidar, defender y proteger la infraestructura del sistema de todos los cartageneros, que es patrimonio de todos”, indicó Sindry Camargo, gerente de Transcaribe.
+
+El sistema lamenta las afectaciones que puedan generarse a los usuarios e invita a estar atentos a sus redes sociales para conocer novedades sobre la operación.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-suspende-operacion-de-manera-preventiva-ante-nuevas-protestas%2F

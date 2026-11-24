@@ -1,0 +1,12 @@
+Comienzan obras en la calle 4 de Bocagrande
+2020-02-26 (modified 2020-02-26)
+https://transcaribe.gov.co/index.php/noticia/comienzan-obras-en-la-calle-4-de-bocagrande/
+
+A partir de este martes 25 de febrero comienzan obras de rehabilitación en la calle cuarta, entre carreras 2 y 3, del barrio Bocagrande.
+
+En este tramo se intervendrán cerca de 680 metros cuadrados. Los vehículos se desviarán por la calle 3 y se recomienda tener en cuenta este cierre para evitar congestiones en el tráfico.
+
+Continuamos trabajando para mejorar la malla vial para el Sistema Integrado de Transporte Masivo Transcaribe.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomienzan-obras-en-la-calle-4-de-bocagrande%2F

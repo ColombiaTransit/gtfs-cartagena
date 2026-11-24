@@ -1,0 +1,15 @@
+Transcaribe inició su operación este miércoles con cambios en sus rutas
+2023-03-01 (modified 2023-03-02)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-inicio-su-operacion-este-miercoles-con-cambios-en-sus-rutas/
+
+La operación de Transcaribe inició este miércoles en el horario habitual, desde las 4:30 de la madrugada, con la aplicación de los cambios en el recorrido de las rutas y la operación anunciados anoche.
+
+En la reunión sostenida tras la rueda de prensa de anoche, el gerente del concesionario COLCARD manifestó que, a pesar de la decisión de su proveedor Dataprom, los usuarios podrán seguir accediendo al sistema con su Tarjeta Transcaribe hasta que la memoria de los equipos lo permita.
+
+Una vez ya no sea tecnológicamente posible continuar con el uso de la tarjeta, se pondrá en marcha el protocolo de recaudo manual con tiquetes, previamente anunciado.
+
+Desde Transcaribe estaremos informando permanentemente a nuestros usuarios sobre cualquier novedad en el servicio y la operación, por lo que los invitamos a estar atentos a nuestras redes sociales oficiales.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-02-at-07.42.47.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-inicio-su-operacion-este-miercoles-con-cambios-en-sus-rutas%2F

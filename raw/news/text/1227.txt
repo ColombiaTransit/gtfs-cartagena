@@ -1,0 +1,18 @@
+Usuarios de Transcaribe afectados por protestas de este lunes podrán solicitar la devolución del pasaje
+2021-09-20 (modified 2021-09-22)
+https://transcaribe.gov.co/index.php/noticia/usuarios-de-transcaribe-afectados-por-protestas-de-este-lunes-podran-solicitar-la-devolucion-del-pasaje/
+
+Los usuarios que no hayan podido completar sus viajes a bordo del SITM debido a las protestas, podrán solicitar la devolución de ese pasaje en sus tarjetas.
+
+Transcaribe informa a sus usuarios que, si no pudieron completar sus viajes a bordo del SITM este lunes 20 de septiembre, a causa de las protestas que obligaron a suspender la operación, podrán solicitar la devolución de su pasaje.
+
+Para esto, los usuarios deben presentar su solicitud a través del correo electrónico pqr@transcaribe.gov.co, o físicamente en el Centro de Atención al Usuario CAU de Patio Portal.
+
+En la solicitud, se debe indicar el nombre, la cédula, el teléfono de contacto, el correo electrónico y número de la tarjeta del solicitante, además de la hora aproximada del inicio de su viaje.
+
+Transcaribe estudiará cada solicitud y remitirá la información al concesionario de recaudo Colcard, para que efectúe la devolución del pasaje, el cual se verá reflejado como una recarga en la tarjeta del solicitante.
+
+El sistema de todos los cartageneros lamenta todos los inconvenientes causados por la suspensión de la operación, decisión que se vio obligada a tomar ante los bloqueos en la salida de Patio Portal y otros puntos de la ciudad, que impiden la normal circulación de los buses.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fusuarios-de-transcaribe-afectados-por-protestas-de-este-lunes-podran-solicitar-la-devolucion-del-pasaje%2F

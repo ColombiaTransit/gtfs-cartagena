@@ -1,0 +1,23 @@
+La operación de Transcaribe este 3 de marzo de 2023 avanza de la siguiente forma
+2023-03-03 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/la-operacion-de-transcaribe-este-3-de-marzo-de-2023-avanza-de-la-siguiente-forma/
+
+Desde el componente de operación de transporte, el sistema está operando con su máxima capacidad dispuesta, y con el mayor número de buses disponibles en la vía.
+
+Durante la mañana de este viernes, se registraron retrasos en varias rutas debido a bloqueos por manifestaciones en el Mercado de Bazurto y San José de los Campanos. La situación fue superada y la flota opera con normalidad.
+
+Con respecto a la situación del recaudo, el protocolo de recaudo manual con tiquetes está implementado y operando en todas las estaciones del sistema y el Patio Portal.
+
+Debido a la venta manual de los pasajes, la operación de compra del tiquete requiere más tiempo de lo habitual, por lo cual se han presentado aglomeraciones y largas filas en algunas estaciones.
+
+Desde el ente gestor hemos solicitado a Colcard, quien contractualmente está obligado a garantizar el plan de contingencia, que refuerce su dispositivo de venta de tiquetes con más personal, buscando hacer más ágil el proceso.
+
+Lamentablemente, estas largas filas han motivado que algunos usuarios pretendan ingresar sin pagar su pasaje al sistema, incluso poniendo en riesgo sus vidas al atravesar las vías donde circulan los buses, para evadir el pago.
+
+Transcaribe lamenta esta infortunada situación, y hace un llamado a sus usuarios al respeto de las normas, al buen comportamiento en buses y estaciones.
+
+Todo el equipo Transcaribe sigue trabajando sin descanso para garantizar soluciones en el corto y mediano plazo a la situación, y para acompañar a nuestros usuarios, garantizándoles la prestación del servicio.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-02-at-07.42.47.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fla-operacion-de-transcaribe-este-3-de-marzo-de-2023-avanza-de-la-siguiente-forma%2F

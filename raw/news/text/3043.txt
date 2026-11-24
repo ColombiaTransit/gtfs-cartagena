@@ -1,0 +1,17 @@
+La próxima semana llega a Cartagena un nuevo lote de tarjetas Transcaribe
+2021-12-03 (modified 2021-12-03)
+https://transcaribe.gov.co/index.php/noticia/la-proxima-semana-llega-a-cartagena-un-nuevo-lote-de-tarjetas-transcaribe/
+
+La escases de insumos y el alza del dólar obligan al sistema a incrementar, por primera vez desde el inicio de operación, el costo de venta de la tarjeta.
+
+Un nuevo lote de tarjetas Transcaribe llegará a la ciudad para empezar a ser distribuidas y comercializadas en las estaciones, Patio Portal y puntos externos de recarga del sistema de todos los cartageneros desde la próxima semana. El costo de cada tarjeta ahora será de cinco mil pesos ($5.000).
+
+En el mundo, como se ha evidenciado en informaciones de medios de comunicación nacionales e internacionales, existe una sobredemanda de este tipo de tarjetas, debido a la escasez de los chips y demás insumos con los que son fabricadas. Esto, sumado al alza en la cotización del dólar, ha incrementado los costos y obliga al sistema a aumentar, por primera vez desde el inicio de la operación en 2016, el precio de dichas tarjetas.
+
+A Transcaribe, cada tarjeta le cuesta $4.200. Una parte de los $800 restantes, de acuerdo a la normativa vigente, ingresa al Fondo de Mantenimiento y Expansión del sistema (FMES), con el cual se financian obras de infraestructura como la rehabilitación de la iluminación de Patio Portal y las estaciones (que está en desarrollo) y otras intervenciones proyectadas para el 2022.
+
+La otra parte de estos $800 está destinada al Fondo de Respaldo para Viajes a Crédito, el cual está inactivo, pero podría activarse en un futuro cercano, una vez los usuarios que lo utilizaron en el pasado vuelvan a recargar sus tarjetas para ponerse al día.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2021/12/DSC0551-1-scaled.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fla-proxima-semana-llega-a-cartagena-un-nuevo-lote-de-tarjetas-transcaribe%2F

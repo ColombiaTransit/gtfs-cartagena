@@ -1,0 +1,17 @@
+Este viernes y sábado, vacunación contra Covid-19 en el Patio Portal de Transcaribe
+2022-06-30 (modified 2022-06-30)
+https://transcaribe.gov.co/index.php/noticia/este-viernes-y-sabado-vacunacion-contra-covid-19-en-el-patio-portal-de-transcaribe/
+
+El Departamento Administrativo Distrital de Salud, DADIS, instalará un punto de vacunación transitorio para los cartageneros en este lugar.
+
+El Patio Portal de Transcaribe será epicentro de una nueva jornada masiva de vacunación contra Covid-19 en Cartagena. Este viernes 1 y sábado 2 de julio, el Departamento Administrativo Distrital de Salud, DADIS, instalará un punto de vacunación transitorio en este lugar.
+
+La intención es brindar mayor acceso y facilidad a todas aquellas personas que estén pendientes de completar su esquema de vacunación contra Covid-19, para que puedan hacerlo al iniciar o terminar sus recorridos a bordo del sistema de todos los cartageneros. Los ciudadanos deben llevar su documento de identidad y su carnet de vacunación, y acercarse al punto, ubicado frente al CAU, en el ingreso peatonal a Patio Portal.
+
+La jornada, que estará a cargo de Bienestar IPS, se realizará el viernes 1 de julio entre las 8:00 de la mañana y las 3:00 de la tarde, y el sábado, 2 de julio, entre las 8:00 de la mañana y las 12:00 del mediodía. Estarán disponibles los biológicos Pfizer, Moderna, Janssen y Sinovac.
+
+“Invitamos a todos los usuarios del sistema de los cartageneros a que se pongan al día con su esquema de vacunación en el Patio Portal, y a que se sigan moviendo en Transcaribe por toda la ciudad”, indicó Mauricio Hernández Delgado, gerente suplente del SITM.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-30-at-11.31.54-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Feste-viernes-y-sabado-vacunacion-contra-covid-19-en-el-patio-portal-de-transcaribe%2F

@@ -1,0 +1,19 @@
+Jornada de personalización de tarjetas Transcaribe en el claustro San Agustín de la Universidad de Cartagena
+2023-05-23 (modified 2023-05-29)
+https://transcaribe.gov.co/index.php/noticia/jornada-de-personalizacion-de-tarjetas-transcaribe-en-el-claustro-san-agustin-de-la-universidad-de-cartagena/
+
+El Centro de Atención al Usuario -CAU – móvil atenderá a la comunidad udeceista en el Claustro San Agustín, el miércoles 24 y jueves 25 de mayo.
+
+Transcaribe sigue adelantando jornadas de personalización y activación de tarjetas en los principales centros educativos de Cartagena. Esta semana, las jornadas se trasladarán al Claustro San Agustín de la Universidad de Cartagena.
+
+Este miércoles 24 de mayo, de 1:00 a 6:30 de la tarde, y el jueves 25 de mayo, de 8:00 de la mañana a 1:00 de la tarde, se instalará el centro de atención al usuario -CAU- móvil en la sede San Agustín de la UdeC, para que toda la comunidad de dicha Alma Máter pueda acceder a personalizar y/o activar su tarjeta Transcaribe.
+
+Ni la personalización ni la activación tienen costo alguno. Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE, a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, también podrán llevarlas para que sean reactivadas.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/Transcaribe-tarjetas.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fjornada-de-personalizacion-de-tarjetas-transcaribe-en-el-claustro-san-agustin-de-la-universidad-de-cartagena%2F

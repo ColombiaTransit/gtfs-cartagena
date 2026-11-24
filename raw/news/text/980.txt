@@ -1,0 +1,18 @@
+Seis estaciones de Transcaribe contarán con equipos sistematizados en segundos vagones para accesos y salidas
+2017-06-06 (modified 2017-06-06)
+https://transcaribe.gov.co/index.php/noticia/seis-estaciones-de-transcaribe-contaran-con-equipos-sistematizados-en-segundos-vagones-para-accesos-y-salidas/
+
+El Sistema Integrado de Transporte Masivo de Cartagena, Transcaribe, dotará en las próximas semanas los equipos técnicos requeridos a las zonas de acceso de las seis estaciones que cuentan con segundo vagón.
+
+Se trata de las estaciones de Centro, La Bodeguita, Madre Bernarda, Bazurto, La Castellana y Villa Olímpica, cuyas segundas puertas de acceso contarán con torniquetes y validadores que permitirán el acceso y la salida de los usuarios del sistema.
+
+El consorcio de recaudos del SITM, Colcard, informó que el equipamiento de estas áreas de acceso y salida estará listo en unas semanas y que el de la estación Centro quedará en condiciones de habilitarse al público entre el lunes y el miércoles de la próxima semana.
+
+El gerente de Transcaribe, Humberto Ripoll, dijo que esto perfecciona la red de estaciones para servicio de los usuarios y dará más facilidades para acceder o salir de ellas. En estos momentos el sistema tiene 16 estaciones funcionando, más el Patio Portal. Queda por habilitar la del barrio España.
+
+El SITM tomó la determinación en días pasados de asegurar las puertas de los segundos vagones de las estaciones debido a que se estaban presentando inconvenientes con personas que evadían el pago de los pasajes por estas áreas.
+
+FIN DEL COMUNICADO
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fseis-estaciones-de-transcaribe-contaran-con-equipos-sistematizados-en-segundos-vagones-para-accesos-y-salidas%2F

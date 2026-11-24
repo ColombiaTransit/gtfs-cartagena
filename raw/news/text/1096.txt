@@ -1,0 +1,14 @@
+Vuelve la ruta C015 Gobernación
+2020-03-12 (modified 2020-03-12)
+https://transcaribe.gov.co/index.php/noticia/vuelve-la-ruta-c015-gobernacion/
+
+Con la firma del gerente de Transcaribe S.A., Humberto Ripoll Durango, y en presencia del gobernador de Bolívar Vicente Blel Scaff se reinauguró la ruta C015 Gobernación.
+
+Esta ruta funcionará desde el lunes en hora pico: de 6 a 9 a. m. y de 3 a 5 p. m., beneficiando a los trabajadores y a las personas que harán sus diligencias en el CAD de la Gobernación.
+
+“Hoy es un día de felicidad para todos los empleados de la Gobernación de Bolívar y para todos los usuarios que salen desde sus casas hacia nuestro centro administrativo. Este es un beneficio y ojalá se pueda extender a otros municipios del departamento”, dijo el gobernador de Bolívar, Vicente Blel Scaff.
+
+Por su parte, el gerente de Transcaribe aseguró que “son cerca de 500 personas que se benefician con esta ruta y acceden a los beneficios del sistema, por ejemplo, los cuatro transbordos permitidos en el mismo sentido hasta en 90 minutos”.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fvuelve-la-ruta-c015-gobernacion%2F

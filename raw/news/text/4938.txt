@@ -1,0 +1,13 @@
+Transcaribe supera la falla en sus estaciones, y se restablece el sistema de recaudo
+2024-01-10 (modified 2024-01-11)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-supera-la-falla-en-sus-estaciones-y-se-restablece-el-sistema-de-recaudo/
+
+Transcaribe informa que fue superada la falla en el servicio de energía que afectó la operación y el recaudo en varias de las estaciones en la mañana de este miércoles.
+
+Vale la pena resaltar que, a pesar de la falla, el recaudo no fue interrumpido, y que, provisionalmente, se aplicó el protocolo de contingencia con recaudo manual en estas estaciones, para garantizar el acceso de los usuarios.
+
+El sistema de recaudo está habilitado y operando con normalidad en todas las estaciones, y los usuarios ya pueden hacer uso de sus tarjetas para acceder al servicio en las estaciones que sufrieron la falla.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-10-at-08.42.18.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-supera-la-falla-en-sus-estaciones-y-se-restablece-el-sistema-de-recaudo%2F

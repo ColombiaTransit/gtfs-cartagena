@@ -1,0 +1,22 @@
+Jornada de personalización de Tarjetas Transcaribe en Los Ejecutivos y Cuatro Vientos
+2021-07-27 (modified 2021-07-27)
+https://transcaribe.gov.co/index.php/noticia/jornada-de-personalizacion-de-tarjetas-transcaribe-en-los-ejecutivos-y-cuatro-vientos/
+
+Con su tarjeta Transcaribe personalizada, los usuarios podrán recargar en línea por PSE.
+
+Transcaribe realizará esta semana jornadas de personalización de tarjetas para sus usuarios en las estaciones Los Ejecutivos y Cuatro Vientos del SITM.
+
+Los usuarios interesados en realizar la personalización deben acercarse este jueves 15 de julio a la estación Los Ejecutivos, y el viernes 16 de julio a la estación Cuatro Vientos, con su documento de identidad, su tarjeta en buen estado, y diligenciar el formulario que les entregarán. El proceso es gratuito y se realizará entre 9:00 am y 12:00 pm y entre 2:00 pm y 6:00 pm.
+
+Con su tarjeta Transcaribe personalizada, los usuarios podrán recargar en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula, podrá tener el historial de sus viajes.
+
+¿Cómo recargar en línea la tarjeta Transcaribe?
+
+Para recargar en línea, el usuario debe ingresar a la web www.colcard.com y dar clic en la opción “Recarga en línea”. Luego debe iniciar sesión con su cuenta de usuario, o crear su cuenta diligenciando el formulario, utilizando el mismo correo electrónico con el que personalizó su tarjeta.
+
+Tras diligenciar su información, el usuario debe seleccionar su entidad financiera, y realizar la recarga a través del sistema de PSE. En su correo electrónico recibirá la confirmación de la transacción, con el saldo por activarse en la tarjeta.
+
+Una vez finalizado el proceso de recarga, el usuario debe esperar 24 horas para que su saldo se active. Si desea que su recarga se active de manera inmediata, podrá acercarse a las estaciones y pasar su tarjeta por los validadores de saldo instalados.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fjornada-de-personalizacion-de-tarjetas-transcaribe-en-los-ejecutivos-y-cuatro-vientos%2F

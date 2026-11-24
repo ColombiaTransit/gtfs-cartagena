@@ -1,0 +1,18 @@
+Gerente de Transcaribe evalúa posibles prototipos de vehículos eléctricos para el sistema
+2020-11-10 (modified 2020-11-10)
+https://transcaribe.gov.co/index.php/noticia/gerente-de-transcaribe-evalua-posibles-prototipos-de-vehiculos-electricos-para-el-sistema/
+
+En una visita técnica, la gerente de Transcaribe, Sindry Camargo Martínez, analizó las diversas alternativas de energías limpias que se usarían en el SITM de Cartagena.
+
+La gerente revisó prototipos de vehículos eléctricos del fabricante Marcopolo, con capacidad para 50 personas, con baterías eléctricas de carga y que cumplieran con requerimientos para la operación de la flota de Transcaribe.
+
+“Además, se revisaron prototipos de buses alimentadores a gas que hay en el mercado, teniendo en cuenta las diferentes innovaciones tecnológicas, que serían beneficiosas para el futuro del transporte de Cartagena”, señaló la gerente del sistema.
+
+Igualmente se analizaron todos los componentes mecánicos de los vehículos para que sean ambientalmente eficientes, mecánicamente confiables y seguros.
+
+Se pretende que el sistema sea la principal y primera opción de la ciudadanía a la hora de movilizarse de manera segura y eficiente.
+
+Transcaribe se consolida como el sistema de transporte más limpio del país con más de 300 vehículos que operan con gas natural y así contribuye a una movilidad más sostenible en el territorio.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fgerente-de-transcaribe-evalua-posibles-prototipos-de-vehiculos-electricos-para-el-sistema%2F

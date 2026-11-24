@@ -1,0 +1,18 @@
+Este viernes se reactiva la recarga de tarjetas Transcaribe
+2021-05-20 (modified 2021-05-20)
+https://transcaribe.gov.co/index.php/noticia/este-viernes-se-reactiva-la-recarga-de-tarjetas-transcaribe/
+
+El concesionario Colcard se comprometió a normalizar el servicio de recaudo desde este viernes 21 de mayo.
+
+Desde este viernes, los usuarios de Transcaribe podrán volver a recargar sus tarjetas, y se normalizará el recaudo del sistema de transporte masivo de todos los cartageneros.
+
+Así quedó establecido en el plan de reactivación presentado por el concesionario Colcard. Transcaribe realizó un pago de $1.937 millones al recaudador, cifra conciliada previamente con este último.
+
+El plan de reactivación presentado por Colcard expone que, desde el pasado miércoles 19 de mayo de 2021 se reactivó el sistema de recarga en línea por PSE para los usuarios con tarjetas personalizadas, a través de la web www.colcard.com.
+
+De acuerdo con los compromisos adquiridos por Colcard en dicho plan de reactivación, el viernes 21 de mayo de 2021, a las seis de la mañana, se restablecerá el servicio de recarga en las estaciones del sistema. En cuanto al restablecimiento de la red de recarga externa, está se dará en cuanto Colcard y Supergiros finiquiten el acuerdo en el que están trabajando.
+
+El sistema de todos los cartageneros seguirá adelantando mesas de trabajo para acordar mejoras en la calidad de la prestación del servicio, con miras a la sostenibilidad del sistema. Invitamos a nuestros usuarios a recargar sus tarjetas y moverse en Transca.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Feste-viernes-se-reactiva-la-recarga-de-tarjetas-transcaribe%2F

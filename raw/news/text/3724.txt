@@ -1,0 +1,21 @@
+Transcaribe activa desvío en la ruta X101
+2022-12-27 (modified 2022-12-27)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-desvio-en-la-ruta-x101/
+
+Debido al cierre de la carrera 102 de San José de los Campanos.
+
+Debido al cierre de la carrera 102 del barrio San José de los Campanos por parte de la comunidad, Transcaribe activó desvíos en el recorrido de los buses de la ruta X101.
+
+En sentido Huellas Alberto Uribe – Centro: los buses girarán a la derecha en la tienda Buenos Aires, hasta Supergiros. Allí tomarán la carrera 100 pasando por el CAI, retomando su recorrido original a la altura de la Olímpica de San José.
+
+Se dejan de cubrir los paraderos: Terraza Tribuna Verde, Tienda San José, Tienda El Cambiazo, y Calle 35 #100-27.
+
+En sentido Centro – Huellas Alberto Uribe: a la altura del colegio Almirante Colón, buses seguirán por la calle 35 hasta Comfamiliar, donde girarán a la izquierda para tomar la carrera 103 hasta Ferretería El Insuperable. Allí girarán nuevamente a la izquierda hasta la tienda Buenos Aires, donde retomarán su recorrido habitual hacia Huellas Alberto Uribe.
+
+Se dejan de cubrir los paraderos: Campanos Calle 25 #101-08, Colegio La verdadera enseñanza, Taller Lloreda y Supergiros San José.
+
+Desde el sistema de los cartageneros lamentamos las afectaciones a nuestros usuarios por esta situación.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-27-at-14.21.48.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-desvio-en-la-ruta-x101%2F

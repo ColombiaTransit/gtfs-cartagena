@@ -1,0 +1,19 @@
+Transcaribe alerta a la ciudadanía: supuesta oferta en redes de tarjetas con viajes ilimitados es falsa
+2024-10-15 (modified 2024-10-15)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-alerta-a-la-ciudadania-supuesta-oferta-en-redes-de-tarjetas-con-viajes-ilimitadas-es-falsa/
+
+El sistema pide a sus usuarios no dejarse engañar, y reportar las cuentas falsas en redes sociales que, haciéndose pasar por Transcaribe, están presuntamente estafando a ciudadanos incautos.
+
+Transcaribe informa a la ciudadanía que una supuesta oferta en la que se sortean “tarjetas Transcaribe con viajes ilimitados” es falsa, y alerta a sus usuarios para no caer en esta presunta estafa.
+
+Inescrupulosos, a través de un perfil falso no oficial en Facebook, que usa sin autorización el nombre e imagen de Transcaribe, están promocionando una supuesta oferta en la que regalan tarjetas con viajes ilimitados, a cambio de responder una encuesta de tres preguntas.
+
+Los inescrupulosos detrás de esta presunta estafa también utilizan comentarios dejados por perfiles falsos en sus publicaciones, para darle apariencia de credibilidad a la supuesta oferta.
+
+Una vez se abre el formulario de la promoción, y se responden las tres preguntas de la encuesta, los inescrupulosos piden los datos personales del usuario supuestamente ganador, y sus datos de pago para cobrar “gastos de envío de la tarjeta de regalo”.
+
+“Desde Transcaribe tomaremos las medidas necesarias contra las personas inescrupulosas que, suplantándonos, han intentado presuntamente estafar a nuestros usuarios. A la ciudadanía la prevenimos para que no caiga en estas falsas ofertas, no entregue sus datos personales ni realice ningún pago al respecto, y para que reporte en las redes sociales estas cuentas falsas”, expresó Ercilia Barrios Flórez, gerente de Transcaribe.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/10/FALSO.png
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-alerta-a-la-ciudadania-supuesta-oferta-en-redes-de-tarjetas-con-viajes-ilimitadas-es-falsa%2F

@@ -1,0 +1,21 @@
+Procuraduría adelanta mesa de trabajo con Transcaribe y Colcard por contingencia del recaudo
+2023-03-03 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/procuraduria-adelanta-mesa-de-trabajo-con-transcaribe-y-colcard-por-contingencia-del-recaudo/
+
+El organismo de control, en virtud de las funciones preventivas y siendo respetuosos de la dinámica de autonomía contractual, solicitó a Colcard que se garantice la prestación del servicio de recaudo de manera más eficiente, aumentando el personal disponible en taquillas.
+
+Parte del equipo directivo de Transcaribe, con el acompañamiento de la Secretaría del Interior y Convivencia Ciudadana, asistió hoy viernes a una mesa de trabajo convocada por la Procuraduría Regional de Bolívar, en la que también se citó al concesionario de recaudo y gestión de flota del sistema, Colcard.
+
+La mesa de trabajo fue convocada para hacer seguimiento a la implementación del plan de contingencia, ante la suspensión del sistema de recaudo por parte de Dataprom, socio y proveedor de Colcard, y buscar alternativas para minimizar la afectación a la ciudadanía.
+
+La Procuraduría solicitó a Colcard y al ente gestor información sobre el plan de contingencia que está obligado contractualmente a implementar ante la situación. El concesionario afirmó que se está poniendo en marcha dicho plan, aunque la falta de personal por parte de Colcard para vender los tiquetes en estaciones está generando traumatismos.
+
+Ante esto, la Procuraduría solicitó a Colcard que en razón de su obligación contractual se garantice la prestación del servicio de manera más eficiente, con el personal necesario y que, además, se vendan tiquetes en los puntos externos de recarga, para minimizar las afectaciones a los usuarios. A su vez, Transcaribe solicitó al concesionario la actualización del plan de contingencia.
+
+Colcard se comprometió a actualizar el plan de contingencia, incluyendo en él un componente tecnológico que permita suplir las deficiencias causadas por la suspensión del servicio por parte de su socio y proveedor Dataprom.
+
+La Procuraduría citó a una nueva mesa de trabajo para el lunes 6 de marzo, en la cual se hará seguimiento al cumplimiento de los compromisos por parte de Colcard.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/Mesa-transcaribe.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fprocuraduria-adelanta-mesa-de-trabajo-con-transcaribe-y-colcard-por-contingencia-del-recaudo%2F

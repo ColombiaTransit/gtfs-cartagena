@@ -1,0 +1,25 @@
+Transcaribe tiene activos desvíos en sus rutas X102 y X105
+2025-01-15 (modified 2025-01-15)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-tiene-activos-desvios-en-sus-rutas-x102-y-x105/
+
+Debido a obras de rehabilitación vial en la Transversal 54.
+
+Debido a obras de rehabilitación vial en la Transversal 54 del barrio El Bosque, a la altura de Purina, Transcaribe activó desvíos en sus rutas X102 y X105, con una duración de aproximadamente quince días.
+
+RUTA X102, EN SENTIDO CENTRO – PORTAL
+
+A la altura de Kokoriko, los buses continúan derecho por la Diagonal 21, hasta retomar su recorrido habitual a la altura de Purina.
+
+Se dejan de cubrir los paraderos: Calle del Mamón, El Refugio, Olímpica Alto Bosque, Alto Bosque Transversal 51 y Colegio Olga González Arrauth.
+
+RUTA X105, EN SENTIDO CIUDADELA – BOCAGRANDE
+
+A la altura del conjunto Rincón del Alto Bosque, vehículos continúan derecho por la avenida Crisanto Luque hasta empalmar su recorrido habitual a la altura de TCC.
+
+Se dejan de cubrir los paraderos: puente peatonal calle de los periodistas, bodega Copetrán, Ara Buenos Aires, colegio Fernández Baena y Bosque #45-57.
+
+Los buses harán paradas provisionales en los paraderos de la ruta X102.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/01/MEDIDOR-1.png
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-tiene-activos-desvios-en-sus-rutas-x102-y-x105%2F

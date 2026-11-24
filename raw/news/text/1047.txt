@@ -1,0 +1,16 @@
+¡Cumplimos 3 años conectando a Cartagena!
+2019-03-28 (modified 2019-03-28)
+https://transcaribe.gov.co/index.php/noticia/cumplimos-3-anos-conectando-a-cartagena/
+
+Transcaribe cumple hoy tres años y lo celebramos al lado de los más de 130 mil usuarios que se movilizan a diario en los casi 300 buses que circulan en distintos barrios de la ciudad, a través de 21 rutas.
+
+En estos tres años hemos beneficiado a la población cartagenera con el uso de gas natural vehicular, reduciendo hasta en un 98 % la emisión de gases contaminantes al medio ambiente como el CO2, CO, NOx e hidrocarburos no metano.
+
+“Todavía quedan muchos retos para seguir implementando el Sistema de Transporte Masivo -SITM- Transcaribe en Cartagena, pero con el apoyo de todos los cartageneros se convertirá en el medio de transporte por excelencia. El sistema es completamente incluyente porque el 100 % de los vehículos tiene ascensores para personas con discapacidad”, dijo el gerente de Transcaribe, Humberto Ripoll Durango.
+
+Además hemos vinculado a cerca de 200 conductores del Transporte Público Colectivo, de los 600 operadores que trabajan con el sistema.
+
+Hoy, más que tres años de servicio, celebramos tres años de sentido de pertenencia, cultura ciudadana y amor por la ciudad.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcumplimos-3-anos-conectando-a-cartagena%2F

@@ -1,0 +1,17 @@
+Reporte de la operación de Transcaribe tras la reactivación del recaudo
+2023-03-17 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/reporte-de-la-operacion-de-transcaribe-tras-la-reactivacion-del-recaudo/
+
+Este viernes quedó totalmente normalizado el sistema de recaudo y el acceso de los usuarios a Transcaribe. Hasta el pasado jueves, se recibieron tiquetes de acceso en las estaciones.
+
+Desde este viernes, el único medio para acceder al sistema volvió a ser la tarjeta Transcaribe debidamente recargada. La red externa de puntos de recarga quedó reactivada este jueves.
+
+Con respecto a la demanda de pasajeros, antes de la contingencia el sistema estaba transportando cerca de 117 mil pasajeros en promedio en días hábiles.
+
+Una vez reactivado el sistema de recaudo, entre el miércoles 15 y el jueves 16 de marzo, el sistema movió un promedio de 100 mil pasajeros diarios.
+
+Desde Transcaribe invitamos a los cartageneros a recargar sus tarjetas y continuar viajando en el sistema.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/Recaudo-transcaribe.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Freporte-de-la-operacion-de-transcaribe-tras-la-reactivacion-del-recaudo%2F

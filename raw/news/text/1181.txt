@@ -1,0 +1,16 @@
+Gerente de Transcaribe supervisa la operación en las estaciones
+2021-03-21 (modified 2021-03-21)
+https://transcaribe.gov.co/index.php/noticia/gerente-de-transcaribe-supervisa-la-operacion-en-las-estaciones/
+
+Los pasajeros ingresan por los accesos que fueron liberados. La operación hasta este momento se desarrolla con normalidad.
+
+Desde el inicio de la operación del Sistema este domingo, el personal administrativo y operativo de Transcaribe, en cabeza de su gerente Sindry Camargo Martínez, se volcó a las estaciones del sistema para supervisar el ingreso de los usuarios a las mismas, y socializar con ellos la información de cómo está funcionado Transcaribe.
+
+Hasta este momento, la operación del Sistema se ha desarrollado de manera normal. Los pasajeros están ingresando a las estaciones a través de los accesos que fueron liberados, y a los buses de las rutas alimentadoras a través de la puerta número dos de los vehículos.
+
+“A las 12:05 de la mañana de este domingo se materializó el riesgo de la amenaza informada previamente por Dataprom. Por eso, todo el personal de Transcaribe está volcado en las estaciones, dialogando con los usuarios sobre cómo acceder al Sistema, y verificando la operación”, explicó Sindry Camargo Martínez, gerente del SITM.
+
+“Desde Transcaribe no hemos dejado de trabajar para la construcción, materialización e implementación del plan de contingencia, para garantizarle a los cartageneros su derecho a la movilidad”, enfatizó Camargo Martínez.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fgerente-de-transcaribe-supervisa-la-operacion-en-las-estaciones%2F

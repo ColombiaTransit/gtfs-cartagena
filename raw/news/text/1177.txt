@@ -1,0 +1,16 @@
+Comunicado a la opinión pública: mensajes de los ruteros
+2021-03-17 (modified 2021-03-17)
+https://transcaribe.gov.co/index.php/noticia/comunicado-a-la-opinion-publica-mensajes-de-los-ruteros/
+
+La gerencia de Transcaribe, el sistema integrado de transporte masivo de los cartageneros, se permite aclarar que:
+
+El mensaje “Alcalde, no deje morir a Transcaribe” que se muestra en los ruteros de varios vehículos del sistema, no fue autorizado por Transcaribe S.A.
+
+Los ruteros son un medio para informar a los usuarios sobre las rutas que cubren los buses en operación. Eventualmente se exhiben en ellos mensajes institucionales, que deben ser previamente aprobados por la gerencia del sistema, lo cual no sucedió en este caso.
+
+La decisión de mostrar este mensaje en los ruteros fue tomada unilateralmente por uno de los concesionarios, y no fue consultada con Transcaribe.
+
+Desde la gerencia del sistema, solicitamos al concesionario las explicaciones correspondientes sobre este suceso, y tomaremos las acciones administrativas correspondientes para que esta anómala situación no vuelva a presentarse.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-a-la-opinion-publica-mensajes-de-los-ruteros%2F

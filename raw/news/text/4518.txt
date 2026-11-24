@@ -1,0 +1,45 @@
+Transcaribe se prepara para el cambio de su sistema de recaudo
+2023-12-07 (modified 2023-12-07)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-se-prepara-para-el-cambio-de-su-sistema-de-recaudo/
+
+Los usuarios podrán seguir utilizando sus mismas tarjetas, y se garantizará la continuidad de los saldos recargados.
+
+Transcaribe se prepara para la implementación de su nuevo sistema de recaudo, el cual representará la actualización del conjunto de servicios, software, hardware y mecanismos de control integrado que permite el pago del pasaje y el acceso de los usuarios al sistema. El nuevo sistema de recaudo estará completamente implementado en los próximos días.
+
+Esta modernización permitirá mejorar la experiencia del usuario en cuanto a medios de acceso al sistema y recarga de pasajes, de la mano de la empresa seleccionada para tal fin, Sonda S.A. (Sucursal Colombia), entidad de origen chileno, con experiencia y capacidades como integrador regional tecnológico de soluciones de transporte masivo de pasajeros y movilidad en varios países de la región como Panamá, Chile, Argentina, Guatemala, Brasil y México.
+
+Nuevos validadores para los buses.
+
+Los beneficios del nuevo sistema de recaudo
+
+Transcaribe será el primer sistema de transporte masivo del país que opere con un sistema de recaudo basado en cuentas. Desde sus inicios, el recaudo de Transcaribe ha operado con un sistema basado en medio, es decir, el saldo se “escribe” en la tarjeta misma.
+
+Con el nuevo sistema de recaudo, el saldo de los usuarios ahora estará en una cuenta en el sistema, asociada a un código único de la tarjeta, o número de identificación del usuario al personalizarla, y no escrito en el chip de la tarjeta. Esto brindará mayor seguridad y confiabilidad al usuario, mayor rapidez para acceder al servicio, y la posibilidad de acceder usando otros medios de pago.
+
+Vale la pena aclarar que los usuarios podrán seguir utilizando sus mismas tarjetas, y se les garantizará la continuidad de los saldos que tengan recargados.
+
+Al actualizarse la tecnología y cambiar a un sistema basado en cuentas, el usuario tendrá más alternativas para recargar su tarjeta, y podrá acceder al sistema con distintos medios de pago. Se aumentarán los puntos de recarga en los barrios de Cartagena, y se ubicarán nuevas máquinas de autorecarga en algunas estaciones.
+
+Ver esta publicación en Instagram
+
+Una publicación compartida por Transcaribe S.A. (@transcaribecartagena)
+
+Además, el SITM trabaja para que sea posible recargar a través de aplicaciones móviles bancarias y billeteras digitales, al igual que habilitar el uso de códigos QR, tarjetas débito y crédito directamente en los validadores de buses y estaciones. Esto se acompañará de una nueva aplicación para usuarios, que permitirá gestionar todo lo relacionado con su saldo y viajes.
+
+Esta modernización implica la actualización de todos los equipos validadores en buses y estaciones, y los dispositivos de comunicación y seguimiento de nuestros vehículos, lo que, en el futuro, les permitirá a los usuarios conocer en tiempo real la ubicación y hora de los buses, y hacerles seguimiento.
+
+El proceso de contratación
+
+El pasado 12 de marzo de 2023, Transcaribe y el concesionario de recaudo Colcard firmaron, de mutuo acuerdo, la terminación bilateral del contrato de concesión. El Acuerdo 003 de 2004, que autoriza la constitución de Transcaribe, establece que cuando se termine anticipadamente un contrato de este tipo, Transcaribe podrá asumir directamente la operación del servicio.
+
+Así, Transcaribe decidió asumir directamente la prestación del servicio de recaudo, gestión de flota e información al usuario, y subcontratarlo con un tercero. La contratación se realizó mediante una solicitud de oferta, una de las tres formas de contratación que plantea el manual de contratación de rol operador, establecido en 2015.
+
+De esta forma, se invitó a diez proponentes de talla mundial a presentar sus ofertas. Se realizaron análisis preliminares que pasaron por constante revisión del comité de contratación y de la junta directiva de Transcaribe. Además, se adicionaron pasos que no estaban contemplados para dar mayor rigurosidad, como una prueba de concepto, en la que se verificó que los proponentes estuvieran en capacidad de asumir el servicio a contratar.
+
+Al final, esto permitió la elección de la mejor propuesta, que fue la presentada por Sonda S.A. (Sucursal Colombia).
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/DSC_6829-1-scaled.jpg
+https://transcaribe.gov.co/wp-content/uploads/2023/12/DSC_6486-1-scaled.jpg
+https://transcaribe.gov.co/wp-content/uploads/2023/12/DSC_6828-1-scaled.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-se-prepara-para-el-cambio-de-su-sistema-de-recaudo%2F

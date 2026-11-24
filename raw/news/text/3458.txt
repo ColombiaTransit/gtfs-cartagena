@@ -1,0 +1,17 @@
+Este miércoles y jueves, personaliza tu tarjeta Transcaribe en la estación Centro
+2022-06-29 (modified 2022-06-30)
+https://transcaribe.gov.co/index.php/noticia/este-miercoles-y-jueves-personaliza-tu-tarjeta-transcaribe-en-la-estacion-centro/
+
+Entre 1:30 de la tarde y 7:00 de la noche, en la taquilla de la estación.
+
+El turno para las jornadas de personalización y activación de tarjetas Transcaribe será para la estación Centro, hoy miércoles 29 y mañana jueves 30 de junio de 2022. Usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, podrán llevarlas para que sean reactivadas.
+
+Para acceder a este servicio, únicamente se debe llevar la tarjeta Transcaribe, el documento de identidad, y diligenciar el formulario que entregará el personal del concesionario de recaudo, entre la 1:30 de la tarde y las 7:00 de la noche, horario de las jornadas.
+
+Los usuarios que deseen personalizar o activar sus tarjetas, deben acercarse a la taquilla de la estación Centro de Transcaribe, y solicitarlo sin ningún costo.
+
+Con la tarjeta Transcaribe personalizada, se puede acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-29-at-10.07.46-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Feste-miercoles-y-jueves-personaliza-tu-tarjeta-transcaribe-en-la-estacion-centro%2F

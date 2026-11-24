@@ -1,0 +1,14 @@
+Transcaribe alerta de posible fraude con tiquetes de pago para el SITM
+2020-06-08 (modified 2020-06-08)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-alerta-de-posible-fraude-con-tiquetes-de-pago-para-el-sitm/
+
+COMUNICADO A LA OPINIÓN PÚBLICA
+
+Transcaribe S.A. Informa que personas ajenas a la entidad diseñaron en papel tiquetes desprendibles, numerados, con código de barra, para ingreso al SITM -Transcaribe-, los cuales no están autorizados como forma de pago y no tienen validez alguna.
+
+Este intento de fraude será denunciado ante la Fiscalía General de la Nación. Si usted recibe algún tiquete de este tipo, absténgase de usarlo y haga la respectiva denuncia en contactenos@transcaribe.gov.co o en la Fiscalia General de la Nación, identificando la persona de la que recibió el tiquete cuestionado.
+
+La única modalidad de pago vigente para el sistema sigue siendo la tarjeta de Transcaribe. Si tiene alguna duda sobre los pagos o recargas del sistema, puede comunicarse al correo electrónico contactenos@transcaribe.gov.co.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-alerta-de-posible-fraude-con-tiquetes-de-pago-para-el-sitm%2F

@@ -1,0 +1,17 @@
+Recarga en línea tu tarjeta Transcaribe, descargando la aplicación Megared en tu dispositivo móvil
+2025-06-20 (modified 2025-06-20)
+https://transcaribe.gov.co/index.php/noticia/recarga-en-linea-tu-tarjeta-transcaribe-descargando-la-aplicacion-megared-en-tu-dispositivo-movil/
+
+Ya está habilitada la opción de recargar en línea, a través de PSE, la tarjeta Transcaribe, a través de la app Megared, del aliado comercial Punto de Pago.
+
+Transcaribe, de la mano de su aliado comercial en recaudo Punto de Pago, anuncian que ya está disponible la recarga en línea de Tarjetas Transcaribe, a través de la aplicación “Megared”, disponible en tiendas de aplicaciones de dispositivos Android y iOS.
+
+Este es otro de los esfuerzos que realiza Transcaribe para fortalecer su red de recaudo, y facilitar aún más el acceso al SITM para sus usuarios. Esta opción se suma a la ampliación de la red externa de puntos de recarga en más de dos mil nuevos puntos, gracias a la alianza con SuperGiros, implementada en el pasado mes de abril.
+
+Para realizar la recarga en línea a través de la app Megared, el usuario debe descargar la aplicación en su dispositivo, ingresar a la misma y registrarse. Luego, debe seleccionar la opción “comprar saldo”, y a través de PSE, podrá transferir desde su cuenta bancaria.
+
+Tras finalizar el proceso de compra de saldo, el usuario volverá al inicio de la aplicación y seleccionará la opción “Otros”, y posteriormente, la opción “Transcaribe recarga” identificada con el logo de la entidad. Una vez dentro, debe introducir el número de su tarjeta (que encontrará en el reverso de la misma), escoger el valor de su recarga, enviar y luego confirmar.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/06/MEDIDOR-27.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Frecarga-en-linea-tu-tarjeta-transcaribe-descargando-la-aplicacion-megared-en-tu-dispositivo-movil%2F

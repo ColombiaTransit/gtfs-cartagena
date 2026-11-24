@@ -1,0 +1,14 @@
+Transcaribe cierra preventivamente acceso a vagón B de estación Centro
+2021-08-17 (modified 2021-08-17)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-cierra-preventivamente-acceso-a-vagon-b-de-estacion-centro/
+
+En la mañana de este martes, una parte de la pérgola que está al ingreso del vagón B de la estación Centro de Transcaribe se desprendió de la estructura, afortunadamente sin caer al piso ni causar afectaciones a ningún usuario del sistema.
+
+El equipo de infraestructura de Transcaribe ya trabaja en el desmonte y reparación de esta sección de la pérgola, para evitar su caída y poner a punto este espacio.
+
+Como medida preventiva, Transcaribe ha ordenado el cierre del ingreso correspondiente a la estación por ese vagón, y de la mano de la Oficina Asesora de Gestión del Riesgo se acordonó la zona.
+
+Lamentamos mucho las incomodidades que la situación pueda generar a los usuarios del sistema de todos los cartageneros. Trabajamos con premura para superar esta situación.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-cierra-preventivamente-acceso-a-vagon-b-de-estacion-centro%2F

@@ -1,0 +1,18 @@
+Desde este viernes, Transcaribe normaliza su sistema de recaudo
+2021-04-01 (modified 2021-04-01)
+https://transcaribe.gov.co/index.php/noticia/desde-este-viernes-transcaribe-normaliza-su-sistema-de-recaudo/
+
+El sistema de transporte masivo de los cartageneros volverá a operar normalmente. Los usuarios podrán volver a adquirir y recargar sus tarjetas.
+
+Luego de varios días de intensas reuniones entre el Alcalde de Cartagena, William Dau Chamat, y la gerente de Transcaribe Sindry Camargo Martínez, con los representantes de Colcard, el operador de recaudo de Transcaribe, desde este viernes 2 de abril el sistema de transporte masivo de todos los cartageneros normalizará su operación y el recaudo.
+
+Desde este viernes, Colcard volverá a poner en funcionamiento el sistema de recaudo y control de flota, y la operación de Transcaribe retornará a la normalidad. Los usuarios podrán volver a adquirir y recargar sus tarjetas en las estaciones y puntos acostumbrados, y el ingreso y uso del sistema dejará de ser gratuito.
+
+“Hicimos el acuerdo para levantar el switch de recaudo de Transcaribe, y desde mañana funcionará normalmente, con todos los usuarios pagando su pasaje”, indicó el alcalde William Dau Chamat, anunciándole la buena noticia a los cartageneros.
+
+“Agradecemos a todos los usuarios su apoyo a Transcaribe en estos momentos difíciles, y les decimos que vamos a seguir trabajando, como lo hemos hecho en estos últimos días, incansablemente, para garantizar el servicio y sacar adelante al sistema de todos los cartageneros. Les recordamos a todos el cumplimiento del manual del usuario y de las medidas de bioseguridad, y el uso permanente de tapabocas, para continuar moviéndonos seguros en Transca”, expresó la gerente del SITM, Sindry Camargo Martínez.
+
+La Administración Distrital, Transcaribe y Colcard continuarán realizando mesas de trabajo para lograr, de manera mancomunada, una solución definitiva a la situación que afronta el sistema de transporte masivo.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fdesde-este-viernes-transcaribe-normaliza-su-sistema-de-recaudo%2F

@@ -1,0 +1,22 @@
+Transcaribe habilita canales para que usuarios reporten afectaciones en los vehículos
+2021-06-26 (modified 2021-06-26)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-habilita-canales-para-que-usuarios-reporten-afectaciones-en-los-vehiculos/
+
+El sistema de todos los cartageneros realiza un minucioso proceso de alistamiento e inspección de la flota, todos los días.
+
+Transcaribe realiza diariamente un proceso de alistamiento minucioso para garantizar que cada uno de los vehículos que entra a operación, a prestar sus servicios a nuestros usuarios, sea despachado de Patio Portal con altos estándares de calidad.
+
+En este proceso de alistamiento, se inspeccionan y verifican aspectos de seguridad y de movilidad vial, y de confort de cada uno de los vehículos que integran la flota del sistema de todos los cartageneros en sus 21 rutas.
+
+Sin embargo, temas como las goteras dentro de los vehículos son mucho más difíciles de identificar, y es posible que sean pasadas por alto involuntariamente, causando afectaciones en los momentos en que lluvias fuertes caigan sobre la ciudad, como ha sucedido lamentablemente en los últimos días.
+
+Por esto, Transcaribe invita a sus usuarios a que, en cuanto identifiquen uno de nuestros vehículos que presente afectaciones de este tipo, lo reporten a través de las redes sociales oficiales del sistema (Transcaribe SA en Facebook, @TranscaribeSITM en Twitter y @transcaribecartagena en Instagram), y del correo electrónico pqr@transcaribe.gov.co, canales de atención al usuario dispuestos para este tipo de quejas, peticiones y reclamos.
+
+Es importante tener en cuenta, al momento de hacer el reporte, el número del vehículo, que se encuentra señalado en varias placas al interior del mismo, además de la fecha y hora de la afectación, para que el equipo de Transcaribe pueda identificar correctamente el bus afectado y tomar las decisiones correspondientes.
+
+“El equipo de mantenimiento de la dirección de Operaciones ya tiene instrucciones precisas para sacar inmediatamente de circulación estos vehículos, e incorporar otro vehículo en óptimas condiciones, mientras se hacen las mejoras y arreglos necesarios, para no desmejorar la frecuencia de nuestras rutas”, explicó la gerente suplente del sistema, María Claudia Peñas Arana.
+
+“En Transcaribe estamos trabajando constantemente para prestar un servicio de calidad, y estamos seguros que de la mano de nuestros usuarios lograremos este objetivo. Por eso, agradecemos a los cartageneros su apoyo y colaboración en estos reportes, para que entre todos sigamos construyendo un mejor sistema para la ciudad”, concluyó la gerente suplente.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-habilita-canales-para-que-usuarios-reporten-afectaciones-en-los-vehiculos%2F

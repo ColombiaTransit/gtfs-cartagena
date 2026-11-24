@@ -1,0 +1,15 @@
+Transcaribe activa desvíos en la ruta C001 en Los Calamares
+2023-03-31 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-activa-desvios-en-la-ruta-c001-en-los-calamares/
+
+Debido a bloqueos en las vías, que imposibilitan el paso de los buses de Transcaribe en barrio Los Calamares, el sistema activó un desvío en la ruta C001.
+
+En sentido Ciudadela 2000-Centro, al llegar a la Casa de Justicia de El Country, los buses tomarán hacia el parque de Los Calamares donde girarán a la izquierda.
+
+Allí, empalmaran con su recorrido habitual, a la altura del establecimiento “TaChido – Comida Mexicana”. En sentido Centro – Ciudadela 2000, los buses de esta ruta cubrirán el mismo desvío pero en sentido inverso.
+
+Este desvío estará activo hasta nuevo aviso.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-26-at-7.30.53-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-activa-desvios-en-la-ruta-c001-en-los-calamares%2F

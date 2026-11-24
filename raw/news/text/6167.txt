@@ -1,0 +1,15 @@
+Comunicado de Transcaribe sobre plataformas no autorizadas para recargas
+2024-09-24 (modified 2024-09-24)
+https://transcaribe.gov.co/index.php/noticia/comunicado-de-transcaribe-sobre-plataformas-no-autorizadas-para-recargas/
+
+Transcaribe reitera a sus usuarios que continúa trabajando en la diversificación de los medios para recargar las tarjetas de acceso al sistema, y que concentra sus esfuerzos en poder lograr contar con alternativas electrónicas para tal fin en el futuro cercano.
+
+Sin embargo, queremos dejar claro que en este momento no existe ninguna plataforma oficial ni aplicación digital debidamente autorizada por Transcaribe para realizar recargas en línea de las tarjetas.
+
+Los usuarios pueden realizar sus recargas en las taquillas y máquinas de autoservicio de nuestras estaciones, así como a través de los distintos puntos de recarga en los barrios, que pueden ser consultados en www.transcaribe.gov.co, y los puntos móviles de recarga en paraderos y el patio portal, liderados por personal debidamente identificado.
+
+Transcaribe no se responsabiliza por recargas realizadas por medios o plataformas no autorizadas para tal fin.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-24-at-15.46.58.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-de-transcaribe-sobre-plataformas-no-autorizadas-para-recargas%2F

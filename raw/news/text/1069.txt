@@ -1,0 +1,18 @@
+Comienzan obras en calle 30 del barrio Armenia
+2019-09-30 (modified 2019-09-30)
+https://transcaribe.gov.co/index.php/noticia/comienzan-obras-en-calle-30-del-barrio-armenia/
+
+Debido a obras de rehabilitación de vía, realizadas por el Consorcio Rutas Complementarias, se cerró el sexto tramo en la calle 30 del barrio Armenia.
+
+Este tramo tiene 140 metros lineales y se fundirán cerca de 210 m3 de concreto.
+
+Se prevé que los trabajos de rehabilitación de la vía duren 20 días.
+
+El Plan de Manejo de Tráfico aprobado por el DATT es el siguiente: con el cierre de la calle 30, entre carrera 48 y 47, el tráfico se desvía hacia la carrera 46, sigue por la calle 29 y retorna por la carrera 49 para llegar a la calle 30.
+
+Se recomienda tener en cuenta este plan para evitar congestión vehicular.
+
+La ruta X103 Variante – Consulado – Centro hace un desvío sentido vuelta. Al llegar a la calle 30 dobla por la carrera 46, sigue hacia la calle 29 y continúa a la carrera 49, a la altura del colegio Madre Laura, para retomar su recorrido habitual por la Piedra de Bolívar.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomienzan-obras-en-calle-30-del-barrio-armenia%2F

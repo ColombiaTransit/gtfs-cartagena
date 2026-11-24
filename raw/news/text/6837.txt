@@ -1,0 +1,17 @@
+Conozca su punto SuperGiros más cercano, y recargue su tarjeta TransCaribe sin pagar de más
+2025-04-09 (modified 2025-04-09)
+https://transcaribe.gov.co/index.php/noticia/conozca-su-punto-supergiros-mas-cercano-y-recargue-su-tarjeta-transcaribe-sin-pagar-de-mas/
+
+Más de dos mil puntos SuperGiros en toda Cartagena y Bolívar están habilitados para recargar su tarjeta TransCaribe. Evite pagar de más, y recargar con personal no autorizado.
+
+A partir de esta semana, con la firma del convenio con SuperGiros, los usuarios de TransCaribe ya tienen más de dos mil nuevos puntos autorizados en los cuales recargar sus tarjetas para moverse a bordo del sistema. Son más de dos mil nuevos comercios de la red de SuperGiros, en toda Cartagena y en los municipios del departamento de Bolívar, los que ya cuentan con el servicio de recarga de pasajes del SITM.
+
+Los usuarios podrán recargar en cualquiera de estos puntos, montos desde los 1.000 pesos hasta los 120.000 pesos. Las tarjetas que se pueden recargar en los puntos SuperGiros son las que cuentan con código de barras en el respaldo, que son la mayoría de las que se encuentran en circulación en la ciudad.
+
+TransCaribe invita a todos sus usuarios a recargar sus tarjetas solo en los puntos autorizados oficialmente para tal fin. Los cartageneros pueden identificar el punto SuperGiros más cercano a su ubicación, en el enlace https://supergirosbolivar.com.co/ubicacion/.
+
+El sistema recuerda que el valor de cada pasaje es de 3.400 pesos, e invita a los usuarios a no pagar más de este monto, y evitar realizar recargas con personas no autorizadas para tal fin.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/04/MEDIDOR-30.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fconozca-su-punto-supergiros-mas-cercano-y-recargue-su-tarjeta-transcaribe-sin-pagar-de-mas%2F

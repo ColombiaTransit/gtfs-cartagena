@@ -1,0 +1,15 @@
+Comunicado de Transcaribe sobre acceso de personas con movilidad reducida al sistema
+2023-12-26 (modified 2023-12-26)
+https://transcaribe.gov.co/index.php/noticia/comunicado-de-transcaribe-sobre-acceso-de-personas-con-movilidad-reducida-al-sistema/
+
+Desde el inicio de la operación de Transcaribe, el sistema de los cartageneros ha propendido por garantizar el acceso al servicio de las personas con movilidad reducida, identificando y asignando para ellos accesos especiales en las estaciones y vehículos, así como una tarjeta específica diferenciada para esta población.
+
+El sistema ha identificado que algunas personas con movilidad reducida, que podrían ser usuarios nuevos del sistema, están intentando hacer uso de los torniquetes de acceso PMR con tarjetas normales, las cuales no están habilitadas para utilizarse en estos validadores.
+
+Ante esto, invitamos a la población con movilidad reducida que no cuenta con su tarjeta especial PMR, para que inicien su proceso de asignación y personalización de este tipo de tarjetas, llevando la certificación correspondiente, en el Centro de Atención al Usuario CAU, ubicado en la entrada de Patio Portal.
+
+La asignación y utilización de una tarjeta específica PMR por parte de este grupo poblacional obedece, desde el inicio de la operación, a la intención de tener una debida identificación por parte del sistema, de esto es usuarios, para futuras campañas e iniciativas dirigidas a ellos.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-26-at-09.31.58.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-de-transcaribe-sobre-acceso-de-personas-con-movilidad-reducida-al-sistema%2F

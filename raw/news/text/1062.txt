@@ -1,0 +1,16 @@
+En agosto, personalización de tarjetas en plataforma de Patio Portal
+2019-08-06 (modified 2019-08-06)
+https://transcaribe.gov.co/index.php/noticia/en-agosto-personalizacion-de-tarjetas-en-plataforma-de-patio-portal/
+
+Desde este lunes 5 de agosto los ciudadanos podrán acceder a la personalización de sus tarjetas de Transcaribe en la plataforma A de Patio Portal, es decir, donde se toman las rutas troncales.
+
+Esto lo podrán hacer de lunes a viernes de 8 a. m. a 12 m. m. y de 2 p. m. a 6 p. m.; y los sábados de 8 de la mañana a 12 del mediodía.
+
+“Esta es una oportunidad para que los ciudadanos personalicen sus tarjetas y accedan a los múltiples beneficios como la asociación de la tarjeta al número de identidad de la persona, en caso de daño o pérdida puede llamar para bloquearla y solicitar los extractos de la tarjeta para consultar los movimientos de rutas, recargas y débitos, entre otros”, indicó el gerente de Transcaribe, Humberto Ripoll Durango.
+
+Personalizar la tarjeta de Transcaribe es un proceso persona, gratuito y que no dura más de cinco minutos. El nombre del usuario queda impreso en el plástico.
+
+Para reportar daños, pérdidas o robos de la tarjeta el usuario podrá llamar a la central telefónica 6475959, solicitar el bloqueo de la tarjeta y seguir las instrucciones; o solicitar el bloqueo a través de la página web www.colcard.com, en la opción ‘diligenciar PQRSF’.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fen-agosto-personalizacion-de-tarjetas-en-plataforma-de-patio-portal%2F

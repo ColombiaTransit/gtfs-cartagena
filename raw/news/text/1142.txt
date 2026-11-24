@@ -1,0 +1,20 @@
+Gerente de Transcaribe se subió a las rutas del sistema
+2020-10-05 (modified 2020-10-05)
+https://transcaribe.gov.co/index.php/noticia/gerente-de-transcaribe-se-subio-a-las-rutas-del-sistema/
+
+La gerente de Transcaribe, Sindry Camargo Martínez, realizó reconocimiento de rutas en la troncal y demás vías de la ciudad como uno de los acercamientos a la operación del sistema.
+
+Comenzó en la estación Bodeguita en una ruta troncal hacia la estación de transferencia Santa Lucía para integrarse con la ruta alimentadora A103 San Fernando – Mandela.
+
+“Me siento muy contenta, estamos conociendo el sistema de transporte masivo, cómo funciona en su operación, recorrimos toda la troncal e hicimos varias transferencias”, explicó la gerente de Transcaribe.
+
+En el barrio Nelson Mandela, la gerente conoció los puntos más críticos operativamente para las rutas que ingresan a este barrio.
+
+Después de Nelson Mandela, continuó hacia Patio Portal para tomar la ruta A117 Villa Estrella – Pozón – Portal. El director de operaciones, Álvaro Tamayo, le explicó a la gerente cuáles son los puntos de recarga externos del sistema en El Pozón, el alto flujo vehicular que ocasiona retrasos, siendo esta una de las rutas alimentadoras de mayor demanda de usuarios.
+
+Finalmente, realizó el reconocimiento de la ruta X102 Portal – Bosque- Centro, en un articulado dual con capacidad máxima de 140 pasajeros.
+
+“Ha sido una experiencia muy gratificante porque es sentir de primera mano lo que siente el usuario, cómo estamos operando. Este es un preámbulo para revisar si nuestro sistema requiere implementar una mejor cobertura para prestar un servicio más cómodo, eficiente y garante de la movilidad de todos los cartageneros”, concluyó Camargo Martínez.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fgerente-de-transcaribe-se-subio-a-las-rutas-del-sistema%2F

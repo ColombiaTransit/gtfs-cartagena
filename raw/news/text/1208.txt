@@ -1,0 +1,25 @@
+Transcaribe recuerda a usuarios que la ruta X101 activó un desvío temporal
+2021-07-03 (modified 2021-07-03)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-recuerda-a-usuarios-que-la-ruta-x101-activo-un-desvio-temporal/
+
+Debido al cierre de la vía principal del barrio Las Gaviotas, se habilitó un recorrido alterno con paraderos provisionales.
+
+Transcaribe recuerda a los cartageneros que, debido al cierre de la vía principal del barrio Las Gaviotas por mal estado, la Ruta X101 activó un desvío temporal en sus recorridos.
+
+En sentido ida, los vehículos de esta ruta continúan por el barrio 13 de junio hacia la avenida Pedro Romero, y a la altura de Los Cuatro Vientos toman el carril mixto hasta el Camino del Medio, integrándose a la troncal en la estación María Auxiliadora.
+
+En sentido vuelta, los vehículos salen al carril mixto antes de María Auxiliadora, para ingresar a la avenida del Consulado y luego el barrio España, y luego giran hacia la izquierda en Los Cuatro Vientos, ingresan en la avenida Pedro Romero, y retornan a su recorrido habitual en el barrio 13 de junio.
+
+Por este desvío obligado, se dejan de cubrir los paraderos del barrio Las Gaviotas y las estaciones María Auxiliadora, Barrio España, República del Líbano, Cuatro Vientos, Villa Olímpica y Ejecutivos.
+
+Debido a lo anterior, se han habilitado paradas provisionales así:
+
+Al cruzar por la avenida Pedro Romero, en ambos sentidos, los vehículos se detienen en los paraderos de la ruta X104.
+
+En el barrio España, en sentido vuelta, se habilitaron para esta ruta los paraderos de la ruta X103, y de la ruta C001 en el Tecnológico Comfenalco.
+
+El sistema de todos los cartageneros lamenta las afectaciones e incomodidades que este desvío pueda causar a nuestros usuarios. El equipo de campo de Transcaribe realiza constantemente labores de pedagogía e información en estaciones de sistema, para explicar a nuestros usuarios este cambio temporal.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2021/07/905C6EEC-4616-4590-B6FF-826EE3B71BC8.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-recuerda-a-usuarios-que-la-ruta-x101-activo-un-desvio-temporal%2F

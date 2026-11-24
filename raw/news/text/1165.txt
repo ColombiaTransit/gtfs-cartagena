@@ -1,0 +1,18 @@
+Transcaribe sigue trabajando para garantizar la operación del sistem
+2021-02-01 (modified 2021-02-01)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-sigue-trabajando-para-garantizar-la-operacion-del-sistem/
+
+Es de público conocimiento que los sistemas de transporte masivo de todo el país vienen sufriendo un impacto negativo en sus finanzas, a raíz de los efectos de la pandemia del COVID-19, que ha generado una notable disminución de la demanda y, por lo tanto, en los ingresos de estos sistemas.
+
+El Gobierno Nacional expidió medidas excepcionales que han permitido reorientar los recursos, para el caso de Transcaribe, del convenio de cofinanciación, que son aportes de la Nación y el Distrito, para que estos recursos se utilicen en cubrir los gastos operacionales de cada uno de los concesionarios del Sistema.
+
+Producto de esta reorientación, Transcaribe ha logrado pagar el 100% de los gastos operacionales a todos de los concesionarios, desde que inició la pandemia en el mes de marzo, hasta el 31 de diciembre de 2020.
+
+Para la vigencia 2021, el Distrito y Transcaribe de manera conjunta han determinado que el camino más expedito para poder inyectar recursos al Sistema, y así poder cubrir el diferencial entre la tarifa técnica y la tarifa al usuario, es a través de un crédito Findeter. La Secretaría de Hacienda viene trabajando en los trámites necesarios que permitan al SITM hacer uso de los recursos de este crédito, y el Distrito presentará al Concejo Distrital el proyecto de acuerdo que le permita a esa Corporación estudiar la solicitud de autorización por parte del Alcalde, para poder acceder a este crédito.
+
+Transcaribe sigue trabajando de manera permanente para garantizar la prestación del servicio a toda la ciudadanía cartagenera. En este momento no existe riesgo alguno de que la operación sea paralizada. Invitamos a toda la ciudadanía a continuar utilizando el sistema de transporte masivo de todos los cartageneros.
+
+Fin del Comunicado
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-sigue-trabajando-para-garantizar-la-operacion-del-sistem%2F

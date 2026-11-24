@@ -1,0 +1,39 @@
+Así operará Transcaribe en los días de Navidad
+2022-12-23 (modified 2022-12-27)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-en-los-dias-de-navidad/
+
+El sistema de los cartageneros mantendrá su operación habitual para sábados y domingos para el 24 y 25 de diciembre.
+
+Transcaribe mantendrá su operación habitual los días 24 y 25 de diciembre de 2022, con la misma oferta de servicios y horarios programados para los días sábados y domingos.
+
+El sábado 24 de diciembre, el sistema de todos los cartageneros mantendrá su ofertas y frecuencias habituales para este día de la semana, con los acostumbrados horarios. Entretanto, el domingo 25 de diciembre, se trabajará con el horario y oferta habituales de los domingos.
+
+Vale la pena recordar que la programación de sábados y domingos que fue mejorada en noviembre pasado, fortaleciendo las frecuencias de varias rutas, principalmente las que cubren el barrio Bocagrande.
+
+Este será el horario de operación de Transcaribe durante los dos dias:
+
+Horarios sábado 24 de diciembre
+
+Rutas troncales y pretroncales: 5:30 a.m. a 8:30 p.m. (ruta T100E opera entre 6:00 a.m. y 1:00 p.m.)
+
+Rutas alimentadoras: 5:00 a.m. a 10:00 p.m.
+
+Ruta A102: 6:00 a.m. a 7:00 p.m.
+
+Ruta C001: 5:00 a.m. a 9:30 a.m.
+
+Rutas A111 y C016: no operan.
+
+Horarios domingo 25 de diciembre
+
+Rutas troncales y pretroncales: 6:00 a.m. a 8:00 p.m. (ruta T100E no opera)
+
+Rutas alimentadoras: 5:30 a.m. a 9:30 p.m.
+
+Ruta C001: 5:30 a.m. a 9:00 p.m.
+
+Rutas A102, A111 y C016: no operan.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-27-at-14.23.01.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-en-los-dias-de-navidad%2F

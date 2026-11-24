@@ -1,0 +1,33 @@
+Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+2024-12-31 (modified 2024-12-31)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-este-31-de-diciembre-y-1-de-enero-se-activaran-algunos-desvios/
+
+El sistema recuerda a sus usuarios los horarios de operación en el fin y principio de año.
+
+Transcaribe recuerda a sus usuarios los horarios de operación que tendrá el sistema este martes 31 de diciembre de 2024, y miércoles 1 de enero del 2025.
+
+El martes 31, Transcaribe operará con su horario habitual de día hábil, pero se activarán algunos desvíos después de las 7:30 p.m.
+
+Las rutas troncales y pretroncales iniciarán su operación a las 5:00 a.m. y tendrán su último servicio a las 9:00 p.m., salvo la T101 que cerrará a las 9:30 p.m. La ruta T100E operará de 6:00 a.m. a 8:00 p.m., mientras que las rutas alimentadoras lo harán entre 4:30 a.m. y 10:40 p.m.
+
+La ruta A102 tendrá operación de 5:00 a.m. a 10:00 p.m., y la C001 entre 4:30 a.m. y 9:30 p.m. Las rutas complementarias C017 y C018 tendrán servicio en sus horarios habituales de las franjas am y pm, al igual que la extensión de X106 hacia la Gobernación de Bolívar.
+
+Desde las 7:30 p.m. y hasta el final de la operación, debido a cierre en la Avenida Venezuela por las celebraciones de Año Nuevo, el sistema activará los siguientes desvíos:
+
+Rutas troncales y pretroncales harán retorno en Puerto Duro, y su última parada será la estación Chambacú.
+
+Rutas T102, T103 y X105 se desviarán hacia Las Tenazas, tomando la Avenida Santander hacia Crespo y/o Bocagrande, respectivamente. En sentido contrario, harán el mismo recorrido a la inversa.
+
+Ruta C001 hará su retorno en el Centro de Convenciones, iniciando su recorrido de regreso en la Avenida del Arsenal.
+
+Se dejarán de cubrir las estaciones Centro y Bodeguita, y los paraderos Avenida Venezuela, Camellón de los Mártires, Parque de la Marina y algunos de la Avenida Santander. Se activarán paradas provisionales.
+
+Entretanto, el miércoles 1 de enero de 2025, Transcaribe funcionará con programación y horario de día feriado. Rutas troncales y pretroncales tendrán operación de 6:00 a.m. a 8:00 p.m, mientras que las alimentadoras lo harán entre 5:30 a.m. y 9:30 p.m. La C001 funcionará de 5:30 a.m. a 9:00 p.m.
+
+Ese día, además, no operarán las rutas T100E, A102, A111, C017, C018 ni la extensión de la X106 hasta la Gobernación de Bolívar.
+
+Transcaribe invita a los cartageneros y visitantes a moverse a bordo del sistema, con respeto y sana convivencia, y desea a toda la ciudadanía un feliz y venturoso año
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/12/MEDIDOR-53.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-este-31-de-diciembre-y-1-de-enero-se-activaran-algunos-desvios%2F

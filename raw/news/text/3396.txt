@@ -1,0 +1,17 @@
+Rutas X102, X105 y C001 de Transcaribe retoman recorridos habituales
+2022-06-22 (modified 2022-06-22)
+https://transcaribe.gov.co/index.php/noticia/rutas-x102-x105-y-c001-de-transcaribe-retoman-recorridos-habituales/
+
+Tras la apertura de la Calle del Mamón del barrio El Bosque, una vez finalizadas las obras.
+
+Las rutas X102, X105 y C001 de Transcaribe retomaron desde este martes sus recorridos habituales, tras la apertura de la Calle del Mamón del barrio El Bosque, luego de las obras de rehabilitación realizadas en esa vía.
+
+La ruta X102 en sentido Centro-Portal volverá a cubrir la avenida Crisanto Luque, retomando los paraderos calle del Mamón, El Refugio, Olímpica Alto Bosque, Transversal 51 y colegio Olga González Arraut.
+
+Entretanto, la ruta X105 en sentido Ciudadela 2000-Centro, volverá a cubrir la diagonal 21, retomando los paraderos puente peatonal calle de Los Periodistas, bodega Copetrán, ARA Buenos Aires, colegio Fernández Bustamante, y Bosque #45-47.
+
+Por último, la ruta C001, en sentido Centro-Manga-Ciudadela 2000, volverá a ingresar a la avenida Crisanto Luque a través de la Calle del Mamón, y retomará su recorrido habitual, volviendo a cubrir el paradero ubicado en la vía rehabilitada.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-22-at-9.40.24-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Frutas-x102-x105-y-c001-de-transcaribe-retoman-recorridos-habituales%2F

@@ -1,0 +1,14 @@
+Transcaribe pone en marcha plan de contingencia por falla en la red de Colcard
+2020-11-04 (modified 2020-11-04)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-pone-en-marcha-plan-de-contingencia-por-falla-en-la-red-de-colcard/
+
+Desde Transcaribe se evidenció una falla presentada en la red de Colcard, operador de tecnología y recaudo del SITM Transcaribe, para la recarga en línea de las tarjetas del sistema.
+
+De inmediato se estableció el plan de contingencia para los barrios y sectores donde llega el servicio con la venta de la recarga en línea. Esta se actualiza 24 horas después de realizar el pago por parte del usuario; o se activa inmediatamente, solo si se valida en una taquilla de estaciones o Patio Portal de Transcaribe.
+
+Es preciso anotar que en las taquillas de las estaciones no hay ningún inconveniente con las recargas o ventas de tarjetas del sistema.
+
+Transcaribe espera solucionar la falla presentada en el menor tiempo posible, para que los usuarios tengan fácil acceso al servicio.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-pone-en-marcha-plan-de-contingencia-por-falla-en-la-red-de-colcard%2F

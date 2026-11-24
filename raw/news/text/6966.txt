@@ -1,0 +1,26 @@
+Portal-Mamonal, octavo recorrido de prueba del Ecobús Piloto de Transcaribe, inicia operación el martes 24
+2025-06-20 (modified 2025-06-20)
+https://transcaribe.gov.co/index.php/noticia/portal-mamonal-octavo-recorrido-de-prueba-del-ecobus-piloto-de-transcaribe-inicia-operacion-el-martes-24/
+
+La ruta conectará, de forma gratuita, el Patio Portal con el corregimiento de Pasacaballos, a través de la vía a la zona industrial de Mamonal.
+
+Portal – Mamonal será el octavo recorrido de prueba gratuito del Ecobús Piloto de Transcaribe. Esta ruta experimental iniciará su operación el próximo martes 24 de junio, conectando el Patio Portal de Transcaribe con el corregimiento de Pasacaballos, a través de la vía a la zona industrial de Mamonal.
+
+Con este recorrido, al igual que con los siete anteriores, Transcaribe busca realizar pruebas de demanda, tiempos y recorrido, recabando datos para analizar una eventual futura implementación oficial de nuevas rutas.
+
+La ruta de prueba Portal – Mamonal operará solo los días hábiles, realizando dos recorridos en la franja de la mañana (entre 5:30 a.m. y 9:00 am) y dos recorridos en la franja de la tarde (entre 3:30 p.m. y 7:00 pm.), entre el martes 24 de junio y el viernes 4 de julio. Los usuarios podrán abordarla gratuitamente, sin necesidad de tener tarjeta Transcaribe.
+
+Saldrá del Portal hacia la Transversal 54, llegando a El Bosque y tomando el retorno hacia el antiguo peaje de Ceballos. Allí, seguirá por la Vía a Mamonal, pasando por Contecar, Albornoz, el SENA Náutico, Arroz Barato, Argos, la Refinería de Ecopetrol, Cabot, entre otras empresas, hasta llegar a el corregimiento de Pasacaballos.
+
+Hará su retorno en el Puesto de Salud de Pasacaballos, tomando nuevamente la Vía de Mamonal en sentido contrario, para luego cruzar la rotonda de Parque América, y seguir hacia Policarpa, Puerta de Hierro, hasta llegar nuevamente a la Transversal 54, retornando al Patio Portal.
+
+Paraderos del recorrido de prueba Portal-Mamonal
+
+En sentido Portal-Mamonal: Patio Portal, Chinatown, Clínica Bals de Lezo, Auto Coreano, entrada Buenos Aires, entrada La Troncal, Plaza Colón, frente a colegio INEM, Universidad del Sinú, Clínica El Bosque, entrada Nuevo Bosque, entrada Ceballos, Contecar, Cancha Albornoz, SENA Náutico, Arroz Barato-Puerta de Hierro, Policarpa, Centro de innovación Econova, Argos, Cotecmar, Zona Franca La Candelaria, frente a estación Primax, Refinería Ecopetrol, Yara planta norte, Ajover, entrada Zona Franca, Cabot, Dow Química/Astivik, letras de Pasacaballos, Maltería, Las Mellas, parque de Pasacaballos, puesto de salud de Pasacaballos.
+
+En sentido Mamonal-Portal: Supergiros Pasacaballos, Ferretería Alemana, frente a Las Mellas, frente a Maltería, frente a las letras de Pasacaballos, frente a Dow Química/Astivik, frente a Cabot, frente a entrada Zona Franca, frente a Ajover, frente a Yara planta norte, frente a Refinería Ecopetrol, estación Primax, frente a zona franca La Candelaria, frente a Cotecmar, frente a Argos, frente a Centro de Innovación Econova, Parque América, frente a Policarpa, frente a Arroz Barato-Puerta de Hierro, frente a SENA Náutico, frente a cancha Albornoz, Block Port, Proleca, Los Corales, edificios militares Los Corales, frente a clínica El Bosque, frente a Universidad del Sinú, colegio INEM, entrada Almirante Colón, Napoleón Perea, entra Los Caracoles, Olímpica Blas de Lezo, Aguas de Cartagena, Piko Riko, Patio Portal.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/06/MEDIDOR-29.jpg
+https://transcaribe.gov.co/wp-content/uploads/2025/06/Imagen-Prueba-piloto-7-Portal-Mamonal-scaled.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fportal-mamonal-octavo-recorrido-de-prueba-del-ecobus-piloto-de-transcaribe-inicia-operacion-el-martes-24%2F

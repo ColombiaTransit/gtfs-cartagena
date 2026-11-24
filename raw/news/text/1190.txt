@@ -1,0 +1,16 @@
+Comunicado de Transcaribe sobre situación en las taquillas de recarga en estaciones
+2021-04-19 (modified 2021-04-19)
+https://transcaribe.gov.co/index.php/noticia/comunicado-de-transcaribe-sobre-situacion-en-las-taquillas-de-recarga-en-estaciones/
+
+Transcaribe fue notificado hace pocos minutos por parte de Colcard, el concesionario de recaudo y gestión de flota, sobre la suspensión del servicio de recaudo en taquillas de las estaciones del sistema.
+
+Vale la pena aclarar que esta situación es diferente a la acontecida hace algunas semanas, en la que la afectación recaía sobre el software de recaudo y operación de flota. Lo que ha informado el concesionario es la ausencia de su personal en las taquillas de las estaciones. Esto se suma a las fallas en la red de recaudo en puntos externos, las cuales advertimos en días anteriores al concesionario, pidiendo una solución inmediata.
+
+Ante este panorama, en este momento únicamente pueden acceder al sistema los usuarios que cuentan con saldo previamente recargado en sus tarjetas.
+
+Hemos impartido instrucciones al supervisor del contrato para que nos entregue un informe detallado de la situación, y con base en este, iniciaremos las acciones pertinentes.
+
+Desde Transcaribe seguimos gestionando ante el Distrito, los recursos que permitan garantizar la sostenibilidad del sistema, por lo que rechazamos las medidas adoptadas por el concesionario de recaudo y gestión de flota, y las afectaciones que estas medidas están causando en nuestros usuarios.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcomunicado-de-transcaribe-sobre-situacion-en-las-taquillas-de-recarga-en-estaciones%2F

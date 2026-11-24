@@ -1,0 +1,17 @@
+Superada la falla en el sistema de recaudo de Transcaribe
+2022-03-22 (modified 2022-03-25)
+https://transcaribe.gov.co/index.php/noticia/superada-la-falla-en-el-sistema-de-recaudo-de-transcaribe/
+
+En la mañana de este martes 22 de marzo de 2022, y durante aproximadamente cuatro horas, se presentó una falla técnica en el proceso de sincronización de los equipos de recaudo, que afectó el servicio de recarga de saldos de Transcaribe.
+
+Como plan de contingencia temporal, y mientras se solucionaba este impase, Transcaribe y el concesionario de recaudo Colcard activaron en las estaciones la venta manual de tickets, garantizando así el acceso de los usuarios al sistema, y el recaudo de la tarifa para el SITM.
+
+Es válido aclarar que la falla no afectó a los usuarios que contaban con saldo previamente recargado en sus tarjetas, quienes pudieron ingresar con normalidad al sistema. También vale la pena resaltar que, en ningún momento, los guardias de seguridad intervinieron en el proceso de venta de los tiquetes: simplemente realizaron acompañamiento al personal del concesionario Colcard, quienes fueron los encargados de estas acciones.
+
+Pasadas las doce del mediodía, el concesionario de recaudo notificó al sistema que la falla fue superada, y desde entonces, se normalizó el servicio de recargas de tarjetas Transcaribe en todas las estaciones y puntos de venta externo.
+
+El sistema de todos los cartageneros lamenta todas las incomodidades que esta situación haya podido provocar a sus usuarios.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-25-at-3.35.24-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fsuperada-la-falla-en-el-sistema-de-recaudo-de-transcaribe%2F

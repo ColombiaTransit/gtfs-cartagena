@@ -1,0 +1,17 @@
+Transcaribe activa desvío en la ruta C001, por obras en el Puente Román
+2023-03-23 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/ranscaribe-activa-desvio-en-la-ruta-c001-por-obras-en-el-puente-roman/
+
+En sentido Centro-Ciudadela 2000, los buses no ingresarán a Manga, y seguirán por la Avenida del Lago. El desvío se activa el sábado 25 de marzo.
+
+Debido al cierre de un carril en el Puente Román por obras de rehabilitación, Transcaribe activará desde este sábado 25 de marzo un desvío en su ruta C001.
+
+En sentido Centro-Ciudadela 2000, los buses de esta ruta no ingresarán al barrio Manga. Una vez salgan de la Avenida del Arsenal, seguirán por la Avenida del Pedregal hasta el Puente Heredia, tomando la calle 30 hasta la bomba Terpel.
+
+Luego tomarán la carrera 14, para circular por toda la Avenida del Lago hasta el sector de Las Estibas, donde retomarán su recorrido habitual.
+
+Debido a este desvío, se dejan de cubrir los paraderos ubicados en Mz 17 Lote 48, El Candil, Mz 25 Lote 42, DIAN, Mz 27 Lote 18, y Sociedad Portuaria. Ante esto, se activarán paradas provisionales en la Avenida del Pedregal, Puente Las Palmas y Puente Jiménez.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-03-23-at-8.03.28-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Franscaribe-activa-desvio-en-la-ruta-c001-por-obras-en-el-puente-roman%2F

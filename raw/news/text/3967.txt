@@ -1,0 +1,23 @@
+Esta semana, personalización de Tarjetas Transcaribe en la sede Piedra de Bolívar de la UdeC
+2023-05-09 (modified 2023-05-10)
+https://transcaribe.gov.co/index.php/noticia/esta-semana-personalizacion-de-tarjetas-transcaribe-en-la-sede-piedra-de-bolivar-de-la-udec/
+
+El centro de atención al usuario CAU móvil se trasladará a la sede Piedra de Bolívar este miércoles 10 y jueves 11 de mayo.
+
+La Universidad de Cartagena recibirá este mes de mayo las jornadas de personalización y activación de Tarjetas Transcaribe para su comunidad universitaria.
+
+Este miércoles 10 de mayo, de 1:00 a 6:30 de la tarde, y el jueves 11 de mayo, de 8:00 de la mañana a 1:00 de la tarde, la comunidad de la Universidad de Cartagena podrá acceder al centro de atención al usuario CAU móvil que se instalará en la Sede Piedra de Bolívar.
+
+Así, Transcaribe sigue adelante con sus jornadas de personalización en los principales centros universitarios de Cartagena, para que los estudiantes, docentes y personal administrativo que son usuarios frecuentes del sistema, puedan contar con su tarjeta personalizada y disfrutar de los beneficios que esto trae.
+
+Ni la personalización ni la activación tienen costo alguno. Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, también podrán llevarlas para que sean reactivadas.
+
+El 24 y 25 de mayo próximos, las jornadas de personalización se trasladarán a la sede San Agustín de la Universidad de Cartagena.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-09-at-15.04.57.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Festa-semana-personalizacion-de-tarjetas-transcaribe-en-la-sede-piedra-de-bolivar-de-la-udec%2F

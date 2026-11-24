@@ -1,0 +1,21 @@
+Habilitados 97 comercios de Punto de Pago para recargar la Tarjeta Transcaribe
+2023-12-15 (modified 2023-12-15)
+https://transcaribe.gov.co/index.php/noticia/habilitados-97-comercios-de-punto-de-pago-para-recargar-la-tarjeta-transcaribe/
+
+Como parte del proceso de implementación del nuevo sistema de recaudo, inició la ampliación de la red externa de recarga.
+
+Como parte del proceso de implementación del nuevo sistema de recaudo de Transcaribe, se inició la ampliación de la red externa de puntos de recarga.
+
+Los usuarios del sistema de todos los cartageneros ya pueden recargar sus tarjetas en 97 comercios afiliados a la Red de Punto de Pago en toda Cartagena, y el municipio de Turbaco.
+
+Punto de Pago es un multicorresponsal bancario con 20 años en el mercado, ofreciendo el mayor portafolio de servicios financieros. Se estima que, en 2024, sean más de 400 los comercios afiliados a Punto de Pago en los que los usuarios puedan recargar su tarjeta Transcaribe.
+
+Los usuarios podrán conocer la ubicación geolocalizada de cada uno de los comercios habilitados para recargar en el micrositio https://transcaribe.gov.co/index.php/red_de_recarga/ que el SITM ha habilitado para tal fin.
+
+Transcaribe continúa trabajando en el fortalecimiento de la red de recarga externa, por lo que en los próximos días se anunciarán nuevas alianzas que permitirán seguir incrementando el número de puntos externos de recarga.
+
+Además, se trabaja en acuerdos que permitan próximamente la recarga a través de aplicaciones móviles bancarias y billeteras digitales, mejorando así la experiencia de usuario, y haciendo más fácil y rápido el proceso de recarga.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-15-at-12.03.16.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fhabilitados-97-comercios-de-punto-de-pago-para-recargar-la-tarjeta-transcaribe%2F

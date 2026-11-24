@@ -1,0 +1,17 @@
+Transcaribe no ha ordenado ningún bloqueo masivo de tarjetas
+2025-02-05 (modified 2025-02-05)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-no-ha-ordenado-ningun-bloqueo-masivo-de-tarjetas/
+
+Con respecto a una información publicada en medios de comunicación acerca de un supuesto “bloqueo masivo de tarjetas de Transcaribe”, el sistema se permite precisar que no se ha ordenado ni realizado ningún bloqueo masivo de tarjetas, ni ningún tipo de acción similar.
+
+Algunas tarjetas, debido a su antigüedad, amplio uso y posible falta de cuidado pueden presentar un desgaste propio del tiempo, el cual podría afectarlas físicamente e incluso, afectar los componentes internos de la misma, haciendo imposible su lectura por parte de los validadores.
+
+Además, hay que tener en cuenta que las tarjetas que cumplan más de un año sin utilizarse y/o recargarse, podrían desactivarse. De tener saldos existentes, estos pasan al fondo de contingencia del SITM. Esta situación está debidamente reglamentada en el Manual del Usuario y de hecho, se informa claramente en el reverso de las mismas tarjetas.
+
+Del mismo modo, hemos realizado un barrido en nuestros canales de atención al usuario, nuestros canales de atención de PQR y el punto físico de atención del CAU en Patio Portal y no se tiene registro de alguna queja o comentario de este tipo por parte de algún usuario.
+
+Ante esto, Transcaribe invita a los usuarios que se hayan visto afectados por algún tipo de situaciones similares, a recibir la atención debida a través de pqr@transcaribe.gov.co, la línea WhatsApp CAU 3332206769, o acercarse al Centro de Atención al Usuario, ubicado en la entrada peatonal de Patio Portal, de lunes a viernes de 8:00 a.m. a 1:00 p.m. y de 2:00 p.m. a 5:00 pm.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/02/MEDIDOR-15.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-no-ha-ordenado-ningun-bloqueo-masivo-de-tarjetas%2F

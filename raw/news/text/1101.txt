@@ -1,0 +1,20 @@
+Así operará Transcaribe este jueves 19 y viernes 20 de marzo
+2020-03-21 (modified 2020-03-21)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-este-jueves-19-y-viernes-20-de-marzo/
+
+Cartagena de Indias D. T. y C., 19 de marzo de 2020
+
+Luego de la expedición del Decreto 0506 del 17 de marzo de 2020 sobre el toque de queda, expedido por la Alcaldía de Cartagena, el Sistema Integrado de Transporte Masivo -Transcaribe- adoptó una programación para su cierre hoy y mañana viernes así:
+
+1. Los últimos servicios de las rutas troncales saldrán de su origen (Patio Portal) a las 5:30 p. m. y retornarían cerca de las 7 de la noche.
+
+2. Los últimos servicios de las rutas pretroncales saldrán de su origen (El Rodeo, Ciudadela 2000, Huellas de Alberto Uribe, Terminal de Transporte) a las 5:30 p. m. y retornarían cerca de las 7 de la noche.
+
+3. Una vez lleguen los últimos servicios de las rutas troncales y pretroncales, saldrán las rutas alimentadoras de la estación de transferencia Santa Lucía y Patio Portal a las 7 p. m. para retornar entre las 7:30 y 8 de la noche.
+
+4. El último servicio de la C001 saldrá de su origen a las 5 p. m., es decir, retornará cerca de las 7:45 p. m. a los barrios para dejar a los usuarios.
+
+Es importante resaltar que Transcaribe comienza su operación en horario habitual: 5 a. m. para rutas alimentadoras y 5:30 a. m. para rutas troncales y pretroncales; además, desde las 3:30 de la tarde se aumenta la oferta para evitar aglomeración de usuarios en hora pico, en estaciones y paraderos de Transcaribe.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-este-jueves-19-y-viernes-20-de-marzo%2F

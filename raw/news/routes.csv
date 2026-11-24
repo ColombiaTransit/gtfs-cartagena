@@ -1,0 +1,910 @@
+route,date,id,topics,title
+A101,2025-12-22,8066,,TransCaribe rechaza agresión con arma cortopunzante a uno de sus operadores
+A101,2025-04-28,6875,paraderos,"Desde el lunes 5 de mayo, la Ruta A101 Portal – La Carolina de Transcaribe retorna a su recorrido tradicional"
+A101,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+A101,2023-10-04,4463,paraderos tarifa,+ Conectados: Transcaribe amplía la cobertura de la Ruta A101 Ciudad Jardín – Portal
+A101,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+A101,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+A101,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A101,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+A101,2022-02-07,3161,paraderos desvio,"Cambios en el recorrido de las Rutas X101, A101 y A102 de Transcaribe"
+A101,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+A101,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A101,2021-08-27,1220,desvio,"Este domingo, desvíos en rutas A101, A102 y X101 de Transcaribe por cambio de torres de energía"
+A101,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A101,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A101,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A101,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A101,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A101,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A101,2019-10-21,1073,paraderos frecuencia tarifa,Este martes arrancaría ruta A101 por zona de conurbación
+A101,2019-10-16,1072,,Transcaribe rechaza actos vandálicos a buses en Huellas de Alberto Uribe
+A101,2019-05-11,1057,nueva_ruta tarifa,La A101 La Carolina – Portal ya está en su etapa comercial
+A101,2019-05-08,1056,paraderos nueva_ruta tarifa,Hoy entró en operación la primera fase de la ruta A101 La Carolina – Portal
+A101,2018-05-28,1020,paraderos tarifa,"Alcalde de Turbaco destaca avances para poner en marcha ruta de influencia La Carolina-Variante-Patio Portal, de Transcaribe"
+A102,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+A102,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+A102,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+A102,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+A102,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+A102,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+A102,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+A102,2023-04-01,3973,horario festivo,Así operará Transcaribe durante la Semana Santa 2023
+A102,2022-12-28,3727,paraderos desvio horario frecuencia festivo tarifa,"Este 31 de diciembre, circulará la ruta E2023 Año Nuevo de Transcaribe"
+A102,2022-12-23,3721,horario frecuencia festivo,Así operará Transcaribe en los días de Navidad
+A102,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+A102,2022-06-17,3373,horario frecuencia festivo tarifa,Comunicado de Transcaribe sobre la operación durante segunda vuelta presidencial
+A102,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A102,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+A102,2022-02-07,3161,paraderos desvio,"Cambios en el recorrido de las Rutas X101, A101 y A102 de Transcaribe"
+A102,2022-01-27,3147,horario frecuencia tarifa,La Ruta A102 de Transcaribe operará con nuevo horario
+A102,2022-01-14,3125,desvio horario frecuencia tarifa,Transcaribe busca 100 nuevos conductores
+A102,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A102,2021-09-22,862,frecuencia tarifa,"Transcaribe escucha a sus usuarios, e implementa mejoras operacionales en sus servicios"
+A102,2021-08-27,1220,desvio,"Este domingo, desvíos en rutas A101, A102 y X101 de Transcaribe por cambio de torres de energía"
+A102,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A102,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A102,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A102,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A102,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A102,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A102,2019-08-13,1065,desvio,Con 10 frentes de obra sigue a buen paso la rehabilitación de rutas precarga
+A102,2019-06-26,1059,,Finalizaron obras en la vía que conduce a la Universidad Tecnológica de Bolívar
+A102,2019-05-11,1057,nueva_ruta tarifa,La A101 La Carolina – Portal ya está en su etapa comercial
+A102,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A102,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+A102,2017-01-26,965,nueva_ruta,El 80% de los cartageneros dicen estar satisfechos con servicio de Transcaribe
+A102,2017-01-25,964,nueva_ruta tarifa,"Transcaribe pone en funcionamiento nueva ruta, la de Los Estudiantes (a102)"
+A103,2025-04-23,6855,tarifa,Transcaribe rechaza agresiones de usuarios hacia sus operadores
+A103,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+A103,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A103,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A103,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A103,2021-03-19,1178,paraderos desvio,"Desde este sábado, desvíos temporales en las rutas A103 y A104 de Transcaribe"
+A103,2020-10-05,1142,tarifa,Gerente de Transcaribe se subió a las rutas del sistema
+A103,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A103,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A103,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A103,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A103,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A103,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A103,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A103,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+A103,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A103,2018-04-23,1017,desvio,Ya Transcaribe circula de nuevo por su ruta habitual de Mandela
+A104,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A104,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+A104,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A104,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A104,2021-03-19,1178,paraderos desvio,"Desde este sábado, desvíos temporales en las rutas A103 y A104 de Transcaribe"
+A104,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A104,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A104,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A104,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A104,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A104,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A104,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A104,2019-02-23,1040,nueva_ruta tarifa,La ruta A108 Campestre- Santa Lucía ya está en su etapa comercial
+A104,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+A104,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A104,2018-04-23,1017,desvio,Ya Transcaribe circula de nuevo por su ruta habitual de Mandela
+A105,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+A105,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A105,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A105,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A105,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A105,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A105,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A105,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A105,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A105,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A105,2019-09-30,1070,paraderos desvio,Cambios en la ruta A105 por obras de rehabilitación de rutas alimentadoras
+A105,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+A105,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A107,2025-10-16,7298,festivo,"TransCaribe te lleva al tercer preludio en Blas de Lezo, “mi barrio querido”"
+A107,2025-09-19,7203,,"TransCaribe Kids: los niños, ejemplo de amor y sentido de pertenencia por el sistema de los cartageneros"
+A107,2023-12-23,4906,tarifa,Transcaribe rechaza agresiones físicas y amenazas contra operador de la ruta A107
+A107,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+A107,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A107,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+A107,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+A107,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+A107,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A107,2021-09-16,1226,paraderos frecuencia,Transcaribe en los barrios: el SITM escuchó a los usuarios de la ruta A107
+A107,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A107,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A107,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A107,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A107,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A107,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A107,2020-01-28,1085,,Avances obras SITM
+A107,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A107,2019-02-23,1040,nueva_ruta tarifa,La ruta A108 Campestre- Santa Lucía ya está en su etapa comercial
+A107,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+A107,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A107,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+A108,2025-03-13,6736,paraderos desvio,"Por obras de mejoramiento vial, Transcaribe activa desvíos en tres rutas"
+A108,2025-02-01,6563,paraderos desvio,Transcaribe activa desvíos temporales en sus rutas A108 y C001
+A108,2024-09-24,6170,paraderos desvio,Transcaribe activa desvío en la ruta A108
+A108,2023-11-29,4505,paraderos desvio,"Transcaribe activa desvío en la Ruta A108, a la altura de El Campestre"
+A108,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+A108,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A108,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A108,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A108,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A108,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A108,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A108,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A108,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A108,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A108,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+A108,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A108,2019-02-23,1040,nueva_ruta tarifa,La ruta A108 Campestre- Santa Lucía ya está en su etapa comercial
+A108,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+A109,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A109,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A109,2020-07-10,1126,paraderos horario,Rutas A109 y A111 tendrán nuevo horario
+A109,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A109,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A109,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A109,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A109,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+A109,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A111,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+A111,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+A111,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+A111,2025-03-06,6728,paraderos nueva_ruta horario,"Nuevo Bosque – Ejecutivos, la tercera ruta de prueba del Ecobús Piloto de Transcaribe: rodará desde el lunes 10 de marzo"
+A111,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+A111,2024-12-20,6490,nueva_ruta horario,"Transcaribe, Surtigas y Navitrans presentaron el nuevo Ecobús Piloto"
+A111,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+A111,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+A111,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+A111,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+A111,2023-04-01,3973,horario festivo,Así operará Transcaribe durante la Semana Santa 2023
+A111,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+A111,2022-12-28,3727,paraderos desvio horario frecuencia festivo tarifa,"Este 31 de diciembre, circulará la ruta E2023 Año Nuevo de Transcaribe"
+A111,2022-12-23,3721,horario frecuencia festivo,Así operará Transcaribe en los días de Navidad
+A111,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+A111,2022-06-17,3373,horario frecuencia festivo tarifa,Comunicado de Transcaribe sobre la operación durante segunda vuelta presidencial
+A111,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A111,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+A111,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A111,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A111,2020-07-10,1126,paraderos horario,Rutas A109 y A111 tendrán nuevo horario
+A111,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A111,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A111,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A111,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A111,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+A113,2021-12-02,2991,paraderos frecuencia,Transcaribe en los barrios: el sistema escuchó a los usuarios de El Pozón y Villa Estrella
+A113,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+A114,2026-09-04,10080,paraderos desvio horario,"TransCaribe activará desvío en la Ruta A114, este sábado en la mañana"
+A114,2025-10-09,7252,festivo,La fiesta es en Las Palmeras: TransCaribe te lleva al Preludio de la Localidad 2
+A114,2025-08-14,7051,paraderos desvio,"Estos serán los cambios en la operación de Transcaribe, por el Reto Movistar Cartagena"
+A114,2024-08-15,6116,paraderos desvio,"Estos serán los desvíos en Transcaribe este domingo, por el Reto Movistar"
+A114,2024-05-30,5636,paraderos,Encuentro Barrial en el Parque Bicentenario: Transcaribe reafirma su compromiso con el sector Barrios Unidos
+A114,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+A114,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A114,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+A114,2021-11-17,2934,nueva_ruta horario festivo tarifa,"“Así Avanza Transca”, un reporte a la ciudadanía del estado actual de Transcaribe"
+A114,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+A114,2021-10-29,2919,paraderos frecuencia,"Transcaribe escuchó a sus usuarios en La Sevillana, Villas de Aranjuez, Flor del Campo y Bicentenario"
+A114,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A114,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A114,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+A114,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A114,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A114,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A114,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A114,2020-04-03,1110,paraderos horario frecuencia,Usuarios de Transcaribe disminuyeron en un 85 % debido a medidas por Covid-19
+A114,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A114,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A114,2018-08-16,1027,paraderos nueva_ruta,"Transcaribe amplía puntos de recarga para usuarios de ruta alimentadora de Flor del Campo, Bicentenario y Colombiatón"
+A115,2021-12-02,2991,paraderos frecuencia,Transcaribe en los barrios: el sistema escuchó a los usuarios de El Pozón y Villa Estrella
+A115,2017-04-24,976,nueva_ruta frecuencia tarifa,Alcalde de Cartagena dijo que 6 mil pasajeros diarios se movilizarán en nueva ruta de Villa Estrella
+A117,2026-07-22,8902,,Inaceptable: usuarios agreden y amenazan a operador de TransCaribe en medio de las lluvias del domingo
+A117,2025-10-09,7252,festivo,La fiesta es en Las Palmeras: TransCaribe te lleva al Preludio de la Localidad 2
+A117,2024-09-13,6157,,Transcaribe suspende despachos de la ruta A117 por bloqueo de la comunidad
+A117,2024-08-05,6087,frecuencia tarifa,Gerente de Transcaribe socializa avances del Sistema de Transporte Masivo a la comunidad del Barrio El Pozón
+A117,2024-06-24,5690,frecuencia,Transcaribe se pronuncia sobre la agresión entre conductor y usuario en el barrio Villa Estrella
+A117,2023-06-28,4116,paraderos desvio,Transcaribe activa desvío de la ruta A117 en Villa Estrella
+A117,2022-08-18,3548,,Comunicado de Transcaribe sobre ataque vandálico a un bus del sistema
+A117,2022-04-20,3266,paraderos desvio,Ruta A117 de Transcaribe retoma su recorrido original en Villa Estrella
+A117,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+A117,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+A117,2022-02-01,3157,paraderos desvio,"Transcaribe activa desvío en la ruta A117, a la altura de Villa Estrella"
+A117,2021-12-02,2991,paraderos frecuencia,Transcaribe en los barrios: el sistema escuchó a los usuarios de El Pozón y Villa Estrella
+A117,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+A117,2021-11-17,2934,nueva_ruta horario festivo tarifa,"“Así Avanza Transca”, un reporte a la ciudadanía del estado actual de Transcaribe"
+A117,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+A117,2021-10-19,2909,desvio nueva_ruta horario frecuencia tarifa,"¡Más temprano, mejor servicio! Desde hoy, Transcaribe inicia operación a las 4:30 a.m."
+A117,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+A117,2020-10-05,1142,tarifa,Gerente de Transcaribe se subió a las rutas del sistema
+A117,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+A117,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+A117,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+A117,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+A117,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+A117,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+A117,2020-04-03,1110,paraderos horario frecuencia,Usuarios de Transcaribe disminuyeron en un 85 % debido a medidas por Covid-19
+A117,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+A117,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+A118,2025-10-27,7316,paraderos nueva_ruta horario,“Esta nueva ruta nos cambia la vida al cien”: Ciudadela de la Paz ya cuenta con cobertura de TransCaribe
+A118,2025-10-24,7309,paraderos nueva_ruta horario,"Tu sistema avanza: TransCaribe pone en operación, desde este lunes, nueva ruta a Ciudadela de la Paz"
+C001,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+C001,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+C001,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+C001,2026-08-28,10055,horario tarifa,¡Gobierno del alcalde Dumek Turbay sigue cumpliendo! Los 17 nuevos y modernos buses de Transcaribe ya ruedan por Cartagena para beneficio de sus usuarios
+C001,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+C001,2025-12-05,7520,tarifa,Comunicado de TransCaribe sobre protesta de algunos operadores
+C001,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+C001,2025-11-12,7390,paraderos desvio festivo,Estos serán los desvíos de TransCaribe por el Desfile de Independencia y El Bololó del Arsenal
+C001,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+C001,2025-04-25,6869,paraderos desvio,"Transcaribe activa desvío en la ruta C001, durante sábado y domingo"
+C001,2025-03-28,6808,desvio,"Transcaribe activa desvíos en sus rutas C001 y X105, por obras de mejoramiento vial"
+C001,2025-03-13,6736,paraderos desvio,"Por obras de mejoramiento vial, Transcaribe activa desvíos en tres rutas"
+C001,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+C001,2025-02-14,6579,paraderos nueva_ruta horario,El 17 de febrero Transcaribe inicia la ruta gratuita de prueba Bodeguita – Pie de la Popa – Manga
+C001,2025-02-01,6563,paraderos desvio,Transcaribe activa desvíos temporales en sus rutas A108 y C001
+C001,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+C001,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+C001,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+C001,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+C001,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+C001,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+C001,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+C001,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+C001,2024-07-22,5771,,Transcaribe rechaza ataque vandálico a un busetón por parte de conductor de vehículo particular
+C001,2024-07-03,5715,paraderos horario,Comunicado a la ciudadanía sobre la Ruta C001 de Transcaribe
+C001,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+C001,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+C001,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+C001,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+C001,2023-06-13,4075,desvio,Transcaribe activa desvíos en las rutas X103 y C001 a la altura de Piedra de Bolívar
+C001,2023-04-17,3965,desvio,Nuevo desvío en la ruta C001 de Transcaribe: no ingresará a Los Calamares
+C001,2023-04-01,3973,horario festivo,Así operará Transcaribe durante la Semana Santa 2023
+C001,2023-03-31,3976,desvio,Transcaribe activa desvíos en la ruta C001 en Los Calamares
+C001,2023-03-23,3984,paraderos desvio,"Transcaribe activa desvío en la ruta C001, por obras en el Puente Román"
+C001,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+C001,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+C001,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+C001,2023-01-26,3746,,Las rutas X103 y C001 regresan a su recorrido habitual
+C001,2023-01-17,3736,paraderos desvio,"Por obras en Avenida del Consulado, desvíos en rutas X103 y C001 de Transcaribe"
+C001,2022-12-28,3727,paraderos desvio horario frecuencia festivo tarifa,"Este 31 de diciembre, circulará la ruta E2023 Año Nuevo de Transcaribe"
+C001,2022-12-23,3721,horario frecuencia festivo,Así operará Transcaribe en los días de Navidad
+C001,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+C001,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+C001,2022-10-21,3614,paraderos desvio,Atención: desvío en la ruta C001 de Transcaribe
+C001,2022-06-22,3396,paraderos,"Rutas X102, X105 y C001 de Transcaribe retoman recorridos habituales"
+C001,2022-06-17,3373,horario frecuencia festivo tarifa,Comunicado de Transcaribe sobre la operación durante segunda vuelta presidencial
+C001,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+C001,2022-05-11,3303,paraderos,"Normalizamos el recorrido de las rutas X102, X105 y C001"
+C001,2022-05-10,3298,paraderos desvio,¿Conoces los desvíos que implementó Transcaribe en El Bosque?
+C001,2022-05-07,3295,paraderos desvio,Transcaribe activa desvíos en tres rutas en el barrio El Bosque
+C001,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+C001,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+C001,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+C001,2021-08-14,1215,paraderos,Veolia y Transcaribe lanzan campaña “Mi avenida Limpia”
+C001,2021-07-03,1208,paraderos desvio,Transcaribe recuerda a usuarios que la ruta X101 activó un desvío temporal
+C001,2021-03-19,1178,paraderos desvio,"Desde este sábado, desvíos temporales en las rutas A103 y A104 de Transcaribe"
+C001,2020-12-29,1157,,Se reaperturan tres vías intervenidas por Transcaribe
+C001,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+C001,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+C001,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+C001,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+C001,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+C001,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+C001,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+C001,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+C001,2020-03-21,1101,paraderos desvio horario,Así operará Transcaribe este jueves 19 y viernes 20 de marzo
+C001,2019-12-19,1082,paraderos nueva_ruta frecuencia tarifa,Comenzó a rodar la ruta C001 Ciudadela 2000 – Manga – Centro
+C015,2020-03-12,1096,horario,Vuelve la ruta C015 Gobernación
+C015,2019-04-14,1052,horario festivo,Conoce la operación de Transcaribe en Semana Santa
+C015,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+C016,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+C016,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+C016,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+C016,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+C016,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+C016,2022-12-28,3727,paraderos desvio horario frecuencia festivo tarifa,"Este 31 de diciembre, circulará la ruta E2023 Año Nuevo de Transcaribe"
+C016,2022-12-23,3721,horario frecuencia festivo,Así operará Transcaribe en los días de Navidad
+C016,2022-05-14,3317,paraderos,Regresa la Ruta C016 (Circular Portal – Terminal de Transportes) de Transcaribe
+C017,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+C017,2025-12-05,7520,tarifa,Comunicado de TransCaribe sobre protesta de algunos operadores
+C017,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+C017,2025-10-27,7316,paraderos nueva_ruta horario,“Esta nueva ruta nos cambia la vida al cien”: Ciudadela de la Paz ya cuenta con cobertura de TransCaribe
+C017,2025-10-24,7309,paraderos nueva_ruta horario,"Tu sistema avanza: TransCaribe pone en operación, desde este lunes, nueva ruta a Ciudadela de la Paz"
+C017,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+C017,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+C017,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+C017,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+C017,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+C017,2024-08-19,6120,paraderos desvio horario,"Por Vuelta a Colombia Femenina, cambios en las rutas T102 y C017 de Transcaribe este martes y miércoles"
+C017,2024-02-12,5305,paraderos nueva_ruta,Transcaribe y el alcalde Dumek Turbay Paz inauguraron la ruta C017 Bodeguita – Zona Norte
+C017,2024-02-09,5309,paraderos nueva_ruta horario frecuencia tarifa,Tu sistema avanza: Transcaribe y la Alcaldía lanzan la nueva ruta C017 Bodeguita – Zona Norte
+C018,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+C018,2026-08-28,10055,horario tarifa,¡Gobierno del alcalde Dumek Turbay sigue cumpliendo! Los 17 nuevos y modernos buses de Transcaribe ya ruedan por Cartagena para beneficio de sus usuarios
+C018,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+C018,2025-12-05,7520,tarifa,Comunicado de TransCaribe sobre protesta de algunos operadores
+C018,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+C018,2025-10-27,7316,paraderos nueva_ruta horario,“Esta nueva ruta nos cambia la vida al cien”: Ciudadela de la Paz ya cuenta con cobertura de TransCaribe
+C018,2025-10-24,7309,paraderos nueva_ruta horario,"Tu sistema avanza: TransCaribe pone en operación, desde este lunes, nueva ruta a Ciudadela de la Paz"
+C018,2025-10-02,7217,paraderos festivo,"TransCaribe te lleva al primer preludio de La Fiesta que nos une, este viernes"
+C018,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+C018,2025-03-13,6736,paraderos desvio,"Por obras de mejoramiento vial, Transcaribe activa desvíos en tres rutas"
+C018,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+C018,2024-12-16,6480,horario frecuencia,Recuerda: Transcaribe operará hasta medianoche en el marco de Cartagena Despierta
+C018,2024-12-12,6476,horario frecuencia,Transcaribe te lleva a disfrutar de Cartagena Despierta: el sistema extiende sus horarios hasta la medianoche este 16 y 17 de diciembre
+C018,2024-11-21,6272,paraderos nueva_ruta,"Transcaribe fortalece la ruta C018 Bodeguita – Torices, con un nuevo paradero en el Centro Histórico"
+C018,2024-08-30,6137,tarifa,"Transcaribe sigue avanzando: el sistema registra la cifra más alta de pasajeros en un día hábil normal, desde la pandemia"
+C018,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+C018,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+C106,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+C106,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+C108,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+T100,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+T100,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+T100E,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+T100E,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+T100E,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+T100E,2025-04-23,6855,tarifa,Transcaribe rechaza agresiones de usuarios hacia sus operadores
+T100E,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+T100E,2025-04-03,6826,,Comunicado de Transcaribe sobre accidente con fatalidad en cercanías a estación Villa Olímpica
+T100E,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+T100E,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+T100E,2024-09-28,6174,,"Transcaribe rechaza nuevo ataque vandálico contra un bus del sistema, que dejó una usuaria herida"
+T100E,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+T100E,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+T100E,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+T100E,2023-04-01,3973,horario festivo,Así operará Transcaribe durante la Semana Santa 2023
+T100E,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+T100E,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+T100E,2022-12-28,3727,paraderos desvio horario frecuencia festivo tarifa,"Este 31 de diciembre, circulará la ruta E2023 Año Nuevo de Transcaribe"
+T100E,2022-12-23,3721,horario frecuencia festivo,Así operará Transcaribe en los días de Navidad
+T100E,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+T100E,2022-09-29,3601,tarifa,Activan puntos de recarga de tarjetas en el Patio Portal de Transcaribe
+T100E,2022-06-17,3373,horario frecuencia festivo tarifa,Comunicado de Transcaribe sobre la operación durante segunda vuelta presidencial
+T100E,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+T100E,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+T100E,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+T100E,2020-05-10,1119,horario frecuencia,A partir de este lunes Transcaribe operará desde las 5 a. m. y aumentará su flota al 70 %
+T100E,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+T100E,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+T100E,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+T100E,2019-04-14,1052,horario festivo,Conoce la operación de Transcaribe en Semana Santa
+T100E,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+T101,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+T101,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+T101,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+T101,2026-05-14,8375,,¿Cómo llegar al Nuevo Chambacú? TransCaribe te lleva con cinco rutas disponibles
+T101,2026-04-08,8284,desvio,"TransCaribe te lleva a la Copa Libertadores: el sistema aumenta su cobertura en la estación Villa Olímpica, para Junior-Palmeiras"
+T101,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+T101,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+T101,2025-11-18,7398,nueva_ruta tarifa,"TransCaribe celebra su primera década de operación con buenas noticias: nueva flota, mejoras en infraestructura y nuevos medios de pago"
+T101,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+T101,2025-10-10,7284,festivo,TransCaribe te lleva al concierto de Silvestre Dangond: cuatro rutas harán paradas en la estación Villa Olímpica
+T101,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+T101,2025-05-29,6923,desvio,¡Todos al Morón en Transcaribe! Cuatro rutas harán paradas en la estación Villa Olímpica
+T101,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+T101,2025-03-27,6805,desvio,Transcaribe te lleva al Sudamericano sub-17: así operarán las rutas del sistema
+T101,2025-03-21,6755,desvio festivo,Transcaribe te lleva al Festival de Música del Caribe: el sistema mejora su oferta en Villa Olímpica
+T101,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+T101,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+T101,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+T101,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+T101,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+T101,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+T101,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+T101,2024-06-28,5704,desvio horario,Transcaribe te conecta a los mejores eventos de tu ciudad
+T101,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+T101,2024-05-27,5624,horario,"La ruta del ascenso: Transcaribe acompaña a los hinchas de Real Cartagena, este martes, con una operación fortalecida"
+T101,2024-05-22,5612,desvio horario,"En la ruta del ascenso: Transcaribe fortalece su operación este viernes, para Real Cartagena vs Tigres FC"
+T101,2024-04-22,5519,,"¿Qué pasa con los buses de Transcaribe cada noche, al finalizar la operación?"
+T101,2024-02-16,5322,horario,"Este sábado, cuatro rutas de Transcaribe pararán en Villa Olímpica por el partido de Real Cartagena"
+T101,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T101,2024-02-02,5050,,"Transcaribe se sube al bus del ascenso: este sábado, cuatro rutas harán paradas en la estación Villa Olímpica"
+T101,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+T101,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+T101,2023-10-22,4484,,Comunicado de Transcaribe sobre accidente en la Avenida Pedro de Heredia
+T101,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+T101,2023-04-01,3973,horario festivo,Así operará Transcaribe durante la Semana Santa 2023
+T101,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+T101,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+T101,2023-02-16,3768,tarifa,Comunicado de Transcaribe sobre incidente entre usuarios y operadores en Patio Portal
+T101,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T101,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+T101,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+T101,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+T101,2022-05-12,3314,horario,"Desde el 16 de mayo, extendemos el horario de la ruta T101"
+T101,2022-03-01,3217,frecuencia,"Transcaribe anuncia operación normal, con acompañamiento de la Fuerza Pública, para este martes"
+T101,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+T101,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+T101,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+T101,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+T101,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+T101,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+T101,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+T101,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+T101,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+T101,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+T101,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+T101,2017-01-31,966,tarifa,Más avances de Transcaribe: Mañana miércoles Alcalde de Cartagena da apertura a estación El Prado
+T102,2026-11-10,10215,paraderos desvio,"Durante todo el jueves, TransCaribe activa desvío en su ruta T102 Portal – Crespo"
+T102,2026-10-14,10180,,Dale vía a la vida: TransCaribe lanzó la decimoprimera edición del Mes de la seguridad vial
+T102,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+T102,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+T102,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+T102,2026-05-14,8375,,¿Cómo llegar al Nuevo Chambacú? TransCaribe te lleva con cinco rutas disponibles
+T102,2026-04-16,8320,,Ataque vandálico contra dos buses en el Patio Portal de TransCaribe: los atacantes están identificados
+T102,2026-04-08,8284,desvio,"TransCaribe te lleva a la Copa Libertadores: el sistema aumenta su cobertura en la estación Villa Olímpica, para Junior-Palmeiras"
+T102,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+T102,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+T102,2025-11-12,7390,paraderos desvio festivo,Estos serán los desvíos de TransCaribe por el Desfile de Independencia y El Bololó del Arsenal
+T102,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+T102,2025-10-10,7284,festivo,TransCaribe te lleva al concierto de Silvestre Dangond: cuatro rutas harán paradas en la estación Villa Olímpica
+T102,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+T102,2025-08-14,7051,paraderos desvio,"Estos serán los cambios en la operación de Transcaribe, por el Reto Movistar Cartagena"
+T102,2025-05-29,6923,desvio,¡Todos al Morón en Transcaribe! Cuatro rutas harán paradas en la estación Villa Olímpica
+T102,2025-03-27,6805,desvio,Transcaribe te lleva al Sudamericano sub-17: así operarán las rutas del sistema
+T102,2025-03-21,6755,desvio festivo,Transcaribe te lleva al Festival de Música del Caribe: el sistema mejora su oferta en Villa Olímpica
+T102,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+T102,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+T102,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+T102,2024-11-22,6277,paraderos desvio,Transcaribe fortalece el recorrido de la ruta T102 Portal – Crespo: conoce los cambios y nuevas paradas
+T102,2024-11-06,6243,paraderos desvio horario,Así serán los desvíos en Transcaribe por el Desfile de Independencia
+T102,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+T102,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+T102,2024-09-29,6176,,Comunicado de Transcaribe sobre accidente en cercanías de la estación España
+T102,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+T102,2024-08-19,6120,paraderos desvio horario,"Por Vuelta a Colombia Femenina, cambios en las rutas T102 y C017 de Transcaribe este martes y miércoles"
+T102,2024-08-15,6116,paraderos desvio,"Estos serán los desvíos en Transcaribe este domingo, por el Reto Movistar"
+T102,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+T102,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+T102,2024-06-28,5704,desvio horario,Transcaribe te conecta a los mejores eventos de tu ciudad
+T102,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+T102,2024-05-29,5632,paraderos desvio,"Por obras de rehabilitación vial en Crespo, desvío de la ruta T102 de Transcaribe"
+T102,2024-05-27,5624,horario,"La ruta del ascenso: Transcaribe acompaña a los hinchas de Real Cartagena, este martes, con una operación fortalecida"
+T102,2024-05-22,5612,desvio horario,"En la ruta del ascenso: Transcaribe fortalece su operación este viernes, para Real Cartagena vs Tigres FC"
+T102,2024-02-16,5322,horario,"Este sábado, cuatro rutas de Transcaribe pararán en Villa Olímpica por el partido de Real Cartagena"
+T102,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T102,2024-02-09,5309,paraderos nueva_ruta horario frecuencia tarifa,Tu sistema avanza: Transcaribe y la Alcaldía lanzan la nueva ruta C017 Bodeguita – Zona Norte
+T102,2024-02-02,5050,,"Transcaribe se sube al bus del ascenso: este sábado, cuatro rutas harán paradas en la estación Villa Olímpica"
+T102,2024-01-20,5043,paraderos desvio,"Desde este lunes 22, Transcaribe activa desvío de la ruta T102 en el barrio Crespo"
+T102,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+T102,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+T102,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+T102,2023-07-28,4145,paraderos,+ Conectados: Transcaribe extiende el recorrido de la Ruta T102
+T102,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+T102,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+T102,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T102,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+T102,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+T102,2022-07-21,3479,paraderos desvio,Desvíos en rutas X104 y T102 de Transcaribe
+T102,2022-06-25,3455,paraderos desvio horario,"Este domingo, desvíos en la ruta T102 de Transcaribe"
+T102,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+T102,2022-06-03,3353,desvio horario,Transcaribe activa desvío en la ruta T102 por la Vuelta a Colombia
+T102,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+T102,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+T102,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+T102,2021-09-22,1229,paraderos desvio,"Por obras en la Avenida Santander, Transcaribe activa desvíos en la ruta T102 Portal – Crespo"
+T102,2021-03-31,1187,horario,Transcaribe continúa operación de manera gratuita durante este 1 de abril
+T102,2020-12-29,1157,,Se reaperturan tres vías intervenidas por Transcaribe
+T102,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+T102,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+T102,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+T102,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+T102,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+T102,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+T102,2020-04-03,1110,paraderos horario frecuencia,Usuarios de Transcaribe disminuyeron en un 85 % debido a medidas por Covid-19
+T102,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+T102,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+T102,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+T102,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+T102,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+T102,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+T103,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+T103,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+T103,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+T103,2026-05-14,8375,,¿Cómo llegar al Nuevo Chambacú? TransCaribe te lleva con cinco rutas disponibles
+T103,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+T103,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+T103,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+T103,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+T103,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+T103,2024-12-27,6500,,Comunicado de Transcaribe sobre accidente en cercanías a la India Catalina
+T103,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+T103,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+T103,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+T103,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+T103,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+T103,2024-06-28,5704,desvio horario,Transcaribe te conecta a los mejores eventos de tu ciudad
+T103,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+T103,2024-05-27,5624,horario,"La ruta del ascenso: Transcaribe acompaña a los hinchas de Real Cartagena, este martes, con una operación fortalecida"
+T103,2024-05-22,5612,desvio horario,"En la ruta del ascenso: Transcaribe fortalece su operación este viernes, para Real Cartagena vs Tigres FC"
+T103,2024-02-16,5322,horario,"Este sábado, cuatro rutas de Transcaribe pararán en Villa Olímpica por el partido de Real Cartagena"
+T103,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T103,2024-02-02,5050,,"Transcaribe se sube al bus del ascenso: este sábado, cuatro rutas harán paradas en la estación Villa Olímpica"
+T103,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+T103,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+T103,2023-08-10,4310,,Comunicado de Transcaribe sobre accidente en cercanías a la estación El Prado
+T103,2023-06-28,4112,,Transcaribe realiza una redistribución de paradas en Patio Portal
+T103,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+T103,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+T103,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+T103,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+T103,2022-09-23,3589,paraderos horario tarifa,¿Dónde recargar tu tarjeta Transcaribe en Bocagrande?
+T103,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+T103,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+T103,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+T103,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+T103,2021-11-17,2934,nueva_ruta horario festivo tarifa,"“Así Avanza Transca”, un reporte a la ciudadanía del estado actual de Transcaribe"
+T103,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+T103,2021-10-19,2909,desvio nueva_ruta horario frecuencia tarifa,"¡Más temprano, mejor servicio! Desde hoy, Transcaribe inicia operación a las 4:30 a.m."
+T103,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+T103,2021-09-22,862,frecuencia tarifa,"Transcaribe escucha a sus usuarios, e implementa mejoras operacionales en sus servicios"
+T103,2021-03-31,1187,horario,Transcaribe continúa operación de manera gratuita durante este 1 de abril
+T103,2020-12-29,1157,,Se reaperturan tres vías intervenidas por Transcaribe
+T103,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+T103,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+T103,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+T103,2020-05-29,1120,horario,Transcaribe moviliza esperanza en medio de la pandemia
+T103,2020-05-10,1119,horario frecuencia,A partir de este lunes Transcaribe operará desde las 5 a. m. y aumentará su flota al 70 %
+T103,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+T103,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+T103,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+T103,2020-04-07,1113,horario,Un 75 % de usuarios cumplieron la medida de uso de tapabocas en Transcaribe
+T103,2020-04-03,1110,paraderos horario frecuencia,Usuarios de Transcaribe disminuyeron en un 85 % debido a medidas por Covid-19
+T103,2020-03-30,1108,horario frecuencia tarifa,Transcaribe refuerza medidas operacionales para cumplir con capacidad de ocupación
+T103,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+T103,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+T103,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+T103,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+T103,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+T103,2019-03-06,1042,,¡Volvieron los cultores a Transcaribe!
+T103,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+T103,2017-10-30,999,horario tarifa,Transcaribe inicia a medidos de noviembre un piloto de horario ampliado en la ruta T103 de Bocagrande
+T103,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco
+X016,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X016,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X101,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X101,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X101,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+X101,2026-05-14,8375,,¿Cómo llegar al Nuevo Chambacú? TransCaribe te lleva con cinco rutas disponibles
+X101,2026-04-08,8284,desvio,"TransCaribe te lleva a la Copa Libertadores: el sistema aumenta su cobertura en la estación Villa Olímpica, para Junior-Palmeiras"
+X101,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X101,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X101,2025-10-10,7284,festivo,TransCaribe te lleva al concierto de Silvestre Dangond: cuatro rutas harán paradas en la estación Villa Olímpica
+X101,2025-09-19,7203,,"TransCaribe Kids: los niños, ejemplo de amor y sentido de pertenencia por el sistema de los cartageneros"
+X101,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X101,2025-05-29,6923,desvio,¡Todos al Morón en Transcaribe! Cuatro rutas harán paradas en la estación Villa Olímpica
+X101,2025-03-27,6805,desvio,Transcaribe te lleva al Sudamericano sub-17: así operarán las rutas del sistema
+X101,2025-03-21,6755,desvio festivo,Transcaribe te lleva al Festival de Música del Caribe: el sistema mejora su oferta en Villa Olímpica
+X101,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X101,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X101,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+X101,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X101,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X101,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X101,2024-06-28,5704,desvio horario,Transcaribe te conecta a los mejores eventos de tu ciudad
+X101,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X101,2024-05-27,5624,horario,"La ruta del ascenso: Transcaribe acompaña a los hinchas de Real Cartagena, este martes, con una operación fortalecida"
+X101,2024-05-22,5612,desvio horario,"En la ruta del ascenso: Transcaribe fortalece su operación este viernes, para Real Cartagena vs Tigres FC"
+X101,2024-02-16,5322,horario,"Este sábado, cuatro rutas de Transcaribe pararán en Villa Olímpica por el partido de Real Cartagena"
+X101,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X101,2024-02-02,5050,,"Transcaribe se sube al bus del ascenso: este sábado, cuatro rutas harán paradas en la estación Villa Olímpica"
+X101,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X101,2023-11-07,4492,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia
+X101,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X101,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X101,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X101,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X101,2022-12-27,3724,paraderos desvio,Transcaribe activa desvío en la ruta X101
+X101,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X101,2022-11-09,3703,paraderos desvio horario festivo tarifa,Así operará Transcaribe durante las Fiestas de la Independencia
+X101,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X101,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+X101,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X101,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+X101,2022-02-07,3161,paraderos desvio,"Cambios en el recorrido de las Rutas X101, A101 y A102 de Transcaribe"
+X101,2022-01-25,3143,paraderos frecuencia,Transcaribe atiende inquietudes de usuarios de la ruta X101
+X101,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X101,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X101,2021-08-27,1220,desvio,"Este domingo, desvíos en rutas A101, A102 y X101 de Transcaribe por cambio de torres de energía"
+X101,2021-07-03,1208,paraderos desvio,Transcaribe recuerda a usuarios que la ruta X101 activó un desvío temporal
+X101,2021-06-24,1205,,"Transcaribe realiza conversatorios comunitarios, y escucha a sus usuarios en los barrios"
+X101,2021-02-25,1171,tarifa,Transcaribe rechaza actos de intolerancia tras accidente en Las Gaviotas
+X101,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X101,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+X101,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X101,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X101,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X101,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X101,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X101,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X101,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X101,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+X101,2020-01-28,1087,horario,Boletín de prensa sobre accidente de tránsito en el Pie de la Popa
+X101,2020-01-06,1083,paraderos tarifa,"Para mejorar velocidades y nivel de servicio, la X101 opera por el puente 13 de Junio"
+X101,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X101,2019-10-21,1073,paraderos frecuencia tarifa,Este martes arrancaría ruta A101 por zona de conurbación
+X101,2019-10-16,1072,,Transcaribe rechaza actos vandálicos a buses en Huellas de Alberto Uribe
+X101,2019-09-13,1068,,Familia de Santander Ibarra envía carta emotiva a operador de Transcaribe
+X101,2019-05-11,1057,nueva_ruta tarifa,La A101 La Carolina – Portal ya está en su etapa comercial
+X101,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+X101,2019-02-16,1037,paraderos desvio horario frecuencia festivo tarifa,Ya arrancó la etapa comercial de la ruta X101 San José de los Campanos – 13 de Junio – Gaviotas – Centro
+X101,2019-02-15,1036,desvio nueva_ruta horario tarifa,2 mil usuarios se han subido a la ruta X101 San José de los Campanos-13 de Junio-Gaviotas – Centro
+X102,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X102,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X102,2026-03-05,8174,horario,"TransCaribe activó, de manera inmediata, sus protocolos de atención y acompañamiento, tras reporte de presunto caso de acoso en el sistema"
+X102,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X102,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X102,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X102,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X102,2025-01-15,6519,paraderos desvio,Transcaribe tiene activos desvíos en sus rutas X102 y X105
+X102,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X102,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+X102,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X102,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X102,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X102,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X102,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X102,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X102,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X102,2023-06-28,4112,,Transcaribe realiza una redistribución de paradas en Patio Portal
+X102,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X102,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X102,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X102,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X102,2022-06-22,3396,paraderos,"Rutas X102, X105 y C001 de Transcaribe retoman recorridos habituales"
+X102,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X102,2022-05-11,3303,paraderos,"Normalizamos el recorrido de las rutas X102, X105 y C001"
+X102,2022-05-10,3298,paraderos desvio,¿Conoces los desvíos que implementó Transcaribe en El Bosque?
+X102,2022-05-07,3295,paraderos desvio,Transcaribe activa desvíos en tres rutas en el barrio El Bosque
+X102,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+X102,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X102,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X102,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+X102,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X102,2021-09-22,862,frecuencia tarifa,"Transcaribe escucha a sus usuarios, e implementa mejoras operacionales en sus servicios"
+X102,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+X102,2021-08-14,1215,paraderos,Veolia y Transcaribe lanzan campaña “Mi avenida Limpia”
+X102,2020-10-05,1142,tarifa,Gerente de Transcaribe se subió a las rutas del sistema
+X102,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X102,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X102,2020-07-10,1126,paraderos horario,Rutas A109 y A111 tendrán nuevo horario
+X102,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X102,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X102,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X102,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X102,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X102,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X102,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+X102,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X102,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+X102,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+X102,2019-02-23,1040,nueva_ruta tarifa,La ruta A108 Campestre- Santa Lucía ya está en su etapa comercial
+X102,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+X102,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+X103,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X103,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X103,2026-08-01,9319,paraderos desvio,"Desde este lunes 3 de agosto, desvío en la Ruta X103 de TransCaribe"
+X103,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X103,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X103,2025-11-25,7410,paraderos desvio,"Por obras en la Avenida del Consulado, TransCaribe activa desvío en su ruta X103"
+X103,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X103,2025-03-14,6742,,Comunicado de Transcaribe sobre accidente en Bazurto
+X103,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X103,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X103,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+X103,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X103,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X103,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X103,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X103,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X103,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X103,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X103,2023-06-13,4075,desvio,Transcaribe activa desvíos en las rutas X103 y C001 a la altura de Piedra de Bolívar
+X103,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+X103,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X103,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X103,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X103,2023-01-26,3746,,Las rutas X103 y C001 regresan a su recorrido habitual
+X103,2023-01-17,3736,paraderos desvio,"Por obras en Avenida del Consulado, desvíos en rutas X103 y C001 de Transcaribe"
+X103,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X103,2022-10-27,3622,paraderos desvio,"Desde este jueves, se activa desvío en la ruta X103 de Transcaribe"
+X103,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X103,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X103,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X103,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X103,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+X103,2021-07-03,1208,paraderos desvio,Transcaribe recuerda a usuarios que la ruta X101 activó un desvío temporal
+X103,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X103,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X103,2020-07-10,1126,paraderos horario,Rutas A109 y A111 tendrán nuevo horario
+X103,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X103,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X103,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X103,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X103,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X103,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X103,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+X103,2020-01-28,1086,,Transcaribe rechaza vandalismo en Zaragocilla
+X103,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X103,2019-09-30,1069,desvio,Comienzan obras en calle 30 del barrio Armenia
+X103,2019-05-11,1057,nueva_ruta tarifa,La A101 La Carolina – Portal ya está en su etapa comercial
+X103,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+X103,2019-02-28,1041,nueva_ruta tarifa,Arrancó la nueva ruta Nuevo Bosque – Santa Lucía
+X103,2019-02-23,1040,nueva_ruta tarifa,La ruta A108 Campestre- Santa Lucía ya está en su etapa comercial
+X103,2019-02-20,1039,paraderos nueva_ruta tarifa,Hoy arranca nueva ruta Santa Lucía – Campestre
+X104,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X104,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X104,2026-08-12,9878,horario,"Cartagena unida por Colombia: en el Patio Portal de TransCaribe, este jueves y viernes, se recibirán ayudas para afectados por el terremoto"
+X104,2026-05-14,8375,,¿Cómo llegar al Nuevo Chambacú? TransCaribe te lleva con cinco rutas disponibles
+X104,2026-03-03,8172,paraderos desvio,"TransCaribe recuerda a sus usuarios los desvíos activos en la Ruta X104, por obras en la avenida Pedro Romero"
+X104,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X104,2026-01-27,8099,paraderos desvio,TransCaribe activa desvío en la ruta X104
+X104,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X104,2025-10-09,7252,festivo,La fiesta es en Las Palmeras: TransCaribe te lleva al Preludio de la Localidad 2
+X104,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X104,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X104,2025-01-14,6507,paraderos desvio,Transcaribe activa desvío en la ruta X104 por obras en la Pedro Romero
+X104,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X104,2024-09-12,6151,horario,Conozca la historia de Wilmer: Un viaje de fe y esperanza con Transcaribe
+X104,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X104,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X104,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X104,2024-07-22,5771,,Transcaribe rechaza ataque vandálico a un busetón por parte de conductor de vehículo particular
+X104,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X104,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X104,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X104,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X104,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+X104,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X104,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X104,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X104,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X104,2022-10-27,3627,frecuencia,Transcaribe te escucha: el sistema de los cartageneros escuchó a usuarios y líderes comunales
+X104,2022-07-21,3479,paraderos desvio,Desvíos en rutas X104 y T102 de Transcaribe
+X104,2022-07-15,3470,desvio,Transcaribe activa nuevo desvío en la ruta X104
+X104,2022-06-08,3360,paraderos desvio,Desvíos en la ruta X104 de Transcaribe por obras en la Avenida Pedro Romero
+X104,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X104,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+X104,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X104,2022-01-25,3143,paraderos frecuencia,Transcaribe atiende inquietudes de usuarios de la ruta X101
+X104,2021-12-23,3065,paraderos frecuencia,Transcaribe en los barrios: El sistema escuchó a los usuarios de la ruta X104
+X104,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X104,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X104,2021-07-03,1208,paraderos desvio,Transcaribe recuerda a usuarios que la ruta X101 activó un desvío temporal
+X104,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X104,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+X104,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X104,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X104,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X104,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X104,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X104,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X104,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X104,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+X104,2020-02-06,1089,paraderos frecuencia,Transcaribe y Alcaldía Local 2 se unen para mejorar el servicio de transporte en la zona
+X104,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X104,2018-11-27,1035,paraderos nueva_ruta frecuencia festivo tarifa,Mañana se inician recorridos pedagógicos de la nueva ruta de Transcaribe X102 Portal – Bosque – Centro
+X104,2018-10-02,1032,paraderos tarifa,Entre la noche del lunes y hoy se cometieron tres actos de vandalismo
+X105,2026-10-14,10180,,Dale vía a la vida: TransCaribe lanzó la decimoprimera edición del Mes de la seguridad vial
+X105,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X105,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X105,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X105,2025-12-05,7520,tarifa,Comunicado de TransCaribe sobre protesta de algunos operadores
+X105,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X105,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X105,2025-04-24,6862,paraderos desvio,"Por obras de mejoramiento vial, activan desvío en Ruta X105 de Transcaribe"
+X105,2025-03-28,6808,desvio,"Transcaribe activa desvíos en sus rutas C001 y X105, por obras de mejoramiento vial"
+X105,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X105,2025-01-15,6519,paraderos desvio,Transcaribe tiene activos desvíos en sus rutas X102 y X105
+X105,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+X105,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X105,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+X105,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X105,2024-08-06,6091,paraderos nueva_ruta,"Diciendo y haciendo: Torices, Paseo Bolívar y sectores aledaños ya tienen ruta de Transcaribe"
+X105,2024-08-02,6077,paraderos nueva_ruta,Tu sistema sigue avanzando: Ruta C018 Bodeguita – Torices de Transcaribe inicia operación este 6 de agosto
+X105,2024-07-22,5771,,Transcaribe rechaza ataque vandálico a un busetón por parte de conductor de vehículo particular
+X105,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X105,2024-04-23,5524,,Transcaribe alerta sobre el aumento de actos vandálicos en el transporte público de Cartagena
+X105,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X105,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X105,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X105,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X105,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X105,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X105,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X105,2022-10-01,3604,tarifa,Comunicado de Transcaribe sobre accidente en San Fernando
+X105,2022-09-23,3589,paraderos horario tarifa,¿Dónde recargar tu tarjeta Transcaribe en Bocagrande?
+X105,2022-06-22,3396,paraderos,"Rutas X102, X105 y C001 de Transcaribe retoman recorridos habituales"
+X105,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X105,2022-05-11,3303,paraderos,"Normalizamos el recorrido de las rutas X102, X105 y C001"
+X105,2022-05-10,3298,paraderos desvio,¿Conoces los desvíos que implementó Transcaribe en El Bosque?
+X105,2022-05-07,3295,paraderos desvio,Transcaribe activa desvíos en tres rutas en el barrio El Bosque
+X105,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X105,2022-02-23,3201,desvio,Intervenciones en vías de Cartagena provocan retrasos en nuestra operación
+X105,2022-02-21,3186,tarifa,Conato de incendio en bus de Transcaribe no dejó heridos
+X105,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X105,2021-11-19,2944,horario frecuencia festivo tarifa,Transcaribe aplica mejoras en su operación para los domingos y festivos
+X105,2021-11-17,2934,nueva_ruta horario festivo tarifa,"“Así Avanza Transca”, un reporte a la ciudadanía del estado actual de Transcaribe"
+X105,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+X105,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X105,2021-08-14,1215,paraderos,Veolia y Transcaribe lanzan campaña “Mi avenida Limpia”
+X105,2021-03-31,1187,horario,Transcaribe continúa operación de manera gratuita durante este 1 de abril
+X105,2021-03-19,1178,paraderos desvio,"Desde este sábado, desvíos temporales en las rutas A103 y A104 de Transcaribe"
+X105,2021-03-04,1174,desvio,Transcaribe rehabilita la carrera 83 en el barrio Ciudadela 2000
+X105,2021-01-26,1162,paraderos desvio,Cambios en el recorrido de la ruta X105 de Transcaribe
+X105,2020-12-29,1157,,Se reaperturan tres vías intervenidas por Transcaribe
+X105,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X105,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+X105,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X105,2020-07-21,1129,frecuencia,Transcaribe aumenta a un 55 % su oferta disponible para los usuarios
+X105,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X105,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X105,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X105,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X105,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X105,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X105,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X105,2019-03-15,1043,desvio nueva_ruta horario tarifa,A paso firme avanza la implementación de Transcaribe
+X106,2026-11-09,10211,desvio horario festivo,Estos son los cambios en la operación de TransCaribe durante las Fiestas de la Independencia
+X106,2026-10-09,10176,paraderos desvio,"Atención: estos serán los cambios en las rutas de TransCaribe el fin de semana, por el Gran Fondo Nairo Fest"
+X106,2026-09-03,10070,paraderos desvio horario,"Este domingo, TransCaribe activa desvíos por el Ironman 5i50: programe sus viajes con antelación"
+X106,2026-04-08,8284,desvio,"TransCaribe te lleva a la Copa Libertadores: el sistema aumenta su cobertura en la estación Villa Olímpica, para Junior-Palmeiras"
+X106,2026-03-18,8178,,Comunicado de TransCaribe sobre accidente con fatalidad en cercanías a la cárcel de Ternera
+X106,2026-02-20,8165,paraderos desvio horario,"Programe sus viajes: TransCaribe tendrá desvíos este domingo 22 de febrero, por la Media Maratón del Mar"
+X106,2025-11-28,7421,paraderos desvio,"Este domingo, TransCaribe activará desvíos por la realización del Ironman 70.3"
+X106,2025-11-08,7365,desvio horario festivo,Así será la operación de TransCaribe durante las Fiestas de la Independencia
+X106,2025-10-27,7316,paraderos nueva_ruta horario,“Esta nueva ruta nos cambia la vida al cien”: Ciudadela de la Paz ya cuenta con cobertura de TransCaribe
+X106,2025-10-24,7309,paraderos nueva_ruta horario,"Tu sistema avanza: TransCaribe pone en operación, desde este lunes, nueva ruta a Ciudadela de la Paz"
+X106,2025-10-10,7284,festivo,TransCaribe te lleva al concierto de Silvestre Dangond: cuatro rutas harán paradas en la estación Villa Olímpica
+X106,2025-09-19,7203,,"TransCaribe Kids: los niños, ejemplo de amor y sentido de pertenencia por el sistema de los cartageneros"
+X106,2025-09-05,7169,paraderos desvio,"Estos serán los cambios en TransCaribe este domingo 7 de septiembre, por la realización del Triatlón 5150"
+X106,2025-08-14,7051,paraderos desvio,"Estos serán los cambios en la operación de Transcaribe, por el Reto Movistar Cartagena"
+X106,2025-05-29,6923,desvio,¡Todos al Morón en Transcaribe! Cuatro rutas harán paradas en la estación Villa Olímpica
+X106,2025-04-11,6841,horario festivo,Así operará Transcaribe durante la Semana Santa
+X106,2025-03-27,6805,desvio,Transcaribe te lleva al Sudamericano sub-17: así operarán las rutas del sistema
+X106,2025-03-21,6755,desvio festivo,Transcaribe te lleva al Festival de Música del Caribe: el sistema mejora su oferta en Villa Olímpica
+X106,2025-02-14,6582,paraderos desvio horario,"Transcaribe activará desvíos por la Media Maratón del Mar, este domingo"
+X106,2024-12-31,6502,paraderos desvio horario festivo,Así operará Transcaribe este 31 de diciembre y 1 de enero: se activarán algunos desvíos
+X106,2024-11-28,6305,paraderos desvio horario,"Conozca los desvíos de Transcaribe, este domingo, por el Ironman 70.3"
+X106,2024-11-05,6240,desvio horario festivo,Así operará Transcaribe durante las Fiestas de la Independencia de Cartagena
+X106,2024-10-11,6209,nueva_ruta,Tu sistema sigue avanzando: Transcaribe mejora distribución de paradas y cobertura en algunas estaciones
+X106,2024-09-12,6148,paraderos desvio,"Desvíos en Transcaribe, este domingo, por el Ironman 5150"
+X106,2024-08-15,6116,paraderos desvio,"Estos serán los desvíos en Transcaribe este domingo, por el Reto Movistar"
+X106,2024-06-28,5704,desvio horario,Transcaribe te conecta a los mejores eventos de tu ciudad
+X106,2024-05-31,5653,paraderos desvio,Transcaribe activará desvíos en la noche del 1 de junio
+X106,2024-05-27,5624,horario,"La ruta del ascenso: Transcaribe acompaña a los hinchas de Real Cartagena, este martes, con una operación fortalecida"
+X106,2024-05-22,5612,desvio horario,"En la ruta del ascenso: Transcaribe fortalece su operación este viernes, para Real Cartagena vs Tigres FC"
+X106,2024-02-16,5319,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X106,2023-12-02,4515,paraderos desvio horario,"Este domingo, Transcaribe activa desvíos por Ironman 70.3"
+X106,2023-09-15,4439,paraderos desvio,"Este domingo, Transcaribe activa desvíos por Ironman"
+X106,2023-05-04,3955,tarifa,+ Conectados: Transcaribe mejora los recorridos de dos rutas
+X106,2023-03-01,4000,paraderos horario frecuencia tarifa,Así operará Transcaribe este jueves 2 de marzo de 2023
+X106,2023-03-01,3772,paraderos desvio horario frecuencia tarifa,Transcaribe no para: el sistema prepara plan de contingencia ante amenaza de suspensión del recaudo
+X106,2023-02-10,3761,paraderos desvio horario,"Este domingo, desvíos en Transcaribe por la Media Maratón del Mar"
+X106,2022-12-01,3712,paraderos desvio horario,"Novedades en la operación de Transcaribe por el IRONMAN, este 4 de diciembre"
+X106,2022-06-03,3357,desvio horario,Desvíos en Transcaribe este domingo por la Media Maratón del Mar
+X106,2022-04-29,3276,desvio,Así operará Transcaribe este 1 de mayo
+X106,2022-03-25,3262,horario frecuencia tarifa,Transcaribe amplía el horario de la ruta T100E los sábados
+X106,2022-01-25,3143,paraderos frecuencia,Transcaribe atiende inquietudes de usuarios de la ruta X101
+X106,2021-12-07,3055,paraderos desvio,"Transcaribe anuncia cambios en la operación este domingo, por IRONMAN 70.3"
+X106,2021-11-12,2927,frecuencia,Transcaribe implementa mejoras en la operación de los sábados
+X106,2021-10-15,2906,desvio nueva_ruta horario tarifa,"Desde este martes, Transcaribe amplía sus horarios"
+X106,2021-09-22,862,frecuencia tarifa,"Transcaribe escucha a sus usuarios, e implementa mejoras operacionales en sus servicios"
+X106,2021-08-24,1218,desvio horario,Transcaribe adopta estrategias frente a posibles afectaciones por obras en malla vial
+X106,2020-09-07,1137,desvio horario,Transcaribe extendió una hora más el servicio desde el lunes 31 de agosto
+X106,2020-09-07,1136,desvio horario tarifa,Transcaribe en los cinco meses de aislamiento y prestación de servicio continuo
+X106,2020-08-24,1134,desvio horario,Transcaribe extiende su horario una hora
+X106,2020-05-08,1118,horario frecuencia,Así operará Transcaribe este fin de semana 9 y 10 de mayo
+X106,2020-04-30,1116,horario frecuencia,Así operará Transcaribe en los días de toque de queda
+X106,2020-04-25,1115,horario frecuencia,Transcaribe ampliará oferta desde este lunes 27 de abril
+X106,2020-03-30,1107,horario frecuencia,Transcaribe operará en confinamiento obligatorio nacional
+X106,2020-03-23,1105,horario frecuencia,Transcaribe continuará operación esta semana
+X106,2020-03-21,1103,horario,Transcaribe operará durante el toque de queda del fin de semana
+X106,2020-03-12,1095,horario,Samir: el hombre de las filas en Transcaribe
+X106,2019-11-26,1078,desvio horario,Así operará Transcaribe este 27 de noviembre por manifestaciones
+X106,2019-05-11,1057,nueva_ruta tarifa,La A101 La Carolina – Portal ya está en su etapa comercial
+X106,2017-02-06,967,paraderos nueva_ruta horario tarifa,Alcalde de Cartagena dio inicio a nueva ruta de Transcaribe a Turbaco

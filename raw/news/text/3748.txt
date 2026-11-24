@@ -1,0 +1,17 @@
+Desde este 2 de febrero, a la venta un nuevo lote de cien mil tarjetas Transcaribe
+2023-02-01 (modified 2023-02-01)
+https://transcaribe.gov.co/index.php/noticia/desde-este-2-de-febrero-a-la-venta-un-nuevo-lote-de-cien-mil-tarjetas-transcaribe/
+
+Un nuevo lote de 100.000 tarjetas Transcaribe se pondrá a la venta este jueves 2 de febrero en las taquillas de las estaciones del sistema. La próxima semana, las tarjetas también estarán disponibles en los puntos externos de recarga.
+
+Las tarjetas presentan un nuevo diseño en el que se resalta puntos emblemáticos de la ciudad como el Muelle de la Bodeguita y la Torre del Reloj, acompañados de los buses del sistema de los cartageneros, con la frase “Yo quiero a Cartagena”, que busca despertar el sentido de pertenencia por la ciudad y su sistema.
+
+Transcaribe presentaba escasez de tarjetas debido a una crisis mundial de los insumos con que son fabricadas, situación que ha afectado también a otros sistemas de transporte masivo en el país. En agosto de 2022 había llegado un primer lote de quince mil tarjetas que se puso a la venta.
+
+El valor de las tarjetas será el mismo que se estableció en agosto pasado, seis mil pesos ($6.000).
+
+Desde el sistema, invitamos a nuestros usuarios a cuidar su tarjeta Transcaribe para garantizar su durabilidad. Algunos consejos para esto son: guardarla en un lugar seguro, donde no se pueda doblar ni quebrar; evitar escribir sobre ella, rasparla, cortarla, plastificarla, o ponerla cerca de objetos que generen calor, pues esto podría dañar el chip; no ponerla dentro de la billetera contra cierres metálicos o monedas.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-17.30.44.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fdesde-este-2-de-febrero-a-la-venta-un-nuevo-lote-de-cien-mil-tarjetas-transcaribe%2F

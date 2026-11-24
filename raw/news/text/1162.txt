@@ -1,0 +1,14 @@
+Cambios en el recorrido de la ruta X105 de Transcaribe
+2021-01-26 (modified 2021-01-26)
+https://transcaribe.gov.co/index.php/noticia/cambios-en-el-recorrido-de-la-ruta-x105-de-transcaribe/
+
+Por obras a cargo de Aguas de Cartagena en Ciudadela 2000.
+
+Debido a trabajos adelantados por Aguas de Cartagena para el cambio de la tubería del alcantarillado de la carrera 83 del barrio Ciudadela 2000, Transcaribe informa que la ruta X105 sufrió una variación en su recorrido.
+
+Los vehículos de esta ruta, en sentido Centro – Ciudadela 2000, llegarán hasta la tienda “El Tope”, donde girarán a mano izquierda hasta encontrar la tienda y terraza “Codazzi”. Luego tomarán la calle 24 hasta la siguiente esquina, llegando a la carrera 81C, para girar a la izquierda y retomar su habitual recorrido.
+
+Debido a este desvío temporal, la ruta X105 dejará de cubrir los paraderos ubicados en el Colegio Ciudadela 2000, La Algodonera y el estadio de sóftbol. Transcaribe lamenta los inconvenientes que esta situación pueda causar a sus usuarios, y ratifica su compromiso de trabajar día a día por un mejor servicio para los cartageneros.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fcambios-en-el-recorrido-de-la-ruta-x105-de-transcaribe%2F

@@ -1,0 +1,31 @@
+Transcaribe aclara: saldos no se han perdido, ni han sido robados
+2024-01-11 (modified 2024-01-11)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-aclara-saldos-no-se-han-perdido-ni-han-sido-robados/
+
+El sistema ha llevado la mayoría de tarjetas que tenían saldo negativo a cero.
+
+Sólo el 0,4% de tarjetas activas presentan algún inconveniente con saldos.
+
+Usuarios pueden recibir solución en el CAU de Patio Portal.
+
+En atención a algunas informaciones, Transcaribe se permite aclarar que los saldos de los usuarios que han presentado inconsistencias luego de la transición con el sistema de recaudo, no se han perdido, y es falso que el sistema les haya robado esos saldos a los usuarios.
+
+Como hemos explicado anteriormente, fallas en la transmisión oportuna de la información debido a problemas de conectividad con el sistema de recaudo, permitieron que, incorrectamente, algunos usuarios pudieran acceder al servicio sin descontar el saldo en el momento de su acceso, lo que provocó que, posteriormente, se presentaran saldos negativos en sus cuentas.
+
+Transcaribe, en el entendido de que esos movimientos que generaron saldos negativos sí existieron, buscando minimizar los traumatismos a nuestros usuarios, decidió restablecer estos saldos, a través de un protocolo definido con su nuevo operador de recaudo. Este protocolo ya se ha aplicado en la mayoría de los casos.
+
+A día de hoy, toda vez que el sistema de recaudo por estar basado en tecnología ABT, depende de la conectividad, es posible que se sigan presentando algunas situaciones de este tipo. En específico, el 0,4% de las tarjetas activas presentan aún saldos negativos.
+
+Ver esta publicación en Instagram
+
+Una publicación compartida por Transcaribe S.A. (@transcaribecartagena)
+
+Ante esto, invitamos a los usuarios que manifiestan tener inconsistencias, a registrarse y registrar sus tarjetas en el Portal del Usuario, ingresando a www.transcaribe.gov.co y siguiendo los pasos. A través del Portal del Usuario, podrán conocer y contrastar sus movimientos y sus recargas.
+
+Si persisten las inconsistencias, invitamos a estos usuarios a acercarse al Centro de Atención al Usuario CAU, ubicado en la entrada principal de Patio Portal, donde nuestro equipo está preparado para brindarles solución a esta situación.
+
+En los próximos días, Transcaribe habilitará nuevos puntos complementarios de atención al usuario, en zonas estratégicas a lo largo de la ciudad, para facilitar el acceso de los ciudadanos a la atención.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-11-at-15.38.41.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-aclara-saldos-no-se-han-perdido-ni-han-sido-robados%2F

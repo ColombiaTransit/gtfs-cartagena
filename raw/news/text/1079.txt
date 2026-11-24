@@ -1,0 +1,14 @@
+Novedades en el Manual del Usuario de Transcaribe
+2019-12-10 (modified 2019-12-10)
+https://transcaribe.gov.co/index.php/noticia/novedades-en-el-manual-del-usuario-de-transcaribe/
+
+A través de la Resolución 173, expedida el 9 de diciembre de 2019, se realizaron modificaciones en el capítulo 3 ‘Deberes del Usuario’ del Manual del Usuario de Transcaribe. Esta derogó la Resolución 129 del 17 julio de 2015 con la cual se adopta el Reglamento de Usuarios del Sistema de Transporte Masivo de Pasajeros de Cartagena y su área de influencia, SITM Transcaribe S.A.
+
+Se agregó un parágrafo en el capítulo 3 donde se especifica que “las recargas, tendrán una vigencia máxima de un año (12 meses) de forma continua. Una vez se cumpla este término, los saldos con que cuenten las tarjetas, independientemente de que esta haya sido o no personalizada, no podrán ser utilizados, recuperados por el usuario”.
+
+Los saldos de las tarjetas serán trasladados al fondo de contingencias del SITM. Esto también da cumplimiento a lo establecido contractualmente con los concesionarios.
+
+Adicionalmente, el Concesionario de Recaudo (Colcard) incluirá en las nuevas tarjetas esta leyenda, con el fin de publicitar esta cláusula y que su portador y/o titular conozca que debe usar su saldo antes de un año (12 meses) de forma continua.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fnovedades-en-el-manual-del-usuario-de-transcaribe%2F

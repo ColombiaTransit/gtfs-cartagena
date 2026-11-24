@@ -1,0 +1,23 @@
+Tarjetas Transcaribe, nuevamente a la venta en estaciones
+2022-08-01 (modified 2022-08-01)
+https://transcaribe.gov.co/index.php/noticia/tarjetas-transcaribe-nuevamente-a-la-venta-en-estaciones/
+
+Un lote de 15.000 nuevas tarjetas fue puesto a la venta este lunes, tras una escasez mundial que ha afectado a varios sistemas en el país.
+
+Un nuevo lote de quince mil tarjetas Transcaribe llegó a la ciudad, y está a la venta desde este lunes en las taquillas de las estaciones del sistema. En el transcurso de la semana, estarán disponibles también en los puntos externos de recarga.
+
+Desde hace algunos meses, Transcaribe presentaba escasez de tarjetas debido a una crisis mundial de los insumos con que son fabricadas, situación que ha afectado también a otros sistemas de transporte masivo en el país.
+
+Estas nuevas tarjetas podrán ser adquiridas por los usuarios del sistema de todos los cartageneros por un valor de seis mil pesos ($6.000).
+
+El costo de las tarjetas sufrió un incremento debido a la escasez y el aumento de precios de los insumos con los que se fabrican, la sobredemanda de estos elementos, la falta de disponibilidad de proveedores, y el elevado precio del dólar. Hoy, el sistema debe pagar a sus proveedores $5734,61 (IVA incluido) por cada una de las tarjetas adquiridas.
+
+De acuerdo a la normativa vigente, el 80% de los $265,39 de utilidad que recibe Transcaribe por cada tarjeta vendida, ingresa al Fondo de Mantenimiento y Expansión del Sistema – FMES, con el cual se podrán financiar obras de rehabilitación de la infraestructura del sistema.
+
+El restante 20% se destina al fondo de respaldo para viajes a créditos, el cual está inactivo, pero se podría activar en la medida en que los usuarios que lo utilizaron en el pasado, vuelvan a recargar sus tarjetas, y se pongan al día.
+
+En las próximas semanas, un nuevo lote de 100.000 mil tarjetas Transcaribe llegará a la ciudad y se pondrá en distribución, con el cual se podrá asegurar la disponibilidad permanente.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/08/photo_2022-08-01_08-24-25.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftarjetas-transcaribe-nuevamente-a-la-venta-en-estaciones%2F

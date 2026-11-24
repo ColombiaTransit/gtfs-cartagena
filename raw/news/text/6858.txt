@@ -1,0 +1,33 @@
+Transcaribe lanza oficialmente su aplicación «MiBus Transcaribe» para dispositivos iOS y Android
+2025-04-24 (modified 2025-04-24)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-lanza-oficialmente-su-aplicacion-mibus-transcaribe-para-dispositivos-ios-y-android/
+
+La herramienta tecnológica permitirá a los usuarios planificar sus viajes, y conocer en tiempo real la ubicación de los buses y sus tiempos de espera.
+
+Transcaribe presenta a la ciudadanía su nueva app MiBus Transcaribe, una solución tecnológica inteligente que mejorará la experiencia de los usuarios del sistema de los cartageneros. La app ya está disponible en las tiendas de aplicaciones, para dispositivos Android y iOS.
+
+Este desarrollo tecnológico permitirá a Transcaribe ofrecerle a sus usuarios información en tiempo real sobre la operación, las rutas y la ubicación y tiempos de espera de sus vehículos.
+
+Los usuarios podrán, activando la georeferenciación, identificar las paradas más cercanas a su ubicación, y conocer en cuánto tiempo llegará el bus que está esperando. Además, podrá conocer en tiempo real la ubicación de los buses.
+
+La app MiBus Transcaribe también permite identificar los recorridos y paraderos de cada una de las rutas del sistema, y consultar el saldo y todos los movimientos de su tarjeta.
+
+Ver esta publicación en Instagram
+
+Una publicación compartida por Transcaribe S.A. (@transcaribecartagena)
+
+Además, con la funcionalidad “Planifica tu viaje”, el usuario podrá introducir sus lugares de origen y destino, y la aplicación le ofrecerá las opciones de recorrido que más le convengan, especificándole rutas, transbordos y tiempo.
+
+El usuario podrá seleccionar los paraderos que más frecuentemente utiliza, y agregarlos como favoritos, para acceder a ellos de manera más rápida, y conocer así los tiempos de espera para esas ubicaciones.
+
+“Estamos muy contentos de poder presentarle a todos los cartageneros esta aplicación, la cual sin dudas ayudará a mejorar la experiencia de todos nuestros usuarios. Este es otro paso más en el proceso de modernización y fortalecimiento de Transcaribe, liderado por nuestro alcalde Dumek Turbay Paz, quien ha dejado claro que una de sus prioridades de gobierno es brindarle a la ciudad el sistema de transporte masivo que merece”, explicó la gerente de Transcaribe, Ercilia Barrios Flórez.
+
+El lanzamiento de la aplicación MiBus Transcaribe se suma a la reciente incorporación de cerca de 2.000 nuevos puntos externos de recarga en la ciudad y los municipios del departamento de Bolívar, gracias a la alianza con SuperGiros, a través de la cual también se lanzará, próximamente, una herramienta que permitirá la recarga en línea de tarjetas.
+
+Enlace de descarga para iOS: https://apps.apple.com/co/app/mibus-transcaribe/id6740913227
+
+Enlace de descarga para Android: https://play.google.com/store/apps/details?id=br.com.m2m.meuonibus.transcaribe
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2025/04/MEDIDOR-70.jpg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-lanza-oficialmente-su-aplicacion-mibus-transcaribe-para-dispositivos-ios-y-android%2F

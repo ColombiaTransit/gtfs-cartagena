@@ -1,0 +1,17 @@
+Personalización y activación de tarjetas Transcaribe en estación Centro
+2023-02-06 (modified 2023-02-21)
+https://transcaribe.gov.co/index.php/noticia/personalizacion-y-activacion-de-tarjetas-transcaribe-en-estacion-centro/
+
+Las jornadas se realizarán desde el martes 7 al jueves 9 de febrero, entre 1:30 p.m. y 7:00 p.m.
+
+El martes 7, miércoles 8 y jueves 9 de febrero, Transcaribe realizará jornadas de personalización y activación de tarjetas en el vagón uno de la estación Centro del sistema. Las jornadas se realizarán los tres días, entre 1:30 de la tarde y 7:00 de la noche.
+
+Ni la personalización ni la activación tienen costo alguno. Para la personalización es necesario presentar la tarjeta en buen estado, el documento de identidad y llenar el formulario que entregará el personal a cargo de la jornada.
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, también podrán llevarlas para que sean reactivadas.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-21-at-09.23.14.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fpersonalizacion-y-activacion-de-tarjetas-transcaribe-en-estacion-centro%2F

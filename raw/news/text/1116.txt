@@ -1,0 +1,40 @@
+Así operará Transcaribe en los días de toque de queda
+2020-04-30 (modified 2020-04-30)
+https://transcaribe.gov.co/index.php/noticia/asi-operara-transcaribe-en-los-dias-de-toque-de-queda/
+
+De acuerdo con la medida distrital de toque de queda, el Sistema Integrado de Transporte Masivo -Transcaribe- informa su operación para los días establecidos con esta medida: viernes 1 de mayo y domingo 3 de mayo.
+
+1. El sistema funcionará de 6 a. m. a 7 p. m.
+
+1. 1. La T103 Portal – Bocagrande operará como paradora (se detiene en todas las estaciones), desde las 6 a. m. hasta las 5 p. m. (saliendo de Patio Portal) con intervalos de una hora.
+
+1.2. Las rutas pretroncales (X101, X102, X103, X104, X105, X106) saldrán de su origen: Huellas de Alberto Uribe, Patio Portal, Variante, Terminal de Transporte y Ciudadela 2000 a las 6 a. m., 1 p. m. Y 5 p. m.
+
+1.3. La ruta T102 Portal Crespo operará desde Patio Portal en los siguientes horarios: 6 a. m., 1 p. m., y 5:00 p. m.
+
+1.4. Las rutas alimentadoras (A101, A102, A103, A104, A105, A107, A108, A109, A111, A114, A117 y C001) saldrán desde estación Santa Lucía y/o Patio Portal en el horario de: 6 a. m, 7 a. m., 12 m., 1 p. m., 6 p. m. y 7 p. m.
+
+Adicional a esto, el sistema modifica su horario para el *sábado 2 de mayo*, como operaba antes del 27 de abril y en medio del aislamiento preventivo, así:
+
+• La ruta *solo troncal* será T101 y funcionará como paradora (hará parada en todas las estaciones), con tres franjas horarias de 6 a 7:30 a. m.; 12 m. a 1:30 p. m.; y de 4 a 5 p. m., con intervalos de media hora.
+
+*Sus horarios:* 6 a. m./ 6:30 a. m./ 7 a. m./ 7:30 a. m./ 12 m./ 12:30 p. m./ 1 p. m./ 1:30 p. m./ 4 p. m./ 4:30 p. m./ 5 p. m. (este último servicio retornaría a Patio cerca de las 6:45 p. m.)
+
+• La T103 Portal – Bocagrande también será paradora, con operación desde las 6 a. m. hasta las 5 p. m., con intervalos de media hora entre las franjas de 6 a 7:30 a. m.; de 12 m. m. a 2 p. m. y de 4 a 5 p. m. Entre las 8 y 12 será de una hora el intervalo, al igual que de 2 a 4 p. m.
+
+*Sus horarios:* 6 a. m./ 6:30 a. m./ 7 a. m./ 7:30 a. m./ 8 a. m./ 9 a. m./ 10 a. m./ 11 a. m./ 12 m./ 12:30 p. m./ 1 p. m./ 1:30 p. m./ 2 p. m./ 3 p. m./ 4 p. m./ 4:30 p. m./ 5 p. m.
+
+• La ruta T102 Portal – Crespo operará en tres franjas horarias, con intervalos de media hora, de esta manera: 6 a. m./ 6:30 a. m./ 7 a. m./ 7:30 a. m./ 1 p. m./ 1:30 p. m./ 4:30 p. m./5 p. m.
+
+• Las rutas pretroncales (X101, X102, X103, X104, X105, X106) funcionarán en tres servicios con horarios determinados así: 6 a. m., 1 p. m. y 5 p. m.
+
+Los últimos servicios de estas rutas retornarían a su origen (Huellas de Alberto Uribe, Patio Portal, Variante, Terminal de Transporte y Ciudadela 2000) entre 6:30 p. m. y 7 p. m.
+
+• La ruta alimentadora A101 La Carolina – Portal circulará desde las 6 a. m. hasta las 7 p. m., continuamente, con un intervalo de una hora.
+
+• Las rutas alimentadoras A102, A103, A104, A105, A108, A109, A111 y la ruta complementaria C001 Ciudadela 2000 – Manga – Centro operarán en tres franjas horarias así: 6 a. m./7 a. m./ 12 m./ 1 p. m./ 6 p. m. y 7 p. m.
+
+• Las rutas alimentadoras A114 Flor del Campo – Portal y A117 Pozón – Villa Estrella – Portal funcionarán de la siguiente forma: 6 a. m./ 6:30 a. m./ 7 a. m./ 7:30 a. m./ 12 m./ 12:30 p. m./ 1 p. m./ 1:30 p. m./ 6 p. m./ 6:30 p. m. y 7 p. m.
+
+Images:
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fasi-operara-transcaribe-en-los-dias-de-toque-de-queda%2F

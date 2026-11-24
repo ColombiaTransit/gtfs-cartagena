@@ -1,0 +1,23 @@
+Transcaribe avanza en la sincronización del nuevo sistema de recaudo
+2023-12-21 (modified 2023-12-21)
+https://transcaribe.gov.co/index.php/noticia/transcaribe-avanza-en-la-sincronizacion-del-nuevo-sistema-de-recaudo/
+
+Sigue adelante la fase de adaptación del nuevo sistema de recaudo de Transcaribe, y se lograron superar las inconsistencias en la sincronización.
+
+Desde el 8 de diciembre pasado, con la instalación de nuevos equipos en vehículos y estaciones, Transcaribe dio inicio a la fase de adaptación del nuevo sistema de recaudo, con la que se pasó de utilizar tecnología basada en medio (stored value) a la de ABT (Account Based Ticketing), tecnología a la vanguardia internacional, en la cual la información de saldos y viajes están en una cuenta en la nube, y no en el medio físico de pago.
+
+Con dicho cambio, se generaron algunas diferencias que se establecen dentro del margen de error de este tipo de procedimientos, que impactaron a cerca del 4% de las tarjetas activas.
+
+Luego de un trabajo conjunto, que implicó diferentes acciones a nivel tecnológico, de infraestructura, y de desarrollos, hemos logrado normalizar estas diferencias, y avanzar en la transmisión oportuna de la información de los validadores de buses y estaciones.
+
+Superado este reto, los usuarios que se vieron afectados dentro de este margen de error, ya tendrán normalizada la situación de sus movimientos y sus saldos, sin inconsistencias.
+
+Además de esto, en las próximas horas, Transcaribe habilitará una plataforma a través de la cual los usuarios podrán conocer y gestionar sus tarjetas y saldos, y tener el control y la información de sus viajes. Esta plataforma está en la fase de prueba, y una vez esté activada, el sistema iniciará la fase de socialización y pedagogía de la misma con los usuarios.
+
+Una vez concluida la fase de adaptación del nuevo sistema de recaudo, se iniciará la fase de optimización, en la que, gradualmente, los usuarios podrán comenzar a utilizar nuevas ventajas que el sistema ABT traerá, como la implementación de nuevos medios de acceso al sistema y la diversificación de las alternativas de recarga, así como el monitoreo en tiempo real de las rutas.
+
+Desde Transcaribe, lamentamos cualquier afectación que hayan tenido nuestros usuarios, y reiteramos que, para el reporte de cualquier novedad o inquietud relacionada con este tema, los ciudadanos podrán comunicarse al correo electrónico atencionalusuario@transcaribe.gov.co, o podrán acercarse desde este viernes al renovado Centro de Atención al Usuario CAU, ubicado en la entrada peatonal de Patio Portal.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-21-at-07.44.13.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Ftranscaribe-avanza-en-la-sincronizacion-del-nuevo-sistema-de-recaudo%2F

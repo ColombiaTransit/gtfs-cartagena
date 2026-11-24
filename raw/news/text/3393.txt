@@ -1,0 +1,19 @@
+Personalización de tarjetas Transcaribe, en estación Castellana
+2022-06-21 (modified 2022-06-21)
+https://transcaribe.gov.co/index.php/noticia/personalizacion-de-tarjetas-transcaribe-en-estacion-castellana/
+
+Este miércoles 22 y jueves 23 de junio, entre 1:30 p.m. y 7:00 p.m.
+
+Este miércoles 22 y jueves 23 de junio de 2022, Transcaribe adelantará jornadas de personalización de tarjetas Transcaribe en la estación Castellana del sistema de todos los cartageneros. Usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, podrán llevarlas para que sean reactivadas.
+
+La jornada se realizará ambos días entre la 1:30 de la tarde y las 7:00 de la noche, en la taquilla de la estación Castellana. El usuario debe acercarse a dicha taquilla, y solicitar la personalización o activación de su tarjeta, sin ningún costo.
+
+Para acceder a este servicio, únicamente se debe llevar la tarjeta Transcaribe, el documento de identidad, y diligenciar el formulario que entregará el personal del concesionario de recaudo.
+
+Con la tarjeta Transcaribe personalizada, se puede acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+La próxima semana, las jornadas de personalización se trasladarán a la estación Centro.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-21-at-5.36.22-PM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Fpersonalizacion-de-tarjetas-transcaribe-en-estacion-castellana%2F

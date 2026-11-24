@@ -1,0 +1,21 @@
+Esta semana, personalización de tarjetas en el Patio Portal de Transcaribe
+2022-09-28 (modified 2022-09-28)
+https://transcaribe.gov.co/index.php/noticia/esta-semana-personalizacion-de-tarjetas-en-el-patio-portal-de-transcaribe/
+
+El miércoles 28 en la mañana, y el jueves 29 en la tarde, se realizarán las jornadas.
+
+Las jornadas de personalización y activación de tarjetas Transcaribe se trasladan a las plataformas del Patio Portal, este miércoles 28 y jueves 29 de septiembre.
+
+El miércoles 28 de septiembre, la jornada se realizará en la Plataforma Alta del Patio Portal, punto de abordaje de las rutas troncales y pretroncales, entre las 6:30 a.m. y las 10:00 a.m.
+
+El jueves 29, el escenario de la jornada será la Plataforma Baja del Patio Portal, donde se despachan las rutas alimentadoras, entre las 4:00 p.m. y las 7:00 p.m.
+
+Los usuarios que tengan tarjetas inactivas o bloqueadas por falta de uso, podrán llevarlas para que sean reactivadas. Esta es una alternativa ante la escasez de estos elementos, debido a la crisis internacional de sus componentes.
+
+Ni la personalización ni la activación tienen costo alguno. Solo se debe llevar la tarjeta Transcaribe en buen estado y el documento de identidad, y diligenciar el formulario que entregará el personal del concesionario de recaudo.
+
+Con la tarjeta Transcaribe personalizada es posible acceder a la recarga en línea por PSE a través de la web www.colcard.com. Además, en caso de robo o pérdida, el saldo podrá ser recuperado y transferido a una nueva tarjeta, y con su número de cédula podrán tener el historial de sus viajes.
+
+Images:
+https://transcaribe.gov.co/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-28-at-6.27.57-AM.jpeg
+https://api.qrserver.com/v1/create-qr-code/?size=185x185&ecc=L&qzone=1&data=https%3A%2F%2Ftranscaribe.gov.co%2Findex.php%2Fnoticia%2Festa-semana-personalizacion-de-tarjetas-en-el-patio-portal-de-transcaribe%2F
