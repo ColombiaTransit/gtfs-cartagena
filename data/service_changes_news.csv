@@ -1,0 +1,45 @@
+start_date,end_date,routes,change,detail,source
+2024-12-31,2024-12-31,ALL,service_as,weekday; T100E 06:00-20:00; A102 05:00-22:00; C001 04:30-21:30,news:6502
+2024-12-31,2024-12-31,T100E T101 T102 T103 X101 X102 X103 X104 X105 X106 C001,detour,"from 19:30: no service at stations Centro and Bodeguita, stops Avenida Venezuela, Camellón de los Mártires, Parque de la Marina and some on Av. Santander; trunk routes turn at Puerto Duro (last stop Chambacú); C001 turns at Centro de Convenciones",news:6502
+2025-01-01,2025-01-01,ALL,service_as,sunday_holiday; C001 05:30-21:00,news:6502
+2025-01-01,2025-01-01,T100E A102 A111 C017 C018 X106-ext,route_suspended,,news:6502
+2025-04-14,2025-04-16,A111 C016,route_suspended,Semana Santa; rest weekday service,news:6841
+2025-04-17,2025-04-18,ALL,service_as,sunday_holiday (Jueves/Viernes Santo),news:6841
+2025-04-17,2025-04-18,A111 C016 T100E C017 C018 X106-ext,route_suspended,,news:6841
+2025-04-19,2025-04-19,A111 C016 C017 C018 X106-ext,route_suspended,saturday service; T100E until 13:00,news:6841
+2025-04-20,2025-04-20,A111 C016 T100E C017 C018 X106-ext,route_suspended,sunday service,news:6841
+2025-11-11,2025-11-11,ALL,service_as,saturday (día cívico Decreto 2151 de 2025); T100E until 13:00,news:7365
+2025-11-11,2025-11-11,A111 C017 C018 X106-ext,route_suspended,,news:7365
+2025-11-13,2025-11-13,ALL,service_as,saturday (día cívico); T100E until 13:00,news:7365
+2025-11-13,2025-11-13,A111 C017 C018 X106-ext,route_suspended,,news:7365
+2025-11-13,2025-11-13,T102,detour,"all day, Desfile de Independencia: via Carrera 17 and Puente Romero Aguirre; no service at Chambacú, Centro, Centro Histórico and Av. Santander stops",news:7390
+2025-11-14,2025-11-14,ALL,service_as,sunday_holiday (día cívico),news:7365
+2025-11-14,2025-11-14,A111 C017 C018 A102 T100E X106-ext,route_suspended,,news:7365
+2025-11-14,2025-11-15,C001,detour,"Avenida del Arsenal closed, Calle Larga reversed",news:7390
+2025-11-15,2025-11-15,ALL,service_as,saturday; T100E until 13:00,news:7365
+2025-11-15,2025-11-15,A111 C017 C018 X106-ext,route_suspended,,news:7365
+2025-11-16,2025-11-17,ALL,service_as,sunday_holiday,news:7365
+2025-11-16,2025-11-17,A111 C017 C018 A102 T100E X106-ext,route_suspended,,news:7365
+2025-11-25,,X103,detour,"long-running, Av. del Consulado works (Cra 40-41): skips Universidad de Cartagena, Parque Piedra de Bolívar, Cruz Roja, Amberes, Mitsubishi (to Centro) and Octaviana del C. Vives (to Portal); temporary stops at stations Cuatro Vientos, Líbano, España; end not announced",news:7410
+2025-11-30,2025-11-30,T101 T103 X101 X102 X103 X104 X105 X106,detour,"Ironman 70.3, 06:00-09:00: no service at Centro, Bodeguita and Bocagrande; temporary stop Puerto Duro",news:7421
+2026-01-27,,X104,detour,"long-running, Puente Matute works: via Cordialidad and Diagonal 32; skips Entrada Las Palmeras, Entrada Fredonia, Cementerio de Olaya, Olaya Playa Blanca, Olaya Estela, CC Olaya Plaza (ida) and CC Olaya Plaza, Olaya La Puntilla, Olaya Playa Blanca, Cementerio de Olaya, Entrada Fredonia, Entrada Nuevo Paraíso, Entrada Las Palmeras (vuelta); end estimated Aug 2026, not announced; route changed again 2026-03-03",news:8099
+2026-03-03,,X104,detour,"adjusted for Av. Pedro Romero works: via Transversal 53, Diagonal 32, Las Gaviotas and the trunk from Los Ejecutivos (to Centro); via Av. del Consulado, Diagonal 30 and Carrera 50 (to Terminal); end not announced",news:8172
+2026-02-22,2026-02-22,T101 X101 X102 X103 X104 X106 T102 T103 X105 C001,detour,"Media Maratón del Mar, until ~09:00: no service at Centro, Bodeguita and some Centro Histórico stops",news:8165
+2026-04-08,2026-04-08,X106,extra_stop,"stops at station Villa Olímpica from 17:00 to end of service (Copa Libertadores match)",news:8284
+2026-07-03,2026-07-03,EXTRA,extra_trip,"two express trips from Bodeguita at 22:30 and 22:45, stopping only at Centro, Villa Olímpica and Madre Bernarda (World Cup screening)",news:8701
+2026-08-03,,X103,detour,"vuelta only, Av. del Consulado works (Cra 60D-60): via Carrera 59 and Av. Pedro de Heredia; skips Camagüey, Conjunto Residencial Tacarigua, Paseo de la Castellana, Aguas de Cartagena, Piko Riko; about two months, end not announced",news:9319
+2026-09-05,2026-09-05,A114,detour,"05:30-07:30, Bicentenario: skips Ciudad de Bicentenario 1, Bicentenario Mz 79, Mz 75, Mz 35 Lt 1, Mz 7 Lt 1, Colegio Gabriel García Márquez, Flor del Campo Mz 1C Lt 4, Abastos Giraldo, Colombiatón Mz 3G Casa 470, Colegio Gustavo Pulecio Gómez",news:10080
+2026-09-06,2026-09-06,T101 T103 X101 X102 X103 X104 X105 X106 T102,detour,"Ironman 5i50, 05:30-12:00: no service at Centro, Bodeguita and Bocagrande (T103/X105 end at temporary stop Puerto Duro); T102 via Carrera 17 and Puente Romero Aguirre",news:10070
+2026-10-10,2026-10-11,T102,detour,"Gran Fondo Nairo Fest, both days from start of service: via Carrera 17 and Puente Romero Aguirre; no service at Centro, Chambacú, Centro Histórico, Av. Santander, Corales de Indias; Lo Amador last trunk stop",news:10176
+2026-10-10,2026-10-10,T100E T101 T103 X101 X102 X103 X104 X105 X106 C001,detour,"Gran Fondo Nairo Fest: no service in Bocagrande while roads are closed",news:10176
+2026-11-11,2026-11-11,ALL,service_as,"saturday (día cívico Decreto 0478 de 2026); T100E 06:00-13:00; A102 06:00-19:00; C001 05:00-21:30",news:10211
+2026-11-11,2026-11-11,A111 C017 C018 X106-ext,route_suspended,,news:10211
+2026-11-12,2026-11-12,ALL,service_as,"saturday (día cívico); T100E 06:00-13:00; A102 06:00-19:00; C001 05:00-21:30",news:10211
+2026-11-12,2026-11-12,A111 C017 C018 X106-ext,route_suspended,,news:10211
+2026-11-12,2026-11-12,T102,detour,"all day, Desfile de Independencia: via Carrera 17 and Puente Romero Aguirre; no service at Centro, Chambacú, Centro Histórico, Av. Santander, Corales de Indias; Lo Amador last trunk stop",news:10215
+2026-11-13,2026-11-13,ALL,service_as,"sunday_holiday (día cívico); feeders 05:30-21:30 (news says 9:30 a.m., a typo); C001 05:30-21:00",news:10211
+2026-11-13,2026-11-13,A111 C017 C018 A102 T100E X106-ext,route_suspended,,news:10211
+2026-11-14,2026-11-14,ALL,service_as,"saturday; T100E 06:00-13:00; A102 06:00-19:00; C001 05:00-21:30",news:10211
+2026-11-14,2026-11-14,A111 C017 C018 X106-ext,route_suspended,,news:10211
+2026-11-15,2026-11-16,ALL,service_as,sunday_holiday,news:10211
+2026-11-15,2026-11-16,A111 C017 C018 A102 T100E X106-ext,route_suspended,,news:10211

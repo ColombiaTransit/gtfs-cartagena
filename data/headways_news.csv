@@ -1,0 +1,25 @@
+route,day_type,start,end,headway_min,valid_from,source,note
+A102,weekday,05:00,06:00,15,2022-01-31,news:3147,
+A102,weekday,06:00,09:00,8,2022-01-31,news:3147,
+A102,weekday,09:00,12:00,13,2022-01-31,news:3147,
+A102,weekday,12:00,14:00,10,2022-01-31,news:3147,
+A102,weekday,14:00,16:00,13,2022-01-31,news:3147,"news says 2:00-5:00 p.m. overlapping the 4:00 p.m. peak; peak taken as 16:00-19:00"
+A102,weekday,16:00,19:00,8,2022-01-31,news:3147,
+A102,weekday,19:00,22:00,15,2022-01-31,news:3147,"news gives 7:00-10:00 p.m. while the same item says service ends 9:30 p.m."
+A101,weekday,peak,,6.5,2019-10-22,news:1073,"10 busetones; peak hours not given"
+A101,weekday,valley,,12,2019-10-22,news:1073,
+A101,weekday,opening/closing,,15,2021-11,el_universal,"was 20; https://www.eluniversal.com.co/cartagena/los-nuevos-cambios-que-tendra-transcaribe-para-optimizar-el-servicio-GN5708910"
+A101,weekday,pm_peak,,10,2021-11,el_universal,was 12
+A107,weekday,am_peak/pm_peak,,10,2021-11,el_universal,was 15
+A114,weekday,am_peak,,6.5,2021-11,el_universal,was 8
+A114,weekday,pm_peak,,8,2021-11,el_universal,was 12
+A114,weekday,closing,,15,2021-11,el_universal,was 20
+A117,weekday,pm_peak,,8,2021-11,el_universal,was 10
+A117,weekday,closing,,15,2021-11,el_universal,was 20
+X102,weekday,peak,,8,2018-11-28,news:1035,"planned at launch, 14 articulated buses"
+X102,weekday,valley,,11,2018-11-28,news:1035,planned at launch
+X105,weekday,all_day,,8,2021-11,el_universal,was 10
+X106,weekday,am_peak/pm_peak,,6,2021-11-16,el_universal,"was 7.5; 18 buses (was 14); see also news:2927"
+T102,weekday,06:00,18:30,12,2021-11,el_universal,was 15
+C017,weekday,05:00,09:00,20,2024-02-12,news:5309,4 padrones
+C017,weekday,16:00,19:00,20,2024-02-12,news:5309,4 padrones

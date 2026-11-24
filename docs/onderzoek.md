@@ -14,14 +14,15 @@
 - Complementaria: C001 Ciudadela 2000–Manga, C017, C018 Bodeguita–Torices (circulair, sinds 6 aug 2024), C017 Bodeguita–Zona Norte (sinds 12 feb 2024). C016 is Portal–Terminal de Transportes; "C106" en "X016" in nieuwsbericht 6077 zijn tikfouten voor C017 en X106.
 - Alimentador A118 Portal–Ciudadela de la Paz sinds 27 okt 2025 (25e route), dagelijks; haltes in nieuwsbericht 7309.
 - 2025: route Ciudadela La Paz. Gepland: Castillogrande–Laguito, Parque Heredia, Mamonal.
+- Overstap: in 2020 "cuatro transbordos permitidos en el mismo sentido hasta en 90 minutos" (bericht 1096); nagaan of dat nog geldt (Fares v2 transfer_rules).
 - Overstappen tussen routes zonder extra kosten (o.a. bij Bodeguita en Parque de la Marina).
 
 ## Dienstregeling (algemeen)
 - Werkdag: troncal/pretroncal 05:00–21:00; alimentadoras tot 22:30.
 - Zaterdag: troncal/pretroncal 05:30–20:30; alimentadoras 05:00–22:00 (C001 tot 21:30).
 - Zon-/feestdag: troncal/pretroncal 06:00–20:00; alimentadoras vanaf 05:00/05:30 tot ~21:30.
-- Frequenties per route: deels uit nieuws. C017: 4 padrones, interval 20 min (bericht 5309). Ouder (ca. 2021, El Universal): A101 15 min begin/eind en 10 min pm-spits; A107 10 min in spitsen; A114 6,5 min am-spits, 8 min pm-spits, 15 min eind; A117 8 min pm-spits, 15 min eind; X105 8 min; X106 6 min in spitsen; T102 12 min 6:00–18:30. Ontwerpnorm: 2 min minimaal, max 8 min spits, 15 min dal.
-- Feestdagen 2026: Decreto 0478 de 2026 (Fiestas de Independencia, 11–16 nov): zaterdagdienst op 11, 12 en 14 nov; A111, C017, C018, A102, T100E en de X106-verlenging naar de Gobernación opgeschort (bericht 10211).
+- Frequenties per route: zie `data/headways_news.csv` (met bron per regel). Alleen oude cijfers: A102 (jan 2022, per tijdvak), A101 (2019), X102 (2018), wijzigingen van nov 2021 (A101, A107, A114, A117, X105, X106, T102) en C017 (2024, 20 min, 4 padrones). Recente headways zijn niet gepubliceerd; in 2024 reed het systeem 60–90% van de geplande ritten (bericht 6087). Ontwerpnorm: 2 min minimaal, max 8 min spits, 15 min dal.
+- Feestdagen en omleidingen: zie `data/service_changes_news.csv` (31 dec 2024 t/m nov 2026). Patroon op feestdagen: dagtype zaterdag of zondag; A111, C017, C018 en de X106-verlenging rijden dan niet, op zondagdagtype ook A102 en T100E niet; T100E op zaterdagdagtype tot 13:00. Langlopende omleidingen zonder aangekondigd einde: X103 (sinds 25 nov 2025 en 3 aug 2026, Av. del Consulado) en X104 (sinds 27 jan 2026, Pedro Romero).
 
 ## Tarieven 2026
 - Algemeen 3.900 COP vanaf 23 jan 2026 (Decreto 017 van 15 jan 2026); 2025: 3.400.
@@ -47,4 +48,13 @@
 - Is de GTFS van het UTB-onderzoek beschikbaar?
 - Frequenties per route; haltelijsten van alimentadoras/complementarias.
 - ~~C016 of C106 voor Bodeguita–Zona Norte?~~ C017 (zie boven).
-- Rijdt C016 (Portal–Terminal) nog naast A118? A118 deelt vrijwel al zijn haltes.
+- C016 (Portal–Terminal, alleen spits) is waarschijnlijk opgeheven bij de start van A118 (27 okt 2025): C016 staat tot Semana Santa 2025 in de lijsten van routes die op feestdagen niet rijden, in nov 2025 en nov 2026 niet meer, terwijl C017 en C018 er wel in staan. A118 rijdt vrijwel dezelfde haltes. Niet bevestigd.
+
+## Stations: vagón per route (bericht 6209, 15 okt 2024)
+- Las Delicias: vagón A X102 en X105, vagón B X103 en X106.
+- Villa Olímpica: vagón A X101 en T102, vagón B T101. X106 stopt er alleen bij grote evenementen.
+- Los Ángeles: T102 en sinds 15 okt 2024 ook T103.
+- Chambacú: T101, T102, T103, X101, X104 (bericht 8375, mei 2026); tweede vagón in aanbouw.
+
+## C017-traject
+De officiële kaart (`raw/web/C017-min.png`) bevestigt bericht 5309: heen door Crespo (Global Center t/m Ferretería Crespo 70), terug door de tunnel van Crespo. De OSM-relatie heeft het omgekeerd. T102 rijdt sinds 25 nov 2024 juist heen door de tunnel (bericht 6277).
