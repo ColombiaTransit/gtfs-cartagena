@@ -59,6 +59,11 @@ Research and data collection. No feed is published yet.
   the Carrera 92 stops are unsnapped map positions), X105 (`X105=X105`) and,
   with the `georef_maps.py` fit (`"from": "markers"`), A105 (OSM runs the
   Simón Bolívar loop the other way round).
+- Last pass of `match_stops.py`: a stop that is still an estimate takes the
+  place of a well-placed stop of another route with the same name on its own
+  line (`shared_stop`, e.g. the T102 stops in Crespo from C017), or of a named
+  place from `raw/osm/pois.csv` with the same name near its line (`osm_poi`).
+  Numbers count in the name match ("Calle 67" is not "Calle 70").
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
