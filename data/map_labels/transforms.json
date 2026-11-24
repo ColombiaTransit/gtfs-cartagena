@@ -1,0 +1,102 @@
+{
+ "C017": {
+  "lines": [
+   "C017"
+  ],
+  "line_points": 39,
+  "ok": true,
+  "transform": [
+   [
+    9.350226535036702,
+    2.536847821498872
+   ],
+   [
+    2.536847821498872,
+    -9.350226535036702
+   ],
+   [
+    -8277272.174335024,
+    1161344.090294062
+   ]
+  ],
+  "m_per_px": 9.688,
+  "control": 14,
+  "dropped": [
+   "Calle 67"
+  ],
+  "median_m": 115.9,
+  "max_m": 239.2
+ },
+ "A118": {
+  "lines": [
+   "C016",
+   "A101",
+   "A117",
+   "A114",
+   "X104"
+  ],
+  "line_points": 17,
+  "ok": true,
+  "transform": [
+   [
+    1.7118067875580876,
+    0.6642515229911575
+   ],
+   [
+    0.6642515229911575,
+    -1.7118067875580876
+   ],
+   [
+    -8264302.560359702,
+    1151620.6715968065
+   ]
+  ],
+  "m_per_px": 1.836,
+  "control": 14,
+  "dropped": [
+   "Palmas de Salamanca 2"
+  ],
+  "median_m": 37.7,
+  "max_m": 71.8
+ },
+ "X105": {
+  "lines": [
+   "X105"
+  ],
+  "line_points": 69,
+  "ok": true,
+  "transform": [
+   [
+    6.508815504796855,
+    -0.0046109367919073075
+   ],
+   [
+    -0.0046109367919073075,
+    -6.508815504796855
+   ],
+   [
+    -8273455.225574668,
+    1153671.2723882657
+   ]
+  ],
+  "m_per_px": 6.509,
+  "control": 46,
+  "dropped": [
+   "Cll 5A",
+   "Frente Berlitz",
+   "Frente Porvenir",
+   "Frente Maternidad",
+   "Edificio La Marina"
+  ],
+  "median_m": 80.8,
+  "max_m": 200.3
+ },
+ "A105": {
+  "ok": true,
+  "from": "markers",
+  "lines": [
+   "A105"
+  ],
+  "note": "OSM line runs the Simón Bolívar loop the other way round than the map"
+ }
+}

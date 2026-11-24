@@ -1,0 +1,41 @@
+direction,seq,px,py,map_label
+IDA,1,257,1052,Parque de la Marina
+IDA,2,233,1028,Cancha Bambino
+IDA,3,276,972,Teatro Heredia
+IDA,4,305,963,El Boquetillo
+IDA,5,370,940,Col. Modelo de la Costa
+IDA,6,398,935,Droguería Inglesa
+IDA,7,423,928,Entrada El Cabrero
+IDA,8,456,918,DATT
+IDA,9,501,915,Edif. Altamar
+IDA,10,530,910,Terrazas de San Sebastián Ida
+IDA,11,548,901,Global Center
+IDA,12,586,886,Bomba Terpel
+IDA,13,633,884,Parque de las Américas
+IDA,14,668,891,Calle 67
+IDA,15,686,894,Puente Crespito
+IDA,16,702,876,Iglesia Cristo Rey
+IDA,17,712,850,Carrera 6
+IDA,18,718,833,Ferretería Crespo 70
+IDA,19,854,753,Frente a Las Américas
+IDA,20,1296,457,Terminal Norte
+IDA,21,1413,307,Serena del Mar
+IDA,22,1462,218,Frente a Barcelona de Indias
+VUELTA,23,1515,144,Barceloneta
+VUELTA,24,1488,176,Barcelona de Indias
+VUELTA,25,1451,221,Las Ramblas
+VUELTA,26,1377,319,Frente a Serena del Mar
+VUELTA,27,1084,594,Boquilla 1
+VUELTA,28,996,662,Boquilla 2
+VUELTA,29,966,681,Morros Vitri
+VUELTA,30,937,700,Murano
+VUELTA,31,839,752,Playa Azul
+VUELTA,32,522,902,Terrazas de San Sebastián Vuelta
+VUELTA,33,469,910,Frente al Ara
+VUELTA,34,444,920,Bellavista Hotel
+VUELTA,35,412,927,El Cabrero
+VUELTA,36,384,932,Costa Azul
+VUELTA,37,358,958,Frente Parque Apolo
+VUELTA,38,348,986,Boquete de Paz y Concordia San Diego
+VUELTA,39,311,1016,Estación Centro
+VUELTA,40,257,1052,Parque de la Marina

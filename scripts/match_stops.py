@@ -37,6 +37,12 @@ Method, per route (IDA + VUELTA as one round trip, or CIRCULAR):
      the nearest evenly-spaced expected position (osm_aligned).
   4. Everything else is spread evenly along the line between its neighbours
      (method interpolated) and needs checking.
+  5. Routes in data/map_labels/transforms.json (scripts/fit_map_labels.py: OSM
+     line missing or wrong; or "from": "markers" to use the georef_maps.py fit
+     where only the order along the OSM line is off, e.g. a loop the other way
+     round) take every labelled stop from its map position,
+     pulled onto one of the given OSM lines when within GEOREF_SNAP
+     (method map_georef). OSM stations keep their place.
 
 OSM data © OpenStreetMap contributors, ODbL.
 """
@@ -304,12 +310,78 @@ def main() -> int:
         process_route(route, by_route[route], ctx, rows, shapes, report)
     SHARED.clear()
 
+    georef_pass(rows, named, lines, report)
     rows.sort(key=lambda r: r["route"])          # stable: keeps the stop order per route
     shapes.sort(key=lambda f: f["properties"]["route"])
     write_outputs(rows, shapes, named, unnamed)
     for r in sorted(report):
         print(*r)
     return 0
+
+
+GEOREF_SNAP = 120       # m, map position to one of the route's OSM lines
+
+
+def georef_pass(rows, named, lines, report):
+    path = LABELS / "transforms.json"
+    if not path.exists():
+        return
+    for route, info in json.loads(path.read_text()).items():
+        if not info.get("ok") or not (LABELS / f"{route}.csv").exists():
+            continue
+        if info.get("from") == "markers":     # the map fits OSM (georef_maps.py), use that fit
+            info = {**info, **json.loads((RAW / "web" / "markers.json").read_text())[route]}
+        X = np.array(info["transform"])
+        refs = [lines[r] for r in info.get("lines", []) if r in lines]
+        labels = {(r["direction"], int(r["seq"])): (float(r["px"]), float(r["py"]))
+                  for r in csv.DictReader((LABELS / f"{route}.csv").open(encoding="utf-8"))}
+        n = 0
+        for r in rows:
+            px = labels.get((r["direction"], r["seq"]))
+            if r["route"] != route or not px or r["method"] == "osm_station":
+                continue
+            st = anchor_for(r["name"], named)
+            if st and st["kind"] == "osm_station":
+                continue                       # placed at the station below
+            q = tuple(np.array([px[0], px[1], 1.0]) @ X)
+            dist = None
+            best = None
+            for ln in refs:
+                pr = min(ln.project(q), key=lambda t: t[1])
+                if pr[1] <= GEOREF_SNAP and (best is None or pr[1] < best[1]):
+                    best = (ln.point_at(pr[0]), pr[1])
+            if best:
+                q, dist = best[0], round(best[1], 1)
+            la, lo = latlon(*q)
+            r.update(lat=round(la, 6), lon=round(lo, 6), method="map_georef",
+                     osm_id=f"map:{int(px[0])},{int(px[1])}", osm_dist_m=dist, pos_m=None)
+            n += 1
+        # the rest: OSM stations at the station itself (the OSM line may be wrong),
+        # anything else straight between its placed neighbours (interpolated)
+        mine = [r for r in rows if r["route"] == route]
+        for r in mine:
+            if r["method"] != "map_georef":
+                a = anchor_for(r["name"], named)
+                if a and a["kind"] == "osm_station":
+                    r.update(lat=a["lat"], lon=a["lon"], method="osm_station", osm_id=a["osm"],
+                             osm_dist_m=None, pos_m=None)
+        fixed = [i for i, r in enumerate(mine) if r["method"] in ("map_georef", "osm_station")]
+        for i, r in enumerate(mine):
+            if i in fixed:
+                continue
+            before = [j for j in fixed if j < i]
+            after = [j for j in fixed if j > i]
+            if before and after:
+                a, b = mine[before[-1]], mine[after[0]]
+                t = (i - before[-1]) / (after[0] - before[-1])
+                r.update(lat=round(a["lat"] + (b["lat"] - a["lat"]) * t, 6),
+                         lon=round(a["lon"] + (b["lon"] - a["lon"]) * t, 6),
+                         method="interpolated", osm_id="", osm_dist_m=None, pos_m=None)
+        counts = defaultdict(int)
+        for r in rows:
+            if r["route"] == route:
+                counts[r["method"]] += 1
+        report[:] = [x for x in report if x[0] != route] + [(route, sum(counts.values()), dict(counts))]
 
 
 def process_route(route, stops, ctx, rows, shapes, report):
@@ -822,7 +894,7 @@ def write_outputs(rows, shapes, named, unnamed):
         w.writeheader()
         w.writerows(rows)
 
-    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069", "shared_stop": "#0a3069", "shared_estimate": "#cf222e",
+    colors = {"osm_station": "#1a7f37", "osm_named": "#1a7f37", "osm_order": "#0969da", "osm_aligned": "#8250df", "photon": "#bc4c00", "map_order": "#1f6feb", "map_aligned": "#6639ba", "map_label": "#0a3069", "shared_stop": "#0a3069", "shared_estimate": "#cf222e", "map_georef": "#0a3069",
               "interpolated": "#cf222e", "line_start": "#bf8700", "line_end": "#bf8700"}
     feats = [{"type": "Feature",
               "properties": {**{k: v for k, v in r.items() if k not in ("lat", "lon")},

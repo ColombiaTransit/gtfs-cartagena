@@ -1,0 +1,41 @@
+direction,seq,px,py,map_label
+IDA,2,1059,150,Solo Marcas
+IDA,3,1066,200,Frente Shopping Center
+IDA,4,950,256,Frente a Kiosko El Oasis
+IDA,5,934,336,Colegio Naval
+IDA,6,896,418,Centro Cristiano Nueva Vida
+IDA,7,872,518,Antes de Brasas Cartagena
+IDA,8,830,559,Frente a Portales de San Fernando
+IDA,9,767,611,Frente de Iglesia La Consolata
+IDA,10,693,679,Frente a Baby Celnet Celulares
+IDA,11,756,769,Antes de Ferretería Materiales El Educador
+IDA,12,819,838,Iglesia Cristiana El Acta del Pacto
+IDA,13,883,929,Punto Frío El Gavilán
+IDA,14,778,962,Tienda El Descanso
+IDA,15,708,1021,Tienda Primavera
+IDA,16,601,1025,Iglesia Cristiana Sendero de Salvación
+IDA,18,484,988,Restaurante Rosy
+IDA,19,421,1016,Los Trupillos (Tienda El Punto)
+VUELTA,20,378,1099,Villa Gloria (Disco Black and White)
+VUELTA,21,390,1189,Colegio Bertha Suttner
+VUELTA,22,505,1182,Las Vegas 1
+VUELTA,23,592,1157,Colegio Jesús Maestro
+VUELTA,24,612,1087,La Batea Mza L7
+VUELTA,25,653,1051,Frigocarnes Mandela
+VUELTA,26,720,1048,Variedades y Sai
+VUELTA,27,776,1002,Droguería MK
+VUELTA,28,862,961,Frente Chinito Expres
+VUELTA,29,926,940,Frente Esquina Alegre
+VUELTA,30,854,832,Ferretería y Variedades El Chico
+VUELTA,31,793,770,Restaurante La Florida
+VUELTA,32,740,721,Droguería y Variedades María V
+VUELTA,33,738,674,Variedades Solo Kato
+VUELTA,34,812,608,Iglesia La Consolata
+VUELTA,35,879,562,Portales de San Fernando III
+VUELTA,36,889,479,Parque Lorduy
+VUELTA,37,928,442,Parque Plan 134
+VUELTA,38,968,398,Colegio Dulce Corazón de María
+VUELTA,39,954,312,Colegio Juan José Nieto
+VUELTA,40,996,256,Al frente de la Biblioteca Distrital
+VUELTA,41,1058,230,Bodytech
+VUELTA,42,1102,178,Carulla

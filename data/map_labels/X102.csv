@@ -1,0 +1,44 @@
+direction,seq,px,py,map_label
+IDA,3,1121,742,Chinatown
+IDA,4,1076,759,Clínica Blas de Lezo
+IDA,5,1028,779,Autocoreano
+IDA,6,959,793,Buenos Aires
+IDA,7,908,803,La Troncal
+IDA,8,864,811,Plaza Colón
+IDA,9,827,816,Colegio INEM
+IDA,10,769,826,U. del Sinú
+IDA,11,716,834,Clínica del Bosque
+IDA,12,658,844,Entrada Nuevo Bosque
+IDA,13,594,855,Estación Policía Nuevo Bosque
+IDA,14,508,858,San Isidro #25-43
+IDA,15,442,833,San Isidro #53-58
+IDA,16,400,780,Los Olivos #52-49
+IDA,17,384,725,Provisional 1
+IDA,18,347,594,El Marion # 46-43
+IDA,19,324,517,Supergiros Bruselas
+IDA,20,301,438,EDS Esso Bruselas #37-47
+IDA,21,276,359,EDS Mobil El Bosque
+VUELTA,32,244,352,DG.22 No.20-50
+VUELTA,33,240,391,Cancha Martínez Martelo
+VUELTA,34,259,464,La Cuchilla
+VUELTA,35,248,528,Coca Cola
+VUELTA,36,282,584,Callejón del Mamón
+VUELTA,37,329,634,El Refugio
+VUELTA,38,349,708,Olímpica Alto Bosque
+VUELTA,39,359,742,Alto Bosque Tv 51
+VUELTA,40,378,803,Colegio Olga Gonzalez Arrauth
+VUELTA,41,449,864,Nuevo Oriente (Báscula)
+VUELTA,42,496,886,Bajos de San Isidro
+VUELTA,43,620,939,Entrada Ceballos
+VUELTA,44,737,1031,Proleca
+VUELTA,45,768,961,Los Corales
+VUELTA,46,727,883,Conjunto Militar Los Corales
+VUELTA,47,738,856,Clínica El Bosque
+VUELTA,48,776,850,U. del Sinú
+VUELTA,49,841,839,Colegio INEM
+VUELTA,50,881,833,Entrada Almirante Colón
+VUELTA,51,927,826,Napoleón Perea
+VUELTA,52,958,820,Entrada a Los Caracoles
+VUELTA,53,1038,804,Olímpica Caracoles
+VUELTA,54,1146,757,Aguas de Cartagena
+VUELTA,55,1204,755,Piko Riko

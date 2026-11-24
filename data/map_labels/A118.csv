@@ -1,0 +1,40 @@
+direction,seq,px,py,map_label
+IDA,1,203,1230,Portal
+IDA,2,355,1110,Villa Rosita
+IDA,3,574,1101,Altamare
+IDA,4,738,1103,Bomba Petromil
+IDA,5,858,1122,C. C. Mio
+IDA,6,919,1206,Terminal de Transportes Intermunicipal
+IDA,7,1003,1247,Palmas de Salamanca 2
+IDA,8,1013,1108,Palmas de Salamanca
+IDA,9,1304,1097,Central de Abastos
+IDA,10,1409,1010,Frente a Yesos C/gena
+IDA,11,1364,873,Frente a Taller
+IDA,12,1374,740,Frente a Chatarrería
+IDA,13,1354,594,Corazón de Jesús (Mz 211)
+IDA,14,1336,448,Frente a Tienda Florecer
+IDA,15,1319,310,Frente a Polideportivo El 20
+IDA,16,1302,170,Frente a Panadería La Bendición de Dios
+IDA,17,1234,57,Mz A1 Torre 5
+IDA,18,1180,77,Mz D Bloque 3 (frente al parque)
+IDA,19,1178,139,Panadería Angie
+IDA,20,1208,109,Mz H Bl 1
+IDA,21,1243,73,Mz I Bl 1
+VUELTA,22,1243,73,Mz I Bl 1
+VUELTA,23,1293,194,Sector La Unión Mz H
+VUELTA,24,1304,283,Hogar Fami Mis Primeros Pasos
+VUELTA,25,1325,468,Sector Minuto de Dios (lote)
+VUELTA,26,1345,620,Miramar Mz 201 Lote 12
+VUELTA,27,1360,759,Al lado de Chatarrería
+VUELTA,28,1353,884,Al lado de Taller Mecánico
+VUELTA,29,1393,993,Mi Tiendita
+VUELTA,30,1359,1063,Frente Central de Abastos
+VUELTA,31,1238,1074,Entrada Pozón
+VUELTA,32,1051,1093,El Cariñoso
+VUELTA,33,932,1105,Portales de Alicante
+VUELTA,34,794,1100,Villas de la Candelaria
+VUELTA,35,687,1083,Megaluminios
+VUELTA,36,560,1090,Ipanema
+VUELTA,37,402,1098,Entrada a Las Palmeras
+VUELTA,38,307,1101,Las Palmeras
+VUELTA,39,184,1220,Portal
