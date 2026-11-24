@@ -3,7 +3,18 @@
 Data © OpenStreetMap contributors, available under the
 [Open Database License (ODbL)](https://www.openstreetmap.org/copyright).
 
-Both files were exported by hand from Overpass Turbo on 2026-11-08.
+`scripts/fetch_osm.py` (workflow *Fetch OSM data from Overpass*, needs the
+`OVERPASS_URL` secret) exports all files below from our own Overpass server;
+the first two were exported by hand from Overpass Turbo on 2026-11-08. The
+exact queries are in the script.
+
+- `overpass_stops.json`, `overpass_routes.json`: see below.
+- `roads.geojson.gz`: drivable roads (motorway to service, busway), one
+  LineString per way with `nodes` (OSM node ids, for routing) and the tags
+  highway, name, ref, oneway, junction, access, bus, psv, lanes, maxspeed.
+- `pois.csv`: named amenities, shops, leisure, tourism, offices, healthcare,
+  historic sites, named buildings and neighbourhoods, with their centre;
+  stops are often named after these.
 
 ## overpass_stops.json
 
@@ -38,4 +49,4 @@ out geom;
 
 X103 is tagged `operator=Trasncaribe S.A.`, which this regex misses. It was
 exported separately with `["ref"="X103"]["operator"~"caribe",i]` and merged
-into this file. Use `["operator"~"caribe",i]` for a full re-export.
+into this file. `fetch_osm.py` uses `["operator"~"caribe",i]`.
