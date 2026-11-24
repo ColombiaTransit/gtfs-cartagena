@@ -12,8 +12,11 @@ Research and data collection. No feed is published yet.
   writes the raw data to `raw/`.
 - The GitHub Action *Scrape Transcaribe Open Data* runs the scraper on demand
   and uploads `raw/` as a workflow artifact.
-- `raw/osm/` holds OpenStreetMap exports (stations, bus stops and the
-  Transcaribe route relations), © OpenStreetMap contributors, ODbL.
+- `raw/osm/` holds OpenStreetMap exports (stations, bus stops, the
+  Transcaribe route relations, the road network and named places),
+  © OpenStreetMap contributors, ODbL. `scripts/fetch_osm.py` (workflow *Fetch
+  OSM data from Overpass*) refreshes them from our own Overpass server and
+  reruns the matching. Needs the `OVERPASS_URL` **secret**.
 - `scripts/match_stops.py` places every open-data stop on the OSM route line:
   - `data/shapes_osm.geojson`: one round-trip line per route.
   - `data/stop_positions.csv` and `.geojson`: position per route, direction
