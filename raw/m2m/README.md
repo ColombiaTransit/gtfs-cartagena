@@ -4,6 +4,14 @@ Data from the API behind the *Mi Bus Transcaribe* app (M2M Control, client
 1343). See `docs/mibus-transcaribe-api.md`. Licensing is still to be asked
 before the data goes into a published feed.
 
+## Snapshot
+
+`scripts/fetch_m2m.py` (workflow *Fetch Mi Bus Transcaribe API snapshot*,
+started by hand with the dates to fetch) stores `allLines.json`,
+`allPoints.json`, `pattern/<line id>.json`, `bustop/<id_migracao>.json`,
+`departure/<date>/<id_migracao>.json` and `manifest.json` (time, HTTP status,
+size and sha256 per file). Test lines (A000) are skipped.
+
 ## valorTarifa.json
 
 Fare shown in the app, fetched once on 2026-11-25 from
