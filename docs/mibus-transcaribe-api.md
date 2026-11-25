@@ -438,11 +438,22 @@ If individual departures are available, explicit trips should be generated rathe
   peaks, 12 minutes around midday (e.g. 09:26, 09:38, 09:50, 10:02).
 
 These are individual scheduled departures, not a frequency: the feed gets
-explicit trips. There is **no day type field**; the response is most likely the
-schedule of the day of the request. To build `calendar.txt` the departures are
-therefore collected once on a weekday, once on a Saturday and once on a Sunday
-or holiday, and compared. Holidays follow the Sunday schedule (Transcaribe
-news), to be confirmed with a collection on a festivo.
+explicit trips. There is no day type field, but the endpoint takes a
+**`date` parameter** (`?date=YYYY-MM-DD`; without it: today):
+
+| Date | Day | A102 IDA (20337) |
+|---|---|---|
+| 2026-11-25 | Wednesday | 102 departures, 05:00-22:00, 8-9 min in the peaks, 12 min off-peak |
+| 2026-11-28 | Saturday | 53 departures, 06:00-19:00, every 15 min |
+| 2026-11-29 | Sunday | none (A102 does not run on Sundays) |
+| 2026-12-08 | Tuesday, festivo (Inmaculada Concepción) | none: holidays follow the Sunday schedule |
+
+So the schedule system knows the day types and the Colombian holidays, and all
+of them can be collected in one run, for any date. For the one-off feed:
+collect every variant for one weekday, one Saturday and one Sunday to build
+`calendar.txt`, and check the holidays in the feed period (and special days
+such as the días cívicos in November) with `date` to build
+`calendar_dates.txt`.
 
 The endpoint may be the primary source for `trips.txt`, `stop_times.txt`, `calendar.txt` and `calendar_dates.txt`.
 
@@ -717,7 +728,7 @@ The API stop dataset should additionally be compared with the previously identif
 - [x] Validate route stop sequence endpoint
 - [x] Validate departure endpoint
 - [x] Confirm identifier types required by each endpoint (`id_migracao`)
-- [ ] Identify service day categories (collect on weekday, Saturday, Sunday)
+- [x] Identify service day categories (`date` parameter: weekday, Saturday, Sunday/holiday)
 - [ ] Identify scheduled travel times
 - [ ] Validate fare JSON
 - [ ] Investigate A000 routes
@@ -752,8 +763,10 @@ If route geometry, ordered stops and departure schedules are available through t
 
 The `bustop` and `departure` endpoints were validated with route A102 on
 2026-11-25: ordered stops with their position along the route, and individual
-scheduled departures. Next: a collector that stores one snapshot of all
-endpoints per service day type in `raw/m2m/`, decoding the `pattern` format,
+scheduled departures. The `departure` endpoint takes a `date`
+parameter and knows holidays. Next: a collector that stores one snapshot of
+all endpoints, with departures for a weekday, a Saturday, a Sunday and the
+holidays of the feed period, in `raw/m2m/`; decoding the `pattern` format,
 and the licensing question.
 
 The inventory counts are preliminary results from the preceding analysis and should be independently reproduced by the API collector before publication.
