@@ -64,6 +64,16 @@ Research and data collection. No feed is published yet.
   line (`shared_stop`, e.g. the T102 stops in Crespo from C017), or of a named
   place from `raw/osm/pois.csv` with the same name near its line (`osm_poi`).
   Numbers count in the name match ("Calle 67" is not "Calle 70").
+- `scripts/build_stops.py` (#24) turns the positions per route into GTFS
+  stops: `data/stops.csv` (stops.txt columns plus `quality` and `routes`) and
+  `data/stop_ids.csv` (route, direction, seq -> stop_id). Trunk stations become
+  `location_type=1` with one platform per vagón code (A1, B2, ...; at Patio
+  Portal the bays), placed on the vagón's part of the OSM platform from
+  `raw/osm/overpass_stations.json` (vagón A assumed nearest Patio Portal: to
+  check). Street stops of several routes are merged when they have the same
+  name, lie within 300 m and the buses go the same way, or lie on the same
+  spot; the position comes from the best-placed route. `data/stops_review.csv`
+  lists the merges to check (different names, or routes placing them far apart).
 - `scripts/geocode_stops.py` (workflow *Geocode stops with Photon*) geocodes the
   estimated stops with our own Photon server into `raw/geocode/photon.json`,
   then reruns the matching. Needs the `PHOTON_URL` **secret**.
