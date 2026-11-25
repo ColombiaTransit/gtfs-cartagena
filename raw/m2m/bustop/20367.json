@@ -1,0 +1,242 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb91",
+  "id": 242300,
+  "name": "Madre Bernarda B1",
+  "porcentagemTrajeto": 3.8461538461538463,
+  "latLng": {
+   "lat": 10.395049,
+   "lng": -75.478819
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb03",
+  "id": 242560,
+  "name": "Chinatown",
+  "porcentagemTrajeto": 7.6923076923076925,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.48513
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad6",
+  "id": 242336,
+  "name": "Clinica Blas De Lezo",
+  "porcentagemTrajeto": 11.538461538461538,
+  "latLng": {
+   "lat": 10.391797,
+   "lng": -75.486751
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb00",
+  "id": 242546,
+  "name": "Auto Coreano",
+  "porcentagemTrajeto": 15.384615384615385,
+  "latLng": {
+   "lat": 10.390898,
+   "lng": -75.489023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0d",
+  "id": 242114,
+  "name": "Entrada Buenas Aires",
+  "porcentagemTrajeto": 19.23076923076923,
+  "latLng": {
+   "lat": 10.390313,
+   "lng": -75.491987
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2d",
+  "id": 242135,
+  "name": "Entrada La Troncal",
+  "porcentagemTrajeto": 23.076923076923077,
+  "latLng": {
+   "lat": 10.389966,
+   "lng": -75.494102
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5c",
+  "id": 242520,
+  "name": "Plaza Colon",
+  "porcentagemTrajeto": 26.923076923076923,
+  "latLng": {
+   "lat": 10.389623,
+   "lng": -75.495969
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac0",
+  "id": 242215,
+  "name": "Colegio INEM",
+  "porcentagemTrajeto": 30.76923076923077,
+  "latLng": {
+   "lat": 10.389388,
+   "lng": -75.49747
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc38",
+  "id": 242539,
+  "name": "Universidad Del Sinu",
+  "porcentagemTrajeto": 34.61538461538461,
+  "latLng": {
+   "lat": 10.388971,
+   "lng": -75.499989
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4e",
+  "id": 242453,
+  "name": "Clinica El Bosque",
+  "porcentagemTrajeto": 38.46153846153846,
+  "latLng": {
+   "lat": 10.388638,
+   "lng": -75.502123
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe6",
+  "id": 242357,
+  "name": "Entrada Nuevo Bosque",
+  "porcentagemTrajeto": 42.30769230769231,
+  "latLng": {
+   "lat": 10.388125,
+   "lng": -75.504706
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0e",
+  "id": 242119,
+  "name": "Estación De Policia Nuevo Bosque",
+  "porcentagemTrajeto": 46.15384615384615,
+  "latLng": {
+   "lat": 10.387701,
+   "lng": -75.507461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4d",
+  "id": 242638,
+  "name": "San Isidro No. 25-43",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.387588,
+   "lng": -75.511119
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba67",
+  "id": 242139,
+  "name": "Entrada San Isidro No. 53-58",
+  "porcentagemTrajeto": 53.84615384615385,
+  "latLng": {
+   "lat": 10.38885,
+   "lng": -75.514181
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbce",
+  "id": 242576,
+  "name": "Crisanto Luque Los olivos No. 52-49",
+  "porcentagemTrajeto": 57.69230769230769,
+  "latLng": {
+   "lat": 10.391022,
+   "lng": -75.51609
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc05",
+  "id": 242507,
+  "name": "Paradero Provisional",
+  "porcentagemTrajeto": 61.53846153846154,
+  "latLng": {
+   "lat": 10.392799,
+   "lng": -75.516592
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba66",
+  "id": 242133,
+  "name": "El Marión No. 46-43",
+  "porcentagemTrajeto": 65.38461538461539,
+  "latLng": {
+   "lat": 10.398966,
+   "lng": -75.518481
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba72",
+  "id": 242191,
+  "name": "Supergiros Bruselas",
+  "porcentagemTrajeto": 69.23076923076923,
+  "latLng": {
+   "lat": 10.401858,
+   "lng": -75.519344
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3a",
+  "id": 242353,
+  "name": "EDS Esso Bruselas",
+  "porcentagemTrajeto": 73.07692307692308,
+  "latLng": {
+   "lat": 10.405157,
+   "lng": -75.520346
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb8",
+  "id": 242470,
+  "name": "EDS Mobil El Bosque",
+  "porcentagemTrajeto": 76.92307692307692,
+  "latLng": {
+   "lat": 10.40851,
+   "lng": -75.52137
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5f",
+  "id": 242099,
+  "name": "Bazurto A1",
+  "porcentagemTrajeto": 80.76923076923077,
+  "latLng": {
+   "lat": 10.413747,
+   "lng": -75.52398
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc40",
+  "id": 242573,
+  "name": "Delicias A1",
+  "porcentagemTrajeto": 84.61538461538461,
+  "latLng": {
+   "lat": 10.416249,
+   "lng": -75.52752
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf7",
+  "id": 242504,
+  "name": "Lo Amador A1",
+  "porcentagemTrajeto": 88.46153846153847,
+  "latLng": {
+   "lat": 10.422391,
+   "lng": -75.534549
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcb",
+  "id": 242563,
+  "name": "Centro B1",
+  "porcentagemTrajeto": 92.3076923076923,
+  "latLng": {
+   "lat": 10.425014327184186,
+   "lng": -75.54668068885805
+  }
+ }
+]

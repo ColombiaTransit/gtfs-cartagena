@@ -1,0 +1,82 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb0",
+  "id": 242426,
+  "name": "Villa Rosita",
+  "porcentagemTrajeto": 10.29360169712123,
+  "latLng": {
+   "lat": 10.398568,
+   "lng": -75.470132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0c",
+  "id": 242545,
+  "name": "Altamare",
+  "porcentagemTrajeto": 23.91394503141795,
+  "latLng": {
+   "lat": 10.400385615100953,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb84",
+  "id": 242220,
+  "name": "Bomba Petromil",
+  "porcentagemTrajeto": 34.32377913979947,
+  "latLng": {
+   "lat": 10.401535,
+   "lng": -75.462921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad5",
+  "id": 242331,
+  "name": "Centro Comercial Mio",
+  "porcentagemTrajeto": 41.874791465609015,
+  "latLng": {
+   "lat": 10.402076658905925,
+   "lng": -75.46052545309067
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7c",
+  "id": 242175,
+  "name": "Palmas De Salamanca",
+  "porcentagemTrajeto": 51.562049478283214,
+  "latLng": {
+   "lat": 10.403454,
+   "lng": -75.4577
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba78",
+  "id": 242219,
+  "name": "Central De Abastos",
+  "porcentagemTrajeto": 69.86895574294732,
+  "latLng": {
+   "lat": 10.405796,
+   "lng": -75.452237
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7f",
+  "id": 242250,
+  "name": "Frente Central De Abastos",
+  "porcentagemTrajeto": 73.9536496340615,
+  "latLng": {
+   "lat": 10.406858,
+   "lng": -75.451461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb69",
+  "id": 242597,
+  "name": "Entrada Pozón",
+  "porcentagemTrajeto": 81.5056276023612,
+  "latLng": {
+   "lat": 10.405754185878378,
+   "lng": -75.4536482691765
+  }
+ }
+]

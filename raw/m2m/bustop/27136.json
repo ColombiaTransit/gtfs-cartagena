@@ -1,0 +1,192 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb0",
+  "id": 242426,
+  "name": "Villa Rosita",
+  "porcentagemTrajeto": 4.761904761904762,
+  "latLng": {
+   "lat": 10.398568,
+   "lng": -75.470132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0c",
+  "id": 242545,
+  "name": "Altamare",
+  "porcentagemTrajeto": 9.523809523809524,
+  "latLng": {
+   "lat": 10.400385615100953,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb84",
+  "id": 242220,
+  "name": "Bomba Petromil",
+  "porcentagemTrajeto": 14.285714285714285,
+  "latLng": {
+   "lat": 10.401535,
+   "lng": -75.462921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad5",
+  "id": 242331,
+  "name": "Centro Comercial Mio",
+  "porcentagemTrajeto": 19.047619047619047,
+  "latLng": {
+   "lat": 10.402076658905925,
+   "lng": -75.46052545309067
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc5",
+  "id": 242536,
+  "name": "Terminal De Transportes",
+  "porcentagemTrajeto": 23.80952380952381,
+  "latLng": {
+   "lat": 10.40100293948618,
+   "lng": -75.45891344547273
+  }
+ },
+ {
+  "_id": "68f927b6e9c8044ceeb6fc6c",
+  "id": 301645,
+  "name": "Palmas de Salamanca 2",
+  "porcentagemTrajeto": 28.57142857142857,
+  "latLng": {
+   "lat": 10.400762869036988,
+   "lng": -75.45690178871155
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7c",
+  "id": 242175,
+  "name": "Palmas De Salamanca",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.403454,
+   "lng": -75.4577
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba78",
+  "id": 242219,
+  "name": "Central De Abastos",
+  "porcentagemTrajeto": 38.095238095238095,
+  "latLng": {
+   "lat": 10.405796,
+   "lng": -75.452237
+  }
+ },
+ {
+  "_id": "68f7a59fe447ad351bdff28d",
+  "id": 301626,
+  "name": "Frente a Yesos Cartagena",
+  "porcentagemTrajeto": 42.857142857142854,
+  "latLng": {
+   "lat": 10.408178586338167,
+   "lng": -75.45103311538698
+  }
+ },
+ {
+  "_id": "68f7d67146d0e90f2c911072",
+  "id": 301627,
+  "name": "Frente Al Taller",
+  "porcentagemTrajeto": 47.61904761904762,
+  "latLng": {
+   "lat": 10.410286401240166,
+   "lng": -75.45285165309907
+  }
+ },
+ {
+  "_id": "68f7d77736838f5e88df0794",
+  "id": 301628,
+  "name": "Frente a Chatarreria",
+  "porcentagemTrajeto": 52.38095238095238,
+  "latLng": {
+   "lat": 10.412863772567125,
+   "lng": -75.45369386672975
+  }
+ },
+ {
+  "_id": "68f8f54c95c4f86c133180f4",
+  "id": 301629,
+  "name": "Corazón de Jesús (Mz 211)",
+  "porcentagemTrajeto": 57.14285714285714,
+  "latLng": {
+   "lat": 10.41558093728223,
+   "lng": -75.45525491237642
+  }
+ },
+ {
+  "_id": "68f8f8039e317e051ff185ac",
+  "id": 301630,
+  "name": "Frente Tienda Florecer",
+  "porcentagemTrajeto": 61.904761904761905,
+  "latLng": {
+   "lat": 10.41805010719996,
+   "lng": -75.456620156765
+  }
+ },
+ {
+  "_id": "68f8fb05ce13f9334df440f8",
+  "id": 301631,
+  "name": "Frente a Polideprtivo El 20",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.420585206813811,
+   "lng": -75.45799076557161
+  }
+ },
+ {
+  "_id": "68f90fcab9cd5617f98f2184",
+  "id": 301632,
+  "name": "Frente a Panadería la Bendición de Dios",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.422927715487273,
+   "lng": -75.45930236577989
+  }
+ },
+ {
+  "_id": "68f91105ce13f9334df44138",
+  "id": 301633,
+  "name": "Mz A1 Torre 5",
+  "porcentagemTrajeto": 76.19047619047619,
+  "latLng": {
+   "lat": 10.424586981805632,
+   "lng": -75.46136498451234
+  }
+ },
+ {
+  "_id": "68f911759840590f2e020903",
+  "id": 301634,
+  "name": "Mz D Bloque 3",
+  "porcentagemTrajeto": 80.95238095238095,
+  "latLng": {
+   "lat": 10.423890565858196,
+   "lng": -75.46228229999544
+  }
+ },
+ {
+  "_id": "68f9121f95c4f86c13318158",
+  "id": 301635,
+  "name": "Panadería Angie",
+  "porcentagemTrajeto": 85.71428571428571,
+  "latLng": {
+   "lat": 10.422685023965206,
+   "lng": -75.46185314655305
+  }
+ },
+ {
+  "_id": "68f913e795c4f86c1331b31d",
+  "id": 301636,
+  "name": "Mz H Bloque 1",
+  "porcentagemTrajeto": 90.47619047619048,
+  "latLng": {
+   "lat": 10.423455305100253,
+   "lng": -75.46146154403687
+  }
+ }
+]

@@ -1,0 +1,232 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc30",
+  "id": 242497,
+  "name": "La Sevillana 2",
+  "porcentagemTrajeto": 4.782774038648947,
+  "latLng": {
+   "lat": 10.418904,
+   "lng": -75.440901
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1b",
+  "id": 242183,
+  "name": "Villa De Aranjuez Mz 1G",
+  "porcentagemTrajeto": 10.223691590620769,
+  "latLng": {
+   "lat": 10.422171,
+   "lng": -75.441748
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba33",
+  "id": 242111,
+  "name": "Ciudad Del Bicentenario 1",
+  "porcentagemTrajeto": 14.721479273318863,
+  "latLng": {
+   "lat": 10.424859,
+   "lng": -75.442497
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1d",
+  "id": 242190,
+  "name": "Bicentenario Mz 79",
+  "porcentagemTrajeto": 17.757010873244315,
+  "latLng": {
+   "lat": 10.426526,
+   "lng": -75.443383
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb06",
+  "id": 242088,
+  "name": "Bicentenario Mz 75",
+  "porcentagemTrajeto": 20.206529137945417,
+  "latLng": {
+   "lat": 10.425277,
+   "lng": -75.44426
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba4a",
+  "id": 242227,
+  "name": "Ciudad Del Bicentenario 2",
+  "porcentagemTrajeto": 22.87826438633419,
+  "latLng": {
+   "lat": 10.423823,
+   "lng": -75.445065
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4b",
+  "id": 242436,
+  "name": "Bicentenario Mz 35 Lt 1",
+  "porcentagemTrajeto": 27.03629234969705,
+  "latLng": {
+   "lat": 10.42337,
+   "lng": -75.447644
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0d",
+  "id": 242550,
+  "name": "Bicentenario Mz 7 Lt 1",
+  "porcentagemTrajeto": 31.50515363947775,
+  "latLng": {
+   "lat": 10.421551,
+   "lng": -75.449767
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcd",
+  "id": 242571,
+  "name": "Colegio Gabriel Garcia Marquez",
+  "porcentagemTrajeto": 33.35445063013503,
+  "latLng": {
+   "lat": 10.420516619582731,
+   "lng": -75.44926553964616
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe7",
+  "id": 242362,
+  "name": "Flor del Campo Mz 1C Lt 4",
+  "porcentagemTrajeto": 37.35736351750249,
+  "latLng": {
+   "lat": 10.418635740784566,
+   "lng": -75.44762134552003
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8c",
+  "id": 242315,
+  "name": "Abastos Giraldo",
+  "porcentagemTrajeto": 38.99627978769413,
+  "latLng": {
+   "lat": 10.41794722551064,
+   "lng": -75.44686228036882
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe3",
+  "id": 242343,
+  "name": "Colombiatón  Mz 3G Casa 470",
+  "porcentagemTrajeto": 41.08780291339365,
+  "latLng": {
+   "lat": 10.41708,
+   "lng": -75.445883
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa9",
+  "id": 242102,
+  "name": "Colegio Gustavo Pulecio Gomez",
+  "porcentagemTrajeto": 44.94744528040427,
+  "latLng": {
+   "lat": 10.415196,
+   "lng": -75.444385
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baff",
+  "id": 242542,
+  "name": "Urbanización La India V",
+  "porcentagemTrajeto": 52.33930007692699,
+  "latLng": {
+   "lat": 10.410716,
+   "lng": -75.445355
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7f",
+  "id": 242250,
+  "name": "Frente Central De Abastos",
+  "porcentagemTrajeto": 63.85840448793941,
+  "latLng": {
+   "lat": 10.406858,
+   "lng": -75.451461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb69",
+  "id": 242597,
+  "name": "Entrada Pozón",
+  "porcentagemTrajeto": 67.76044245124085,
+  "latLng": {
+   "lat": 10.405754185878378,
+   "lng": -75.4536482691765
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba37",
+  "id": 242131,
+  "name": "El Cariñoso",
+  "porcentagemTrajeto": 73.89037584278303,
+  "latLng": {
+   "lat": 10.403989294913522,
+   "lng": -75.45706808567049
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb45",
+  "id": 242406,
+  "name": "Portales De Alicante",
+  "porcentagemTrajeto": 77.747784587816,
+  "latLng": {
+   "lat": 10.402912943954117,
+   "lng": -75.45923799276353
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb32",
+  "id": 242293,
+  "name": "Villa De La Candelaria",
+  "porcentagemTrajeto": 82.21877868388681,
+  "latLng": {
+   "lat": 10.401973771947087,
+   "lng": -75.46188801527023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbec",
+  "id": 242388,
+  "name": "Megaluminios",
+  "porcentagemTrajeto": 85.75143048137545,
+  "latLng": {
+   "lat": 10.401535842460836,
+   "lng": -75.46406865119936
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6a",
+  "id": 242154,
+  "name": "Ipanema",
+  "porcentagemTrajeto": 89.86689541257117,
+  "latLng": {
+   "lat": 10.400446292338213,
+   "lng": -75.46641290187837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8b",
+  "id": 242272,
+  "name": "Entrada Las Palmeras",
+  "porcentagemTrajeto": 94.97501248398666,
+  "latLng": {
+   "lat": 10.399099,
+   "lng": -75.469325
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6e",
+  "id": 242622,
+  "name": "Las Palmeras",
+  "porcentagemTrajeto": 98.03404010272023,
+  "latLng": {
+   "lat": 10.398356,
+   "lng": -75.471098
+  }
+ }
+]

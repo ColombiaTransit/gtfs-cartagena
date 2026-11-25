@@ -1,0 +1,232 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6ba65",
+  "id": 242128,
+  "name": "Disco Black And White",
+  "porcentagemTrajeto": 4,
+  "latLng": {
+   "lat": 10.361628,
+   "lng": -75.481232
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc27",
+  "id": 242452,
+  "name": "Colegio Bertha Suttner",
+  "porcentagemTrajeto": 8,
+  "latLng": {
+   "lat": 10.359873,
+   "lng": -75.479586
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6c",
+  "id": 242164,
+  "name": "Las Vegas 1",
+  "porcentagemTrajeto": 12,
+  "latLng": {
+   "lat": 10.361866,
+   "lng": -75.47784
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc11",
+  "id": 242570,
+  "name": "Colegio Jesus Maestro",
+  "porcentagemTrajeto": 16,
+  "latLng": {
+   "lat": 10.36377,
+   "lng": -75.476214
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba82",
+  "id": 242265,
+  "name": "La Batea Mz A Lt 7",
+  "porcentagemTrajeto": 20,
+  "latLng": {
+   "lat": 10.365388,
+   "lng": -75.477111
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0f",
+  "id": 242124,
+  "name": "Frigocarnes Mandela",
+  "porcentagemTrajeto": 24,
+  "latLng": {
+   "lat": 10.366212,
+   "lng": -75.477531
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baba",
+  "id": 242187,
+  "name": "Variedades",
+  "porcentagemTrajeto": 28,
+  "latLng": {
+   "lat": 10.367877,
+   "lng": -75.475353
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba93",
+  "id": 242350,
+  "name": "Drogeria MK",
+  "porcentagemTrajeto": 32,
+  "latLng": {
+   "lat": 10.369347,
+   "lng": -75.47475
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba96",
+  "id": 242365,
+  "name": "Frente Chinito Expres",
+  "porcentagemTrajeto": 36,
+  "latLng": {
+   "lat": 10.371531,
+   "lng": -75.473617
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb53",
+  "id": 242477,
+  "name": "Esquina Alegre",
+  "porcentagemTrajeto": 40,
+  "latLng": {
+   "lat": 10.372924,
+   "lng": -75.472667
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc55",
+  "id": 242590,
+  "name": "Ferreteria y Variedades El Chico",
+  "porcentagemTrajeto": 44,
+  "latLng": {
+   "lat": 10.373947,
+   "lng": -75.475
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae5",
+  "id": 242410,
+  "name": "Restaurante La Florida",
+  "porcentagemTrajeto": 48,
+  "latLng": {
+   "lat": 10.374324971386566,
+   "lng": -75.47762721776962
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcf",
+  "id": 242581,
+  "name": "Drogueria Y Variedades Maria V",
+  "porcentagemTrajeto": 52,
+  "latLng": {
+   "lat": 10.374653,
+   "lng": -75.479435
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad1",
+  "id": 242294,
+  "name": "Variedades Solo Kato",
+  "porcentagemTrajeto": 56,
+  "latLng": {
+   "lat": 10.375421,
+   "lng": -75.480715
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc17",
+  "id": 242599,
+  "name": "Iglesia La Consolata",
+  "porcentagemTrajeto": 60,
+  "latLng": {
+   "lat": 10.378083,
+   "lng": -75.480069
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4c",
+  "id": 242633,
+  "name": "Portales De San Fernando Iii",
+  "porcentagemTrajeto": 64,
+  "latLng": {
+   "lat": 10.380054,
+   "lng": -75.479535
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab5",
+  "id": 242162,
+  "name": "Parque Lorduy",
+  "porcentagemTrajeto": 68,
+  "latLng": {
+   "lat": 10.381829,
+   "lng": -75.480118
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae3",
+  "id": 242400,
+  "name": "Parque Plan 134",
+  "porcentagemTrajeto": 72,
+  "latLng": {
+   "lat": 10.383627,
+   "lng": -75.479897
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba91",
+  "id": 242340,
+  "name": "Colegio Dulce Corazon De Maria",
+  "porcentagemTrajeto": 76,
+  "latLng": {
+   "lat": 10.385425,
+   "lng": -75.479692
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb38",
+  "id": 242344,
+  "name": "Colegio Juan Jose Nieto",
+  "porcentagemTrajeto": 80,
+  "latLng": {
+   "lat": 10.386669,
+   "lng": -75.481596
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad3",
+  "id": 242321,
+  "name": "Biblioteca Distrital",
+  "porcentagemTrajeto": 84,
+  "latLng": {
+   "lat": 10.389173,
+   "lng": -75.481157
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba26",
+  "id": 242100,
+  "name": "Bodytech",
+  "porcentagemTrajeto": 88,
+  "latLng": {
+   "lat": 10.390179,
+   "lng": -75.480338
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1f",
+  "id": 242200,
+  "name": "Centro Comercial Santa Lucia",
+  "porcentagemTrajeto": 92,
+  "latLng": {
+   "lat": 10.391647,
+   "lng": -75.480237
+  }
+ }
+]

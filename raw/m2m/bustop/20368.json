@@ -1,0 +1,292 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baa7",
+  "id": 242093,
+  "name": "Centro B2",
+  "porcentagemTrajeto": 3.225806451612903,
+  "latLng": {
+   "lat": 10.42493518919537,
+   "lng": -75.546672642231
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd6",
+  "id": 242616,
+  "name": "Lo Amador A2",
+  "porcentagemTrajeto": 6.451612903225806,
+  "latLng": {
+   "lat": 10.422367,
+   "lng": -75.534678
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2b",
+  "id": 242125,
+  "name": "Delicias A2",
+  "porcentagemTrajeto": 9.677419354838708,
+  "latLng": {
+   "lat": 10.416298,
+   "lng": -75.52761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba76",
+  "id": 242211,
+  "name": "Bazurto A2",
+  "porcentagemTrajeto": 12.903225806451612,
+  "latLng": {
+   "lat": 10.413809,
+   "lng": -75.524132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3e",
+  "id": 242166,
+  "name": "Martinez Martelo Dg 22 No. 20-50",
+  "porcentagemTrajeto": 16.129032258064516,
+  "latLng": {
+   "lat": 10.408964731734468,
+   "lng": -75.52175223827363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb35",
+  "id": 242327,
+  "name": "Cancha Microfutbol Martinez Martelo",
+  "porcentagemTrajeto": 19.354838709677416,
+  "latLng": {
+   "lat": 10.407666799344263,
+   "lng": -75.52255421876909
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb90",
+  "id": 242297,
+  "name": "La Cuchilla",
+  "porcentagemTrajeto": 22.58064516129032,
+  "latLng": {
+   "lat": 10.404036780899753,
+   "lng": -75.52160739898683
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba34",
+  "id": 242116,
+  "name": "Coca Cola",
+  "porcentagemTrajeto": 25.806451612903224,
+  "latLng": {
+   "lat": 10.401382830808751,
+   "lng": -75.5216744542122
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babd",
+  "id": 242202,
+  "name": "Calle Del Mamón",
+  "porcentagemTrajeto": 29.032258064516128,
+  "latLng": {
+   "lat": 10.399549323281551,
+   "lng": -75.52060693502428
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baac",
+  "id": 242117,
+  "name": "El Refugio",
+  "porcentagemTrajeto": 32.25806451612903,
+  "latLng": {
+   "lat": 10.397426,
+   "lng": -75.518228
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1c",
+  "id": 242624,
+  "name": "Olimpica Alto Bosque",
+  "porcentagemTrajeto": 35.483870967741936,
+  "latLng": {
+   "lat": 10.394354766515134,
+   "lng": -75.51726490259172
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb05",
+  "id": 242086,
+  "name": "Alto Bosque Tv 51",
+  "porcentagemTrajeto": 38.70967741935483,
+  "latLng": {
+   "lat": 10.392916948588239,
+   "lng": -75.51682502031328
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba35",
+  "id": 242121,
+  "name": "Colegio Olga Gonzalez Arrauth",
+  "porcentagemTrajeto": 41.93548387096774,
+  "latLng": {
+   "lat": 10.390626979034867,
+   "lng": -75.51613837480545
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc32",
+  "id": 242508,
+  "name": "Nuevo Oriente (Bascula)",
+  "porcentagemTrajeto": 45.16129032258064,
+  "latLng": {
+   "lat": 10.388049424104535,
+   "lng": -75.51332205533983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba47",
+  "id": 242213,
+  "name": "Bajo San Isidro",
+  "porcentagemTrajeto": 48.387096774193544,
+  "latLng": {
+   "lat": 10.387141866438368,
+   "lng": -75.51148205995561
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb24",
+  "id": 242225,
+  "name": "Entrada Ceballos",
+  "porcentagemTrajeto": 51.61290322580645,
+  "latLng": {
+   "lat": 10.384830748389929,
+   "lng": -75.50702422857286
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc07",
+  "id": 242517,
+  "name": "Proleca",
+  "porcentagemTrajeto": 54.83870967741935,
+  "latLng": {
+   "lat": 10.382474762292397,
+   "lng": -75.5011957883835
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb58",
+  "id": 242501,
+  "name": "Los Corales",
+  "porcentagemTrajeto": 58.064516129032256,
+  "latLng": {
+   "lat": 10.385453380047915,
+   "lng": -75.50074517726898
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc13",
+  "id": 242579,
+  "name": "Edificio Conjunto Militar Los Corales",
+  "porcentagemTrajeto": 61.29032258064516,
+  "latLng": {
+   "lat": 10.386759319539616,
+   "lng": -75.50175100564958
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc10",
+  "id": 242566,
+  "name": "Clinica El Bosque V",
+  "porcentagemTrajeto": 64.51612903225806,
+  "latLng": {
+   "lat": 10.388376566338046,
+   "lng": -75.50210505723955
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb76",
+  "id": 242658,
+  "name": "Universidad Del Sinu V",
+  "porcentagemTrajeto": 67.74193548387096,
+  "latLng": {
+   "lat": 10.388782855409376,
+   "lng": -75.49977958202363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad7",
+  "id": 242341,
+  "name": "Colegio INEM V",
+  "porcentagemTrajeto": 70.96774193548387,
+  "latLng": {
+   "lat": 10.389173314538667,
+   "lng": -75.49735486507417
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bada",
+  "id": 242359,
+  "name": "Entrada Almirante Colon",
+  "porcentagemTrajeto": 74.19354838709677,
+  "latLng": {
+   "lat": 10.389439776231963,
+   "lng": -75.49588769674303
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc04",
+  "id": 242503,
+  "name": "Napoleon Perea",
+  "porcentagemTrajeto": 77.41935483870967,
+  "latLng": {
+   "lat": 10.38976,
+   "lng": -75.493943
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc54",
+  "id": 242585,
+  "name": "Entrada Los Caracoles",
+  "porcentagemTrajeto": 80.64516129032258,
+  "latLng": {
+   "lat": 10.390218,
+   "lng": -75.491309
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb15",
+  "id": 242153,
+  "name": "Olimpica Caracoles",
+  "porcentagemTrajeto": 83.87096774193547,
+  "latLng": {
+   "lat": 10.390737784399658,
+   "lng": -75.48884421586992
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa4",
+  "id": 242087,
+  "name": "Aguas De Cartagena",
+  "porcentagemTrajeto": 87.09677419354838,
+  "latLng": {
+   "lat": 10.392304884636888,
+   "lng": -75.48497110605241
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae4",
+  "id": 242405,
+  "name": "Piko Riko",
+  "porcentagemTrajeto": 90.32258064516128,
+  "latLng": {
+   "lat": 10.39263993703467,
+   "lng": -75.4822862148285
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba8",
+  "id": 242387,
+  "name": "Madre Bernarda B2",
+  "porcentagemTrajeto": 93.54838709677419,
+  "latLng": {
+   "lat": 10.394971,
+   "lng": -75.478921
+  }
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb07",
+  "id": 242090,
+  "name": "Cancha Bambino",
+  "porcentagemTrajeto": 0.9769736443172553,
+  "latLng": {
+   "lat": 10.42216994373266,
+   "lng": -75.5535636581534
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb19",
+  "id": 242173,
+  "name": "Teatro Heredia",
+  "porcentagemTrajeto": 2.8246658458324885,
+  "latLng": {
+   "lat": 10.42738,
+   "lng": -75.551172
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8a",
+  "id": 242267,
+  "name": "El Boquetillo",
+  "porcentagemTrajeto": 3.6812718937059272,
+  "latLng": {
+   "lat": 10.428875,
+   "lng": -75.548947
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9f",
+  "id": 242342,
+  "name": "Colegio Modelo De La Costa",
+  "porcentagemTrajeto": 5.580324343189945,
+  "latLng": {
+   "lat": 10.43216,
+   "lng": -75.543994
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf5",
+  "id": 242494,
+  "name": "Kr 1 entre Cl 43 y 44",
+  "porcentagemTrajeto": 6.384305883339181,
+  "latLng": {
+   "lat": 10.433328,
+   "lng": -75.541761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3b",
+  "id": 242358,
+  "name": "Entrada El cabrero",
+  "porcentagemTrajeto": 7.060485601010723,
+  "latLng": {
+   "lat": 10.434343,
+   "lng": -75.539901
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb39",
+  "id": 242348,
+  "name": "DATT",
+  "porcentagemTrajeto": 8.021736098856772,
+  "latLng": {
+   "lat": 10.435907,
+   "lng": -75.537329
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb51",
+  "id": 242467,
+  "name": "Edificio Altamar",
+  "porcentagemTrajeto": 9.275996991787583,
+  "latLng": {
+   "lat": 10.437117,
+   "lng": -75.53358
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2f",
+  "id": 242145,
+  "name": "Global Center",
+  "porcentagemTrajeto": 10.523241773257563,
+  "latLng": {
+   "lat": 10.439257,
+   "lng": -75.530315
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9b",
+  "id": 242324,
+  "name": "Bomba Terpel",
+  "porcentagemTrajeto": 11.766952772883068,
+  "latLng": {
+   "lat": 10.441478,
+   "lng": -75.52712
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba86",
+  "id": 242285,
+  "name": "Parque De Las Americas",
+  "porcentagemTrajeto": 13.020812050953612,
+  "latLng": {
+   "lat": 10.442522,
+   "lng": -75.523321
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa6",
+  "id": 242091,
+  "name": "Calle 67",
+  "porcentagemTrajeto": 14.032582987375946,
+  "latLng": {
+   "lat": 10.442835,
+   "lng": -75.520154
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba42",
+  "id": 242189,
+  "name": "Puente Crespito",
+  "porcentagemTrajeto": 14.491545169821427,
+  "latLng": {
+   "lat": 10.442884,
+   "lng": -75.518711
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badd",
+  "id": 242374,
+  "name": "Iglesia Cristo Rey",
+  "porcentagemTrajeto": 15.191206821810827,
+  "latLng": {
+   "lat": 10.444774,
+   "lng": -75.517638
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb85",
+  "id": 242242,
+  "name": "Carrera 6",
+  "porcentagemTrajeto": 15.970326179933577,
+  "latLng": {
+   "lat": 10.447174,
+   "lng": -75.51741
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfe",
+  "id": 242474,
+  "name": "Ferreteria Crespo 70",
+  "porcentagemTrajeto": 16.481036696453305,
+  "latLng": {
+   "lat": 10.448742,
+   "lng": -75.517212
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d873",
+  "id": 244268,
+  "name": "Frente a Las Américas",
+  "porcentagemTrajeto": 20.792132150114533,
+  "latLng": {
+   "lat": 10.458268,
+   "lng": -75.507719
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d870",
+  "id": 244271,
+  "name": "Terminal Norte",
+  "porcentagemTrajeto": 35.42445796318253,
+  "latLng": {
+   "lat": 10.492213,
+   "lng": -75.47726
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d874",
+  "id": 244273,
+  "name": "Serena del Mar",
+  "porcentagemTrajeto": 40.68523254098456,
+  "latLng": {
+   "lat": 10.507233,
+   "lng": -75.470884
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d877",
+  "id": 244275,
+  "name": "Frente a Barcelona de Indias",
+  "porcentagemTrajeto": 43.47068887805731,
+  "latLng": {
+   "lat": 10.515632,
+   "lng": -75.468922
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d876",
+  "id": 244276,
+  "name": "Barceloneta",
+  "porcentagemTrajeto": 45.98460421481566,
+  "latLng": {
+   "lat": 10.522865,
+   "lng": -75.466014
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d86f",
+  "id": 244269,
+  "name": "Barcelona de Indias",
+  "porcentagemTrajeto": 47.179585062743364,
+  "latLng": {
+   "lat": 10.519458,
+   "lng": -75.467474
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d879",
+  "id": 244278,
+  "name": "Las Ramblas",
+  "porcentagemTrajeto": 48.733796874536566,
+  "latLng": {
+   "lat": 10.515063,
+   "lng": -75.469458
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d875",
+  "id": 244272,
+  "name": "Frente a Serena del Mar",
+  "porcentagemTrajeto": 52.14608055597593,
+  "latLng": {
+   "lat": 10.505306,
+   "lng": -75.473558
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d87a",
+  "id": 244279,
+  "name": "Boquilla 1",
+  "porcentagemTrajeto": 63.19768833677731,
+  "latLng": {
+   "lat": 10.476294,
+   "lng": -75.491959
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d87b",
+  "id": 244280,
+  "name": "Boquilla 2",
+  "porcentagemTrajeto": 66.32153977162663,
+  "latLng": {
+   "lat": 10.468679,
+   "lng": -75.498011
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d871",
+  "id": 244270,
+  "name": "Morros Vitri",
+  "porcentagemTrajeto": 67.22886724195727,
+  "latLng": {
+   "lat": 10.466537,
+   "lng": -75.499856
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d878",
+  "id": 244277,
+  "name": "Murano",
+  "porcentagemTrajeto": 68.18504690255122,
+  "latLng": {
+   "lat": 10.464336,
+   "lng": -75.501866
+  }
+ },
+ {
+  "_id": "65eb3b4af153290f9492d872",
+  "id": 244274,
+  "name": "Playa Azul",
+  "porcentagemTrajeto": 71.2931331407117,
+  "latLng": {
+   "lat": 10.457745,
+   "lng": -75.508986
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc60",
+  "id": 242643,
+  "name": "Terrazas De San Sebastian",
+  "porcentagemTrajeto": 80.89374281449282,
+  "latLng": {
+   "lat": 10.438301310236863,
+   "lng": -75.53181856870653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd4",
+  "id": 242605,
+  "name": "Kr 1 entre Cl 47 y 46",
+  "porcentagemTrajeto": 82.59491275018141,
+  "latLng": {
+   "lat": 10.436439,
+   "lng": -75.536824
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc9",
+  "id": 242554,
+  "name": "Bellavista Hotel",
+  "porcentagemTrajeto": 83.14975383729191,
+  "latLng": {
+   "lat": 10.435529,
+   "lng": -75.538304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba1",
+  "id": 242351,
+  "name": "El Cabrero",
+  "porcentagemTrajeto": 84.06205630958172,
+  "latLng": {
+   "lat": 10.434021,
+   "lng": -75.54073
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baef",
+  "id": 242463,
+  "name": "Costa Azul",
+  "porcentagemTrajeto": 84.86479043572686,
+  "latLng": {
+   "lat": 10.432911,
+   "lng": -75.542989
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb54",
+  "id": 242482,
+  "name": "Frente Parque Apolo",
+  "porcentagemTrajeto": 85.90776060604128,
+  "latLng": {
+   "lat": 10.4301,
+   "lng": -75.5446
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf6",
+  "id": 242438,
+  "name": "Boquete Paz Concordia San Diego",
+  "porcentagemTrajeto": 86.72033646405198,
+  "latLng": {
+   "lat": 10.427604,
+   "lng": -75.544905
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 87.54918301232155,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb0",
+  "id": 242426,
+  "name": "Villa Rosita",
+  "porcentagemTrajeto": 7.003654881514645,
+  "latLng": {
+   "lat": 10.398568,
+   "lng": -75.470132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0c",
+  "id": 242545,
+  "name": "Altamare",
+  "porcentagemTrajeto": 14.406467441834694,
+  "latLng": {
+   "lat": 10.400385615100953,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb84",
+  "id": 242220,
+  "name": "Bomba Petromil",
+  "porcentagemTrajeto": 20.064331476313807,
+  "latLng": {
+   "lat": 10.401535,
+   "lng": -75.462921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad5",
+  "id": 242331,
+  "name": "Centro Comercial Mio",
+  "porcentagemTrajeto": 24.168393137364493,
+  "latLng": {
+   "lat": 10.402076658905925,
+   "lng": -75.46052545309067
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7c",
+  "id": 242175,
+  "name": "Palmas De Salamanca",
+  "porcentagemTrajeto": 29.43352879005459,
+  "latLng": {
+   "lat": 10.403454,
+   "lng": -75.4577
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba78",
+  "id": 242219,
+  "name": "Central De Abastos",
+  "porcentagemTrajeto": 39.38354196596363,
+  "latLng": {
+   "lat": 10.405796,
+   "lng": -75.452237
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa2",
+  "id": 242428,
+  "name": "Urbanización La India",
+  "porcentagemTrajeto": 55.099137140548926,
+  "latLng": {
+   "lat": 10.41103,
+   "lng": -75.444473
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb25",
+  "id": 242229,
+  "name": "Estación Terpel",
+  "porcentagemTrajeto": 81.2635408065838,
+  "latLng": {
+   "lat": 10.420304,
+   "lng": -75.431956
+  }
+ }
+]

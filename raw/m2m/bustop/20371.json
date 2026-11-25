@@ -1,0 +1,332 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6ba69",
+  "id": 242149,
+  "name": "Huellas De Alberto Uribe",
+  "porcentagemTrajeto": 2.857142857142857,
+  "latLng": {
+   "lat": 10.390796,
+   "lng": -75.453095
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba75",
+  "id": 242206,
+  "name": "Abastos La Buenos Aires",
+  "porcentagemTrajeto": 5.714285714285714,
+  "latLng": {
+   "lat": 10.38846890480973,
+   "lng": -75.45491158962251
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3e",
+  "id": 242565,
+  "name": "Cll 102 Dg Terraza Tribuna Verde",
+  "porcentagemTrajeto": 8.571428571428571,
+  "latLng": {
+   "lat": 10.38629498612316,
+   "lng": -75.45688301324846
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbdd",
+  "id": 242647,
+  "name": "Tienda San José",
+  "porcentagemTrajeto": 11.428571428571429,
+  "latLng": {
+   "lat": 10.384756876755004,
+   "lng": -75.45828312635423
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba44",
+  "id": 242198,
+  "name": "Tienda El Cambiazo",
+  "porcentagemTrajeto": 14.285714285714286,
+  "latLng": {
+   "lat": 10.383297908388858,
+   "lng": -75.4596295952797
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9e",
+  "id": 242337,
+  "name": "Cll 35 No 100-27",
+  "porcentagemTrajeto": 17.142857142857142,
+  "latLng": {
+   "lat": 10.383973,
+   "lng": -75.461258
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae8",
+  "id": 242425,
+  "name": "Veterinaria Los Campanos",
+  "porcentagemTrajeto": 20,
+  "latLng": {
+   "lat": 10.381494,
+   "lng": -75.46308
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba54",
+  "id": 242276,
+  "name": "La Princesa",
+  "porcentagemTrajeto": 22.857142857142858,
+  "latLng": {
+   "lat": 10.381160889995364,
+   "lng": -75.4645112156868
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf0",
+  "id": 242468,
+  "name": "Drogueria Calidad y Musica RS",
+  "porcentagemTrajeto": 25.714285714285715,
+  "latLng": {
+   "lat": 10.383282078676672,
+   "lng": -75.46557605266572
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb77",
+  "id": 242150,
+  "name": "Iglesia Ternera",
+  "porcentagemTrajeto": 28.571428571428573,
+  "latLng": {
+   "lat": 10.384187009270331,
+   "lng": -75.46567261219026
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc61",
+  "id": 242648,
+  "name": "U. San Buenaventura Vuelta",
+  "porcentagemTrajeto": 31.42857142857143,
+  "latLng": {
+   "lat": 10.38607073394211,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba55",
+  "id": 242281,
+  "name": "Marval",
+  "porcentagemTrajeto": 34.285714285714285,
+  "latLng": {
+   "lat": 10.388524307879633,
+   "lng": -75.46788811683656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb55",
+  "id": 242486,
+  "name": "Iglesia El Recreo",
+  "porcentagemTrajeto": 37.142857142857146,
+  "latLng": {
+   "lat": 10.391014797639748,
+   "lng": -75.47057300806047
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab2",
+  "id": 242147,
+  "name": "Los Abetos",
+  "porcentagemTrajeto": 40,
+  "latLng": {
+   "lat": 10.391239046273283,
+   "lng": -75.47192752361299
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe4",
+  "id": 242347,
+  "name": "Dg32 No 71A2-60",
+  "porcentagemTrajeto": 42.85714285714286,
+  "latLng": {
+   "lat": 10.39205,
+   "lng": -75.474589
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4f",
+  "id": 242458,
+  "name": "Colegio Integral Moderno",
+  "porcentagemTrajeto": 45.714285714285715,
+  "latLng": {
+   "lat": 10.394006524982384,
+   "lng": -75.47589451074602
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5e",
+  "id": 242318,
+  "name": "Balcones De Cerezos",
+  "porcentagemTrajeto": 48.57142857142857,
+  "latLng": {
+   "lat": 10.396847847966376,
+   "lng": -75.47786325216295
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba95",
+  "id": 242360,
+  "name": "Entrada Viejo Porvenir",
+  "porcentagemTrajeto": 51.42857142857143,
+  "latLng": {
+   "lat": 10.397813417022848,
+   "lng": -75.47939479351045
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf8",
+  "id": 242448,
+  "name": "Chapacua",
+  "porcentagemTrajeto": 54.285714285714285,
+  "latLng": {
+   "lat": 10.399625829566325,
+   "lng": -75.48038184642793
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5a",
+  "id": 242510,
+  "name": "Olimpica 13 de Junio",
+  "porcentagemTrajeto": 57.142857142857146,
+  "latLng": {
+   "lat": 10.401936838158711,
+   "lng": -75.48206090927124
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba73",
+  "id": 242196,
+  "name": "Tienda La Pradera",
+  "porcentagemTrajeto": 60,
+  "latLng": {
+   "lat": 10.402984173176439,
+   "lng": -75.48432737588884
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb26",
+  "id": 242234,
+  "name": "Gaviotas 1",
+  "porcentagemTrajeto": 62.85714285714286,
+  "latLng": {
+   "lat": 10.40198696258474,
+   "lng": -75.48770159482956
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbee",
+  "id": 242397,
+  "name": "Parque Barrio Militar",
+  "porcentagemTrajeto": 65.71428571428572,
+  "latLng": {
+   "lat": 10.399968788543564,
+   "lng": -75.48998147249222
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf4",
+  "id": 242489,
+  "name": "I.E. Las Gaviotas",
+  "porcentagemTrajeto": 68.57142857142857,
+  "latLng": {
+   "lat": 10.39882383171817,
+   "lng": -75.49188315868379
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1a",
+  "id": 242614,
+  "name": "Los Ejecutivos A1",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.399455,
+   "lng": -75.493584
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb82",
+  "id": 242209,
+  "name": "Villa Olímpica A1",
+  "porcentagemTrajeto": 74.28571428571429,
+  "latLng": {
+   "lat": 10.403579,
+   "lng": -75.497103
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc12",
+  "id": 242574,
+  "name": "Cuatro Vientos B1",
+  "porcentagemTrajeto": 77.14285714285714,
+  "latLng": {
+   "lat": 10.406581,
+   "lng": -75.503167
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9f",
+  "id": 242414,
+  "name": "República Del Líbano A1",
+  "porcentagemTrajeto": 80,
+  "latLng": {
+   "lat": 10.407362,
+   "lng": -75.507395
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac4",
+  "id": 242232,
+  "name": "España A1",
+  "porcentagemTrajeto": 82.85714285714286,
+  "latLng": {
+   "lat": 10.408304,
+   "lng": -75.512845
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc03",
+  "id": 242498,
+  "name": "Maria Auxiliadora A1",
+  "porcentagemTrajeto": 85.71428571428572,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515796
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8d",
+  "id": 242320,
+  "name": "Bazurto B1",
+  "porcentagemTrajeto": 88.57142857142857,
+  "latLng": {
+   "lat": 10.414136,
+   "lng": -75.524586
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb86",
+  "id": 242247,
+  "name": "Chambacu A1",
+  "porcentagemTrajeto": 91.42857142857143,
+  "latLng": {
+   "lat": 10.42588,
+   "lng": -75.540433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 94.28571428571429,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ }
+]

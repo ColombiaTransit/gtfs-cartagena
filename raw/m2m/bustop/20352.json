@@ -1,0 +1,172 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb83",
+  "id": 242216,
+  "name": "Arroz Chino las 3 JJJ",
+  "porcentagemTrajeto": 5.2631578947368425,
+  "latLng": {
+   "lat": 10.365425,
+   "lng": -75.479785
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0f",
+  "id": 242124,
+  "name": "Frigocarnes Mandela",
+  "porcentagemTrajeto": 10.526315789473685,
+  "latLng": {
+   "lat": 10.366212,
+   "lng": -75.477531
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baba",
+  "id": 242187,
+  "name": "Variedades",
+  "porcentagemTrajeto": 15.789473684210527,
+  "latLng": {
+   "lat": 10.367877,
+   "lng": -75.475353
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba93",
+  "id": 242350,
+  "name": "Drogeria MK",
+  "porcentagemTrajeto": 21.05263157894737,
+  "latLng": {
+   "lat": 10.369347,
+   "lng": -75.47475
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba96",
+  "id": 242365,
+  "name": "Frente Chinito Expres",
+  "porcentagemTrajeto": 26.315789473684212,
+  "latLng": {
+   "lat": 10.371531,
+   "lng": -75.473617
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb53",
+  "id": 242477,
+  "name": "Esquina Alegre",
+  "porcentagemTrajeto": 31.578947368421055,
+  "latLng": {
+   "lat": 10.372924,
+   "lng": -75.472667
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbba",
+  "id": 242480,
+  "name": "Estadio De Softbol",
+  "porcentagemTrajeto": 36.8421052631579,
+  "latLng": {
+   "lat": 10.373984,
+   "lng": -75.471971
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6d",
+  "id": 242617,
+  "name": "La Algodonera Vuelta",
+  "porcentagemTrajeto": 42.10526315789474,
+  "latLng": {
+   "lat": 10.376418,
+   "lng": -75.471696
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8e",
+  "id": 242325,
+  "name": "Calamarí",
+  "porcentagemTrajeto": 47.36842105263158,
+  "latLng": {
+   "lat": 10.378885,
+   "lng": -75.472383
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3c",
+  "id": 242363,
+  "name": "Estadio De Futbol San Fernando",
+  "porcentagemTrajeto": 52.631578947368425,
+  "latLng": {
+   "lat": 10.379821,
+   "lng": -75.475047
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba25",
+  "id": 242095,
+  "name": "Arepizza",
+  "porcentagemTrajeto": 57.89473684210527,
+  "latLng": {
+   "lat": 10.382531,
+   "lng": -75.473363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9a",
+  "id": 242319,
+  "name": "Arte Calamari",
+  "porcentagemTrajeto": 63.15789473684211,
+  "latLng": {
+   "lat": 10.384196,
+   "lng": -75.472357
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba99",
+  "id": 242380,
+  "name": "La Bodega del Tablón",
+  "porcentagemTrajeto": 68.42105263157896,
+  "latLng": {
+   "lat": 10.386134,
+   "lng": -75.471565
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbde",
+  "id": 242652,
+  "name": "Urbanización Sevilla",
+  "porcentagemTrajeto": 73.6842105263158,
+  "latLng": {
+   "lat": 10.388137,
+   "lng": -75.474518
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba3",
+  "id": 242361,
+  "name": "Ferreteria Antioquia",
+  "porcentagemTrajeto": 78.94736842105263,
+  "latLng": {
+   "lat": 10.389584,
+   "lng": -75.476789
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfc",
+  "id": 242465,
+  "name": "El Campesino",
+  "porcentagemTrajeto": 84.21052631578948,
+  "latLng": {
+   "lat": 10.390802,
+   "lng": -75.478878
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1f",
+  "id": 242200,
+  "name": "Centro Comercial Santa Lucia",
+  "porcentagemTrajeto": 89.47368421052633,
+  "latLng": {
+   "lat": 10.391647,
+   "lng": -75.480237
+  }
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc48",
+  "id": 242613,
+  "name": "Madre Bernarda A1",
+  "porcentagemTrajeto": 4.263183335631698,
+  "latLng": {
+   "lat": 10.39529,
+   "lng": -75.478269
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc47",
+  "id": 242608,
+  "name": "La Castellana B1",
+  "porcentagemTrajeto": 10.812556098325254,
+  "latLng": {
+   "lat": 10.394456,
+   "lng": -75.48661
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac9",
+  "id": 242254,
+  "name": "Los Angeles A1",
+  "porcentagemTrajeto": 13.729293238085813,
+  "latLng": {
+   "lat": 10.395094,
+   "lng": -75.490287
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1a",
+  "id": 242614,
+  "name": "Los Ejecutivos A1",
+  "porcentagemTrajeto": 18.04548508768327,
+  "latLng": {
+   "lat": 10.399455,
+   "lng": -75.493584
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad8",
+  "id": 242349,
+  "name": "Cuatro Vientos A1",
+  "porcentagemTrajeto": 27.055937739962495,
+  "latLng": {
+   "lat": 10.406488,
+   "lng": -75.502635
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac4",
+  "id": 242232,
+  "name": "España A1",
+  "porcentagemTrajeto": 35.16079100211738,
+  "latLng": {
+   "lat": 10.408304,
+   "lng": -75.512845
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8d",
+  "id": 242320,
+  "name": "Bazurto B1",
+  "porcentagemTrajeto": 45.43536613629105,
+  "latLng": {
+   "lat": 10.414136,
+   "lng": -75.524586
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc59",
+  "id": 242610,
+  "name": "La Popa A1",
+  "porcentagemTrajeto": 52.571306116257254,
+  "latLng": {
+   "lat": 10.420495,
+   "lng": -75.53104
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb86",
+  "id": 242247,
+  "name": "Chambacu A1",
+  "porcentagemTrajeto": 61.063755836717604,
+  "latLng": {
+   "lat": 10.42588,
+   "lng": -75.540433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf6",
+  "id": 242499,
+  "name": "La Bodeguita A1",
+  "porcentagemTrajeto": 70.52506327911831,
+  "latLng": {
+   "lat": 10.420331961577846,
+   "lng": -75.55115193128587
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9b",
+  "id": 242394,
+  "name": "Monumento Maria Mulata",
+  "porcentagemTrajeto": 74.92001056744643,
+  "latLng": {
+   "lat": 10.414827,
+   "lng": -75.550579
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa0",
+  "id": 242419,
+  "name": "Supermercado Olimpica",
+  "porcentagemTrajeto": 78.30257401912026,
+  "latLng": {
+   "lat": 10.410568,
+   "lng": -75.550593
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6a",
+  "id": 242602,
+  "name": "Frente Ambientes",
+  "porcentagemTrajeto": 81.14350388979494,
+  "latLng": {
+   "lat": 10.407206,
+   "lng": -75.551835
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf3",
+  "id": 242484,
+  "name": "Frente Crepes",
+  "porcentagemTrajeto": 83.44427650655565,
+  "latLng": {
+   "lat": 10.404963,
+   "lng": -75.553699
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badc",
+  "id": 242369,
+  "name": "Frente Miska",
+  "porcentagemTrajeto": 85.67633993714445,
+  "latLng": {
+   "lat": 10.402812,
+   "lng": -75.555538
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad9",
+  "id": 242354,
+  "name": "Dulceria",
+  "porcentagemTrajeto": 86.83188082835247,
+  "latLng": {
+   "lat": 10.401762,
+   "lng": -75.556562
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd0",
+  "id": 242586,
+  "name": "El Pueblito",
+  "porcentagemTrajeto": 89.65800033401928,
+  "latLng": {
+   "lat": 10.399388,
+   "lng": -75.559257
+  }
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf9",
+  "id": 242451,
+  "name": "Cll 5A",
+  "porcentagemTrajeto": 2.0988309189614394,
+  "latLng": {
+   "lat": 10.399376,
+   "lng": -75.557635
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba68",
+  "id": 242144,
+  "name": "Frente Berlitz",
+  "porcentagemTrajeto": 4.900759560706213,
+  "latLng": {
+   "lat": 10.401866,
+   "lng": -75.555094
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc16",
+  "id": 242594,
+  "name": "Frente Porvenir",
+  "porcentagemTrajeto": 5.836102331360333,
+  "latLng": {
+   "lat": 10.402751,
+   "lng": -75.554304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac5",
+  "id": 242236,
+  "name": "Frente Maternidad",
+  "porcentagemTrajeto": 7.54563240203618,
+  "latLng": {
+   "lat": 10.40442,
+   "lng": -75.552922
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb5",
+  "id": 242450,
+  "name": "Cll 10",
+  "porcentagemTrajeto": 9.085447425132585,
+  "latLng": {
+   "lat": 10.40588,
+   "lng": -75.551625
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd2",
+  "id": 242596,
+  "name": "Frente Ed. Grupo Area",
+  "porcentagemTrajeto": 11.101346031996966,
+  "latLng": {
+   "lat": 10.408279,
+   "lng": -75.550782
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf2",
+  "id": 242479,
+  "name": "Entre Cll 12 y Cll 13",
+  "porcentagemTrajeto": 12.888586159876331,
+  "latLng": {
+   "lat": 10.410503,
+   "lng": -75.550433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0c",
+  "id": 242109,
+  "name": "Edificio La Marina",
+  "porcentagemTrajeto": 16.42839442160782,
+  "latLng": {
+   "lat": 10.41496,
+   "lng": -75.550423
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac8",
+  "id": 242249,
+  "name": "La Bodeguita B2",
+  "porcentagemTrajeto": 20.34175434169215,
+  "latLng": {
+   "lat": 10.419738417249432,
+   "lng": -75.55164545774461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9d",
+  "id": 242333,
+  "name": "Chambacu A2",
+  "porcentagemTrajeto": 30.30188953167722,
+  "latLng": {
+   "lat": 10.425929,
+   "lng": -75.540556
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3d",
+  "id": 242161,
+  "name": "La Popa A2",
+  "porcentagemTrajeto": 38.80464538442977,
+  "latLng": {
+   "lat": 10.420552,
+   "lng": -75.531143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baea",
+  "id": 242435,
+  "name": "Bazurto B2",
+  "porcentagemTrajeto": 45.93645435421812,
+  "latLng": {
+   "lat": 10.414171,
+   "lng": -75.524719
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badb",
+  "id": 242364,
+  "name": "España A2",
+  "porcentagemTrajeto": 56.2273156075508,
+  "latLng": {
+   "lat": 10.408284,
+   "lng": -75.512983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb50",
+  "id": 242464,
+  "name": "Cuatro Vientos A2",
+  "porcentagemTrajeto": 64.35195164881623,
+  "latLng": {
+   "lat": 10.406464,
+   "lng": -75.502748
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb13",
+  "id": 242143,
+  "name": "Los Ejecutivos A2",
+  "porcentagemTrajeto": 73.3322639144702,
+  "latLng": {
+   "lat": 10.399548,
+   "lng": -75.493653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae0",
+  "id": 242385,
+  "name": "Los Angeles A2",
+  "porcentagemTrajeto": 77.66739459007691,
+  "latLng": {
+   "lat": 10.39512,
+   "lng": -75.490408
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb79",
+  "id": 242160,
+  "name": "La Castellana B2",
+  "porcentagemTrajeto": 80.59708867728006,
+  "latLng": {
+   "lat": 10.394424,
+   "lng": -75.486725
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7a",
+  "id": 242165,
+  "name": "Madre Bernarda A2",
+  "porcentagemTrajeto": 87.15704019415432,
+  "latLng": {
+   "lat": 10.395204,
+   "lng": -75.478365
+  }
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6ba71",
+  "id": 242186,
+  "name": "Quintas Del Manantial",
+  "porcentagemTrajeto": 5,
+  "latLng": {
+   "lat": 10.377062,
+   "lng": -75.46082
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3d",
+  "id": 242561,
+  "name": "Centro Industrial Ternera",
+  "porcentagemTrajeto": 10,
+  "latLng": {
+   "lat": 10.379108,
+   "lng": -75.4627
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba54",
+  "id": 242276,
+  "name": "La Princesa",
+  "porcentagemTrajeto": 15,
+  "latLng": {
+   "lat": 10.381160889995364,
+   "lng": -75.4645112156868
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2d",
+  "id": 242481,
+  "name": "Hotel Confort",
+  "porcentagemTrajeto": 20,
+  "latLng": {
+   "lat": 10.382454,
+   "lng": -75.466113
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb08",
+  "id": 242092,
+  "name": "Centro Comercial San Fernando",
+  "porcentagemTrajeto": 25,
+  "latLng": {
+   "lat": 10.384237,
+   "lng": -75.468734
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba99",
+  "id": 242380,
+  "name": "La Bodega del Tablón",
+  "porcentagemTrajeto": 30,
+  "latLng": {
+   "lat": 10.386134,
+   "lng": -75.471565
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbde",
+  "id": 242652,
+  "name": "Urbanización Sevilla",
+  "porcentagemTrajeto": 35,
+  "latLng": {
+   "lat": 10.388137,
+   "lng": -75.474518
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba3",
+  "id": 242361,
+  "name": "Ferreteria Antioquia",
+  "porcentagemTrajeto": 40,
+  "latLng": {
+   "lat": 10.389584,
+   "lng": -75.476789
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfc",
+  "id": 242465,
+  "name": "El Campesino",
+  "porcentagemTrajeto": 45,
+  "latLng": {
+   "lat": 10.390802,
+   "lng": -75.478878
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1f",
+  "id": 242200,
+  "name": "Centro Comercial Santa Lucia",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.391647,
+   "lng": -75.480237
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb40",
+  "id": 242384,
+  "name": "La Castellana A1",
+  "porcentagemTrajeto": 55,
+  "latLng": {
+   "lat": 10.394431,
+   "lng": -75.48604
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1a",
+  "id": 242614,
+  "name": "Los Ejecutivos A1",
+  "porcentagemTrajeto": 60,
+  "latLng": {
+   "lat": 10.399455,
+   "lng": -75.493584
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9f",
+  "id": 242414,
+  "name": "República Del Líbano A1",
+  "porcentagemTrajeto": 65,
+  "latLng": {
+   "lat": 10.407362,
+   "lng": -75.507395
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc03",
+  "id": 242498,
+  "name": "Maria Auxiliadora A1",
+  "porcentagemTrajeto": 70,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515796
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb89",
+  "id": 242262,
+  "name": "Delicias B1",
+  "porcentagemTrajeto": 75,
+  "latLng": {
+   "lat": 10.416633,
+   "lng": -75.527864
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc59",
+  "id": 242610,
+  "name": "La Popa A1",
+  "porcentagemTrajeto": 80,
+  "latLng": {
+   "lat": 10.420495,
+   "lng": -75.53104
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf7",
+  "id": 242504,
+  "name": "Lo Amador A1",
+  "porcentagemTrajeto": 85,
+  "latLng": {
+   "lat": 10.422391,
+   "lng": -75.534549
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 90,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ }
+]

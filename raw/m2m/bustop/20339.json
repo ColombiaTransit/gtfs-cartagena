@@ -1,0 +1,172 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5f",
+  "id": 242639,
+  "name": "SonoMarcas",
+  "porcentagemTrajeto": 9.93744903160438,
+  "latLng": {
+   "lat": 10.39224,
+   "lng": -75.481569
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbad",
+  "id": 242411,
+  "name": "Shopping Center",
+  "porcentagemTrajeto": 15.275713852116676,
+  "latLng": {
+   "lat": 10.389972,
+   "lng": -75.48074
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babc",
+  "id": 242197,
+  "name": "Biblioteca Distrital",
+  "porcentagemTrajeto": 18.182698148678035,
+  "latLng": {
+   "lat": 10.388814,
+   "lng": -75.481368
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfa",
+  "id": 242455,
+  "name": "Colegio Naval",
+  "porcentagemTrajeto": 23.86882856765947,
+  "latLng": {
+   "lat": 10.386253,
+   "lng": -75.481187
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb4",
+  "id": 242447,
+  "name": "Centro Crisitana Nueva Vida",
+  "porcentagemTrajeto": 29.61447396897732,
+  "latLng": {
+   "lat": 10.383755,
+   "lng": -75.480476
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbdf",
+  "id": 242323,
+  "name": "Brasas De Cartagena",
+  "porcentagemTrajeto": 35.162549995363825,
+  "latLng": {
+   "lat": 10.38139,
+   "lng": -75.479637
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7e",
+  "id": 242188,
+  "name": "Portales San Fernando III",
+  "porcentagemTrajeto": 37.265248393720654,
+  "latLng": {
+   "lat": 10.380581,
+   "lng": -75.479132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb10",
+  "id": 242129,
+  "name": "Iglesia La Consolata",
+  "porcentagemTrajeto": 42.53999310058615,
+  "latLng": {
+   "lat": 10.378379,
+   "lng": -75.480054
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba30",
+  "id": 242096,
+  "name": "Baby Celnet Celulares",
+  "porcentagemTrajeto": 50.379992074894595,
+  "latLng": {
+   "lat": 10.374936,
+   "lng": -75.480889
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba39",
+  "id": 242141,
+  "name": "Ferreterias y Materiales El Educador",
+  "porcentagemTrajeto": 56.535266749731385,
+  "latLng": {
+   "lat": 10.374441,
+   "lng": -75.478109
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baaf",
+  "id": 242132,
+  "name": "Iglesia Cristiana El Acta Del Pacto",
+  "porcentagemTrajeto": 62.91607520290265,
+  "latLng": {
+   "lat": 10.373897,
+   "lng": -75.475233
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb73",
+  "id": 242651,
+  "name": "Punto Frio El Gavilan",
+  "porcentagemTrajeto": 68.56232137797693,
+  "latLng": {
+   "lat": 10.372235,
+   "lng": -75.473268
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7b",
+  "id": 242233,
+  "name": "Coosalud",
+  "porcentagemTrajeto": 75.72708938706036,
+  "latLng": {
+   "lat": 10.369524,
+   "lng": -75.475062
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8a",
+  "id": 242302,
+  "name": "Tienda La Primaveral",
+  "porcentagemTrajeto": 79.94936159389269,
+  "latLng": {
+   "lat": 10.367713,
+   "lng": -75.475667
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac6",
+  "id": 242240,
+  "name": "Iglesia Cristiana Sendero De Salvacion",
+  "porcentagemTrajeto": 84.43530266991974,
+  "latLng": {
+   "lat": 10.366463,
+   "lng": -75.477287
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf5",
+  "id": 242434,
+  "name": "Asadero Don Rico Pollo",
+  "porcentagemTrajeto": 89.81476775684528,
+  "latLng": {
+   "lat": 10.365531,
+   "lng": -75.479567
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1f",
+  "id": 242641,
+  "name": "Restaurante Rossy",
+  "porcentagemTrajeto": 92.83894642676182,
+  "latLng": {
+   "lat": 10.365175,
+   "lng": -75.480907
+  }
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baec",
+  "id": 242445,
+  "name": "Centro A2",
+  "porcentagemTrajeto": 2.7027027027027026,
+  "latLng": {
+   "lat": 10.425298,
+   "lng": -75.546235
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9d",
+  "id": 242333,
+  "name": "Chambacu A2",
+  "porcentagemTrajeto": 5.405405405405405,
+  "latLng": {
+   "lat": 10.425929,
+   "lng": -75.540556
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baea",
+  "id": 242435,
+  "name": "Bazurto B2",
+  "porcentagemTrajeto": 8.108108108108109,
+  "latLng": {
+   "lat": 10.414171,
+   "lng": -75.524719
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5a",
+  "id": 242615,
+  "name": "Maria Auxiliadora A2",
+  "porcentagemTrajeto": 10.81081081081081,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515929
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badb",
+  "id": 242364,
+  "name": "España A2",
+  "porcentagemTrajeto": 13.513513513513512,
+  "latLng": {
+   "lat": 10.408284,
+   "lng": -75.512983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafc",
+  "id": 242527,
+  "name": "República Del Líbano A2",
+  "porcentagemTrajeto": 16.216216216216218,
+  "latLng": {
+   "lat": 10.407339,
+   "lng": -75.507537
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0b",
+  "id": 242104,
+  "name": "Cuatro Vientos B2",
+  "porcentagemTrajeto": 18.91891891891892,
+  "latLng": {
+   "lat": 10.406546,
+   "lng": -75.50325
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb99",
+  "id": 242314,
+  "name": "Villa Olímpica A2",
+  "porcentagemTrajeto": 21.62162162162162,
+  "latLng": {
+   "lat": 10.403644,
+   "lng": -75.497252
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb13",
+  "id": 242143,
+  "name": "Los Ejecutivos A2",
+  "porcentagemTrajeto": 24.324324324324323,
+  "latLng": {
+   "lat": 10.399548,
+   "lng": -75.493653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baae",
+  "id": 242127,
+  "name": "Frente I.E. Las Gaviotas",
+  "porcentagemTrajeto": 27.027027027027025,
+  "latLng": {
+   "lat": 10.398504614896233,
+   "lng": -75.49201190471649
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3d",
+  "id": 242368,
+  "name": "Gaviotas Mz 32 2da Etapa",
+  "porcentagemTrajeto": 29.72972972972973,
+  "latLng": {
+   "lat": 10.400464759321112,
+   "lng": -75.48913657665254
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbb",
+  "id": 242485,
+  "name": "Gaviotas Mz 36 1ra Etapa",
+  "porcentagemTrajeto": 32.432432432432435,
+  "latLng": {
+   "lat": 10.402121507056856,
+   "lng": -75.48732072114946
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa3",
+  "id": 242085,
+  "name": "13 de Junio Tv69A No 64B-14",
+  "porcentagemTrajeto": 35.13513513513514,
+  "latLng": {
+   "lat": 10.402819,
+   "lng": -75.484697
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba4d",
+  "id": 242239,
+  "name": "Dg Olimpica 13 De Junio",
+  "porcentagemTrajeto": 37.83783783783784,
+  "latLng": {
+   "lat": 10.401435593455883,
+   "lng": -75.481835603714
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba84",
+  "id": 242275,
+  "name": "Montebianco",
+  "porcentagemTrajeto": 40.54054054054054,
+  "latLng": {
+   "lat": 10.39910347593864,
+   "lng": -75.48014044761659
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba38",
+  "id": 242136,
+  "name": "Entrada Los Cerezos",
+  "porcentagemTrajeto": 43.24324324324324,
+  "latLng": {
+   "lat": 10.396810913571581,
+   "lng": -75.47832995653154
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba40",
+  "id": 242176,
+  "name": "Paraiso Real",
+  "porcentagemTrajeto": 45.945945945945944,
+  "latLng": {
+   "lat": 10.393621348289434,
+   "lng": -75.47588914632799
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc14",
+  "id": 242584,
+  "name": "Entrada Baru",
+  "porcentagemTrajeto": 48.648648648648646,
+  "latLng": {
+   "lat": 10.391347213203671,
+   "lng": -75.4732257127762
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb65",
+  "id": 242577,
+  "name": "Colegio Castillo",
+  "porcentagemTrajeto": 51.35135135135135,
+  "latLng": {
+   "lat": 10.390919821699379,
+   "lng": -75.47076880931856
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb52",
+  "id": 242472,
+  "name": "Entrada Amarilo",
+  "porcentagemTrajeto": 54.05405405405405,
+  "latLng": {
+   "lat": 10.388814514275879,
+   "lng": -75.46826362609865
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb49",
+  "id": 242429,
+  "name": "Villa Del Sol",
+  "porcentagemTrajeto": 56.75675675675676,
+  "latLng": {
+   "lat": 10.38742,
+   "lng": -75.467633
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0a",
+  "id": 242532,
+  "name": "U. San Buenaventura",
+  "porcentagemTrajeto": 59.45945945945946,
+  "latLng": {
+   "lat": 10.386271241782207,
+   "lng": -75.46660602092744
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba32",
+  "id": 242106,
+  "name": "CC. San Fernando",
+  "porcentagemTrajeto": 62.16216216216216,
+  "latLng": {
+   "lat": 10.384820195300296,
+   "lng": -75.46581208705902
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5d",
+  "id": 242309,
+  "name": "Viper",
+  "porcentagemTrajeto": 64.86486486486487,
+  "latLng": {
+   "lat": 10.382847,
+   "lng": -75.465677
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7e",
+  "id": 242245,
+  "name": "Entrada Simon Bolivar",
+  "porcentagemTrajeto": 67.56756756756756,
+  "latLng": {
+   "lat": 10.380071,
+   "lng": -75.463729
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba28",
+  "id": 242110,
+  "name": "Cerveceria Aguila",
+  "porcentagemTrajeto": 70.27027027027027,
+  "latLng": {
+   "lat": 10.376661,
+   "lng": -75.460636
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba71",
+  "id": 242186,
+  "name": "Quintas Del Manantial",
+  "porcentagemTrajeto": 72.97297297297297,
+  "latLng": {
+   "lat": 10.377062,
+   "lng": -75.46082
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3d",
+  "id": 242561,
+  "name": "Centro Industrial Ternera",
+  "porcentagemTrajeto": 75.67567567567568,
+  "latLng": {
+   "lat": 10.379108,
+   "lng": -75.4627
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba46",
+  "id": 242208,
+  "name": "Villa Vanessa",
+  "porcentagemTrajeto": 78.37837837837837,
+  "latLng": {
+   "lat": 10.381311,
+   "lng": -75.463105
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3a",
+  "id": 242549,
+  "name": "Ara San José",
+  "porcentagemTrajeto": 81.08108108108108,
+  "latLng": {
+   "lat": 10.383845,
+   "lng": -75.461708
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4c",
+  "id": 242441,
+  "name": "Campanos Cll35 No 101-08",
+  "porcentagemTrajeto": 83.78378378378378,
+  "latLng": {
+   "lat": 10.382936,
+   "lng": -75.460234
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3f",
+  "id": 242568,
+  "name": "Colegio La Verdadera Enseñanza",
+  "porcentagemTrajeto": 86.48648648648648,
+  "latLng": {
+   "lat": 10.384107860926417,
+   "lng": -75.45877128839494
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae6",
+  "id": 242415,
+  "name": "Taller Lloreda",
+  "porcentagemTrajeto": 89.1891891891892,
+  "latLng": {
+   "lat": 10.38589924687157,
+   "lng": -75.45714050531389
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba89",
+  "id": 242298,
+  "name": "Supergiros San José",
+  "porcentagemTrajeto": 91.89189189189189,
+  "latLng": {
+   "lat": 10.388262,
+   "lng": -75.454976
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc29",
+  "id": 242461,
+  "name": "Diagonal Drogueria Shelema",
+  "porcentagemTrajeto": 94.5945945945946,
+  "latLng": {
+   "lat": 10.390007,
+   "lng": -75.4534
+  }
+ }
+]

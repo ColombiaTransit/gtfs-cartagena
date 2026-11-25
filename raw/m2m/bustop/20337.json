@@ -1,0 +1,102 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbae",
+  "id": 242416,
+  "name": "Terrazas De Granada Eje 6",
+  "porcentagemTrajeto": 8.575329179573203,
+  "latLng": {
+   "lat": 10.392345,
+   "lng": -75.471896
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb65",
+  "id": 242577,
+  "name": "Colegio Castillo",
+  "porcentagemTrajeto": 13.723249425718492,
+  "latLng": {
+   "lat": 10.390919821699379,
+   "lng": -75.47076880931856
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb52",
+  "id": 242472,
+  "name": "Entrada Amarilo",
+  "porcentagemTrajeto": 22.963414646727607,
+  "latLng": {
+   "lat": 10.388814514275879,
+   "lng": -75.46826362609865
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb49",
+  "id": 242429,
+  "name": "Villa Del Sol",
+  "porcentagemTrajeto": 27.31476646031555,
+  "latLng": {
+   "lat": 10.38742,
+   "lng": -75.467633
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0a",
+  "id": 242532,
+  "name": "U. San Buenaventura",
+  "porcentagemTrajeto": 31.676025814097397,
+  "latLng": {
+   "lat": 10.386271241782207,
+   "lng": -75.46660602092744
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba32",
+  "id": 242106,
+  "name": "CC. San Fernando",
+  "porcentagemTrajeto": 36.374047652624135,
+  "latLng": {
+   "lat": 10.384820195300296,
+   "lng": -75.46581208705902
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5d",
+  "id": 242309,
+  "name": "Viper",
+  "porcentagemTrajeto": 42.012397380733496,
+  "latLng": {
+   "lat": 10.382847,
+   "lng": -75.465677
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7e",
+  "id": 242245,
+  "name": "Entrada Simon Bolivar",
+  "porcentagemTrajeto": 51.62909341207603,
+  "latLng": {
+   "lat": 10.380071,
+   "lng": -75.463729
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba28",
+  "id": 242110,
+  "name": "Cerveceria Aguila",
+  "porcentagemTrajeto": 64.65803774081527,
+  "latLng": {
+   "lat": 10.376661,
+   "lng": -75.460636
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb30",
+  "id": 242283,
+  "name": "Tenaris",
+  "porcentagemTrajeto": 84.51227797554763,
+  "latLng": {
+   "lat": 10.371688,
+   "lng": -75.465592
+  }
+ }
+]

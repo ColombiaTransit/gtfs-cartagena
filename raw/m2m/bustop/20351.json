@@ -1,0 +1,112 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb47",
+  "id": 242418,
+  "name": "Tenaris Vuelta",
+  "porcentagemTrajeto": 7.6923076923076925,
+  "latLng": {
+   "lat": 10.371943,
+   "lng": -75.465308
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba71",
+  "id": 242186,
+  "name": "Quintas Del Manantial",
+  "porcentagemTrajeto": 15.384615384615385,
+  "latLng": {
+   "lat": 10.377062,
+   "lng": -75.46082
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3d",
+  "id": 242561,
+  "name": "Centro Industrial Ternera",
+  "porcentagemTrajeto": 23.076923076923077,
+  "latLng": {
+   "lat": 10.379108,
+   "lng": -75.4627
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba54",
+  "id": 242276,
+  "name": "La Princesa",
+  "porcentagemTrajeto": 30.76923076923077,
+  "latLng": {
+   "lat": 10.381160889995364,
+   "lng": -75.4645112156868
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf0",
+  "id": 242468,
+  "name": "Drogueria Calidad y Musica RS",
+  "porcentagemTrajeto": 38.46153846153846,
+  "latLng": {
+   "lat": 10.383282078676672,
+   "lng": -75.46557605266572
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb77",
+  "id": 242150,
+  "name": "Iglesia Ternera",
+  "porcentagemTrajeto": 46.15384615384615,
+  "latLng": {
+   "lat": 10.384187009270331,
+   "lng": -75.46567261219026
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc61",
+  "id": 242648,
+  "name": "U. San Buenaventura Vuelta",
+  "porcentagemTrajeto": 53.84615384615385,
+  "latLng": {
+   "lat": 10.38607073394211,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba55",
+  "id": 242281,
+  "name": "Marval",
+  "porcentagemTrajeto": 61.53846153846154,
+  "latLng": {
+   "lat": 10.388524307879633,
+   "lng": -75.46788811683656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb55",
+  "id": 242486,
+  "name": "Iglesia El Recreo",
+  "porcentagemTrajeto": 69.23076923076923,
+  "latLng": {
+   "lat": 10.391014797639748,
+   "lng": -75.47057300806047
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab2",
+  "id": 242147,
+  "name": "Los Abetos",
+  "porcentagemTrajeto": 76.92307692307692,
+  "latLng": {
+   "lat": 10.391239046273283,
+   "lng": -75.47192752361299
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc09",
+  "id": 242528,
+  "name": "Terrazas De Granada Eje 6 Vuelta",
+  "porcentagemTrajeto": 84.61538461538461,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.471651
+  }
+ }
+]

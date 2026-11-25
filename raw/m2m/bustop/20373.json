@@ -1,0 +1,332 @@
+[
+ {
+  "_id": "68f927b6e9c8044ceeb6fc6c",
+  "id": 301645,
+  "name": "Palmas de Salamanca 2",
+  "porcentagemTrajeto": 1.5563067834800115,
+  "latLng": {
+   "lat": 10.400762869036988,
+   "lng": -75.45690178871155
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba78",
+  "id": 242219,
+  "name": "Central De Abastos",
+  "porcentagemTrajeto": 7.412906000480738,
+  "latLng": {
+   "lat": 10.405796,
+   "lng": -75.452237
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7f",
+  "id": 242250,
+  "name": "Frente Central De Abastos",
+  "porcentagemTrajeto": 8.537539430671496,
+  "latLng": {
+   "lat": 10.406858,
+   "lng": -75.451461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb69",
+  "id": 242597,
+  "name": "Entrada Pozón",
+  "porcentagemTrajeto": 10.616815653962055,
+  "latLng": {
+   "lat": 10.405754185878378,
+   "lng": -75.4536482691765
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba37",
+  "id": 242131,
+  "name": "El Cariñoso",
+  "porcentagemTrajeto": 13.88326894612954,
+  "latLng": {
+   "lat": 10.403989294913522,
+   "lng": -75.45706808567049
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb45",
+  "id": 242406,
+  "name": "Portales De Alicante",
+  "porcentagemTrajeto": 15.93876362929096,
+  "latLng": {
+   "lat": 10.402912943954117,
+   "lng": -75.45923799276353
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb32",
+  "id": 242293,
+  "name": "Villa De La Candelaria",
+  "porcentagemTrajeto": 18.321219106624902,
+  "latLng": {
+   "lat": 10.401973771947087,
+   "lng": -75.46188801527023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbec",
+  "id": 242388,
+  "name": "Megaluminios",
+  "porcentagemTrajeto": 20.20366078370896,
+  "latLng": {
+   "lat": 10.401535842460836,
+   "lng": -75.46406865119936
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6a",
+  "id": 242154,
+  "name": "Ipanema",
+  "porcentagemTrajeto": 22.39666568517365,
+  "latLng": {
+   "lat": 10.400446292338213,
+   "lng": -75.46641290187837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfd",
+  "id": 242469,
+  "name": "Entrada Las palmeras",
+  "porcentagemTrajeto": 25.604899853855162,
+  "latLng": {
+   "lat": 10.400794526689218,
+   "lng": -75.47018945217134
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2b",
+  "id": 242471,
+  "name": "Entrada Nuevo Paraiso",
+  "porcentagemTrajeto": 27.045491963632728,
+  "latLng": {
+   "lat": 10.401446145984236,
+   "lng": -75.47175854444505
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb9",
+  "id": 242475,
+  "name": "Entrada Fredonia",
+  "porcentagemTrajeto": 29.054792574271175,
+  "latLng": {
+   "lat": 10.402348385839257,
+   "lng": -75.47394990921022
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc25",
+  "id": 242444,
+  "name": "Cementerio De Olaya",
+  "porcentagemTrajeto": 31.469088249963782,
+  "latLng": {
+   "lat": 10.403741312423568,
+   "lng": -75.47642827033998
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab4",
+  "id": 242157,
+  "name": "Olaya Sector Playa Blanca",
+  "porcentagemTrajeto": 35.161487396977186,
+  "latLng": {
+   "lat": 10.405849157306443,
+   "lng": -75.4802316427231
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd8",
+  "id": 242626,
+  "name": "Olaya Sector La Puntilla",
+  "porcentagemTrajeto": 36.79086463266801,
+  "latLng": {
+   "lat": 10.406197385628682,
+   "lng": -75.48212528228761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4d",
+  "id": 242446,
+  "name": "Centro Comercial Olaya Plaza",
+  "porcentagemTrajeto": 38.862114935519706,
+  "latLng": {
+   "lat": 10.406083947657306,
+   "lng": -75.4845714569092
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9c",
+  "id": 242399,
+  "name": "Olaya sector La Central",
+  "porcentagemTrajeto": 41.202974396967626,
+  "latLng": {
+   "lat": 10.405820138262046,
+   "lng": -75.48732608556749
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba4b",
+  "id": 242231,
+  "name": "Colegio Almirante Colon",
+  "porcentagemTrajeto": 43.706995460549486,
+  "latLng": {
+   "lat": 10.406524508850058,
+   "lng": -75.49019873142244
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf7",
+  "id": 242443,
+  "name": "Casa Justicia Chiquinquira",
+  "porcentagemTrajeto": 44.83802490836404,
+  "latLng": {
+   "lat": 10.406767212953966,
+   "lng": -75.49151301383974
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba60",
+  "id": 242103,
+  "name": "Cai Arrocera",
+  "porcentagemTrajeto": 47.68543356533363,
+  "latLng": {
+   "lat": 10.407358143895648,
+   "lng": -75.49482554197313
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2f",
+  "id": 242278,
+  "name": "Salida Perimetral Sector Rafael Nuñez",
+  "porcentagemTrajeto": 50.39714537435953,
+  "latLng": {
+   "lat": 10.407964902179923,
+   "lng": -75.4979717731476
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb70",
+  "id": 242632,
+  "name": "Olaya Sector El Tancón",
+  "porcentagemTrajeto": 52.456710854982845,
+  "latLng": {
+   "lat": 10.408410736862702,
+   "lng": -75.50036430358888
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2a",
+  "id": 242466,
+  "name": "El Libano",
+  "porcentagemTrajeto": 54.745931114305854,
+  "latLng": {
+   "lat": 10.408898780015612,
+   "lng": -75.50302505493165
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba31",
+  "id": 242101,
+  "name": "Boston",
+  "porcentagemTrajeto": 57.945989626224495,
+  "latLng": {
+   "lat": 10.409576763020212,
+   "lng": -75.50674527883531
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1e",
+  "id": 242636,
+  "name": "Pollito Pio",
+  "porcentagemTrajeto": 58.99223934166892,
+  "latLng": {
+   "lat": 10.40984320729955,
+   "lng": -75.50795227289201
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba7",
+  "id": 242381,
+  "name": "La Esquina Del Sabor",
+  "porcentagemTrajeto": 61.22805968511623,
+  "latLng": {
+   "lat": 10.41020462145328,
+   "lng": -75.51057010889053
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc19",
+  "id": 242609,
+  "name": "La Candelaria",
+  "porcentagemTrajeto": 65.08951401882213,
+  "latLng": {
+   "lat": 10.410616158227807,
+   "lng": -75.51511645317079
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba83",
+  "id": 242270,
+  "name": "Liceo Pedro de Heredia",
+  "porcentagemTrajeto": 67.59307641282726,
+  "latLng": {
+   "lat": 10.412014323981822,
+   "lng": -75.5177128314972
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babb",
+  "id": 242192,
+  "name": "Alcibia",
+  "porcentagemTrajeto": 69.48503830152335,
+  "latLng": {
+   "lat": 10.412713,
+   "lng": -75.519834
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8d",
+  "id": 242320,
+  "name": "Bazurto B1",
+  "porcentagemTrajeto": 73.68630064005579,
+  "latLng": {
+   "lat": 10.414136,
+   "lng": -75.524586
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc59",
+  "id": 242610,
+  "name": "La Popa A1",
+  "porcentagemTrajeto": 81.41276310869668,
+  "latLng": {
+   "lat": 10.420495,
+   "lng": -75.53104
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb86",
+  "id": 242247,
+  "name": "Chambacu A1",
+  "porcentagemTrajeto": 90.60799095760966,
+  "latLng": {
+   "lat": 10.42588,
+   "lng": -75.540433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcb",
+  "id": 242563,
+  "name": "Centro B1",
+  "porcentagemTrajeto": 95.94408228571777,
+  "latLng": {
+   "lat": 10.425014327184186,
+   "lng": -75.54668068885805
+  }
+ }
+]

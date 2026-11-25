@@ -1,0 +1,132 @@
+[
+ {
+  "_id": "666c53570c23964a23cb8b45",
+  "id": 245214,
+  "name": "Cc Mall Plaza",
+  "porcentagemTrajeto": 6.666666666666667,
+  "latLng": {
+   "lat": 10.425441593954327,
+   "lng": -75.54041501621747
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62112c",
+  "id": 245199,
+  "name": "Universidad Rafael Nuñez",
+  "porcentagemTrajeto": 13.333333333333334,
+  "latLng": {
+   "lat": 10.426172348845506,
+   "lng": -75.53724736083207
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621124",
+  "id": 245192,
+  "name": "Super Wings",
+  "porcentagemTrajeto": 20,
+  "latLng": {
+   "lat": 10.428129710030202,
+   "lng": -75.53540736436845
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621128",
+  "id": 245194,
+  "name": "El punto del movimiento",
+  "porcentagemTrajeto": 26.666666666666668,
+  "latLng": {
+   "lat": 10.42968054,
+   "lng": -75.53387548
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621123",
+  "id": 245182,
+  "name": "Antiguo telecom- D1",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.430983911487985,
+   "lng": -75.53259909152986
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621113",
+  "id": 245180,
+  "name": "Lubricantes y filtros del Caribe",
+  "porcentagemTrajeto": 40,
+  "latLng": {
+   "lat": 10.432358192117995,
+   "lng": -75.53112385174562
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62112b",
+  "id": 245203,
+  "name": "Pollo Express",
+  "porcentagemTrajeto": 46.66666666666667,
+  "latLng": {
+   "lat": 10.43431817652941,
+   "lng": -75.52918732166292
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621127",
+  "id": 245191,
+  "name": "Mercado de Santa Rita",
+  "porcentagemTrajeto": 53.333333333333336,
+  "latLng": {
+   "lat": 10.436038052439836,
+   "lng": -75.5278167128563
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621121",
+  "id": 245196,
+  "name": "Frente a las dunas",
+  "porcentagemTrajeto": 60,
+  "latLng": {
+   "lat": 10.43756008193275,
+   "lng": -75.52475094795228
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621115",
+  "id": 245186,
+  "name": "64-56",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.437486222787864,
+   "lng": -75.52309870719911
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621114",
+  "id": 245185,
+  "name": "Parque Lemaitre",
+  "porcentagemTrajeto": 73.33333333333334,
+  "latLng": {
+   "lat": 10.437465120171828,
+   "lng": -75.52127480506898
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621126",
+  "id": 245201,
+  "name": "Iglesia Exodo",
+  "porcentagemTrajeto": 80,
+  "latLng": {
+   "lat": 10.43737807,
+   "lng": -75.51940909
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621120",
+  "id": 245189,
+  "name": "Conjunto San Juan",
+  "porcentagemTrajeto": 86.66666666666667,
+  "latLng": {
+   "lat": 10.438784030922804,
+   "lng": -75.51885008811952
+  }
+ }
+]

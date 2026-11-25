@@ -1,0 +1,112 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baec",
+  "id": 242445,
+  "name": "Centro A2",
+  "porcentagemTrajeto": 7.6923076923076925,
+  "latLng": {
+   "lat": 10.425298,
+   "lng": -75.546235
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9d",
+  "id": 242333,
+  "name": "Chambacu A2",
+  "porcentagemTrajeto": 15.384615384615385,
+  "latLng": {
+   "lat": 10.425929,
+   "lng": -75.540556
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3d",
+  "id": 242161,
+  "name": "La Popa A2",
+  "porcentagemTrajeto": 23.076923076923077,
+  "latLng": {
+   "lat": 10.420552,
+   "lng": -75.531143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba76",
+  "id": 242211,
+  "name": "Bazurto A2",
+  "porcentagemTrajeto": 30.76923076923077,
+  "latLng": {
+   "lat": 10.413809,
+   "lng": -75.524132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf1",
+  "id": 242473,
+  "name": "El Prado A2",
+  "porcentagemTrajeto": 38.46153846153846,
+  "latLng": {
+   "lat": 10.411149,
+   "lng": -75.519656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badb",
+  "id": 242364,
+  "name": "España A2",
+  "porcentagemTrajeto": 46.15384615384615,
+  "latLng": {
+   "lat": 10.408284,
+   "lng": -75.512983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0b",
+  "id": 242104,
+  "name": "Cuatro Vientos B2",
+  "porcentagemTrajeto": 53.84615384615385,
+  "latLng": {
+   "lat": 10.406546,
+   "lng": -75.50325
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb99",
+  "id": 242314,
+  "name": "Villa Olímpica A2",
+  "porcentagemTrajeto": 61.53846153846154,
+  "latLng": {
+   "lat": 10.403644,
+   "lng": -75.497252
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb13",
+  "id": 242143,
+  "name": "Los Ejecutivos A2",
+  "porcentagemTrajeto": 69.23076923076923,
+  "latLng": {
+   "lat": 10.399548,
+   "lng": -75.493653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb79",
+  "id": 242160,
+  "name": "La Castellana B2",
+  "porcentagemTrajeto": 76.92307692307692,
+  "latLng": {
+   "lat": 10.394424,
+   "lng": -75.486725
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7a",
+  "id": 242165,
+  "name": "Madre Bernarda A2",
+  "porcentagemTrajeto": 84.61538461538461,
+  "latLng": {
+   "lat": 10.395204,
+   "lng": -75.478365
+  }
+ }
+]

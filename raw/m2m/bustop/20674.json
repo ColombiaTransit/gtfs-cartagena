@@ -1,0 +1,132 @@
+[
+ {
+  "_id": "6668bc5ad1ac2e03ae62111f",
+  "id": 245183,
+  "name": "Baluarte  del Caribe",
+  "porcentagemTrajeto": 2.530894714071429,
+  "latLng": {
+   "lat": 10.438641588831107,
+   "lng": -75.51743388175966
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62111e",
+  "id": 245179,
+  "name": "Colegio Liceo Bolívar",
+  "porcentagemTrajeto": 6.589777854599483,
+  "latLng": {
+   "lat": 10.43749149844166,
+   "lng": -75.51832437515259
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621129",
+  "id": 245202,
+  "name": "Drogas la rebaja",
+  "porcentagemTrajeto": 13.381986923134514,
+  "latLng": {
+   "lat": 10.437607562802322,
+   "lng": -75.52078127861023
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62111c",
+  "id": 245190,
+  "name": "Farmacenter V",
+  "porcentagemTrajeto": 22.373141903056617,
+  "latLng": {
+   "lat": 10.437734178419127,
+   "lng": -75.52403479814531
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62112a",
+  "id": 245197,
+  "name": "Frente al Mercado De Santarita",
+  "porcentagemTrajeto": 32.676326969465045,
+  "latLng": {
+   "lat": 10.436584084674346,
+   "lng": -75.52757799625397
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62111b",
+  "id": 245184,
+  "name": "Parque san pedro",
+  "porcentagemTrajeto": 39.33277885705385,
+  "latLng": {
+   "lat": 10.43513063443269,
+   "lng": -75.52948236465456
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62111a",
+  "id": 245181,
+  "name": "Surtimax",
+  "porcentagemTrajeto": 44.77166678621707,
+  "latLng": {
+   "lat": 10.434270695157744,
+   "lng": -75.53124725818635
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621122",
+  "id": 245200,
+  "name": "Super abasto torices",
+  "porcentagemTrajeto": 48.337010875465275,
+  "latLng": {
+   "lat": 10.43372736,
+   "lng": -75.53241423
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621118",
+  "id": 245193,
+  "name": "Clinica San José de Torices",
+  "porcentagemTrajeto": 57.54327776741176,
+  "latLng": {
+   "lat": 10.432205248477862,
+   "lng": -75.53536713123323
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621125",
+  "id": 245198,
+  "name": "Loma del diamante",
+  "porcentagemTrajeto": 63.4721483013008,
+  "latLng": {
+   "lat": 10.430699020096847,
+   "lng": -75.53687185049058
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621117",
+  "id": 245188,
+  "name": "Espiritu del manglar",
+  "porcentagemTrajeto": 75.58087314776076,
+  "latLng": {
+   "lat": 10.426808116203002,
+   "lng": -75.53876280784608
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae621116",
+  "id": 245187,
+  "name": "Chambacu",
+  "porcentagemTrajeto": 80.76658403312803,
+  "latLng": {
+   "lat": 10.426222497982968,
+   "lng": -75.54054379463197
+  }
+ },
+ {
+  "_id": "674098f5985447149cd24099",
+  "id": 288668,
+  "name": "Avenida venezuela",
+  "porcentagemTrajeto": 95.22210052362932,
+  "latLng": {
+   "lat": 10.425797792188423,
+   "lng": -75.54576069116594
+  }
+ }
+]

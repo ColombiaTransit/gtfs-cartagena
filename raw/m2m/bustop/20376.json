@@ -1,0 +1,402 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbba",
+  "id": 242480,
+  "name": "Estadio De Softbol",
+  "porcentagemTrajeto": 2.380952380952381,
+  "latLng": {
+   "lat": 10.373984,
+   "lng": -75.471971
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6b",
+  "id": 242159,
+  "name": "La Algodonera",
+  "porcentagemTrajeto": 4.761904761904762,
+  "latLng": {
+   "lat": 10.377037,
+   "lng": -75.471564
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8e",
+  "id": 242325,
+  "name": "Calamarí",
+  "porcentagemTrajeto": 7.142857142857142,
+  "latLng": {
+   "lat": 10.378885,
+   "lng": -75.472383
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb20",
+  "id": 242205,
+  "name": "Clinica ESE Rafael Calvo",
+  "porcentagemTrajeto": 9.523809523809524,
+  "latLng": {
+   "lat": 10.379133,
+   "lng": -75.475815
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc3",
+  "id": 242526,
+  "name": "Portales De San Fernando",
+  "porcentagemTrajeto": 11.904761904761905,
+  "latLng": {
+   "lat": 10.37932,
+   "lng": -75.478408
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2c",
+  "id": 242130,
+  "name": "Efecty Socorro MG1 L22",
+  "porcentagemTrajeto": 14.285714285714285,
+  "latLng": {
+   "lat": 10.379679,
+   "lng": -75.481651
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb41",
+  "id": 242386,
+  "name": "Los Jardines MG2 L16",
+  "porcentagemTrajeto": 16.666666666666668,
+  "latLng": {
+   "lat": 10.379808,
+   "lng": -75.483488
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7c",
+  "id": 242237,
+  "name": "Districarnes JG",
+  "porcentagemTrajeto": 19.047619047619047,
+  "latLng": {
+   "lat": 10.379881,
+   "lng": -75.486341
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb27",
+  "id": 242238,
+  "name": "Iglesia Nuestra Señora del Carmelo",
+  "porcentagemTrajeto": 21.428571428571427,
+  "latLng": {
+   "lat": 10.380108,
+   "lng": -75.489762
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba98",
+  "id": 242375,
+  "name": "Kiosko 61-21",
+  "porcentagemTrajeto": 23.80952380952381,
+  "latLng": {
+   "lat": 10.380916,
+   "lng": -75.492178
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb87",
+  "id": 242252,
+  "name": "Cll 14 Parque Campestre",
+  "porcentagemTrajeto": 26.19047619047619,
+  "latLng": {
+   "lat": 10.381344,
+   "lng": -75.495135
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba59",
+  "id": 242299,
+  "name": "Punta Alta",
+  "porcentagemTrajeto": 28.57142857142857,
+  "latLng": {
+   "lat": 10.382944,
+   "lng": -75.497809
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5e",
+  "id": 242634,
+  "name": "Prosegur (Villa Leon)",
+  "porcentagemTrajeto": 30.952380952380953,
+  "latLng": {
+   "lat": 10.383873,
+   "lng": -75.500204
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb58",
+  "id": 242501,
+  "name": "Los Corales",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.385453380047915,
+   "lng": -75.50074517726898
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc13",
+  "id": 242579,
+  "name": "Edificio Conjunto Militar Los Corales",
+  "porcentagemTrajeto": 35.714285714285715,
+  "latLng": {
+   "lat": 10.386759319539616,
+   "lng": -75.50175100564958
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe6",
+  "id": 242357,
+  "name": "Entrada Nuevo Bosque",
+  "porcentagemTrajeto": 38.095238095238095,
+  "latLng": {
+   "lat": 10.388125,
+   "lng": -75.504706
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0e",
+  "id": 242119,
+  "name": "Estación De Policia Nuevo Bosque",
+  "porcentagemTrajeto": 40.476190476190474,
+  "latLng": {
+   "lat": 10.387701,
+   "lng": -75.507461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4d",
+  "id": 242638,
+  "name": "San Isidro No. 25-43",
+  "porcentagemTrajeto": 42.857142857142854,
+  "latLng": {
+   "lat": 10.387588,
+   "lng": -75.511119
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba67",
+  "id": 242139,
+  "name": "Entrada San Isidro No. 53-58",
+  "porcentagemTrajeto": 45.23809523809524,
+  "latLng": {
+   "lat": 10.38885,
+   "lng": -75.514181
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc35",
+  "id": 242524,
+  "name": "Punte Peatonal Cll Periodistas",
+  "porcentagemTrajeto": 47.61904761904762,
+  "latLng": {
+   "lat": 10.388658,
+   "lng": -75.517089
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3b",
+  "id": 242553,
+  "name": "Bodega Copetran",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.389605,
+   "lng": -75.520743
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb1",
+  "id": 242432,
+  "name": "Ara Buenos Aires",
+  "porcentagemTrajeto": 52.38095238095238,
+  "latLng": {
+   "lat": 10.39329,
+   "lng": -75.520558
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baee",
+  "id": 242459,
+  "name": "Colegio Fernandez Baena",
+  "porcentagemTrajeto": 54.76190476190476,
+  "latLng": {
+   "lat": 10.396215,
+   "lng": -75.52036
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb01",
+  "id": 242551,
+  "name": "Bosque No 45-57",
+  "porcentagemTrajeto": 57.14285714285714,
+  "latLng": {
+   "lat": 10.39897,
+   "lng": -75.520242
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba72",
+  "id": 242191,
+  "name": "Supergiros Bruselas",
+  "porcentagemTrajeto": 59.523809523809526,
+  "latLng": {
+   "lat": 10.401858,
+   "lng": -75.519344
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3a",
+  "id": 242353,
+  "name": "EDS Esso Bruselas",
+  "porcentagemTrajeto": 61.904761904761905,
+  "latLng": {
+   "lat": 10.405157,
+   "lng": -75.520346
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4f",
+  "id": 242650,
+  "name": "Tv 33 entre Kr 22 y 23",
+  "porcentagemTrajeto": 64.28571428571429,
+  "latLng": {
+   "lat": 10.408081,
+   "lng": -75.520809
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc6",
+  "id": 242541,
+  "name": "Tv 33 con 29B",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.40922,
+   "lng": -75.51877
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5f",
+  "id": 242099,
+  "name": "Bazurto A1",
+  "porcentagemTrajeto": 69.04761904761905,
+  "latLng": {
+   "lat": 10.413747,
+   "lng": -75.52398
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc40",
+  "id": 242573,
+  "name": "Delicias A1",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.416249,
+   "lng": -75.52752
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf7",
+  "id": 242504,
+  "name": "Lo Amador A1",
+  "porcentagemTrajeto": 73.80952380952381,
+  "latLng": {
+   "lat": 10.422391,
+   "lng": -75.534549
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcb",
+  "id": 242563,
+  "name": "Centro B1",
+  "porcentagemTrajeto": 76.19047619047619,
+  "latLng": {
+   "lat": 10.425014327184186,
+   "lng": -75.54668068885805
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf6",
+  "id": 242499,
+  "name": "La Bodeguita A1",
+  "porcentagemTrajeto": 78.57142857142857,
+  "latLng": {
+   "lat": 10.420331961577846,
+   "lng": -75.55115193128587
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9b",
+  "id": 242394,
+  "name": "Monumento Maria Mulata",
+  "porcentagemTrajeto": 80.95238095238095,
+  "latLng": {
+   "lat": 10.414827,
+   "lng": -75.550579
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa0",
+  "id": 242419,
+  "name": "Supermercado Olimpica",
+  "porcentagemTrajeto": 83.33333333333333,
+  "latLng": {
+   "lat": 10.410568,
+   "lng": -75.550593
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6a",
+  "id": 242602,
+  "name": "Frente Ambientes",
+  "porcentagemTrajeto": 85.71428571428571,
+  "latLng": {
+   "lat": 10.407206,
+   "lng": -75.551835
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf3",
+  "id": 242484,
+  "name": "Frente Crepes",
+  "porcentagemTrajeto": 88.09523809523809,
+  "latLng": {
+   "lat": 10.404963,
+   "lng": -75.553699
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badc",
+  "id": 242369,
+  "name": "Frente Miska",
+  "porcentagemTrajeto": 90.47619047619048,
+  "latLng": {
+   "lat": 10.402812,
+   "lng": -75.555538
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad9",
+  "id": 242354,
+  "name": "Dulceria",
+  "porcentagemTrajeto": 92.85714285714286,
+  "latLng": {
+   "lat": 10.401762,
+   "lng": -75.556562
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd0",
+  "id": 242586,
+  "name": "El Pueblito",
+  "porcentagemTrajeto": 95.23809523809524,
+  "latLng": {
+   "lat": 10.399388,
+   "lng": -75.559257
+  }
+ }
+]

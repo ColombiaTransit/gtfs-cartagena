@@ -1,0 +1,442 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc55",
+  "id": 242590,
+  "name": "Ferreteria y Variedades El Chico",
+  "porcentagemTrajeto": 2.1739130434782608,
+  "latLng": {
+   "lat": 10.373947,
+   "lng": -75.475
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae5",
+  "id": 242410,
+  "name": "Restaurante La Florida",
+  "porcentagemTrajeto": 4.3478260869565215,
+  "latLng": {
+   "lat": 10.374324971386566,
+   "lng": -75.47762721776962
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcf",
+  "id": 242581,
+  "name": "Drogueria Y Variedades Maria V",
+  "porcentagemTrajeto": 6.521739130434782,
+  "latLng": {
+   "lat": 10.374653,
+   "lng": -75.479435
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baab",
+  "id": 242112,
+  "name": "Drogueria Yeika",
+  "porcentagemTrajeto": 8.695652173913043,
+  "latLng": {
+   "lat": 10.375042,
+   "lng": -75.482981
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf1",
+  "id": 242412,
+  "name": "Supergiros",
+  "porcentagemTrajeto": 10.869565217391305,
+  "latLng": {
+   "lat": 10.375319,
+   "lng": -75.485143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba52",
+  "id": 242266,
+  "name": "Institucion Educativa Fe y Alegria El Progreso",
+  "porcentagemTrajeto": 13.043478260869565,
+  "latLng": {
+   "lat": 10.375338,
+   "lng": -75.488309
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8b",
+  "id": 242305,
+  "name": "UPA La Reina",
+  "porcentagemTrajeto": 15.217391304347824,
+  "latLng": {
+   "lat": 10.375538615080975,
+   "lng": -75.48954159021379
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6c",
+  "id": 242612,
+  "name": "Institucion Educativa San Lucas",
+  "porcentagemTrajeto": 17.391304347826086,
+  "latLng": {
+   "lat": 10.37708468479603,
+   "lng": -75.49081027507783
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baeb",
+  "id": 242440,
+  "name": "Calle 14 65-34",
+  "porcentagemTrajeto": 19.565217391304348,
+  "latLng": {
+   "lat": 10.379061,
+   "lng": -75.489688
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb27",
+  "id": 242238,
+  "name": "Iglesia Nuestra Señora del Carmelo",
+  "porcentagemTrajeto": 21.73913043478261,
+  "latLng": {
+   "lat": 10.380108,
+   "lng": -75.489762
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba98",
+  "id": 242375,
+  "name": "Kiosko 61-21",
+  "porcentagemTrajeto": 23.913043478260867,
+  "latLng": {
+   "lat": 10.380916,
+   "lng": -75.492178
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7b",
+  "id": 242170,
+  "name": "Mz 16 Lt A12",
+  "porcentagemTrajeto": 26.08695652173913,
+  "latLng": {
+   "lat": 10.382925,
+   "lng": -75.494045
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb17",
+  "id": 242163,
+  "name": "Portal De Belen",
+  "porcentagemTrajeto": 28.26086956521739,
+  "latLng": {
+   "lat": 10.385809,
+   "lng": -75.49405
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb61",
+  "id": 242547,
+  "name": "Barberia Plus",
+  "porcentagemTrajeto": 30.43478260869565,
+  "latLng": {
+   "lat": 10.387845,
+   "lng": -75.491924
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb18",
+  "id": 242168,
+  "name": "Sala De Belleza Montero",
+  "porcentagemTrajeto": 32.608695652173914,
+  "latLng": {
+   "lat": 10.389539,
+   "lng": -75.491563
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0d",
+  "id": 242114,
+  "name": "Entrada Buenas Aires",
+  "porcentagemTrajeto": 34.78260869565217,
+  "latLng": {
+   "lat": 10.390313,
+   "lng": -75.491987
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2d",
+  "id": 242135,
+  "name": "Entrada La Troncal",
+  "porcentagemTrajeto": 36.95652173913043,
+  "latLng": {
+   "lat": 10.389966,
+   "lng": -75.494102
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5c",
+  "id": 242520,
+  "name": "Plaza Colon",
+  "porcentagemTrajeto": 39.130434782608695,
+  "latLng": {
+   "lat": 10.389623,
+   "lng": -75.495969
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5c",
+  "id": 242625,
+  "name": "Paradero Seguridad Al Dia Ltda",
+  "porcentagemTrajeto": 41.30434782608695,
+  "latLng": {
+   "lat": 10.391142,
+   "lng": -75.497672
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbc",
+  "id": 242490,
+  "name": "Iglesia San Enrique",
+  "porcentagemTrajeto": 43.47826086956522,
+  "latLng": {
+   "lat": 10.392398,
+   "lng": -75.499434
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4e",
+  "id": 242645,
+  "name": "Terraza De Los Luceros",
+  "porcentagemTrajeto": 45.65217391304348,
+  "latLng": {
+   "lat": 10.394353,
+   "lng": -75.498886
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2b",
+  "id": 242258,
+  "name": "Mz 96 Lt 28 Calamares",
+  "porcentagemTrajeto": 47.826086956521735,
+  "latLng": {
+   "lat": 10.396531,
+   "lng": -75.498641
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba62",
+  "id": 242113,
+  "name": "Cl 28 entre Kr 54 y 53",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.398638,
+   "lng": -75.500028
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb57",
+  "id": 242496,
+  "name": "La Caci-K Cll30 50A-115",
+  "porcentagemTrajeto": 52.17391304347826,
+  "latLng": {
+   "lat": 10.400503,
+   "lng": -75.501531
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb81",
+  "id": 242204,
+  "name": "Tv 50 entre Cl 30C y 30D",
+  "porcentagemTrajeto": 54.347826086956516,
+  "latLng": {
+   "lat": 10.402361,
+   "lng": -75.502776
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba36",
+  "id": 242126,
+  "name": "Dg 30 entre Kr 50 y Cl 30D",
+  "porcentagemTrajeto": 56.52173913043478,
+  "latLng": {
+   "lat": 10.405552,
+   "lng": -75.503187
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbfb",
+  "id": 242460,
+  "name": "Dg 30 con Cl 30C",
+  "porcentagemTrajeto": 58.69565217391304,
+  "latLng": {
+   "lat": 10.405403,
+   "lng": -75.50501
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc52",
+  "id": 242575,
+  "name": "Dg 30 entre Cl 30A y Kr 49",
+  "porcentagemTrajeto": 60.8695652173913,
+  "latLng": {
+   "lat": 10.405172,
+   "lng": -75.507304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baaa",
+  "id": 242107,
+  "name": "Cruz Roja",
+  "porcentagemTrajeto": 63.04347826086956,
+  "latLng": {
+   "lat": 10.40551,
+   "lng": -75.510037
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc49",
+  "id": 242618,
+  "name": "Mz U Lote 2( Las Lomas)",
+  "porcentagemTrajeto": 65.21739130434783,
+  "latLng": {
+   "lat": 10.402096,
+   "lng": -75.511505
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb42",
+  "id": 242391,
+  "name": "Mz B Lt 16",
+  "porcentagemTrajeto": 67.39130434782608,
+  "latLng": {
+   "lat": 10.400367,
+   "lng": -75.51162
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb6",
+  "id": 242457,
+  "name": "Colegio La Anunciacion",
+  "porcentagemTrajeto": 69.56521739130434,
+  "latLng": {
+   "lat": 10.399803,
+   "lng": -75.514519
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc33",
+  "id": 242512,
+  "name": "Parque Chile",
+  "porcentagemTrajeto": 71.73913043478261,
+  "latLng": {
+   "lat": 10.399784,
+   "lng": -75.517825
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba72",
+  "id": 242191,
+  "name": "Supergiros Bruselas",
+  "porcentagemTrajeto": 73.91304347826086,
+  "latLng": {
+   "lat": 10.401858,
+   "lng": -75.519344
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2c",
+  "id": 242476,
+  "name": "Frente a Sociedad Portuaria",
+  "porcentagemTrajeto": 76.08695652173913,
+  "latLng": {
+   "lat": 10.407738,
+   "lng": -75.529099
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb95",
+  "id": 242310,
+  "name": "Portus",
+  "porcentagemTrajeto": 78.26086956521739,
+  "latLng": {
+   "lat": 10.409185,
+   "lng": -75.5315
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1b",
+  "id": 242619,
+  "name": "Mz 28 Lt 35",
+  "porcentagemTrajeto": 80.43478260869564,
+  "latLng": {
+   "lat": 10.411267,
+   "lng": -75.53323
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4a",
+  "id": 242431,
+  "name": "Alheli",
+  "porcentagemTrajeto": 82.6086956521739,
+  "latLng": {
+   "lat": 10.410149,
+   "lng": -75.535243
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc28",
+  "id": 242456,
+  "name": "Conjunto Residencial Edificio Michael",
+  "porcentagemTrajeto": 84.78260869565217,
+  "latLng": {
+   "lat": 10.412546,
+   "lng": -75.536883
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb23",
+  "id": 242221,
+  "name": "Edificio Olga",
+  "porcentagemTrajeto": 86.95652173913044,
+  "latLng": {
+   "lat": 10.415123,
+   "lng": -75.538444
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc4",
+  "id": 242531,
+  "name": "Saludarte",
+  "porcentagemTrajeto": 89.13043478260869,
+  "latLng": {
+   "lat": 10.416326,
+   "lng": -75.540739
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8c",
+  "id": 242277,
+  "name": "Fatima (Dadis)",
+  "porcentagemTrajeto": 91.30434782608695,
+  "latLng": {
+   "lat": 10.418795,
+   "lng": -75.546279
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc45",
+  "id": 242598,
+  "name": "Iglesia Tercera Orden",
+  "porcentagemTrajeto": 93.47826086956522,
+  "latLng": {
+   "lat": 10.420693363570622,
+   "lng": -75.54802179336548
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf8",
+  "id": 242509,
+  "name": "Muelle De Los Pegasos",
+  "porcentagemTrajeto": 95.65217391304347,
+  "latLng": {
+   "lat": 10.422117,
+   "lng": -75.548303
+  }
+ }
+]

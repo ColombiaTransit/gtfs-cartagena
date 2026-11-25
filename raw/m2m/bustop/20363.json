@@ -1,0 +1,192 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb91",
+  "id": 242300,
+  "name": "Madre Bernarda B1",
+  "porcentagemTrajeto": 5.086565148864136,
+  "latLng": {
+   "lat": 10.395049,
+   "lng": -75.478819
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac9",
+  "id": 242254,
+  "name": "Los Angeles A1",
+  "porcentagemTrajeto": 14.161843489110778,
+  "latLng": {
+   "lat": 10.395094,
+   "lng": -75.490287
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb82",
+  "id": 242209,
+  "name": "Villa Olímpica A1",
+  "porcentagemTrajeto": 22.86218616960898,
+  "latLng": {
+   "lat": 10.403579,
+   "lng": -75.497103
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9f",
+  "id": 242414,
+  "name": "República Del Líbano A1",
+  "porcentagemTrajeto": 31.556634905026783,
+  "latLng": {
+   "lat": 10.407362,
+   "lng": -75.507395
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc03",
+  "id": 242498,
+  "name": "Maria Auxiliadora A1",
+  "porcentagemTrajeto": 38.33338816791202,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515796
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba94",
+  "id": 242355,
+  "name": "El Prado A1",
+  "porcentagemTrajeto": 41.734315198227534,
+  "latLng": {
+   "lat": 10.411114,
+   "lng": -75.519516
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8d",
+  "id": 242320,
+  "name": "Bazurto B1",
+  "porcentagemTrajeto": 46.42548272433348,
+  "latLng": {
+   "lat": 10.414136,
+   "lng": -75.524586
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb86",
+  "id": 242247,
+  "name": "Chambacu A1",
+  "porcentagemTrajeto": 62.12636405815074,
+  "latLng": {
+   "lat": 10.42588,
+   "lng": -75.540433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 66.71791503952011,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6f",
+  "id": 242179,
+  "name": "Parque De La Marina",
+  "porcentagemTrajeto": 72.17693082689183,
+  "latLng": {
+   "lat": 10.42050079175804,
+   "lng": -75.55100149293092
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb07",
+  "id": 242090,
+  "name": "Cancha Bambino",
+  "porcentagemTrajeto": 74.60876102692899,
+  "latLng": {
+   "lat": 10.42216994373266,
+   "lng": -75.5535636581534
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb19",
+  "id": 242173,
+  "name": "Teatro Heredia",
+  "porcentagemTrajeto": 79.20793698439094,
+  "latLng": {
+   "lat": 10.42738,
+   "lng": -75.551172
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8a",
+  "id": 242267,
+  "name": "El Boquetillo",
+  "porcentagemTrajeto": 81.34015464335232,
+  "latLng": {
+   "lat": 10.428875,
+   "lng": -75.548947
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9f",
+  "id": 242342,
+  "name": "Colegio Modelo De La Costa",
+  "porcentagemTrajeto": 86.0671737650781,
+  "latLng": {
+   "lat": 10.43216,
+   "lng": -75.543994
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf5",
+  "id": 242494,
+  "name": "Kr 1 entre Cl 43 y 44",
+  "porcentagemTrajeto": 88.0684013324539,
+  "latLng": {
+   "lat": 10.433328,
+   "lng": -75.541761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3b",
+  "id": 242358,
+  "name": "Entrada El cabrero",
+  "porcentagemTrajeto": 89.75151148353213,
+  "latLng": {
+   "lat": 10.434343,
+   "lng": -75.539901
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb39",
+  "id": 242348,
+  "name": "DATT",
+  "porcentagemTrajeto": 92.14420447382909,
+  "latLng": {
+   "lat": 10.435907,
+   "lng": -75.537329
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb51",
+  "id": 242467,
+  "name": "Edificio Altamar",
+  "porcentagemTrajeto": 95.26624316535008,
+  "latLng": {
+   "lat": 10.437117,
+   "lng": -75.53358
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc60",
+  "id": 242643,
+  "name": "Terrazas De San Sebastian",
+  "porcentagemTrajeto": 96.95454463570977,
+  "latLng": {
+   "lat": 10.438301310236863,
+   "lng": -75.53181856870653
+  }
+ }
+]

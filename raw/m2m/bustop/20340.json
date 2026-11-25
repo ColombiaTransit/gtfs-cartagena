@@ -1,0 +1,152 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5f",
+  "id": 242639,
+  "name": "SonoMarcas",
+  "porcentagemTrajeto": 11.00615498529246,
+  "latLng": {
+   "lat": 10.39224,
+   "lng": -75.481569
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbad",
+  "id": 242411,
+  "name": "Shopping Center",
+  "porcentagemTrajeto": 16.80660723615214,
+  "latLng": {
+   "lat": 10.389972,
+   "lng": -75.48074
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babc",
+  "id": 242197,
+  "name": "Biblioteca Distrital",
+  "porcentagemTrajeto": 19.965278484796738,
+  "latLng": {
+   "lat": 10.388814,
+   "lng": -75.481368
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb21",
+  "id": 242210,
+  "name": "Colegio Juan Jose Nieto",
+  "porcentagemTrajeto": 26.730587236145237,
+  "latLng": {
+   "lat": 10.386146,
+   "lng": -75.482268
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc36",
+  "id": 242529,
+  "name": "Supergiros",
+  "porcentagemTrajeto": 33.54149102975281,
+  "latLng": {
+   "lat": 10.38346,
+   "lng": -75.483174
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2c",
+  "id": 242263,
+  "name": "Olimpica Carmelo",
+  "porcentagemTrajeto": 40.11400454853863,
+  "latLng": {
+   "lat": 10.380895,
+   "lng": -75.484127
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2a",
+  "id": 242253,
+  "name": "Los Jardines",
+  "porcentagemTrajeto": 43.77119199755492,
+  "latLng": {
+   "lat": 10.379699,
+   "lng": -75.483174
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3f",
+  "id": 242171,
+  "name": "Nueva Jerusalen La Consolata",
+  "porcentagemTrajeto": 47.987488227038995,
+  "latLng": {
+   "lat": 10.379581,
+   "lng": -75.481397
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0b",
+  "id": 242537,
+  "name": "Villa Rubia",
+  "porcentagemTrajeto": 54.910707967711325,
+  "latLng": {
+   "lat": 10.379241,
+   "lng": -75.478493
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb09",
+  "id": 242094,
+  "name": "Clinica ESE Rafael Calvo",
+  "porcentagemTrajeto": 60.99901469175738,
+  "latLng": {
+   "lat": 10.379071,
+   "lng": -75.475927
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab7",
+  "id": 242172,
+  "name": "Restaurante Chung Fa",
+  "porcentagemTrajeto": 68.97250224988565,
+  "latLng": {
+   "lat": 10.378827,
+   "lng": -75.472568
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe9",
+  "id": 242372,
+  "name": "Institución Educativa Mecerdes Abrego",
+  "porcentagemTrajeto": 73.65572699373803,
+  "latLng": {
+   "lat": 10.379702,
+   "lng": -75.470801
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc1",
+  "id": 242516,
+  "name": "Olimpica San Fernando",
+  "porcentagemTrajeto": 80.09697927770046,
+  "latLng": {
+   "lat": 10.381933,
+   "lng": -75.469298
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7a",
+  "id": 242228,
+  "name": "Colegio De La Policia Nacional",
+  "porcentagemTrajeto": 87.91499644721264,
+  "latLng": {
+   "lat": 10.382166,
+   "lng": -75.466004
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7e",
+  "id": 242245,
+  "name": "Entrada Simon Bolivar",
+  "porcentagemTrajeto": 95.29246516836935,
+  "latLng": {
+   "lat": 10.380071,
+   "lng": -75.463729
+  }
+ }
+]

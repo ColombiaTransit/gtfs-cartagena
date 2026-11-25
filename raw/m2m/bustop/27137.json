@@ -1,0 +1,162 @@
+[
+ {
+  "_id": "68f922099840590f2e02095b",
+  "id": 301638,
+  "name": "Sector La Unión Mz H",
+  "porcentagemTrajeto": 6.303025758336539,
+  "latLng": {
+   "lat": 10.422545212459044,
+   "lng": -75.45915752649309
+  }
+ },
+ {
+  "_id": "68f9229ecabd0b0f2d147d90",
+  "id": 301639,
+  "name": "Hogar Family Mis Primeros Pasos",
+  "porcentagemTrajeto": 10.687136169004992,
+  "latLng": {
+   "lat": 10.420917590873628,
+   "lng": -75.45824825763704
+  }
+ },
+ {
+  "_id": "68f923e195c4f86c1331b361",
+  "id": 301640,
+  "name": "Sector Minuto de Dios (Lote)",
+  "porcentagemTrajeto": 19.38039555886963,
+  "latLng": {
+   "lat": 10.41769134013603,
+   "lng": -75.45644313097002
+  }
+ },
+ {
+  "_id": "68f924c495c4f86c1331b368",
+  "id": 301641,
+  "name": "Miramar Mz 201 Lote 12",
+  "porcentagemTrajeto": 26.72080454940957,
+  "latLng": {
+   "lat": 10.414961003728678,
+   "lng": -75.45493036508562
+  }
+ },
+ {
+  "_id": "68f925c3bab62d1e4dee9d72",
+  "id": 301642,
+  "name": "Al lado de Chatarrería",
+  "porcentagemTrajeto": 33.26627422359589,
+  "latLng": {
+   "lat": 10.412497085418213,
+   "lng": -75.45363754034044
+  }
+ },
+ {
+  "_id": "68f92676ce13f9334df458a6",
+  "id": 301643,
+  "name": "Al Lado de Taller Mecánico",
+  "porcentagemTrajeto": 39.26983714636523,
+  "latLng": {
+   "lat": 10.410099099115916,
+   "lng": -75.45277655124666
+  }
+ },
+ {
+  "_id": "68f92701f4f2f76c14b49c0a",
+  "id": 301644,
+  "name": "Mi Tiendita",
+  "porcentagemTrajeto": 44.52339067644744,
+  "latLng": {
+   "lat": 10.40843711759319,
+   "lng": -75.45127183198929
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7f",
+  "id": 242250,
+  "name": "Frente Central De Abastos",
+  "porcentagemTrajeto": 48.27701998281806,
+  "latLng": {
+   "lat": 10.406858,
+   "lng": -75.451461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb69",
+  "id": 242597,
+  "name": "Entrada Pozón",
+  "porcentagemTrajeto": 53.98509674866666,
+  "latLng": {
+   "lat": 10.405754185878378,
+   "lng": -75.4536482691765
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba37",
+  "id": 242131,
+  "name": "El Cariñoso",
+  "porcentagemTrajeto": 62.952239225890786,
+  "latLng": {
+   "lat": 10.403989294913522,
+   "lng": -75.45706808567049
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb45",
+  "id": 242406,
+  "name": "Portales De Alicante",
+  "porcentagemTrajeto": 68.59503036246768,
+  "latLng": {
+   "lat": 10.402912943954117,
+   "lng": -75.45923799276353
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb32",
+  "id": 242293,
+  "name": "Villa De La Candelaria",
+  "porcentagemTrajeto": 75.13540176839716,
+  "latLng": {
+   "lat": 10.401973771947087,
+   "lng": -75.46188801527023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbec",
+  "id": 242388,
+  "name": "Megaluminios",
+  "porcentagemTrajeto": 80.30312382459606,
+  "latLng": {
+   "lat": 10.401535842460836,
+   "lng": -75.46406865119936
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6a",
+  "id": 242154,
+  "name": "Ipanema",
+  "porcentagemTrajeto": 86.32341116555963,
+  "latLng": {
+   "lat": 10.400446292338213,
+   "lng": -75.46641290187837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8b",
+  "id": 242272,
+  "name": "Entrada Las Palmeras",
+  "porcentagemTrajeto": 93.79579473712072,
+  "latLng": {
+   "lat": 10.399099,
+   "lng": -75.469325
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6e",
+  "id": 242622,
+  "name": "Las Palmeras",
+  "porcentagemTrajeto": 98.27067802652077,
+  "latLng": {
+   "lat": 10.398356,
+   "lng": -75.471098
+  }
+ }
+]

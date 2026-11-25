@@ -1,0 +1,412 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf9",
+  "id": 242451,
+  "name": "Cll 5A",
+  "porcentagemTrajeto": 2.3255813953488373,
+  "latLng": {
+   "lat": 10.399376,
+   "lng": -75.557635
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba68",
+  "id": 242144,
+  "name": "Frente Berlitz",
+  "porcentagemTrajeto": 4.651162790697675,
+  "latLng": {
+   "lat": 10.401866,
+   "lng": -75.555094
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc16",
+  "id": 242594,
+  "name": "Frente Porvenir",
+  "porcentagemTrajeto": 6.976744186046512,
+  "latLng": {
+   "lat": 10.402751,
+   "lng": -75.554304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac5",
+  "id": 242236,
+  "name": "Frente Maternidad",
+  "porcentagemTrajeto": 9.30232558139535,
+  "latLng": {
+   "lat": 10.40442,
+   "lng": -75.552922
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb5",
+  "id": 242450,
+  "name": "Cll 10",
+  "porcentagemTrajeto": 11.627906976744187,
+  "latLng": {
+   "lat": 10.40588,
+   "lng": -75.551625
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd2",
+  "id": 242596,
+  "name": "Frente Ed. Grupo Area",
+  "porcentagemTrajeto": 13.953488372093023,
+  "latLng": {
+   "lat": 10.408279,
+   "lng": -75.550782
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf2",
+  "id": 242479,
+  "name": "Entre Cll 12 y Cll 13",
+  "porcentagemTrajeto": 16.27906976744186,
+  "latLng": {
+   "lat": 10.410503,
+   "lng": -75.550433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0c",
+  "id": 242109,
+  "name": "Edificio La Marina",
+  "porcentagemTrajeto": 18.6046511627907,
+  "latLng": {
+   "lat": 10.41496,
+   "lng": -75.550423
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac8",
+  "id": 242249,
+  "name": "La Bodeguita B2",
+  "porcentagemTrajeto": 20.930232558139537,
+  "latLng": {
+   "lat": 10.419738417249432,
+   "lng": -75.55164545774461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa7",
+  "id": 242093,
+  "name": "Centro B2",
+  "porcentagemTrajeto": 23.255813953488374,
+  "latLng": {
+   "lat": 10.42493518919537,
+   "lng": -75.546672642231
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd6",
+  "id": 242616,
+  "name": "Lo Amador A2",
+  "porcentagemTrajeto": 25.581395348837212,
+  "latLng": {
+   "lat": 10.422367,
+   "lng": -75.534678
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2b",
+  "id": 242125,
+  "name": "Delicias A2",
+  "porcentagemTrajeto": 27.906976744186046,
+  "latLng": {
+   "lat": 10.416298,
+   "lng": -75.52761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba76",
+  "id": 242211,
+  "name": "Bazurto A2",
+  "porcentagemTrajeto": 30.232558139534884,
+  "latLng": {
+   "lat": 10.413809,
+   "lng": -75.524132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3e",
+  "id": 242166,
+  "name": "Martinez Martelo Dg 22 No. 20-50",
+  "porcentagemTrajeto": 32.55813953488372,
+  "latLng": {
+   "lat": 10.408964731734468,
+   "lng": -75.52175223827363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb35",
+  "id": 242327,
+  "name": "Cancha Microfutbol Martinez Martelo",
+  "porcentagemTrajeto": 34.88372093023256,
+  "latLng": {
+   "lat": 10.407666799344263,
+   "lng": -75.52255421876909
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb90",
+  "id": 242297,
+  "name": "La Cuchilla",
+  "porcentagemTrajeto": 37.2093023255814,
+  "latLng": {
+   "lat": 10.404036780899753,
+   "lng": -75.52160739898683
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba34",
+  "id": 242116,
+  "name": "Coca Cola",
+  "porcentagemTrajeto": 39.53488372093023,
+  "latLng": {
+   "lat": 10.401382830808751,
+   "lng": -75.5216744542122
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbff",
+  "id": 242478,
+  "name": "Hogar San Pedro Claver",
+  "porcentagemTrajeto": 41.86046511627907,
+  "latLng": {
+   "lat": 10.397718,
+   "lng": -75.521895
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbdb",
+  "id": 242640,
+  "name": "Restaurante Bumangues",
+  "porcentagemTrajeto": 44.18604651162791,
+  "latLng": {
+   "lat": 10.394099,
+   "lng": -75.522154
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba4f",
+  "id": 242251,
+  "name": "Entrada Manzanillo",
+  "porcentagemTrajeto": 46.51162790697675,
+  "latLng": {
+   "lat": 10.392215,
+   "lng": -75.522234
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbac",
+  "id": 242407,
+  "name": "Postobon",
+  "porcentagemTrajeto": 48.83720930232558,
+  "latLng": {
+   "lat": 10.388729,
+   "lng": -75.521225
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5b",
+  "id": 242620,
+  "name": "Navitrans",
+  "porcentagemTrajeto": 51.162790697674424,
+  "latLng": {
+   "lat": 10.38851,
+   "lng": -75.517589
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb98",
+  "id": 242313,
+  "name": "Tv 54 con Dg 22",
+  "porcentagemTrajeto": 53.48837209302326,
+  "latLng": {
+   "lat": 10.388408,
+   "lng": -75.515596
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc32",
+  "id": 242508,
+  "name": "Nuevo Oriente (Bascula)",
+  "porcentagemTrajeto": 55.81395348837209,
+  "latLng": {
+   "lat": 10.388049424104535,
+   "lng": -75.51332205533983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba47",
+  "id": 242213,
+  "name": "Bajo San Isidro",
+  "porcentagemTrajeto": 58.139534883720934,
+  "latLng": {
+   "lat": 10.387141866438368,
+   "lng": -75.51148205995561
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb24",
+  "id": 242225,
+  "name": "Entrada Ceballos",
+  "porcentagemTrajeto": 60.46511627906977,
+  "latLng": {
+   "lat": 10.384830748389929,
+   "lng": -75.50702422857286
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc07",
+  "id": 242517,
+  "name": "Proleca",
+  "porcentagemTrajeto": 62.79069767441861,
+  "latLng": {
+   "lat": 10.382474762292397,
+   "lng": -75.5011957883835
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf0",
+  "id": 242408,
+  "name": "Punta Alta Vuelta",
+  "porcentagemTrajeto": 65.11627906976744,
+  "latLng": {
+   "lat": 10.383529,
+   "lng": -75.499722
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba29",
+  "id": 242115,
+  "name": "Cll 14 Entrada Golf",
+  "porcentagemTrajeto": 67.44186046511628,
+  "latLng": {
+   "lat": 10.382472124000152,
+   "lng": -75.49696862697603
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7d",
+  "id": 242241,
+  "name": "El Milagro Soldadura Diaz",
+  "porcentagemTrajeto": 69.76744186046513,
+  "latLng": {
+   "lat": 10.381069,
+   "lng": -75.494446
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5e",
+  "id": 242530,
+  "name": "Taller Mañe",
+  "porcentagemTrajeto": 72.09302325581396,
+  "latLng": {
+   "lat": 10.380185,
+   "lng": -75.49221
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5b",
+  "id": 242304,
+  "name": "Tienda El Puente.Com",
+  "porcentagemTrajeto": 74.4186046511628,
+  "latLng": {
+   "lat": 10.379045,
+   "lng": -75.490372
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baeb",
+  "id": 242440,
+  "name": "Calle 14 65-34",
+  "porcentagemTrajeto": 76.74418604651163,
+  "latLng": {
+   "lat": 10.379061,
+   "lng": -75.489688
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5a",
+  "id": 242301,
+  "name": "Super Mercado Precio Facil",
+  "porcentagemTrajeto": 79.06976744186046,
+  "latLng": {
+   "lat": 10.379831,
+   "lng": -75.486617
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2a",
+  "id": 242253,
+  "name": "Los Jardines",
+  "porcentagemTrajeto": 81.39534883720931,
+  "latLng": {
+   "lat": 10.379699,
+   "lng": -75.483174
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3f",
+  "id": 242171,
+  "name": "Nueva Jerusalen La Consolata",
+  "porcentagemTrajeto": 83.72093023255815,
+  "latLng": {
+   "lat": 10.379581,
+   "lng": -75.481397
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0b",
+  "id": 242537,
+  "name": "Villa Rubia",
+  "porcentagemTrajeto": 86.04651162790698,
+  "latLng": {
+   "lat": 10.379241,
+   "lng": -75.478493
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb09",
+  "id": 242094,
+  "name": "Clinica ESE Rafael Calvo",
+  "porcentagemTrajeto": 88.37209302325581,
+  "latLng": {
+   "lat": 10.379071,
+   "lng": -75.475927
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab7",
+  "id": 242172,
+  "name": "Restaurante Chung Fa",
+  "porcentagemTrajeto": 90.69767441860466,
+  "latLng": {
+   "lat": 10.378827,
+   "lng": -75.472568
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6d",
+  "id": 242617,
+  "name": "La Algodonera Vuelta",
+  "porcentagemTrajeto": 93.0232558139535,
+  "latLng": {
+   "lat": 10.376418,
+   "lng": -75.471696
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8d",
+  "id": 242282,
+  "name": "Hogar De Bien",
+  "porcentagemTrajeto": 95.34883720930233,
+  "latLng": {
+   "lat": 10.37438,
+   "lng": -75.471932
+  }
+ }
+]

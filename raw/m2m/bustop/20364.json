@@ -1,0 +1,222 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc15",
+  "id": 242589,
+  "name": "Esquina Carrera 6",
+  "porcentagemTrajeto": 4.166666666666667,
+  "latLng": {
+   "lat": 10.447547,
+   "lng": -75.517468
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba27",
+  "id": 242105,
+  "name": "Carrera 4",
+  "porcentagemTrajeto": 8.333333333333334,
+  "latLng": {
+   "lat": 10.445677,
+   "lng": -75.517659
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3c",
+  "id": 242558,
+  "name": "Carrera 2",
+  "porcentagemTrajeto": 12.5,
+  "latLng": {
+   "lat": 10.443605,
+   "lng": -75.517873
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf4",
+  "id": 242427,
+  "name": "Vivero Rincon Del Mar",
+  "porcentagemTrajeto": 16.666666666666668,
+  "latLng": {
+   "lat": 10.443112,
+   "lng": -75.518516
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc44",
+  "id": 242593,
+  "name": "Gimnasio-Estetica-Peluqueria",
+  "porcentagemTrajeto": 20.833333333333336,
+  "latLng": {
+   "lat": 10.442969,
+   "lng": -75.520921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbca",
+  "id": 242559,
+  "name": "Calle 64",
+  "porcentagemTrajeto": 25,
+  "latLng": {
+   "lat": 10.443004,
+   "lng": -75.523109
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba92",
+  "id": 242345,
+  "name": "Corales de Indias",
+  "porcentagemTrajeto": 29.166666666666668,
+  "latLng": {
+   "lat": 10.442889,
+   "lng": -75.525241
+  }
+ },
+ {
+  "_id": "6834cf813a83b3788ae811d8",
+  "id": 289243,
+  "name": "Terrazas De San Sebastian Vuelta",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.438641588831107,
+   "lng": -75.53164422512056
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd4",
+  "id": 242605,
+  "name": "Kr 1 entre Cl 47 y 46",
+  "porcentagemTrajeto": 37.5,
+  "latLng": {
+   "lat": 10.436439,
+   "lng": -75.536824
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc9",
+  "id": 242554,
+  "name": "Bellavista Hotel",
+  "porcentagemTrajeto": 41.66666666666667,
+  "latLng": {
+   "lat": 10.435529,
+   "lng": -75.538304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba1",
+  "id": 242351,
+  "name": "El Cabrero",
+  "porcentagemTrajeto": 45.833333333333336,
+  "latLng": {
+   "lat": 10.434021,
+   "lng": -75.54073
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baef",
+  "id": 242463,
+  "name": "Costa Azul",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.432911,
+   "lng": -75.542989
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb54",
+  "id": 242482,
+  "name": "Frente Parque Apolo",
+  "porcentagemTrajeto": 54.16666666666667,
+  "latLng": {
+   "lat": 10.4301,
+   "lng": -75.5446
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf6",
+  "id": 242438,
+  "name": "Boquete Paz Concordia San Diego",
+  "porcentagemTrajeto": 58.333333333333336,
+  "latLng": {
+   "lat": 10.427604,
+   "lng": -75.544905
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9d",
+  "id": 242333,
+  "name": "Chambacu A2",
+  "porcentagemTrajeto": 62.50000000000001,
+  "latLng": {
+   "lat": 10.425929,
+   "lng": -75.540556
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baea",
+  "id": 242435,
+  "name": "Bazurto B2",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.414171,
+   "lng": -75.524719
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf1",
+  "id": 242473,
+  "name": "El Prado A2",
+  "porcentagemTrajeto": 70.83333333333334,
+  "latLng": {
+   "lat": 10.411149,
+   "lng": -75.519656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5a",
+  "id": 242615,
+  "name": "Maria Auxiliadora A2",
+  "porcentagemTrajeto": 75,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515929
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafc",
+  "id": 242527,
+  "name": "República Del Líbano A2",
+  "porcentagemTrajeto": 79.16666666666667,
+  "latLng": {
+   "lat": 10.407339,
+   "lng": -75.507537
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb99",
+  "id": 242314,
+  "name": "Villa Olímpica A2",
+  "porcentagemTrajeto": 83.33333333333334,
+  "latLng": {
+   "lat": 10.403644,
+   "lng": -75.497252
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae0",
+  "id": 242385,
+  "name": "Los Angeles A2",
+  "porcentagemTrajeto": 87.5,
+  "latLng": {
+   "lat": 10.39512,
+   "lng": -75.490408
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba8",
+  "id": 242387,
+  "name": "Madre Bernarda B2",
+  "porcentagemTrajeto": 91.66666666666667,
+  "latLng": {
+   "lat": 10.394971,
+   "lng": -75.478921
+  }
+ }
+]

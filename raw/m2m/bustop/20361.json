@@ -1,0 +1,112 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc48",
+  "id": 242613,
+  "name": "Madre Bernarda A1",
+  "porcentagemTrajeto": 6.477639561776299,
+  "latLng": {
+   "lat": 10.39529,
+   "lng": -75.478269
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc47",
+  "id": 242608,
+  "name": "La Castellana B1",
+  "porcentagemTrajeto": 16.32632040793202,
+  "latLng": {
+   "lat": 10.394456,
+   "lng": -75.48661
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1a",
+  "id": 242614,
+  "name": "Los Ejecutivos A1",
+  "porcentagemTrajeto": 26.46331648572039,
+  "latLng": {
+   "lat": 10.399455,
+   "lng": -75.493584
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb82",
+  "id": 242209,
+  "name": "Villa Olímpica A1",
+  "porcentagemTrajeto": 32.89340055573285,
+  "latLng": {
+   "lat": 10.403579,
+   "lng": -75.497103
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc12",
+  "id": 242574,
+  "name": "Cuatro Vientos B1",
+  "porcentagemTrajeto": 40.86796634709253,
+  "latLng": {
+   "lat": 10.406581,
+   "lng": -75.503167
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac4",
+  "id": 242232,
+  "name": "España A1",
+  "porcentagemTrajeto": 52.421007097704205,
+  "latLng": {
+   "lat": 10.408304,
+   "lng": -75.512845
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba94",
+  "id": 242355,
+  "name": "El Prado A1",
+  "porcentagemTrajeto": 60.945472293259165,
+  "latLng": {
+   "lat": 10.411114,
+   "lng": -75.519516
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5f",
+  "id": 242099,
+  "name": "Bazurto A1",
+  "porcentagemTrajeto": 67.05968077613161,
+  "latLng": {
+   "lat": 10.413747,
+   "lng": -75.52398
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc59",
+  "id": 242610,
+  "name": "La Popa A1",
+  "porcentagemTrajeto": 78.62343873023055,
+  "latLng": {
+   "lat": 10.420495,
+   "lng": -75.53104
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb86",
+  "id": 242247,
+  "name": "Chambacu A1",
+  "porcentagemTrajeto": 91.39403981362958,
+  "latLng": {
+   "lat": 10.42588,
+   "lng": -75.540433
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 98.20985448199954,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ }
+]

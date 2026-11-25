@@ -1,0 +1,52 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baa7",
+  "id": 242093,
+  "name": "Centro B2",
+  "porcentagemTrajeto": 14.285714285714286,
+  "latLng": {
+   "lat": 10.42493518919537,
+   "lng": -75.546672642231
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5a",
+  "id": 242615,
+  "name": "Maria Auxiliadora A2",
+  "porcentagemTrajeto": 28.571428571428573,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515929
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb50",
+  "id": 242464,
+  "name": "Cuatro Vientos A2",
+  "porcentagemTrajeto": 42.85714285714286,
+  "latLng": {
+   "lat": 10.406464,
+   "lng": -75.502748
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbe",
+  "id": 242500,
+  "name": "La Castellana A2",
+  "porcentagemTrajeto": 57.142857142857146,
+  "latLng": {
+   "lat": 10.394399,
+   "lng": -75.486172
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba8",
+  "id": 242387,
+  "name": "Madre Bernarda B2",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.394971,
+   "lng": -75.478921
+  }
+ }
+]

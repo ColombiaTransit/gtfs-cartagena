@@ -1,0 +1,192 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baec",
+  "id": 242445,
+  "name": "Centro A2",
+  "porcentagemTrajeto": 8.378710595261996,
+  "latLng": {
+   "lat": 10.425298,
+   "lng": -75.546235
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba0",
+  "id": 242346,
+  "name": "Delicias B2",
+  "porcentagemTrajeto": 32.27118194185635,
+  "latLng": {
+   "lat": 10.416707,
+   "lng": -75.527962
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba76",
+  "id": 242211,
+  "name": "Bazurto A2",
+  "porcentagemTrajeto": 37.97180411805706,
+  "latLng": {
+   "lat": 10.413809,
+   "lng": -75.524132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf1",
+  "id": 242473,
+  "name": "El Prado A2",
+  "porcentagemTrajeto": 44.14122542033482,
+  "latLng": {
+   "lat": 10.411149,
+   "lng": -75.519656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc51",
+  "id": 242569,
+  "name": "Colegio Octaviana",
+  "porcentagemTrajeto": 50.63697671742031,
+  "latLng": {
+   "lat": 10.408224,
+   "lng": -75.515022
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb33",
+  "id": 242317,
+  "name": "Amberes*",
+  "porcentagemTrajeto": 52.969112394366256,
+  "latLng": {
+   "lat": 10.40724,
+   "lng": -75.513317
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac1",
+  "id": 242222,
+  "name": "Cruz Roja*",
+  "porcentagemTrajeto": 56.92224089074769,
+  "latLng": {
+   "lat": 10.405625,
+   "lng": -75.510396
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bacd",
+  "id": 242274,
+  "name": "Piedra De Bolivar",
+  "porcentagemTrajeto": 60.720946682015374,
+  "latLng": {
+   "lat": 10.404521,
+   "lng": -75.507378
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5c",
+  "id": 242307,
+  "name": "Universidad De Cartagena",
+  "porcentagemTrajeto": 63.168140775159834,
+  "latLng": {
+   "lat": 10.403475,
+   "lng": -75.505597
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe8",
+  "id": 242367,
+  "name": "Hospital Universitario*",
+  "porcentagemTrajeto": 66.19752107480139,
+  "latLng": {
+   "lat": 10.401741,
+   "lng": -75.50373
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba4",
+  "id": 242366,
+  "name": "Hogar Infantil Dulces Sonrisas",
+  "porcentagemTrajeto": 68.69000611927095,
+  "latLng": {
+   "lat": 10.400653,
+   "lng": -75.50193
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb75",
+  "id": 242657,
+  "name": "Tienda La Nacional (Cll30 53-18)",
+  "porcentagemTrajeto": 71.73591343183125,
+  "latLng": {
+   "lat": 10.399316,
+   "lng": -75.499735
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc39",
+  "id": 242543,
+  "name": "Zaragocilla (Cll30 No 56-26)",
+  "porcentagemTrajeto": 75.2472902294445,
+  "latLng": {
+   "lat": 10.397826,
+   "lng": -75.497173
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad4",
+  "id": 242326,
+  "name": "Camagüey Sector La Gloria",
+  "porcentagemTrajeto": 79.74554052298902,
+  "latLng": {
+   "lat": 10.395899,
+   "lng": -75.493902
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba64",
+  "id": 242123,
+  "name": "Conjunto Residencial Tacarigua",
+  "porcentagemTrajeto": 83.80018524157937,
+  "latLng": {
+   "lat": 10.394198,
+   "lng": -75.490932
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2d",
+  "id": 242268,
+  "name": "Paseo De La Castellana",
+  "porcentagemTrajeto": 86.2399187477306,
+  "latLng": {
+   "lat": 10.393293,
+   "lng": -75.48908
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa4",
+  "id": 242087,
+  "name": "Aguas De Cartagena",
+  "porcentagemTrajeto": 91.23028526495196,
+  "latLng": {
+   "lat": 10.392304884636888,
+   "lng": -75.48497110605241
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae4",
+  "id": 242405,
+  "name": "Piko Riko",
+  "porcentagemTrajeto": 94.42325598016603,
+  "latLng": {
+   "lat": 10.39263993703467,
+   "lng": -75.4822862148285
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7a",
+  "id": 242165,
+  "name": "Madre Bernarda A2",
+  "porcentagemTrajeto": 99.97841691233869,
+  "latLng": {
+   "lat": 10.395204,
+   "lng": -75.478365
+  }
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb03",
+  "id": 242560,
+  "name": "Chinatown",
+  "porcentagemTrajeto": 5.882352941176471,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.48513
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad6",
+  "id": 242336,
+  "name": "Clinica Blas De Lezo",
+  "porcentagemTrajeto": 11.764705882352942,
+  "latLng": {
+   "lat": 10.391797,
+   "lng": -75.486751
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb00",
+  "id": 242546,
+  "name": "Auto Coreano",
+  "porcentagemTrajeto": 17.647058823529413,
+  "latLng": {
+   "lat": 10.390898,
+   "lng": -75.489023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb3",
+  "id": 242442,
+  "name": "Caracoles Mz 1 Lt 11",
+  "porcentagemTrajeto": 23.529411764705884,
+  "latLng": {
+   "lat": 10.389704,
+   "lng": -75.491692
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc41",
+  "id": 242578,
+  "name": "Efecty Caracoles",
+  "porcentagemTrajeto": 29.411764705882355,
+  "latLng": {
+   "lat": 10.387697,
+   "lng": -75.492176
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5d",
+  "id": 242525,
+  "name": "Restaurante Nueva Fortuna China",
+  "porcentagemTrajeto": 35.294117647058826,
+  "latLng": {
+   "lat": 10.38607,
+   "lng": -75.493883
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1e",
+  "id": 242195,
+  "name": "Cancha Microfutbol El campestre",
+  "porcentagemTrajeto": 41.1764705882353,
+  "latLng": {
+   "lat": 10.383994414931875,
+   "lng": -75.49457341432573
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0e",
+  "id": 242555,
+  "name": "Cancha 2",
+  "porcentagemTrajeto": 47.05882352941177,
+  "latLng": {
+   "lat": 10.38218,
+   "lng": -75.495935
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb7",
+  "id": 242462,
+  "name": "Del Gordo",
+  "porcentagemTrajeto": 52.94117647058824,
+  "latLng": {
+   "lat": 10.380624,
+   "lng": -75.496645
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb44",
+  "id": 242401,
+  "name": "Patinodromo",
+  "porcentagemTrajeto": 58.82352941176471,
+  "latLng": {
+   "lat": 10.379088,
+   "lng": -75.497381
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd9",
+  "id": 242630,
+  "name": "Parque Indupollo",
+  "porcentagemTrajeto": 64.70588235294119,
+  "latLng": {
+   "lat": 10.376783,
+   "lng": -75.498146
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae2",
+  "id": 242395,
+  "name": "Olimpica",
+  "porcentagemTrajeto": 70.58823529411765,
+  "latLng": {
+   "lat": 10.37685,
+   "lng": -75.499459
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc57",
+  "id": 242600,
+  "name": "Institucion Educativa 20 De Julio",
+  "porcentagemTrajeto": 76.47058823529412,
+  "latLng": {
+   "lat": 10.375166607405308,
+   "lng": -75.5001148581505
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb60",
+  "id": 242540,
+  "name": "Vidrios y Auminios 1A",
+  "porcentagemTrajeto": 82.3529411764706,
+  "latLng": {
+   "lat": 10.373609974746119,
+   "lng": -75.50028920173646
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc43",
+  "id": 242588,
+  "name": "Estibas El Guedo",
+  "porcentagemTrajeto": 88.23529411764707,
+  "latLng": {
+   "lat": 10.37261267043112,
+   "lng": -75.50251811742784
+  }
+ }
+]

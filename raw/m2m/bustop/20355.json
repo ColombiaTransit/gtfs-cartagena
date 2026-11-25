@@ -1,0 +1,192 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8f",
+  "id": 242292,
+  "name": "Kr 78A entre Cl 3J y 3O",
+  "porcentagemTrajeto": 4.761904761904762,
+  "latLng": {
+   "lat": 10.370459748695982,
+   "lng": -75.4830077290535
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc01",
+  "id": 242488,
+  "name": "Kr 78A entre Cl 3O y 4",
+  "porcentagemTrajeto": 9.523809523809524,
+  "latLng": {
+   "lat": 10.371685,
+   "lng": -75.481832
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa8",
+  "id": 242097,
+  "name": "Cl 4 con Kr 80A",
+  "porcentagemTrajeto": 14.285714285714285,
+  "latLng": {
+   "lat": 10.371586,
+   "lng": -75.480332
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3c",
+  "id": 242156,
+  "name": "Kr 80B entre Cl 4C y 4F",
+  "porcentagemTrajeto": 19.047619047619047,
+  "latLng": {
+   "lat": 10.373174,
+   "lng": -75.478914
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbcf",
+  "id": 242581,
+  "name": "Drogueria Y Variedades Maria V",
+  "porcentagemTrajeto": 23.80952380952381,
+  "latLng": {
+   "lat": 10.374653,
+   "lng": -75.479435
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babf",
+  "id": 242212,
+  "name": "Cl 5 entre Kr 79 y 77",
+  "porcentagemTrajeto": 28.57142857142857,
+  "latLng": {
+   "lat": 10.374859,
+   "lng": -75.481698
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baab",
+  "id": 242112,
+  "name": "Drogueria Yeika",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.375042,
+   "lng": -75.482981
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf1",
+  "id": 242412,
+  "name": "Supergiros",
+  "porcentagemTrajeto": 38.095238095238095,
+  "latLng": {
+   "lat": 10.375319,
+   "lng": -75.485143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba52",
+  "id": 242266,
+  "name": "Institucion Educativa Fe y Alegria El Progreso",
+  "porcentagemTrajeto": 42.857142857142854,
+  "latLng": {
+   "lat": 10.375338,
+   "lng": -75.488309
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8b",
+  "id": 242305,
+  "name": "UPA La Reina",
+  "porcentagemTrajeto": 47.61904761904762,
+  "latLng": {
+   "lat": 10.375538615080975,
+   "lng": -75.48954159021379
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6c",
+  "id": 242612,
+  "name": "Institucion Educativa San Lucas",
+  "porcentagemTrajeto": 52.38095238095238,
+  "latLng": {
+   "lat": 10.37708468479603,
+   "lng": -75.49081027507783
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baeb",
+  "id": 242440,
+  "name": "Calle 14 65-34",
+  "porcentagemTrajeto": 57.14285714285714,
+  "latLng": {
+   "lat": 10.379061,
+   "lng": -75.489688
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bade",
+  "id": 242379,
+  "name": "Kr 68 entre Cl 16 y 17",
+  "porcentagemTrajeto": 61.904761904761905,
+  "latLng": {
+   "lat": 10.380619,
+   "lng": -75.48761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc18",
+  "id": 242604,
+  "name": "Kr 68 entre Cl 19 y 21",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.383195,
+   "lng": -75.486313
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb28",
+  "id": 242243,
+  "name": "Kr 68 entre Cl 22 y 24",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.384996,
+   "lng": -75.485655
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbd",
+  "id": 242495,
+  "name": "Kr 68 entre Cl 26 y 26A",
+  "porcentagemTrajeto": 76.19047619047619,
+  "latLng": {
+   "lat": 10.387795,
+   "lng": -75.485587
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb64",
+  "id": 242572,
+  "name": "Cl 27A Bis entre Kr 68 y Tv 54A",
+  "porcentagemTrajeto": 80.95238095238095,
+  "latLng": {
+   "lat": 10.389957,
+   "lng": -75.487371
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa4",
+  "id": 242087,
+  "name": "Aguas De Cartagena",
+  "porcentagemTrajeto": 85.71428571428571,
+  "latLng": {
+   "lat": 10.392304884636888,
+   "lng": -75.48497110605241
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae4",
+  "id": 242405,
+  "name": "Piko Riko",
+  "porcentagemTrajeto": 90.47619047619048,
+  "latLng": {
+   "lat": 10.39263993703467,
+   "lng": -75.4822862148285
+  }
+ }
+]

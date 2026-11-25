@@ -1,0 +1,212 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb03",
+  "id": 242560,
+  "name": "Chinatown",
+  "porcentagemTrajeto": 4.3478260869565215,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.48513
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad6",
+  "id": 242336,
+  "name": "Clinica Blas De Lezo",
+  "porcentagemTrajeto": 8.695652173913043,
+  "latLng": {
+   "lat": 10.391797,
+   "lng": -75.486751
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb00",
+  "id": 242546,
+  "name": "Auto Coreano",
+  "porcentagemTrajeto": 13.043478260869565,
+  "latLng": {
+   "lat": 10.390898,
+   "lng": -75.489023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb15",
+  "id": 242153,
+  "name": "Olimpica Caracoles",
+  "porcentagemTrajeto": 17.391304347826086,
+  "latLng": {
+   "lat": 10.390737784399658,
+   "lng": -75.48884421586992
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc26",
+  "id": 242449,
+  "name": "Cl 27A Bis entre Kr 65 y 65A",
+  "porcentagemTrajeto": 21.73913043478261,
+  "latLng": {
+   "lat": 10.389797,
+   "lng": -75.487563
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc46",
+  "id": 242603,
+  "name": "Kr 68 entre Kr 66 y Cl 25",
+  "porcentagemTrajeto": 26.08695652173913,
+  "latLng": {
+   "lat": 10.387599,
+   "lng": -75.485842
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3f",
+  "id": 242378,
+  "name": "Kr 68 entre Cl 22A y 22",
+  "porcentagemTrajeto": 30.43478260869565,
+  "latLng": {
+   "lat": 10.385058,
+   "lng": -75.485882
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb11",
+  "id": 242134,
+  "name": "Kr 68 entre Cl 21 y 19",
+  "porcentagemTrajeto": 34.78260869565217,
+  "latLng": {
+   "lat": 10.383335,
+   "lng": -75.486377
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb56",
+  "id": 242491,
+  "name": "Kr 68 entre Cl 18 y 17",
+  "porcentagemTrajeto": 39.130434782608695,
+  "latLng": {
+   "lat": 10.381204,
+   "lng": -75.487583
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb27",
+  "id": 242238,
+  "name": "Iglesia Nuestra Señora del Carmelo",
+  "porcentagemTrajeto": 43.47826086956522,
+  "latLng": {
+   "lat": 10.380108,
+   "lng": -75.489762
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf2",
+  "id": 242417,
+  "name": "Tienda El Puentecito",
+  "porcentagemTrajeto": 47.826086956521735,
+  "latLng": {
+   "lat": 10.380098,
+   "lng": -75.491514
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5b",
+  "id": 242304,
+  "name": "Tienda El Puente.Com",
+  "porcentagemTrajeto": 52.17391304347826,
+  "latLng": {
+   "lat": 10.379045,
+   "lng": -75.490372
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2e",
+  "id": 242487,
+  "name": "Institucion Educativa San Lucas",
+  "porcentagemTrajeto": 56.52173913043478,
+  "latLng": {
+   "lat": 10.376914,
+   "lng": -75.490921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba74",
+  "id": 242201,
+  "name": "UPA La Reina",
+  "porcentagemTrajeto": 60.8695652173913,
+  "latLng": {
+   "lat": 10.375286,
+   "lng": -75.489389
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3b",
+  "id": 242151,
+  "name": "Institucion Educativa Fe y Alegria El Progreso",
+  "porcentagemTrajeto": 65.21739130434783,
+  "latLng": {
+   "lat": 10.375294,
+   "lng": -75.488052
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe0",
+  "id": 242328,
+  "name": "Celumax",
+  "porcentagemTrajeto": 69.56521739130434,
+  "latLng": {
+   "lat": 10.375369,
+   "lng": -75.486239
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab8",
+  "id": 242177,
+  "name": "Surtimax 1",
+  "porcentagemTrajeto": 73.91304347826086,
+  "latLng": {
+   "lat": 10.3752,
+   "lng": -75.484709
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba43",
+  "id": 242193,
+  "name": "Super Drywall",
+  "porcentagemTrajeto": 78.26086956521739,
+  "latLng": {
+   "lat": 10.374952,
+   "lng": -75.482837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbdc",
+  "id": 242642,
+  "name": "Surtimateriales La Consolata",
+  "porcentagemTrajeto": 82.6086956521739,
+  "latLng": {
+   "lat": 10.374758,
+   "lng": -75.481134
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb78",
+  "id": 242155,
+  "name": "Kr 78A con Cl 4",
+  "porcentagemTrajeto": 86.95652173913044,
+  "latLng": {
+   "lat": 10.371935,
+   "lng": -75.48173
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba6",
+  "id": 242376,
+  "name": "Kr 78A entre Cl 3O y 3J",
+  "porcentagemTrajeto": 91.30434782608695,
+  "latLng": {
+   "lat": 10.370747333460987,
+   "lng": -75.48283338546754
+  }
+ }
+]

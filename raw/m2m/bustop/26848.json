@@ -1,0 +1,262 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb0",
+  "id": 242426,
+  "name": "Villa Rosita",
+  "porcentagemTrajeto": 3.91686311019867,
+  "latLng": {
+   "lat": 10.398568,
+   "lng": -75.470132
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0c",
+  "id": 242545,
+  "name": "Altamare",
+  "porcentagemTrajeto": 8.765705337208301,
+  "latLng": {
+   "lat": 10.400385615100953,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "680fad66a8fed4310b589a92",
+  "id": 289232,
+  "name": "Carolina del Mar",
+  "porcentagemTrajeto": 10.512881126302364,
+  "latLng": {
+   "lat": 10.400501693283681,
+   "lng": -75.4645085334778
+  }
+ },
+ {
+  "_id": "680faf453370b57861b30450",
+  "id": 289233,
+  "name": "El Club",
+  "porcentagemTrajeto": 12.980083511902885,
+  "latLng": {
+   "lat": 10.39843074649424,
+   "lng": -75.4636985063553
+  }
+ },
+ {
+  "_id": "680fb06da8fed4310b589af5",
+  "id": 289234,
+  "name": "Frente al ara",
+  "porcentagemTrajeto": 15.82039288496054,
+  "latLng": {
+   "lat": 10.396834657111594,
+   "lng": -75.46167075634004
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe1",
+  "id": 242332,
+  "name": "Ciudad Jardin Primavera 2",
+  "porcentagemTrajeto": 19.625233145504478,
+  "latLng": {
+   "lat": 10.395548,
+   "lng": -75.458447
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba88",
+  "id": 242295,
+  "name": "Refugio La Carolina",
+  "porcentagemTrajeto": 22.69618021389801,
+  "latLng": {
+   "lat": 10.394302,
+   "lng": -75.455941
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafa",
+  "id": 242519,
+  "name": "Parque Huellas de Alberto Uribe",
+  "porcentagemTrajeto": 26.753227105892936,
+  "latLng": {
+   "lat": 10.392674213104915,
+   "lng": -75.45262097784321
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbed",
+  "id": 242392,
+  "name": "Nuevo Horizonte",
+  "porcentagemTrajeto": 29.88805199271359,
+  "latLng": {
+   "lat": 10.391824730180549,
+   "lng": -75.4498878121376
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc24",
+  "id": 242439,
+  "name": "Brisas De Galicia",
+  "porcentagemTrajeto": 31.52758183900365,
+  "latLng": {
+   "lat": 10.39061,
+   "lng": -75.449038
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc56",
+  "id": 242595,
+  "name": "Horizontes",
+  "porcentagemTrajeto": 36.312090659662154,
+  "latLng": {
+   "lat": 10.386384,
+   "lng": -75.449862
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc22",
+  "id": 242654,
+  "name": "Villa Andrea",
+  "porcentagemTrajeto": 39.40584573774731,
+  "latLng": {
+   "lat": 10.383647,
+   "lng": -75.450371
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc62",
+  "id": 242653,
+  "name": "Villa Sol",
+  "porcentagemTrajeto": 40.67447410707757,
+  "latLng": {
+   "lat": 10.382524,
+   "lng": -75.450576
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc7",
+  "id": 242544,
+  "name": "Villa Grande 1",
+  "porcentagemTrajeto": 42.04290050560956,
+  "latLng": {
+   "lat": 10.381315,
+   "lng": -75.45081
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc50",
+  "id": 242655,
+  "name": "Villa Grande 2",
+  "porcentagemTrajeto": 45.065684136285796,
+  "latLng": {
+   "lat": 10.378635,
+   "lng": -75.451274
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb96",
+  "id": 242311,
+  "name": "Sena Ternera",
+  "porcentagemTrajeto": 54.172262457797224,
+  "latLng": {
+   "lat": 10.374921,
+   "lng": -75.458695
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba71",
+  "id": 242186,
+  "name": "Quintas Del Manantial",
+  "porcentagemTrajeto": 57.499233260948415,
+  "latLng": {
+   "lat": 10.377062,
+   "lng": -75.46082
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc3d",
+  "id": 242561,
+  "name": "Centro Industrial Ternera",
+  "porcentagemTrajeto": 60.56569188505235,
+  "latLng": {
+   "lat": 10.379108,
+   "lng": -75.4627
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba54",
+  "id": 242276,
+  "name": "La Princesa",
+  "porcentagemTrajeto": 63.58799578549188,
+  "latLng": {
+   "lat": 10.381160889995364,
+   "lng": -75.4645112156868
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf0",
+  "id": 242468,
+  "name": "Drogueria Calidad y Musica RS",
+  "porcentagemTrajeto": 66.21839768472519,
+  "latLng": {
+   "lat": 10.383282078676672,
+   "lng": -75.46557605266572
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb77",
+  "id": 242150,
+  "name": "Iglesia Ternera",
+  "porcentagemTrajeto": 67.23011256487266,
+  "latLng": {
+   "lat": 10.384187009270331,
+   "lng": -75.46567261219026
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc61",
+  "id": 242648,
+  "name": "U. San Buenaventura Vuelta",
+  "porcentagemTrajeto": 69.37656313959857,
+  "latLng": {
+   "lat": 10.38607073394211,
+   "lng": -75.46610176563264
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba55",
+  "id": 242281,
+  "name": "Marval",
+  "porcentagemTrajeto": 72.73208315190354,
+  "latLng": {
+   "lat": 10.388524307879633,
+   "lng": -75.46788811683656
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb55",
+  "id": 242486,
+  "name": "Iglesia El Recreo",
+  "porcentagemTrajeto": 76.7682384108189,
+  "latLng": {
+   "lat": 10.391014797639748,
+   "lng": -75.47057300806047
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab2",
+  "id": 242147,
+  "name": "Los Abetos",
+  "porcentagemTrajeto": 78.27045565798386,
+  "latLng": {
+   "lat": 10.391239046273283,
+   "lng": -75.47192752361299
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc09",
+  "id": 242528,
+  "name": "Terrazas De Granada Eje 6 Vuelta",
+  "porcentagemTrajeto": 79.68301982472997,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.471651
+  }
+ }
+]

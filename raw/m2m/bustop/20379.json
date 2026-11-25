@@ -1,0 +1,172 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baec",
+  "id": 242445,
+  "name": "Centro A2",
+  "porcentagemTrajeto": 5.2631578947368425,
+  "latLng": {
+   "lat": 10.425298,
+   "lng": -75.546235
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd6",
+  "id": 242616,
+  "name": "Lo Amador A2",
+  "porcentagemTrajeto": 10.526315789473685,
+  "latLng": {
+   "lat": 10.422367,
+   "lng": -75.534678
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3d",
+  "id": 242161,
+  "name": "La Popa A2",
+  "porcentagemTrajeto": 15.789473684210527,
+  "latLng": {
+   "lat": 10.420552,
+   "lng": -75.531143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba0",
+  "id": 242346,
+  "name": "Delicias B2",
+  "porcentagemTrajeto": 21.05263157894737,
+  "latLng": {
+   "lat": 10.416707,
+   "lng": -75.527962
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5a",
+  "id": 242615,
+  "name": "Maria Auxiliadora A2",
+  "porcentagemTrajeto": 26.315789473684212,
+  "latLng": {
+   "lat": 10.408997,
+   "lng": -75.515929
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafc",
+  "id": 242527,
+  "name": "República Del Líbano A2",
+  "porcentagemTrajeto": 31.578947368421055,
+  "latLng": {
+   "lat": 10.407339,
+   "lng": -75.507537
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb13",
+  "id": 242143,
+  "name": "Los Ejecutivos A2",
+  "porcentagemTrajeto": 36.8421052631579,
+  "latLng": {
+   "lat": 10.399548,
+   "lng": -75.493653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbe",
+  "id": 242500,
+  "name": "La Castellana A2",
+  "porcentagemTrajeto": 42.10526315789474,
+  "latLng": {
+   "lat": 10.394399,
+   "lng": -75.486172
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5f",
+  "id": 242639,
+  "name": "SonoMarcas",
+  "porcentagemTrajeto": 47.36842105263158,
+  "latLng": {
+   "lat": 10.39224,
+   "lng": -75.481569
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babe",
+  "id": 242207,
+  "name": "Centro Comercial La Plazuela",
+  "porcentagemTrajeto": 52.631578947368425,
+  "latLng": {
+   "lat": 10.390482,
+   "lng": -75.478655
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5b",
+  "id": 242515,
+  "name": "Parque Santa Monica",
+  "porcentagemTrajeto": 57.89473684210527,
+  "latLng": {
+   "lat": 10.389156,
+   "lng": -75.476392
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba61",
+  "id": 242108,
+  "name": "Cementerio Jardines De Cartagena",
+  "porcentagemTrajeto": 63.15789473684211,
+  "latLng": {
+   "lat": 10.387489,
+   "lng": -75.473851
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badf",
+  "id": 242383,
+  "name": "La Bonguita",
+  "porcentagemTrajeto": 68.42105263157896,
+  "latLng": {
+   "lat": 10.386364,
+   "lng": -75.472197
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6f",
+  "id": 242627,
+  "name": "Mi Vaquita",
+  "porcentagemTrajeto": 73.6842105263158,
+  "latLng": {
+   "lat": 10.384325,
+   "lng": -75.469143
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7a",
+  "id": 242228,
+  "name": "Colegio De La Policia Nacional",
+  "porcentagemTrajeto": 78.94736842105263,
+  "latLng": {
+   "lat": 10.382166,
+   "lng": -75.466004
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7e",
+  "id": 242245,
+  "name": "Entrada Simon Bolivar",
+  "porcentagemTrajeto": 84.21052631578948,
+  "latLng": {
+   "lat": 10.380071,
+   "lng": -75.463729
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba28",
+  "id": 242110,
+  "name": "Cerveceria Aguila",
+  "porcentagemTrajeto": 89.47368421052633,
+  "latLng": {
+   "lat": 10.376661,
+   "lng": -75.460636
+  }
+ }
+]

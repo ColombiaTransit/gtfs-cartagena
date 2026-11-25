@@ -1,0 +1,1337 @@
+[
+ {
+  "id": 9891,
+  "idLinha": "659b4aa87d5500406fffb124",
+  "name": "A101 LA CAROLINA - PORTAL",
+  "shortName": "A101 LA CAROLINA - PORTAL",
+  "numero": "A101",
+  "trajetos": [
+   {
+    "_id": "680fc63100bdad063dda8e83",
+    "id": "680fc63100bdad063dda8e83",
+    "id_migracao": 26848,
+    "kmTrajeto": 10,
+    "nome": "A101_CIRCULAR- PORTAL-LA CAROLINA-CIUDAD JARDIN",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba9e",
+     "id_migracao": 242409
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb72",
+     "id_migracao": 242646
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   }
+  ]
+ },
+ {
+  "id": 9892,
+  "idLinha": "659b60837b35aa4792d76aa0",
+  "name": "A102 U. TECNOLÓGICA - PORTAL",
+  "shortName": "A102 U. TECNOLÓGICA - PORTAL",
+  "numero": "A102",
+  "trajetos": [
+   {
+    "_id": "659b60837b35aa4792d76a9f",
+    "id": "659b60837b35aa4792d76a9f",
+    "id_migracao": 20337,
+    "kmTrajeto": 3.9,
+    "nome": "A102_IDA - PORTAL - U. TECNOLOGICA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bafb",
+     "id_migracao": 242523
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba45",
+     "id_migracao": 242203
+    }
+   },
+   {
+    "_id": "659c92ef872ff5479012fa7f",
+    "id": "659c92ef872ff5479012fa7f",
+    "id_migracao": 20351,
+    "kmTrajeto": 2.86,
+    "nome": "A102_VUELTA - U. TECNOLOGICA - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba45",
+     "id_migracao": 242203
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb72",
+     "id_migracao": 242646
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   }
+  ]
+ },
+ {
+  "id": 9893,
+  "idLinha": "659b78787d5500406fffb139",
+  "name": "A103 MANDELA - SAN FERNANDO - SANTA LUCIA",
+  "shortName": "A103 MANDELA - SAN FERNANDO - SANTA LUCIA",
+  "numero": "A103",
+  "trajetos": [
+   {
+    "_id": "659b78787d5500406fffb138",
+    "id": "659b78787d5500406fffb138",
+    "id_migracao": 20338,
+    "kmTrajeto": 4.99,
+    "nome": "A103_IDA - SANTA LUCIA - SAN FERNANDO - MANDELA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba50",
+     "id_migracao": 242256
+    }
+   },
+   {
+    "_id": "659c98285c36040f30a2fcd5",
+    "id": "659c98285c36040f30a2fcd5",
+    "id_migracao": 20352,
+    "kmTrajeto": 3.88,
+    "nome": "A103_VUELTA - MANDELA - SAN FERNANDO - SANTA LUCIA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb8e",
+     "id_migracao": 242287
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9894,
+  "idLinha": "659b79127d5500406fffb13d",
+  "name": "A104 MANDELA - SOCORRO - SANTA LUCIA",
+  "shortName": "A104 MANDELA - SOCORRO - SANTA LUCIA",
+  "numero": "A104",
+  "trajetos": [
+   {
+    "_id": "659b79127d5500406fffb13c",
+    "id": "659b79127d5500406fffb13c",
+    "id_migracao": 20339,
+    "kmTrajeto": 5.02,
+    "nome": "A104_IDA - SANTA LUCIA - SOCORRO - MANDELA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bae7",
+     "id_migracao": 242420
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbbf",
+     "id_migracao": 242505
+    }
+   },
+   {
+    "_id": "659c9c247b35aa4792d77248",
+    "id": "659c9c247b35aa4792d77248",
+    "id_migracao": 20353,
+    "kmTrajeto": 4.35,
+    "nome": "A104_VUELTA   - MANDELA- SOCORRO- SANTA LUCIA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbbf",
+     "id_migracao": 242505
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9895,
+  "idLinha": "659b7a0494ca794f5b1b9826",
+  "name": "A105 SIMÓN BOLÍVAR - SOCORRO - SANTA LUCIA",
+  "shortName": "A105 SIMÓN BOLÍVAR - SOCORRO - SANTA LUCIA",
+  "numero": "A105",
+  "trajetos": [
+   {
+    "_id": "659b7a0494ca794f5b1b9825",
+    "id": "659b7a0494ca794f5b1b9825",
+    "id_migracao": 20340,
+    "kmTrajeto": 4.62,
+    "nome": "A105_IDA- PORTAL - SOCORRO  - SIMON BOLIVAR",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc00",
+     "id_migracao": 242483
+    }
+   },
+   {
+    "_id": "659d62705c36040f30a301d0",
+    "id": "659d62705c36040f30a301d0",
+    "id_migracao": 20354,
+    "kmTrajeto": 4.06,
+    "nome": "A105_VUELTA - SIMON BOLIVAR - SOCORRO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc00",
+     "id_migracao": 242483
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9896,
+  "idLinha": "659b7a8258f99b3b26ea6ea9",
+  "name": "A107 BLAS DE LEZO - SANTA LUCIA",
+  "shortName": "A107 BLAS DE LEZO - SANTA LUCIA",
+  "numero": "A107",
+  "trajetos": [
+   {
+    "_id": "659b7a8258f99b3b26ea6ea8",
+    "id": "659b7a8258f99b3b26ea6ea8",
+    "id_migracao": 20341,
+    "kmTrajeto": 5.05,
+    "nome": "A107_IDA - SANTA LUCIA - BLAS DE LEZO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc58",
+     "id_migracao": 242606
+    }
+   },
+   {
+    "_id": "659d65887b35aa4792d77735",
+    "id": "659d65887b35aa4792d77735",
+    "id_migracao": 20355,
+    "kmTrajeto": 4.22,
+    "nome": "A107_VUELTA- BLAS DE LEZO - SANTA LUCIA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc58",
+     "id_migracao": 242606
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9897,
+  "idLinha": "659c6e3028bc990f2f0a9e15",
+  "name": "A108 CAMPESTRE - SANTA LUCIA",
+  "shortName": "A108 CAMPESTRE - SANTA LUCIA",
+  "numero": "A108",
+  "trajetos": [
+   {
+    "_id": "659c6e3028bc990f2f0a9e13",
+    "id": "659c6e3028bc990f2f0a9e13",
+    "id_migracao": 20342,
+    "kmTrajeto": 3.78,
+    "nome": "A108_IDA - SANTA LUCIA - CAMPESTRE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6baa5",
+     "id_migracao": 242089
+    }
+   },
+   {
+    "_id": "659c6e3028bc990f2f0a9e14",
+    "id": "659c6e3028bc990f2f0a9e14",
+    "id_migracao": 20343,
+    "kmTrajeto": 3.61,
+    "nome": "A108_VUELTA - CAMPESTRE - SANTA LUCIA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6baa5",
+     "id_migracao": 242089
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9899,
+  "idLinha": "659c7e2b872ff5479012fa5e",
+  "name": "A111 NUEVO BOSQUE - SANTA LUCIA",
+  "shortName": "A111 NUEVO BOSQUE - SANTA LUCIA",
+  "numero": "A111",
+  "trajetos": [
+   {
+    "_id": "659c7e2b872ff5479012fa5d",
+    "id": "659c7e2b872ff5479012fa5d",
+    "id_migracao": 20346,
+    "kmTrajeto": 6.84,
+    "nome": "A111_CIRCULAR - SANTA LUCIA - NUEVO BOSQUE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb48",
+     "id_migracao": 242423
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9900,
+  "idLinha": "659c810a28bc990f2f0a9eae",
+  "name": "A114 FLOR DEL CAMPO - PORTAL",
+  "shortName": "A114 FLOR DEL CAMPO - PORTAL",
+  "numero": "A114",
+  "trajetos": [
+   {
+    "_id": "659c810a28bc990f2f0a9eac",
+    "id": "659c810a28bc990f2f0a9eac",
+    "id_migracao": 20347,
+    "kmTrajeto": 6.55,
+    "nome": "A114_IDA - PORTAL - FLOR DEL CAMPO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab6",
+     "id_migracao": 242167
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbeb",
+     "id_migracao": 242382
+    }
+   },
+   {
+    "_id": "659c810a28bc990f2f0a9ead",
+    "id": "659c810a28bc990f2f0a9ead",
+    "id_migracao": 20348,
+    "kmTrajeto": 6.89,
+    "nome": "A114_VUELTA  - FLOR DEL CAMPO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbeb",
+     "id_migracao": 242382
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba70",
+     "id_migracao": 242184
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9901,
+  "idLinha": "659c84fe94ca794f5b1ba061",
+  "name": "A117 POZÓN - VILLA ESTRELLA - PORTAL",
+  "shortName": "A117 POZÓN - VILLA ESTRELLA - PORTAL",
+  "numero": "A117",
+  "trajetos": [
+   {
+    "_id": "659c84fe94ca794f5b1ba05f",
+    "id": "659c84fe94ca794f5b1ba05f",
+    "id_migracao": 20349,
+    "kmTrajeto": 3.56,
+    "nome": "A117_IDA - PORTAL - POZON - VILLA ESTRELLA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba87",
+     "id_migracao": 242290
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc4a",
+     "id_migracao": 242623
+    }
+   },
+   {
+    "_id": "659c84fe94ca794f5b1ba060",
+    "id": "659c84fe94ca794f5b1ba060",
+    "id_migracao": 20350,
+    "kmTrajeto": 4.31,
+    "nome": "A117_VUELTA  - POZON - VILLA ESTRELLA - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc4a",
+     "id_migracao": 242623
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc34",
+     "id_migracao": 242518
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9902,
+  "idLinha": "659d707c5c36040f30a30268",
+  "name": "C001 CIUDADELA 2000 - MANGA - CENTRO",
+  "shortName": "C001 CIUDADELA 2000 - MANGA - CENTRO",
+  "numero": "C001",
+  "trajetos": [
+   {
+    "_id": "659d707c5c36040f30a30266",
+    "id": "659d707c5c36040f30a30266",
+    "id_migracao": 20356,
+    "kmTrajeto": 11.97,
+    "nome": "C001_IDA - CIUDADELA 2000 - MANGA - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba63",
+     "id_migracao": 242118
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    }
+   },
+   {
+    "_id": "659d707c5c36040f30a30267",
+    "id": "659d707c5c36040f30a30267",
+    "id_migracao": 20357,
+    "kmTrajeto": 13.27,
+    "nome": "C001_VUELTA  - CENTRO - MANGA - CIUDADELA 2000",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba63",
+     "id_migracao": 242118
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9904,
+  "idLinha": "659d78235c36040f30a302c3",
+  "name": "T100E PORTAL - CENTRO",
+  "shortName": "T100E PORTAL - CENTRO",
+  "numero": "T100E",
+  "trajetos": [
+   {
+    "_id": "659d78235c36040f30a302c1",
+    "id": "659d78235c36040f30a302c1",
+    "id_migracao": 20359,
+    "kmTrajeto": 9.32,
+    "nome": "T100E_IDA - PORTAL - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc2",
+     "id_migracao": 242521
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab1",
+     "id_migracao": 242142
+    }
+   },
+   {
+    "_id": "659d78235c36040f30a302c2",
+    "id": "659d78235c36040f30a302c2",
+    "id_migracao": 20360,
+    "kmTrajeto": 9.04,
+    "nome": "T100E_VUELTA - CENTRO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bac8",
+     "id_migracao": 242249
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc2",
+     "id_migracao": 242521
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9905,
+  "idLinha": "659da43d5c36040f30a3040e",
+  "name": "T101 PORTAL - CENTRO",
+  "shortName": "T101 PORTAL - CENTRO",
+  "numero": "T101",
+  "trajetos": [
+   {
+    "_id": "659da43d5c36040f30a3040c",
+    "id": "659da43d5c36040f30a3040c",
+    "id_migracao": 20361,
+    "kmTrajeto": 9.31,
+    "nome": "T101_IDA - PORTAL - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc4b",
+     "id_migracao": 242628
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6baf6",
+     "id_migracao": 242499
+    }
+   },
+   {
+    "_id": "659da43d5c36040f30a3040d",
+    "id": "659da43d5c36040f30a3040d",
+    "id_migracao": 20362,
+    "kmTrajeto": 8.99,
+    "nome": "T101_VUELTA - CENTRO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbd5",
+     "id_migracao": 242611
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc2",
+     "id_migracao": 242521
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9906,
+  "idLinha": "659dab44f408245765cda86f",
+  "name": "T102 PORTAL - CRESPO",
+  "shortName": "T102 PORTAL - CRESPO",
+  "numero": "T102",
+  "trajetos": [
+   {
+    "_id": "659dab44f408245765cda86d",
+    "id": "659dab44f408245765cda86d",
+    "id_migracao": 20363,
+    "kmTrajeto": 13.82,
+    "nome": "T102_IDA - PORTAL - CRESPO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba58",
+     "id_migracao": 242296
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc37",
+     "id_migracao": 242534
+    }
+   },
+   {
+    "_id": "659dab44f408245765cda86e",
+    "id": "659dab44f408245765cda86e",
+    "id_migracao": 20364,
+    "kmTrajeto": 12,
+    "nome": "T102_VUELTA - CRESPO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc37",
+     "id_migracao": 242534
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbab",
+     "id_migracao": 242403
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9907,
+  "idLinha": "659daf8af408245765cda889",
+  "name": "T103 PORTAL - BOCAGRANDE",
+  "shortName": "T103 PORTAL - BOCAGRANDE",
+  "numero": "T103",
+  "trajetos": [
+   {
+    "_id": "659daf8af408245765cda887",
+    "id": "659daf8af408245765cda887",
+    "id_migracao": 20365,
+    "kmTrajeto": 14,
+    "nome": "T103_IDA - PORTAL - BOCAGRANDE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc2",
+     "id_migracao": 242521
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb04",
+     "id_migracao": 242564
+    }
+   },
+   {
+    "_id": "659daf8af408245765cda888",
+    "id": "659daf8af408245765cda888",
+    "id_migracao": 20366,
+    "kmTrajeto": 14,
+    "nome": "T103_VUELTA - BOCAGRANDE - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb04",
+     "id_migracao": 242564
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc2",
+     "id_migracao": 242521
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9908,
+  "idLinha": "659db94e6e96780ace17d04f",
+  "name": "X102 PORTAL - BOSQUE - CENTRO",
+  "shortName": "X102 PORTAL - BOSQUE - CENTRO",
+  "numero": "X102",
+  "trajetos": [
+   {
+    "_id": "659db94e6e96780ace17d04d",
+    "id": "659db94e6e96780ace17d04d",
+    "id_migracao": 20367,
+    "kmTrajeto": 9.41,
+    "nome": "X102_IDA - PORTAL - BOSQUE - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbef",
+     "id_migracao": 242402
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6baf6",
+     "id_migracao": 242499
+    }
+   },
+   {
+    "_id": "659db94e6e96780ace17d04e",
+    "id": "659db94e6e96780ace17d04e",
+    "id_migracao": 20368,
+    "kmTrajeto": 11.1,
+    "nome": "X102_VUELTA  - CENTRO - BOSQUE - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bac8",
+     "id_migracao": 242249
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbef",
+     "id_migracao": 242402
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9909,
+  "idLinha": "659dbec05c36040f30a3048d",
+  "name": "X103 PORTAL - CONSULADO - CENTRO",
+  "shortName": "X103 PORTAL - CONSULADO - CENTRO",
+  "numero": "X103",
+  "trajetos": [
+   {
+    "_id": "659dbec05c36040f30a3048b",
+    "id": "659dbec05c36040f30a3048b",
+    "id_migracao": 20369,
+    "kmTrajeto": 9.17,
+    "nome": "X103_IDA - PORTAL - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc5d",
+     "id_migracao": 242629
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab1",
+     "id_migracao": 242142
+    }
+   },
+   {
+    "_id": "659dbec05c36040f30a3048c",
+    "id": "659dbec05c36040f30a3048c",
+    "id_migracao": 20370,
+    "kmTrajeto": 9.27,
+    "nome": "X103_VUELTA - CENTRO - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbd5",
+     "id_migracao": 242611
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc5d",
+     "id_migracao": 242629
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9910,
+  "idLinha": "659eada5f408245765cdad05",
+  "name": "X101 SAN JOSÉ CAMPANOS - 13 DE JUNIO - GAVIOTAS - CENTRO",
+  "shortName": "X101 SAN JOSÉ CAMPANOS - 13 DE JUNIO - GAVIOTAS - CENTRO",
+  "numero": "X101",
+  "trajetos": [
+   {
+    "_id": "659eada5f408245765cdad03",
+    "id": "659eada5f408245765cdad03",
+    "id_migracao": 20371,
+    "kmTrajeto": 11.41,
+    "nome": "X101_IDA - SAN JOSE CAMPANOS - 13 JUNIO - GAVIOTAS - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bafa",
+     "id_migracao": 242519
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6baf6",
+     "id_migracao": 242499
+    }
+   },
+   {
+    "_id": "659eada5f408245765cdad04",
+    "id": "659eada5f408245765cdad04",
+    "id_migracao": 20372,
+    "kmTrajeto": 12.69,
+    "nome": "X101_VUELTA  - CENTRO - GAVIOTAS - 13 JUNIO  - SAN JOSE CAMPANOS",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbd5",
+     "id_migracao": 242611
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bafa",
+     "id_migracao": 242519
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9911,
+  "idLinha": "659ec76c28bc990f2f0aab72",
+  "name": "X104 TERMINAL INTERMUNICIPAL - PEDRO ROMERO - CENTRO",
+  "shortName": "X104 TERMINAL INTERMUNICIPAL - PEDRO ROMERO - CENTRO",
+  "numero": "X104",
+  "trajetos": [
+   {
+    "_id": "659ec76c28bc990f2f0aab70",
+    "id": "659ec76c28bc990f2f0aab70",
+    "id_migracao": 20373,
+    "kmTrajeto": 12.93,
+    "nome": "X104_IDA - TERMINAL - PEDRO ROMERO - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6baf6",
+     "id_migracao": 242499
+    }
+   },
+   {
+    "_id": "659ec76c28bc990f2f0aab71",
+    "id": "659ec76c28bc990f2f0aab71",
+    "id_migracao": 20374,
+    "kmTrajeto": 11.53,
+    "nome": "X104_VUELTA  - CENTRO - PEDRO ROMERO - TERMINAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bac8",
+     "id_migracao": 242249
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9912,
+  "idLinha": "65a55fc9ff7bba78186593b5",
+  "name": "X105 CIUDADELA 2000 - CRISANTO LUQUE - BOCAGRANDE",
+  "shortName": "X105 CIUDADELA 2000 - CRISANTO LUQUE - BOCAGRANDE",
+  "numero": "X105",
+  "trajetos": [
+   {
+    "_id": "65a55fc9ff7bba78186593b3",
+    "id": "65a55fc9ff7bba78186593b3",
+    "id_migracao": 20376,
+    "kmTrajeto": 12.79,
+    "nome": "X105_IDA - CIUDADELA 2000 - C. LUQUE - BOCAGRANDE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba63",
+     "id_migracao": 242118
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb04",
+     "id_migracao": 242564
+    }
+   },
+   {
+    "_id": "65a55fc9ff7bba78186593b4",
+    "id": "65a55fc9ff7bba78186593b4",
+    "id_migracao": 20377,
+    "kmTrajeto": 12.36,
+    "nome": "X105_VUELTA - BOCAGRANDE - C. LUQUE -  CIUDADELA 2000",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb04",
+     "id_migracao": 242564
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba63",
+     "id_migracao": 242118
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9913,
+  "idLinha": "65a5648ae0931d7fad61dd0f",
+  "name": "X106 VARIANTE - CENTRO",
+  "shortName": "X106 VARIANTE - CENTRO",
+  "numero": "X106",
+  "trajetos": [
+   {
+    "_id": "65a5648ae0931d7fad61dd0d",
+    "id": "65a5648ae0931d7fad61dd0d",
+    "id_migracao": 20378,
+    "kmTrajeto": 10.59,
+    "nome": "X106_IDA - VARIANTE - CENTRO",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb96",
+     "id_migracao": 242311
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab1",
+     "id_migracao": 242142
+    }
+   },
+   {
+    "_id": "65a5648ae0931d7fad61dd0e",
+    "id": "65a5648ae0931d7fad61dd0e",
+    "id_migracao": 20379,
+    "kmTrajeto": 10.45,
+    "nome": "X106_VUELTA - CENTRO - VARIANTE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbd5",
+     "id_migracao": 242611
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bac3",
+     "id_migracao": 242230
+    }
+   },
+   {
+    "_id": "65f328ea692a9b7af497b2fe",
+    "id": "65f328ea692a9b7af497b2fe",
+    "id_migracao": 20419,
+    "kmTrajeto": 13.81,
+    "nome": "X106_EXTENSIÓN GOBERNACION DE BOLIVAR",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbd5",
+     "id_migracao": 242611
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bb96",
+     "id_migracao": 242311
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 9923,
+  "idLinha": "65eb788d73977e0f92fb1549",
+  "name": "C017 BODEGUITA - ZONA NORTE",
+  "shortName": "C017 BODEGUITA - ZONA NORTE",
+  "numero": "C017",
+  "trajetos": [
+   {
+    "_id": "65eb788d73977e0f92fb1548",
+    "id": "65eb788d73977e0f92fb1548",
+    "id_migracao": 20415,
+    "kmTrajeto": 34.4,
+    "nome": "C017_CIRCULAR BODEGUITA - ZONA NORTE",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 10009,
+  "idLinha": "666c5fc1237b6b1b6edfe053",
+  "name": "C018 BODEGUITA-TORICES",
+  "shortName": "C018 BODEGUITA-TORICES",
+  "numero": "C018",
+  "trajetos": [
+   {
+    "_id": "666c5fc1237b6b1b6edfe051",
+    "id": "666c5fc1237b6b1b6edfe051",
+    "id_migracao": 20673,
+    "kmTrajeto": 4.15,
+    "nome": "C018_IDA BODEGUITA - TORICES",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    },
+    "endPoint": {
+     "_id": "6668bc5ad1ac2e03ae62111d",
+     "id_migracao": 245195
+    }
+   },
+   {
+    "_id": "666c5fc1237b6b1b6edfe052",
+    "id": "666c5fc1237b6b1b6edfe052",
+    "id_migracao": 20674,
+    "kmTrajeto": 3.96,
+    "nome": "C018_VUELTA - TORICES - BODEGUITA",
+    "startPoint": {
+     "_id": "6668bc5ad1ac2e03ae62111d",
+     "id_migracao": 245195
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba6f",
+     "id_migracao": 242179
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   },
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   }
+  ]
+ },
+ {
+  "id": 11417,
+  "idLinha": "68f93878f4f2f76c14b4cc7c",
+  "name": "A118 CIUDADELA LA PAZ - PORTAL",
+  "shortName": "A118 CIUDADELA LA PAZ - PORTAL",
+  "numero": "A118",
+  "trajetos": [
+   {
+    "_id": "68f93878f4f2f76c14b4cc7a",
+    "id": "68f93878f4f2f76c14b4cc7a",
+    "id_migracao": 27136,
+    "kmTrajeto": 5.03,
+    "nome": "A118_IDA PORTAL - CIUDADELA LA PAZ",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbda",
+     "id_migracao": 242635
+    },
+    "endPoint": {
+     "_id": "68f914ad5b1d83334ef1f2de",
+     "id_migracao": 301637
+    }
+   },
+   {
+    "_id": "68f93878f4f2f76c14b4cc7b",
+    "id": "68f93878f4f2f76c14b4cc7b",
+    "id_migracao": 27137,
+    "kmTrajeto": 4.71,
+    "nome": "A118_VUELTA CIUDADELA LA PAZ - PORTAL",
+    "startPoint": {
+     "_id": "68f914ad5b1d83334ef1f2de",
+     "id_migracao": 301637
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bc34",
+     "id_migracao": 242518
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   },
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   }
+  ]
+ },
+ {
+  "id": 11524,
+  "idLinha": "6ab3ff178580470fe7698065",
+  "name": "A000 PRUEBA PROGRAMACION - PORTAL",
+  "shortName": "A000 PRUEBA PROGRAMACION - PORTAL",
+  "numero": "A000",
+  "trajetos": [
+   {
+    "_id": "6ab3ff178580470fe7698063",
+    "id": "6ab3ff178580470fe7698063",
+    "id_migracao": 27445,
+    "kmTrajeto": 1.78,
+    "nome": "A000 IDA_PORTAL - PRUEBA",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab6",
+     "id_migracao": 242167
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    }
+   },
+   {
+    "_id": "6ab3ff178580470fe7698064",
+    "id": "6ab3ff178580470fe7698064",
+    "id_migracao": 27446,
+    "kmTrajeto": 5.1,
+    "nome": "A000 VUELTA_ PRUEBA - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba70",
+     "id_migracao": 242184
+    }
+   }
+  ],
+  "empresas": []
+ },
+ {
+  "id": 11525,
+  "idLinha": "6ab405be83efca374b6eb4f5",
+  "name": "A000 PORTAL - TERMINAL",
+  "shortName": "A000 PORTAL - TERMINAL",
+  "numero": "A000",
+  "trajetos": [
+   {
+    "_id": "6ab405be83efca374b6eb4f3",
+    "id": "6ab405be83efca374b6eb4f3",
+    "id_migracao": 27447,
+    "kmTrajeto": 1.77,
+    "nome": "A000 IDA_PORTAL - TERMINAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bab6",
+     "id_migracao": 242167
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    }
+   },
+   {
+    "_id": "6ab405be83efca374b6eb4f4",
+    "id": "6ab405be83efca374b6eb4f4",
+    "id_migracao": 27448,
+    "kmTrajeto": 5.72,
+    "nome": "A000 VUELTA_ TERMINAL - PORTAL",
+    "startPoint": {
+     "_id": "658dda9ea5ba2d1568a6bbc5",
+     "id_migracao": 242536
+    },
+    "endPoint": {
+     "_id": "658dda9ea5ba2d1568a6ba70",
+     "id_migracao": 242184
+    }
+   }
+  ],
+  "empresas": [
+   {
+    "id": 10298,
+    "nome": "SOCIEDAD OPERADORA DE TRANSPORTE MASIVO DE CARTAGENA -  SOTRAMAC S.A.S."
+   },
+   {
+    "id": 10296,
+    "nome": "TRANSAMBIENTAL SAS"
+   },
+   {
+    "id": 10297,
+    "nome": "Transcaribe Operador"
+   }
+  ]
+ }
+]

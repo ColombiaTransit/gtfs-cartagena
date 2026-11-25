@@ -1,0 +1,502 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb36",
+  "id": 242334,
+  "name": "Centro Convenciones",
+  "porcentagemTrajeto": 1.9230769230769231,
+  "latLng": {
+   "lat": 10.419884,
+   "lng": -75.548193
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab3",
+  "id": 242152,
+  "name": "Mz 17 Lt 48",
+  "porcentagemTrajeto": 3.8461538461538463,
+  "latLng": {
+   "lat": 10.41534,
+   "lng": -75.541708
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc53",
+  "id": 242580,
+  "name": "El Candil",
+  "porcentagemTrajeto": 5.769230769230769,
+  "latLng": {
+   "lat": 10.413187,
+   "lng": -75.539258
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae1",
+  "id": 242390,
+  "name": "Mz 25 Lt 42",
+  "porcentagemTrajeto": 7.6923076923076925,
+  "latLng": {
+   "lat": 10.41031014375492,
+   "lng": -75.53760409355165
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb67",
+  "id": 242587,
+  "name": "DIAN",
+  "porcentagemTrajeto": 9.615384615384615,
+  "latLng": {
+   "lat": 10.409413203052814,
+   "lng": -75.53448468446733
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb59",
+  "id": 242506,
+  "name": "Mz 27 Lt 18",
+  "porcentagemTrajeto": 11.538461538461538,
+  "latLng": {
+   "lat": 10.408901,
+   "lng": -75.532176
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc08",
+  "id": 242522,
+  "name": "Sociedad Portuaria",
+  "porcentagemTrajeto": 13.461538461538462,
+  "latLng": {
+   "lat": 10.407768,
+   "lng": -75.529393
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb90",
+  "id": 242297,
+  "name": "La Cuchilla",
+  "porcentagemTrajeto": 15.384615384615385,
+  "latLng": {
+   "lat": 10.404036780899753,
+   "lng": -75.52160739898683
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba34",
+  "id": 242116,
+  "name": "Coca Cola",
+  "porcentagemTrajeto": 17.307692307692307,
+  "latLng": {
+   "lat": 10.401382830808751,
+   "lng": -75.5216744542122
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babd",
+  "id": 242202,
+  "name": "Calle Del Mamón",
+  "porcentagemTrajeto": 19.23076923076923,
+  "latLng": {
+   "lat": 10.399549323281551,
+   "lng": -75.52060693502428
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc20",
+  "id": 242644,
+  "name": "TCC",
+  "porcentagemTrajeto": 21.153846153846153,
+  "latLng": {
+   "lat": 10.400938,
+   "lng": -75.51884
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baca",
+  "id": 242259,
+  "name": "Mz 24 Lt 38",
+  "porcentagemTrajeto": 23.076923076923077,
+  "latLng": {
+   "lat": 10.399754,
+   "lng": -75.516328
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2a",
+  "id": 242120,
+  "name": "Colegio Latino Americano 21A 116",
+  "porcentagemTrajeto": 25,
+  "latLng": {
+   "lat": 10.399729,
+   "lng": -75.514761
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba81",
+  "id": 242260,
+  "name": "Junín Mz E Lt 16",
+  "porcentagemTrajeto": 26.923076923076923,
+  "latLng": {
+   "lat": 10.400347,
+   "lng": -75.511471
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb9c",
+  "id": 242329,
+  "name": "Casa 26 D 42 Junín 2",
+  "porcentagemTrajeto": 28.846153846153847,
+  "latLng": {
+   "lat": 10.40319,
+   "lng": -75.51149
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac7",
+  "id": 242244,
+  "name": "Kr 45 entre Cl 29 y 30",
+  "porcentagemTrajeto": 30.76923076923077,
+  "latLng": {
+   "lat": 10.405127,
+   "lng": -75.510434
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bacd",
+  "id": 242274,
+  "name": "Piedra De Bolivar",
+  "porcentagemTrajeto": 32.69230769230769,
+  "latLng": {
+   "lat": 10.404521,
+   "lng": -75.507378
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5c",
+  "id": 242307,
+  "name": "Universidad De Cartagena",
+  "porcentagemTrajeto": 34.61538461538461,
+  "latLng": {
+   "lat": 10.403475,
+   "lng": -75.505597
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe8",
+  "id": 242367,
+  "name": "Hospital Universitario*",
+  "porcentagemTrajeto": 36.53846153846154,
+  "latLng": {
+   "lat": 10.401741,
+   "lng": -75.50373
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba4",
+  "id": 242366,
+  "name": "Hogar Infantil Dulces Sonrisas",
+  "porcentagemTrajeto": 38.46153846153846,
+  "latLng": {
+   "lat": 10.400653,
+   "lng": -75.50193
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb75",
+  "id": 242657,
+  "name": "Tienda La Nacional (Cll30 53-18)",
+  "porcentagemTrajeto": 40.38461538461539,
+  "latLng": {
+   "lat": 10.399316,
+   "lng": -75.499735
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9d",
+  "id": 242404,
+  "name": "Parque De Los Calamares",
+  "porcentagemTrajeto": 42.30769230769231,
+  "latLng": {
+   "lat": 10.396998,
+   "lng": -75.499017
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb97",
+  "id": 242312,
+  "name": "Terraza Los Luceros",
+  "porcentagemTrajeto": 44.23076923076923,
+  "latLng": {
+   "lat": 10.393989,
+   "lng": -75.499087
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc0",
+  "id": 242511,
+  "name": "Mz E Lt 10",
+  "porcentagemTrajeto": 46.15384615384615,
+  "latLng": {
+   "lat": 10.391839,
+   "lng": -75.498624
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac0",
+  "id": 242215,
+  "name": "Colegio INEM",
+  "porcentagemTrajeto": 48.07692307692308,
+  "latLng": {
+   "lat": 10.389388,
+   "lng": -75.49747
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc38",
+  "id": 242539,
+  "name": "Universidad Del Sinu",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.388971,
+   "lng": -75.499989
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb4e",
+  "id": 242453,
+  "name": "Clinica El Bosque",
+  "porcentagemTrajeto": 51.92307692307693,
+  "latLng": {
+   "lat": 10.388638,
+   "lng": -75.502123
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc10",
+  "id": 242566,
+  "name": "Clinica El Bosque V",
+  "porcentagemTrajeto": 53.84615384615385,
+  "latLng": {
+   "lat": 10.388376566338046,
+   "lng": -75.50210505723955
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb76",
+  "id": 242658,
+  "name": "Universidad Del Sinu V",
+  "porcentagemTrajeto": 55.769230769230774,
+  "latLng": {
+   "lat": 10.388782855409376,
+   "lng": -75.49977958202363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad7",
+  "id": 242341,
+  "name": "Colegio INEM V",
+  "porcentagemTrajeto": 57.69230769230769,
+  "latLng": {
+   "lat": 10.389173314538667,
+   "lng": -75.49735486507417
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bada",
+  "id": 242359,
+  "name": "Entrada Almirante Colon",
+  "porcentagemTrajeto": 59.61538461538462,
+  "latLng": {
+   "lat": 10.389439776231963,
+   "lng": -75.49588769674303
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc04",
+  "id": 242503,
+  "name": "Napoleon Perea",
+  "porcentagemTrajeto": 61.53846153846154,
+  "latLng": {
+   "lat": 10.38976,
+   "lng": -75.493943
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb3",
+  "id": 242442,
+  "name": "Caracoles Mz 1 Lt 11",
+  "porcentagemTrajeto": 63.46153846153846,
+  "latLng": {
+   "lat": 10.389704,
+   "lng": -75.491692
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc41",
+  "id": 242578,
+  "name": "Efecty Caracoles",
+  "porcentagemTrajeto": 65.38461538461539,
+  "latLng": {
+   "lat": 10.387697,
+   "lng": -75.492176
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5d",
+  "id": 242525,
+  "name": "Restaurante Nueva Fortuna China",
+  "porcentagemTrajeto": 67.3076923076923,
+  "latLng": {
+   "lat": 10.38607,
+   "lng": -75.493883
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1e",
+  "id": 242195,
+  "name": "Cancha Microfutbol El campestre",
+  "porcentagemTrajeto": 69.23076923076923,
+  "latLng": {
+   "lat": 10.383994414931875,
+   "lng": -75.49457341432573
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc0e",
+  "id": 242555,
+  "name": "Cancha 2",
+  "porcentagemTrajeto": 71.15384615384616,
+  "latLng": {
+   "lat": 10.38218,
+   "lng": -75.495935
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7d",
+  "id": 242241,
+  "name": "El Milagro Soldadura Diaz",
+  "porcentagemTrajeto": 73.07692307692308,
+  "latLng": {
+   "lat": 10.381069,
+   "lng": -75.494446
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5e",
+  "id": 242530,
+  "name": "Taller Mañe",
+  "porcentagemTrajeto": 75,
+  "latLng": {
+   "lat": 10.380185,
+   "lng": -75.49221
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5b",
+  "id": 242304,
+  "name": "Tienda El Puente.Com",
+  "porcentagemTrajeto": 76.92307692307692,
+  "latLng": {
+   "lat": 10.379045,
+   "lng": -75.490372
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc2e",
+  "id": 242487,
+  "name": "Institucion Educativa San Lucas",
+  "porcentagemTrajeto": 78.84615384615385,
+  "latLng": {
+   "lat": 10.376914,
+   "lng": -75.490921
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba74",
+  "id": 242201,
+  "name": "UPA La Reina",
+  "porcentagemTrajeto": 80.76923076923077,
+  "latLng": {
+   "lat": 10.375286,
+   "lng": -75.489389
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3b",
+  "id": 242151,
+  "name": "Institucion Educativa Fe y Alegria El Progreso",
+  "porcentagemTrajeto": 82.6923076923077,
+  "latLng": {
+   "lat": 10.375294,
+   "lng": -75.488052
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe0",
+  "id": 242328,
+  "name": "Celumax",
+  "porcentagemTrajeto": 84.61538461538461,
+  "latLng": {
+   "lat": 10.375369,
+   "lng": -75.486239
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab8",
+  "id": 242177,
+  "name": "Surtimax 1",
+  "porcentagemTrajeto": 86.53846153846155,
+  "latLng": {
+   "lat": 10.3752,
+   "lng": -75.484709
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba43",
+  "id": 242193,
+  "name": "Super Drywall",
+  "porcentagemTrajeto": 88.46153846153847,
+  "latLng": {
+   "lat": 10.374952,
+   "lng": -75.482837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbdc",
+  "id": 242642,
+  "name": "Surtimateriales La Consolata",
+  "porcentagemTrajeto": 90.38461538461539,
+  "latLng": {
+   "lat": 10.374758,
+   "lng": -75.481134
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba39",
+  "id": 242141,
+  "name": "Ferreterias y Materiales El Educador",
+  "porcentagemTrajeto": 92.3076923076923,
+  "latLng": {
+   "lat": 10.374441,
+   "lng": -75.478109
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baaf",
+  "id": 242132,
+  "name": "Iglesia Cristiana El Acta Del Pacto",
+  "porcentagemTrajeto": 94.23076923076923,
+  "latLng": {
+   "lat": 10.373897,
+   "lng": -75.475233
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbba",
+  "id": 242480,
+  "name": "Estadio De Softbol",
+  "porcentagemTrajeto": 96.15384615384616,
+  "latLng": {
+   "lat": 10.373984,
+   "lng": -75.471971
+  }
+ }
+]

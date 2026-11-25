@@ -1,0 +1,152 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1d",
+  "id": 242631,
+  "name": "Parque Simon Bolivar",
+  "porcentagemTrajeto": 7.153149464257511,
+  "latLng": {
+   "lat": 10.377531,
+   "lng": -75.466543
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba57",
+  "id": 242291,
+  "name": "Parque 11 De Noviembre",
+  "porcentagemTrajeto": 11.40210461724291,
+  "latLng": {
+   "lat": 10.377813,
+   "lng": -75.468094
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb2e",
+  "id": 242273,
+  "name": "Portal De Medellin",
+  "porcentagemTrajeto": 18.93686534280058,
+  "latLng": {
+   "lat": 10.37969,
+   "lng": -75.470139
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8e",
+  "id": 242325,
+  "name": "Calamarí",
+  "porcentagemTrajeto": 25.371324005936213,
+  "latLng": {
+   "lat": 10.378885,
+   "lng": -75.472383
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb20",
+  "id": 242205,
+  "name": "Clinica ESE Rafael Calvo",
+  "porcentagemTrajeto": 34.64152573724892,
+  "latLng": {
+   "lat": 10.379133,
+   "lng": -75.475815
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc3",
+  "id": 242526,
+  "name": "Portales De San Fernando",
+  "porcentagemTrajeto": 41.64541803486341,
+  "latLng": {
+   "lat": 10.37932,
+   "lng": -75.478408
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2c",
+  "id": 242130,
+  "name": "Efecty Socorro MG1 L22",
+  "porcentagemTrajeto": 50.436704763977126,
+  "latLng": {
+   "lat": 10.379679,
+   "lng": -75.481651
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb41",
+  "id": 242386,
+  "name": "Los Jardines MG2 L16",
+  "porcentagemTrajeto": 55.397888041883604,
+  "latLng": {
+   "lat": 10.379808,
+   "lng": -75.483488
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb43",
+  "id": 242396,
+  "name": "Olimpica Carmelo",
+  "porcentagemTrajeto": 59.33969634952396,
+  "latLng": {
+   "lat": 10.381175,
+   "lng": -75.483946
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb74",
+  "id": 242656,
+  "name": "Supergiros",
+  "porcentagemTrajeto": 66.84432432469177,
+  "latLng": {
+   "lat": 10.383739,
+   "lng": -75.482963
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb0a",
+  "id": 242098,
+  "name": "Colegio Juan Jose Nieto",
+  "porcentagemTrajeto": 73.11981845072285,
+  "latLng": {
+   "lat": 10.385923,
+   "lng": -75.482258
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad3",
+  "id": 242321,
+  "name": "Biblioteca Distrital",
+  "porcentagemTrajeto": 82.50159318742742,
+  "latLng": {
+   "lat": 10.389173,
+   "lng": -75.481157
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba26",
+  "id": 242100,
+  "name": "Bodytech",
+  "porcentagemTrajeto": 86.03115228966514,
+  "latLng": {
+   "lat": 10.390179,
+   "lng": -75.480338
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba4c",
+  "id": 242235,
+  "name": "Coliseo Colegio Biffi",
+  "porcentagemTrajeto": 92.99237959285128,
+  "latLng": {
+   "lat": 10.392061,
+   "lng": -75.478601
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb37",
+  "id": 242339,
+  "name": "Clinica Madre Bernarda",
+  "porcentagemTrajeto": 97.98739585779478,
+  "latLng": {
+   "lat": 10.393476,
+   "lng": -75.477431
+  }
+ }
+]

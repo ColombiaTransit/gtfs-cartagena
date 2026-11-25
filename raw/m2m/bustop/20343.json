@@ -1,0 +1,142 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bbb2",
+  "id": 242437,
+  "name": "Bloc Port",
+  "porcentagemTrajeto": 6.25,
+  "latLng": {
+   "lat": 10.376043,
+   "lng": -75.504073
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6b",
+  "id": 242607,
+  "name": "Hotel La Estancia",
+  "porcentagemTrajeto": 12.5,
+  "latLng": {
+   "lat": 10.379731,
+   "lng": -75.501837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba56",
+  "id": 242286,
+  "name": "Nuevo Campestre Mz G Lt 2",
+  "porcentagemTrajeto": 18.75,
+  "latLng": {
+   "lat": 10.378629,
+   "lng": -75.499473
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbe2",
+  "id": 242338,
+  "name": "Colegio Bertha Gedeon",
+  "porcentagemTrajeto": 25,
+  "latLng": {
+   "lat": 10.378056,
+   "lng": -75.498178
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb14",
+  "id": 242148,
+  "name": "Mz 68 Lt 1",
+  "porcentagemTrajeto": 31.25,
+  "latLng": {
+   "lat": 10.379969,
+   "lng": -75.496875
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd7",
+  "id": 242621,
+  "name": "Mz 17 Lt 22",
+  "porcentagemTrajeto": 37.5,
+  "latLng": {
+   "lat": 10.382994,
+   "lng": -75.496755
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb88",
+  "id": 242257,
+  "name": "Colegio Militar Almirante Colon",
+  "porcentagemTrajeto": 43.75,
+  "latLng": {
+   "lat": 10.385471,
+   "lng": -75.495653
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb16",
+  "id": 242158,
+  "name": "Parrilla Paki",
+  "porcentagemTrajeto": 50,
+  "latLng": {
+   "lat": 10.387935979540378,
+   "lng": -75.49587160348894
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bada",
+  "id": 242359,
+  "name": "Entrada Almirante Colon",
+  "porcentagemTrajeto": 56.25,
+  "latLng": {
+   "lat": 10.389439776231963,
+   "lng": -75.49588769674303
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc04",
+  "id": 242503,
+  "name": "Napoleon Perea",
+  "porcentagemTrajeto": 62.5,
+  "latLng": {
+   "lat": 10.38976,
+   "lng": -75.493943
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc54",
+  "id": 242585,
+  "name": "Entrada Los Caracoles",
+  "porcentagemTrajeto": 68.75,
+  "latLng": {
+   "lat": 10.390218,
+   "lng": -75.491309
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb15",
+  "id": 242153,
+  "name": "Olimpica Caracoles",
+  "porcentagemTrajeto": 75,
+  "latLng": {
+   "lat": 10.390737784399658,
+   "lng": -75.48884421586992
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa4",
+  "id": 242087,
+  "name": "Aguas De Cartagena",
+  "porcentagemTrajeto": 81.25,
+  "latLng": {
+   "lat": 10.392304884636888,
+   "lng": -75.48497110605241
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae4",
+  "id": 242405,
+  "name": "Piko Riko",
+  "porcentagemTrajeto": 87.5,
+  "latLng": {
+   "lat": 10.39263993703467,
+   "lng": -75.4822862148285
+  }
+ }
+]

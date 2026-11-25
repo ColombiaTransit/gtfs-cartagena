@@ -1,0 +1,172 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5f",
+  "id": 242639,
+  "name": "SonoMarcas",
+  "porcentagemTrajeto": 10.190067341092417,
+  "latLng": {
+   "lat": 10.39224,
+   "lng": -75.481569
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6babe",
+  "id": 242207,
+  "name": "Centro Comercial La Plazuela",
+  "porcentagemTrajeto": 17.68231854834736,
+  "latLng": {
+   "lat": 10.390482,
+   "lng": -75.478655
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb5b",
+  "id": 242515,
+  "name": "Parque Santa Monica",
+  "porcentagemTrajeto": 23.455538479563266,
+  "latLng": {
+   "lat": 10.389156,
+   "lng": -75.476392
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba61",
+  "id": 242108,
+  "name": "Cementerio Jardines De Cartagena",
+  "porcentagemTrajeto": 30.14979516910413,
+  "latLng": {
+   "lat": 10.387489,
+   "lng": -75.473851
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6badf",
+  "id": 242383,
+  "name": "La Bonguita",
+  "porcentagemTrajeto": 34.55722971512706,
+  "latLng": {
+   "lat": 10.386364,
+   "lng": -75.472197
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb62",
+  "id": 242552,
+  "name": "C.C. Neus Alameda La Victoria",
+  "porcentagemTrajeto": 40.35310941452705,
+  "latLng": {
+   "lat": 10.383799,
+   "lng": -75.472636
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab9",
+  "id": 242182,
+  "name": "Tienda Y Terraza Zona Verde",
+  "porcentagemTrajeto": 44.1249384474646,
+  "latLng": {
+   "lat": 10.382355,
+   "lng": -75.473534
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd3",
+  "id": 242601,
+  "name": "I.E. Soledad Acosta De Samper",
+  "porcentagemTrajeto": 50.14034873846719,
+  "latLng": {
+   "lat": 10.380055,
+   "lng": -75.474971
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab7",
+  "id": 242172,
+  "name": "Restaurante Chung Fa",
+  "porcentagemTrajeto": 56.075590405481954,
+  "latLng": {
+   "lat": 10.378827,
+   "lng": -75.472568
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6b",
+  "id": 242159,
+  "name": "La Algodonera",
+  "porcentagemTrajeto": 60.63093010378855,
+  "latLng": {
+   "lat": 10.377037,
+   "lng": -75.471564
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8d",
+  "id": 242282,
+  "name": "Hogar De Bien",
+  "porcentagemTrajeto": 66.60607617548649,
+  "latLng": {
+   "lat": 10.37438,
+   "lng": -75.471932
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb73",
+  "id": 242651,
+  "name": "Punto Frio El Gavilan",
+  "porcentagemTrajeto": 72.2113719582475,
+  "latLng": {
+   "lat": 10.372235,
+   "lng": -75.473268
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba7b",
+  "id": 242233,
+  "name": "Coosalud",
+  "porcentagemTrajeto": 79.41921472490057,
+  "latLng": {
+   "lat": 10.369524,
+   "lng": -75.475062
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8a",
+  "id": 242302,
+  "name": "Tienda La Primaveral",
+  "porcentagemTrajeto": 83.66687133377798,
+  "latLng": {
+   "lat": 10.367713,
+   "lng": -75.475667
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac6",
+  "id": 242240,
+  "name": "Iglesia Cristiana Sendero De Salvacion",
+  "porcentagemTrajeto": 88.17978199543244,
+  "latLng": {
+   "lat": 10.366463,
+   "lng": -75.477287
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf5",
+  "id": 242434,
+  "name": "Asadero Don Rico Pollo",
+  "porcentagemTrajeto": 93.59158855582646,
+  "latLng": {
+   "lat": 10.365531,
+   "lng": -75.479567
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc1f",
+  "id": 242641,
+  "name": "Restaurante Rossy",
+  "porcentagemTrajeto": 96.63394866063229,
+  "latLng": {
+   "lat": 10.365175,
+   "lng": -75.480907
+  }
+ }
+]

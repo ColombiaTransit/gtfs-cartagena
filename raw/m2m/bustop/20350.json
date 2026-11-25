@@ -1,0 +1,192 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb3e",
+  "id": 242373,
+  "name": "Iglesia Pozon",
+  "porcentagemTrajeto": 4.761904761904762,
+  "latLng": {
+   "lat": 10.408736,
+   "lng": -75.455411
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc31",
+  "id": 242502,
+  "name": "Mi Locura",
+  "porcentagemTrajeto": 9.523809523809524,
+  "latLng": {
+   "lat": 10.411325,
+   "lng": -75.456691
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba3a",
+  "id": 242146,
+  "name": "Hospital El Pozon",
+  "porcentagemTrajeto": 14.285714285714285,
+  "latLng": {
+   "lat": 10.412753,
+   "lng": -75.457413
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc23",
+  "id": 242433,
+  "name": "Barberia Migue",
+  "porcentagemTrajeto": 19.047619047619047,
+  "latLng": {
+   "lat": 10.413959,
+   "lng": -75.458079
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbaf",
+  "id": 242421,
+  "name": "Tv 72B entre Kr 88 y 89",
+  "porcentagemTrajeto": 23.80952380952381,
+  "latLng": {
+   "lat": 10.414578,
+   "lng": -75.457646
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba53",
+  "id": 242271,
+  "name": "Kr 89 entre Tv 73A y 74A",
+  "porcentagemTrajeto": 28.57142857142857,
+  "latLng": {
+   "lat": 10.41594,
+   "lng": -75.457738
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbea",
+  "id": 242377,
+  "name": "Kr 89 entre Tv 74B y 75A",
+  "porcentagemTrajeto": 33.333333333333336,
+  "latLng": {
+   "lat": 10.416961,
+   "lng": -75.458502
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba5",
+  "id": 242371,
+  "name": "N Transversal1055",
+  "porcentagemTrajeto": 38.095238095238095,
+  "latLng": {
+   "lat": 10.416225,
+   "lng": -75.459998
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb29",
+  "id": 242248,
+  "name": "La Carpa Roja",
+  "porcentagemTrajeto": 42.857142857142854,
+  "latLng": {
+   "lat": 10.415263,
+   "lng": -75.46063
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac2",
+  "id": 242226,
+  "name": "Drogueria Zharick",
+  "porcentagemTrajeto": 47.61904761904762,
+  "latLng": {
+   "lat": 10.415557,
+   "lng": -75.462871
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafd",
+  "id": 242533,
+  "name": "Supertienda El Cañonazo",
+  "porcentagemTrajeto": 52.38095238095238,
+  "latLng": {
+   "lat": 10.413163,
+   "lng": -75.465735
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae9",
+  "id": 242430,
+  "name": "Acuacar",
+  "porcentagemTrajeto": 57.14285714285714,
+  "latLng": {
+   "lat": 10.410925,
+   "lng": -75.46604
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba49",
+  "id": 242223,
+  "name": "CDA",
+  "porcentagemTrajeto": 61.904761904761905,
+  "latLng": {
+   "lat": 10.407678,
+   "lng": -75.464695
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb34",
+  "id": 242322,
+  "name": "Billares El Kiosko",
+  "porcentagemTrajeto": 66.66666666666667,
+  "latLng": {
+   "lat": 10.404118,
+   "lng": -75.464165
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb7f",
+  "id": 242194,
+  "name": "Sastreria La prosperidad",
+  "porcentagemTrajeto": 71.42857142857143,
+  "latLng": {
+   "lat": 10.40261,
+   "lng": -75.462917
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbec",
+  "id": 242388,
+  "name": "Megaluminios",
+  "porcentagemTrajeto": 76.19047619047619,
+  "latLng": {
+   "lat": 10.401535842460836,
+   "lng": -75.46406865119936
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6a",
+  "id": 242154,
+  "name": "Ipanema",
+  "porcentagemTrajeto": 80.95238095238095,
+  "latLng": {
+   "lat": 10.400446292338213,
+   "lng": -75.46641290187837
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8b",
+  "id": 242272,
+  "name": "Entrada Las Palmeras",
+  "porcentagemTrajeto": 85.71428571428571,
+  "latLng": {
+   "lat": 10.399099,
+   "lng": -75.469325
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb6e",
+  "id": 242622,
+  "name": "Las Palmeras",
+  "porcentagemTrajeto": 90.47619047619048,
+  "latLng": {
+   "lat": 10.398356,
+   "lng": -75.471098
+  }
+ }
+]

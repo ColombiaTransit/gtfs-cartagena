@@ -1,0 +1,202 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bc48",
+  "id": 242613,
+  "name": "Madre Bernarda A1",
+  "porcentagemTrajeto": 4.545454545454546,
+  "latLng": {
+   "lat": 10.39529,
+   "lng": -75.478269
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb03",
+  "id": 242560,
+  "name": "Chinatown",
+  "porcentagemTrajeto": 9.090909090909092,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.48513
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad6",
+  "id": 242336,
+  "name": "Clinica Blas De Lezo",
+  "porcentagemTrajeto": 13.636363636363637,
+  "latLng": {
+   "lat": 10.391797,
+   "lng": -75.486751
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb00",
+  "id": 242546,
+  "name": "Auto Coreano",
+  "porcentagemTrajeto": 18.181818181818183,
+  "latLng": {
+   "lat": 10.390898,
+   "lng": -75.489023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bacf",
+  "id": 242284,
+  "name": "Tacarigua 1",
+  "porcentagemTrajeto": 22.72727272727273,
+  "latLng": {
+   "lat": 10.391186,
+   "lng": -75.491075
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb66",
+  "id": 242582,
+  "name": "Conjunto Residencial Tacarigua",
+  "porcentagemTrajeto": 27.272727272727273,
+  "latLng": {
+   "lat": 10.393852,
+   "lng": -75.491557
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bace",
+  "id": 242279,
+  "name": "Restaurante En Pin",
+  "porcentagemTrajeto": 31.81818181818182,
+  "latLng": {
+   "lat": 10.395635,
+   "lng": -75.493265
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baad",
+  "id": 242122,
+  "name": "Escallon Villa (Cll 30 No 56-73)",
+  "porcentagemTrajeto": 36.36363636363637,
+  "latLng": {
+   "lat": 10.397736,
+   "lng": -75.496816
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd1",
+  "id": 242591,
+  "name": "Escallon Villa (Cll 30 No 55-69)",
+  "porcentagemTrajeto": 40.909090909090914,
+  "latLng": {
+   "lat": 10.398625,
+   "lng": -75.498409
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb57",
+  "id": 242496,
+  "name": "La Caci-K Cll30 50A-115",
+  "porcentagemTrajeto": 45.45454545454546,
+  "latLng": {
+   "lat": 10.400503,
+   "lng": -75.501531
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba51",
+  "id": 242261,
+  "name": "Hospital Universitario",
+  "porcentagemTrajeto": 50.00000000000001,
+  "latLng": {
+   "lat": 10.401911,
+   "lng": -75.503872
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbf3",
+  "id": 242422,
+  "name": "Universidad De Cartagena",
+  "porcentagemTrajeto": 54.54545454545455,
+  "latLng": {
+   "lat": 10.403536,
+   "lng": -75.505521
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bacc",
+  "id": 242269,
+  "name": "Parque Piedra De Bolivar",
+  "porcentagemTrajeto": 59.09090909090909,
+  "latLng": {
+   "lat": 10.404742,
+   "lng": -75.507581
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baaa",
+  "id": 242107,
+  "name": "Cruz Roja",
+  "porcentagemTrajeto": 63.63636363636364,
+  "latLng": {
+   "lat": 10.40551,
+   "lng": -75.510037
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1c",
+  "id": 242185,
+  "name": "Amberes",
+  "porcentagemTrajeto": 68.18181818181819,
+  "latLng": {
+   "lat": 10.407073,
+   "lng": -75.512863
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6d",
+  "id": 242169,
+  "name": "Mitsubishi",
+  "porcentagemTrajeto": 72.72727272727273,
+  "latLng": {
+   "lat": 10.408007,
+   "lng": -75.514494
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba94",
+  "id": 242355,
+  "name": "El Prado A1",
+  "porcentagemTrajeto": 77.27272727272728,
+  "latLng": {
+   "lat": 10.411114,
+   "lng": -75.519516
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba5f",
+  "id": 242099,
+  "name": "Bazurto A1",
+  "porcentagemTrajeto": 81.81818181818183,
+  "latLng": {
+   "lat": 10.413747,
+   "lng": -75.52398
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb89",
+  "id": 242262,
+  "name": "Delicias B1",
+  "porcentagemTrajeto": 86.36363636363637,
+  "latLng": {
+   "lat": 10.416633,
+   "lng": -75.527864
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba8f",
+  "id": 242330,
+  "name": "Centro A1",
+  "porcentagemTrajeto": 90.90909090909092,
+  "latLng": {
+   "lat": 10.425386275462268,
+   "lng": -75.54621398448946
+  }
+ }
+]

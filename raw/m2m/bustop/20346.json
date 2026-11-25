@@ -1,0 +1,242 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6bb03",
+  "id": 242560,
+  "name": "Chinatown",
+  "porcentagemTrajeto": 12.180465725588299,
+  "latLng": {
+   "lat": 10.39248,
+   "lng": -75.48513
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad6",
+  "id": 242336,
+  "name": "Clinica Blas De Lezo",
+  "porcentagemTrajeto": 15.000097662028608,
+  "latLng": {
+   "lat": 10.391797,
+   "lng": -75.486751
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb00",
+  "id": 242546,
+  "name": "Auto Coreano",
+  "porcentagemTrajeto": 18.91576764794098,
+  "latLng": {
+   "lat": 10.390898,
+   "lng": -75.489023
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bacf",
+  "id": 242284,
+  "name": "Tacarigua 1",
+  "porcentagemTrajeto": 22.229981669920814,
+  "latLng": {
+   "lat": 10.391186,
+   "lng": -75.491075
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb66",
+  "id": 242582,
+  "name": "Conjunto Residencial Tacarigua",
+  "porcentagemTrajeto": 26.631765256657253,
+  "latLng": {
+   "lat": 10.393852,
+   "lng": -75.491557
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bace",
+  "id": 242279,
+  "name": "Restaurante En Pin",
+  "porcentagemTrajeto": 30.614062102473355,
+  "latLng": {
+   "lat": 10.395635,
+   "lng": -75.493265
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb22",
+  "id": 242217,
+  "name": "Danna Express",
+  "porcentagemTrajeto": 34.612390774521124,
+  "latLng": {
+   "lat": 10.395943,
+   "lng": -75.495746
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baa1",
+  "id": 242424,
+  "name": "Tienda La Rebaja Oficial",
+  "porcentagemTrajeto": 37.86154288911576,
+  "latLng": {
+   "lat": 10.394650243874798,
+   "lng": -75.49729585647584
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb97",
+  "id": 242312,
+  "name": "Terraza Los Luceros",
+  "porcentagemTrajeto": 40.92048495477469,
+  "latLng": {
+   "lat": 10.393989,
+   "lng": -75.499087
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb92",
+  "id": 242303,
+  "name": "Mz 49 Lt 16",
+  "porcentagemTrajeto": 44.89418459064063,
+  "latLng": {
+   "lat": 10.391759,
+   "lng": -75.500105
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bba9",
+  "id": 242393,
+  "name": "Mz 56 Lt 8",
+  "porcentagemTrajeto": 49.66496327762343,
+  "latLng": {
+   "lat": 10.39141316863066,
+   "lng": -75.5030679702759
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba2e",
+  "id": 242140,
+  "name": "Excursiones Maria Elena",
+  "porcentagemTrajeto": 52.417158831627916,
+  "latLng": {
+   "lat": 10.389766,
+   "lng": -75.503466
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc10",
+  "id": 242566,
+  "name": "Clinica El Bosque V",
+  "porcentagemTrajeto": 55.55349768075036,
+  "latLng": {
+   "lat": 10.388376566338046,
+   "lng": -75.50210505723955
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb76",
+  "id": 242658,
+  "name": "Universidad Del Sinu V",
+  "porcentagemTrajeto": 59.32997353739847,
+  "latLng": {
+   "lat": 10.388782855409376,
+   "lng": -75.49977958202363
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bad7",
+  "id": 242341,
+  "name": "Colegio INEM V",
+  "porcentagemTrajeto": 63.25853816941528,
+  "latLng": {
+   "lat": 10.389173314538667,
+   "lng": -75.49735486507417
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bada",
+  "id": 242359,
+  "name": "Entrada Almirante Colon",
+  "porcentagemTrajeto": 65.64408779594208,
+  "latLng": {
+   "lat": 10.389439776231963,
+   "lng": -75.49588769674303
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc04",
+  "id": 242503,
+  "name": "Napoleon Perea",
+  "porcentagemTrajeto": 68.79678531710049,
+  "latLng": {
+   "lat": 10.38976,
+   "lng": -75.493943
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc54",
+  "id": 242585,
+  "name": "Entrada Los Caracoles",
+  "porcentagemTrajeto": 73.07365203485851,
+  "latLng": {
+   "lat": 10.390218,
+   "lng": -75.491309
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb15",
+  "id": 242153,
+  "name": "Olimpica Caracoles",
+  "porcentagemTrajeto": 77.10420933346994,
+  "latLng": {
+   "lat": 10.390737784399658,
+   "lng": -75.48884421586992
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baed",
+  "id": 242454,
+  "name": "Cl 30 entre Tv 54 y Kr 67",
+  "porcentagemTrajeto": 82.47454899311546,
+  "latLng": {
+   "lat": 10.391516,
+   "lng": -75.48558
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba79",
+  "id": 242224,
+  "name": "Cl 30 entre Kr 68B y 68D",
+  "porcentagemTrajeto": 86.23039862179785,
+  "latLng": {
+   "lat": 10.390471,
+   "lng": -75.483485
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba90",
+  "id": 242335,
+  "name": "Cl 30 entre Kr 69 y 70",
+  "porcentagemTrajeto": 88.9408550618828,
+  "latLng": {
+   "lat": 10.389698,
+   "lng": -75.481983
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba26",
+  "id": 242100,
+  "name": "Bodytech",
+  "porcentagemTrajeto": 91.6848456169722,
+  "latLng": {
+   "lat": 10.390179,
+   "lng": -75.480338
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb1f",
+  "id": 242200,
+  "name": "Centro Comercial Santa Lucia",
+  "porcentagemTrajeto": 94.0766528100874,
+  "latLng": {
+   "lat": 10.391647,
+   "lng": -75.480237
+  }
+ }
+]
