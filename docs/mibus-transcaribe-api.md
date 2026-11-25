@@ -92,8 +92,8 @@ All paths listed below were identified in the application configuration. Only en
 | GET | `/forecast/lines/load/bustop/{id_migracao}/1343` | Stops associated with a route variant | Validated |
 | GET | `/forecast/lines/load/departure/{id_migracao}/1343` | Scheduled departures | Validated |
 | GET* | `/forecast/lines/load/linesFromBusstop/{stopId}/1343` | Lines serving a stop | Untested |
-| GET* | `/forecast/lines/load/forecast/lines/fromPoint/{stopId}/1343` | Arrival predictions at a stop | Untested |
-| GET* | `/forecast/lines/load/all/forecast/{id1}/{id2}/1343` | Route-related predictions | Untested |
+| GET | `/forecast/lines/load/forecast/lines/fromPoint/{stopId}/1343` | Arrival predictions at a stop, all lines | Validated (see 11.5) |
+| GET | `/forecast/lines/load/all/forecast/{stopId}/{id_migracao}/1343` | Arrival predictions at a stop for one variant | Validated (see 11.5) |
 | GET* | `/forecast/lines/load/busStop/{lat}/{lon}/1343?radiusInMeters={radius}` | Nearby stops | Untested |
 | Unknown | `/forecast/contact/1343` | Contact service | Untested |
 
@@ -519,6 +519,41 @@ curl.exe -i "https://zn5.m2mcontrol.com.br/api/forecast/lines/load/busStop/10.39
 ```
 
 This endpoint could be used to validate geographical stop searches.
+
+### 11.5 Forecast endpoints (validated 2026-11-25)
+
+Not used now (no realtime, section 0); recorded for later and for the
+running-time idea below.
+
+- `forecast/lines/fromPoint/{stopId}/1343`: predictions for all lines at a stop
+  (`stopId` = numeric id from `allPoints`, e.g. 242521 Patio Portal A1).
+- `all/forecast/{stopId}/{id_migracao}/1343`: predictions for one variant at a
+  stop (e.g. 242283 Tenaris, 20337 A102 IDA).
+
+Both return a JSON array (empty = no predictions) of:
+
+| Field | Description | GTFS Realtime |
+|---|---|---|
+| `codVehicle` | Public vehicle number (e.g. `TC33009`) | `vehicle.label` |
+| `idVeiculo` | Internal vehicle id | `vehicle.id` |
+| `arrivalTime` | Expected arrival, probably in minutes from now | `stop_time_update.arrival` |
+| `pointLocationId` | Stop id | `stop_time_update.stop_id` |
+| `busServiceId`, `busServiceNumber`, `nameLine` | Line | `trip.route_id` |
+| `patternId`, `patternName`, `destination` | Route variant | link to the static trips |
+| `latLng` | Probably the current vehicle position | `position` |
+| `acessibilidade` | Accessibility flag, meaning unknown | |
+| `trajetos[].idString` | MongoDB variant id | |
+
+No GPS timestamp and no reference to a scheduled trip. Open: unit of
+`arrivalTime` (probably minutes), meaning and age of the position, prediction
+horizon, refresh interval, a central endpoint for all vehicles.
+
+**Possible use for the static feed (running times, issue #25):** the predicted
+arrival of the same vehicle (`idVeiculo`) at successive stops of a variant,
+taken at the same moment, gives the predicted running time between those
+stops. A few samples per variant and time of day would give a running-time
+profile to check (or replace) the GraphHopper estimate. Minute resolution and
+an unknown prediction model limit the precision.
 
 ## 12. Fare information
 
