@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       parts:
-        description: "Parts to fetch (stops routes roads pois); empty = all"
+        description: "Parts to fetch (stops routes stations roads pois); empty = all"
         required: false
         default: ""
 

@@ -13,12 +13,15 @@ Writes:
 - overpass_routes.json  Transcaribe route relations with all members, their
                         nodes and their ways with geometry (same format;
                         operator ~ "caribe" also catches the "Trasncaribe" typo)
+- overpass_stations.json  stop_area relations with all their members, and every
+                        Transcaribe platform, station and stop position, with
+                        geometry: which vagón (platform) belongs to which station
 - roads.geojson.gz      the drivable road network: one LineString per way with
                         its OSM node ids, for routing shapes and snapping stops
 - pois.csv              named places (schools, churches, shops, parks, ...)
                         that stops are named after, with their centre
 
-Usage: OVERPASS_URL=... python scripts/fetch_osm.py [stops] [routes] [roads] [pois]
+Usage: OVERPASS_URL=... python scripts/fetch_osm.py [stops] [routes] [stations] [roads] [pois]
 """
 
 from __future__ import annotations
@@ -54,6 +57,16 @@ relation["type"="route"]["route"="bus"]["operator"~"caribe",i]({BBOX})->.r;
 node(r.r);
 out;
 way(r.r);
+out geom;""",
+    "stations": f"""[out:json][timeout:300];
+relation["public_transport"="stop_area"]({BBOX})->.sa;
+(
+  .sa;
+  nwr(r.sa);
+  nwr["public_transport"]["operator"~"caribe",i]({BBOX});
+  nwr["public_transport"]["network"~"caribe",i]({BBOX});
+  nwr["public_transport"~"^(platform|station)$"]["name"~"^(Patio Portal|Madre Bernarda|La Castellana|Los [AÁ]ngeles|Villa Ol[ií]mpica|Los Ejecutivos|Cuatro Vientos|Rep[uú]blica del L[ií]bano|Espa[nñ]a|Mar[ií]a Auxiliadora|El Prado|Bazurto|(Las )?Delicias|La Popa|Lo Amador|Chambac[uú]|Centro|La Bodeguita|Santa Luc[ií]a)",i]({BBOX});
+);
 out geom;""",
     "roads": f"""[out:json][timeout:600];
 way["highway"~"^(motorway|trunk|primary|secondary|tertiary|unclassified|residential|living_street|service|busway|road)(_link)?$"]({BBOX});
@@ -155,7 +168,7 @@ def main() -> int:
     for name in parts:
         data = query(url, scrub, name, QUERIES[name])
         n = len(data.get("elements", []))
-        if name in ("stops", "routes"):
+        if name in ("stops", "routes", "stations"):
             if name == "routes" and not any(e["type"] == "relation" for e in data["elements"]):
                 sys.exit("routes: no relations returned, keeping the old file")
             data.pop("osm3s", None)                  # timestamps would change the file on every run
