@@ -37,8 +37,10 @@ no `block_id` (the API does not say which vehicle runs which trips).
   first letter of the number; colours per type.
 - `stops.txt`: every stop of a variant (`bustop`) with the API name and
   position, plus the start and end points of the variants. Those are not in
-  `allPoints`; they take the end of the geometry and a name from the variant's
-  destination (`pattern.type`) or from the open data. Names ending in a vagón
+  `allPoints`, but the nearby-stops endpoint (`busStop/{lat}/{lon}`) returns
+  them with name and position: `fetch_m2m.py --terminals` stores them in
+  `raw/m2m/terminals.json`. Without that file they take the end of the geometry
+  and a name from the variant's destination or the open data. Names ending in a vagón
   code ("Bazurto A1", "Patio Portal C2") are platforms of a trunk station:
   `location_type=1` parent from `data/stops.csv` (OSM position, accented
   name), `platform_code` = the code. The API gives every vagón its own

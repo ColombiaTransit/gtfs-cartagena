@@ -174,10 +174,19 @@ def main() -> int:
         for b in v["bus"]:
             p = points.get(b["id"], {"latLng": b["latLng"], "name": b["name"]})
             add_stop(b["id"], p["name"], p["latLng"]["lat"], p["latLng"]["lng"])
+    # start/end points: from the nearby-stops endpoint (raw/m2m/terminals.json) when
+    # fetched; else the end of the geometry and a name from the destination/open data
+    tpath = M2M / "terminals.json"
+    terminals = {s["id"]: s for s in read_json(tpath)} if tpath.exists() else {}
     for tid, pts in terminal_pts.items():
+        if tid in terminals:
+            t = terminals[tid]
+            add_stop(tid, t["name"], t["latLng"]["lat"], t["latLng"]["lng"])
+            continue
         name = terminal_names[tid].most_common(1)[0][0] if terminal_names[tid] else f"Terminal {tid}"
         lat = statistics.median(p[0] for p in pts)
         lon = statistics.median(p[1] for p in pts)
+        print(f"terminal {tid} ({name}) not in terminals.json: end of the geometry", file=sys.stderr)
         add_stop(tid, name, lat, lon)
 
     # ---------------------------------------------------------------- routes, shapes, trips, stop_times

@@ -12,11 +12,17 @@ Writes:
     raw/m2m/departure/<date>/<id_migracao>.json  scheduled departures on that date
     raw/m2m/manifest.json                      what was fetched, when, HTTP status,
                                                size and sha256 per file
+    raw/m2m/terminals.json                     (--terminals) the variants' start and end
+                                               points: they are not in allPoints, but the
+                                               nearby-stops endpoint knows them
 
 Lines whose number starts with an EXCLUDE prefix (A000: test lines, not
 official) are kept in allLines.json but their variants are not fetched.
 
 Usage: python scripts/fetch_m2m.py DATE [DATE ...]     (YYYY-MM-DD)
+       python scripts/fetch_m2m.py --terminals         (uses allLines.json and pattern/ already
+                                                        in raw/m2m; asks busStop/{lat}/{lon} at
+                                                        both ends of every geometry)
 """
 
 from __future__ import annotations
@@ -72,7 +78,46 @@ def save(rel: str, r: requests.Response | None) -> object:
     return data
 
 
+TERMINAL_RADIUS = 300      # m around the end of a geometry
+
+
+def fetch_terminals() -> int:
+    lines = json.loads((OUT / "allLines.json").read_text(encoding="utf-8"))
+    wanted: set[int] = set()
+    ends: list[tuple[float, float]] = []
+    for line in lines:
+        if str(line.get("numero", "")).startswith(EXCLUDE):
+            continue
+        for t in line["trajetos"]:
+            wanted |= {t["startPoint"]["id_migracao"], t["endPoint"]["id_migracao"]}
+        path = OUT / "pattern" / f"{line['id']}.json"
+        for p in json.loads(path.read_text()) if path.exists() else []:
+            if p.get("polyLine"):
+                ends += [(p["polyLine"][0]["lat"], p["polyLine"][0]["lng"]),
+                         (p["polyLine"][-1]["lat"], p["polyLine"][-1]["lng"])]
+    found: dict[int, dict] = {}
+    done: list[tuple[float, float]] = []
+    for lat, lng in ends:
+        if any(abs(lat - a) < 0.001 and abs(lng - b) < 0.001 for a, b in done):
+            continue                      # an end already covered by a nearby query
+        done.append((lat, lng))
+        r = get(f"busStop/{lat:.6f}/{lng:.6f}", {"radiusInMeters": TERMINAL_RADIUS})
+        if r is None or r.status_code != 200:
+            print(f"  busStop {lat},{lng}: {None if r is None else r.status_code}", file=sys.stderr)
+            continue
+        for s in r.json():
+            if s.get("id") in wanted:
+                found[s["id"]] = s
+    rows = sorted(found.values(), key=lambda s: s["id"])
+    (OUT / "terminals.json").write_text(json.dumps(rows, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    missing = sorted(wanted - set(found))
+    print(f"{len(done)} queries, {len(rows)} of {len(wanted)} start/end points found; missing: {missing}")
+    return 0 if rows else 1
+
+
 def main() -> int:
+    if sys.argv[1:] == ["--terminals"]:
+        return fetch_terminals()
     dates = sys.argv[1:]
     if not dates:
         print(__doc__)
