@@ -1,0 +1,708 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,location_type,parent_station,platform_code,quality,routes
+st_bazurto,,Bazurto,10.4139716,-75.524387,1,,,osm_station,T101 T102 T103 X101 X102 X103 X104 X105
+st_bazurto_a1,,Bazurto A1,10.413787,-75.5240922,0,st_bazurto,A1,osm_platform_assumed_order,T101 X102 X103 X105
+st_bazurto_a2,,Bazurto A2,10.413787,-75.5240922,0,st_bazurto,A2,osm_platform_assumed_order,T101 X102 X103 X105
+st_bazurto_b1,,Bazurto B1,10.4141562,-75.5246818,0,st_bazurto,B1,osm_platform_assumed_order,T102 T103 X101 X104
+st_bazurto_b2,,Bazurto B2,10.4141562,-75.5246818,0,st_bazurto,B2,osm_platform_assumed_order,T102 T103 X101 X104
+st_centro,,Centro,10.4251505,-75.5464569,1,,,osm_station,T100E T101 T102 X101 X102 X103 X104 X105 X106
+st_centro_a1,,Centro A1,10.4253318,-75.546232,0,st_centro,A1,osm_platform_assumed_order,T101 T102 X101 X103 X106
+st_centro_a2,,Centro A2,10.4253318,-75.546232,0,st_centro,A2,osm_platform_assumed_order,T101 X101 X103 X106
+st_centro_b1,,Centro B1,10.4249691,-75.5466817,0,st_centro,B1,osm_platform_assumed_order,T100E X102 X104 X105
+st_centro_b2,,Centro B2,10.4249691,-75.5466817,0,st_centro,B2,osm_platform_assumed_order,T100E X102 X104 X105
+st_chambacu,,Chambacú,10.4258994,-75.5405147,1,,,osm_station,T101 T102 T103 X101 X104
+st_chambacu_a1,,Chambacú A1,10.4258994,-75.5405147,0,st_chambacu,A1,station_centre,T101 T102 T103 X101 X104
+st_chambacu_a2,,Chambacú A2,10.4258994,-75.5405147,0,st_chambacu,A2,station_centre,T101 T102 T103 X101 X104
+st_cuatro_vientos,,Cuatro Vientos,10.4065252,-75.5029998,1,,,osm_station,T100E T101 T103 X101
+st_cuatro_vientos_a1,,Cuatro Vientos A1,10.4064798,-75.5027425,0,st_cuatro_vientos,A1,osm_platform_assumed_order,T100E T103
+st_cuatro_vientos_a2,,Cuatro Vientos A2,10.4064798,-75.5027425,0,st_cuatro_vientos,A2,osm_platform_assumed_order,T100E T103
+st_cuatro_vientos_b1,,Cuatro Vientos B1,10.4065707,-75.503257,0,st_cuatro_vientos,B1,osm_platform_assumed_order,T101 X101
+st_cuatro_vientos_b2,,Cuatro Vientos B2,10.4065707,-75.503257,0,st_cuatro_vientos,B2,osm_platform_assumed_order,T101 X101
+st_delicias,,Las Delicias,10.4164782,-75.5277795,1,,,osm_station,X102 X103 X105 X106
+st_delicias_a1,,Las Delicias A1,10.4162725,-75.5275983,0,st_delicias,A1,osm_platform_assumed_order,X102 X105
+st_delicias_a2,,Las Delicias A2,10.4162725,-75.5275983,0,st_delicias,A2,osm_platform_assumed_order,X102 X105
+st_delicias_b1,,Las Delicias B1,10.4166839,-75.5279607,0,st_delicias,B1,osm_platform_assumed_order,X103 X106
+st_delicias_b2,,Las Delicias B2,10.4166839,-75.5279607,0,st_delicias,B2,osm_platform_assumed_order,X103 X106
+st_el_prado,,El Prado,10.4111345,-75.5196446,1,,,osm_station,T101 T102 X103
+st_el_prado_a1,,El Prado A1,10.4111345,-75.5196446,0,st_el_prado,A1,station_centre,T101 T102 X103
+st_el_prado_a2,,El Prado A2,10.4111345,-75.5196446,0,st_el_prado,A2,station_centre,T101 T102 X103
+st_espana,,España,10.4083078,-75.5129607,1,,,osm_station,T101 T103 X101
+st_espana_a1,,España A1,10.4083078,-75.5129607,0,st_espana,A1,station_centre,T101 T103 X101
+st_espana_a2,,España A2,10.4083078,-75.5129607,0,st_espana,A2,station_centre,T101 T103 X101
+st_la_bodeguita,,La Bodeguita,10.4200427,-75.5514211,1,,,osm_station,T100E T101 T103 X101 X102 X103 X104 X105 X106
+st_la_bodeguita_a1,,La Bodeguita A1,10.4202792,-75.551189,0,st_la_bodeguita,A1,osm_platform_assumed_order,T101 T103 X101 X102 X104 X105
+st_la_bodeguita_a2,,La Bodeguita A2,10.4202792,-75.551189,0,st_la_bodeguita,A2,osm_platform_assumed_order,T101 X101 X103 X106
+st_la_bodeguita_b1,,La Bodeguita B1,10.4198061,-75.5516531,0,st_la_bodeguita,B1,osm_platform_assumed_order,T100E X103 X106
+st_la_bodeguita_b2,,La Bodeguita B2,10.4198061,-75.5516531,0,st_la_bodeguita,B2,osm_platform_assumed_order,T100E T103 X102 X104 X105
+st_la_castellana,,La Castellana,10.3944278,-75.486431,1,,,osm_station,T100E T101 T103 X106
+st_la_castellana_a1,,La Castellana A1,10.3944117,-75.4861458,0,st_la_castellana,A1,osm_platform_assumed_order,T100E X106
+st_la_castellana_a2,,La Castellana A2,10.3944117,-75.4861458,0,st_la_castellana,A2,osm_platform_assumed_order,T100E X106
+st_la_castellana_b1,,La Castellana B1,10.394444,-75.4867163,0,st_la_castellana,B1,osm_platform_assumed_order,T101 T103
+st_la_castellana_b2,,La Castellana B2,10.394444,-75.4867163,0,st_la_castellana,B2,osm_platform_assumed_order,T101 T103
+st_la_popa,,La Popa,10.4205295,-75.5310998,1,,,osm_station,T101 T103 X104 X106
+st_la_popa_a1,,La Popa A1,10.4205295,-75.5310998,0,st_la_popa,A1,station_centre,T101 T103 X104 X106
+st_la_popa_a2,,La Popa A2,10.4205295,-75.5310998,0,st_la_popa,A2,station_centre,T101 T103 X104 X106
+st_lo_amador,,Lo Amador,10.422382,-75.5346541,1,,,osm_station,X102 X105 X106
+st_lo_amador_a1,,Lo Amador A1,10.422382,-75.5346541,0,st_lo_amador,A1,station_centre,X102 X105 X106
+st_lo_amador_a2,,Lo Amador A2,10.422382,-75.5346541,0,st_lo_amador,A2,station_centre,X102 X105 X106
+st_los_angeles,,Los Ángeles,10.3951117,-75.4903732,1,,,osm_station,T102
+st_los_angeles_a1,,Los Ángeles A1,10.3951117,-75.4903732,0,st_los_angeles,A1,station_centre,T102
+st_los_angeles_a2,,Los Ángeles A2,10.3951117,-75.4903732,0,st_los_angeles,A2,station_centre,T102
+st_los_ejecutivos,,Los Ejecutivos,10.3994886,-75.4936536,1,,,osm_station,T101 T103 X101 X106
+st_los_ejecutivos_a1,,Los Ejecutivos A1,10.3994886,-75.4936536,0,st_los_ejecutivos,A1,station_centre,T101 T103 X101 X106
+st_los_ejecutivos_a2,,Los Ejecutivos A2,10.3994886,-75.4936536,0,st_los_ejecutivos,A2,station_centre,T101 T103 X101 X106
+st_madre_bernarda,,Madre Bernarda,10.3951416,-75.4786036,1,,,osm_station,T100E T101 T102 T103 X102 X103
+st_madre_bernarda_a1,,Madre Bernarda A1,10.39527,-75.4782943,0,st_madre_bernarda,A1,osm_platform_assumed_order,T101 T103 X103
+st_madre_bernarda_a2,,Madre Bernarda A2,10.39527,-75.4782943,0,st_madre_bernarda,A2,osm_platform_assumed_order,T101 T103 X103
+st_madre_bernarda_b1,,Madre Bernarda B1,10.3950133,-75.478913,0,st_madre_bernarda,B1,osm_platform_assumed_order,T100E T102 X102
+st_madre_bernarda_b2,,Madre Bernarda B2,10.3950133,-75.478913,0,st_madre_bernarda,B2,osm_platform_assumed_order,T100E T102 X102
+st_maria_auxiliadora,,María Auxiliadora,10.4090044,-75.515891,1,,,osm_station,T100E T102 X101 X106
+st_maria_auxiliadora_a1,,María Auxiliadora A1,10.4090044,-75.515891,0,st_maria_auxiliadora,A1,station_centre,T100E T102 X101 X106
+st_maria_auxiliadora_a2,,María Auxiliadora A2,10.4090044,-75.515891,0,st_maria_auxiliadora,A2,station_centre,T100E T102 X101 X106
+st_patio_portal,,Patio Portal,10.3958125,-75.4724105,1,,,osm_station,A101 A102 A114 A117 A118 C016 T100E T101 T102 T103 X102 X103
+st_patio_portal_p,,Patio Portal,10.3958125,-75.4724105,0,st_patio_portal,,station_centre,A118
+st_patio_portal_a1,,Patio Portal A1,10.3958125,-75.4724105,0,st_patio_portal,A1,station_centre,T100E T101 T103
+st_patio_portal_a2,,Patio Portal A2,10.3958125,-75.4724105,0,st_patio_portal,A2,station_centre,T101
+st_patio_portal_a3,,Patio Portal A3,10.3958125,-75.4724105,0,st_patio_portal,A3,station_centre,T100E
+st_patio_portal_a4,,Patio Portal A4,10.3958125,-75.4724105,0,st_patio_portal,A4,station_centre,T103
+st_patio_portal_b1,,Patio Portal B1,10.3958125,-75.4724105,0,st_patio_portal,B1,station_centre,T102
+st_patio_portal_b2,,Patio Portal B2,10.3958125,-75.4724105,0,st_patio_portal,B2,station_centre,X102
+st_patio_portal_b3,,Patio Portal B3,10.3958125,-75.4724105,0,st_patio_portal,B3,station_centre,X103
+st_patio_portal_b4,,Patio Portal B4,10.3958125,-75.4724105,0,st_patio_portal,B4,station_centre,X103
+st_patio_portal_b5,,Patio Portal B5,10.3958125,-75.4724105,0,st_patio_portal,B5,station_centre,T102
+st_patio_portal_b6,,Patio Portal B6,10.3958125,-75.4724105,0,st_patio_portal,B6,station_centre,X102
+st_patio_portal_c1,,Patio Portal C1,10.3958125,-75.4724105,0,st_patio_portal,C1,station_centre,A117 C016
+st_patio_portal_c2,,Patio Portal C2,10.3958125,-75.4724105,0,st_patio_portal,C2,station_centre,A101 A102
+st_patio_portal_c3,,Patio Portal C3,10.3958125,-75.4724105,0,st_patio_portal,C3,station_centre,A114
+st_patio_portal_d1,,Patio Portal D1,10.3958125,-75.4724105,0,st_patio_portal,D1,station_centre,A117
+st_patio_portal_d2,,Patio Portal D2,10.3958125,-75.4724105,0,st_patio_portal,D2,station_centre,A101
+st_patio_portal_d3,,Patio Portal D3,10.3958125,-75.4724105,0,st_patio_portal,D3,station_centre,A102
+st_patio_portal_d4,,Patio Portal D4,10.3958125,-75.4724105,0,st_patio_portal,D4,station_centre,C016
+st_patio_portal_d5,,Patio Portal D5,10.3958125,-75.4724105,0,st_patio_portal,D5,station_centre,A114
+st_republica_del_libano,,República del Líbano,10.4073573,-75.5074982,1,,,osm_station,T102 X101 X106
+st_republica_del_libano_a1,,República del Líbano A1,10.4073573,-75.5074982,0,st_republica_del_libano,A1,station_centre,T102 X101 X106
+st_republica_del_libano_a2,,República del Líbano A2,10.4073573,-75.5074982,0,st_republica_del_libano,A2,station_centre,T102 X101 X106
+st_transferencia_santa_lucia,,Santa Lucía,10.3951874,-75.4780606,1,,,osm_station,A103 A104 A105 A107 A108 A111
+st_transferencia_santa_lucia_p,,Santa Lucía,10.3951874,-75.4780606,0,st_transferencia_santa_lucia,,station_centre,A103 A104 A105 A107 A108 A111
+st_villa_olimpica,,Villa Olímpica,10.4038018,-75.4974741,1,,,osm_station,T102 X101
+st_villa_olimpica_a1,,Villa Olímpica A1,10.4038018,-75.4974741,0,st_villa_olimpica,A1,station_centre,T102 X101
+st_villa_olimpica_a2,,Villa Olímpica A2,10.4038018,-75.4974741,0,st_villa_olimpica,A2,station_centre,T102 X101
+villa_rosita,,Villa Rosita,10.398632,-75.470158,0,,,map_label,A101 A117 C016
+altamare,,Altamare,10.401228,-75.464213,0,,,map_label,A101 A114 A117 A118 C016 X104
+bomba_petromil,,Bomba Petromil,10.401117,-75.464564,0,,,map_label,A101 A117 C016
+centro_comercial_mio,,Centro comercial Mio,10.402495,-75.459701,0,,,map_label,A101 A114 A117 A118 C016 X104
+afueras_terminal_de_transporte,,Afueras Terminal de Transporte,10.401951,-75.459756,0,,,interpolated,A101
+palmas_de_salamanca,,Palmas de Salamanca,10.403727,-75.457247,0,,,map_label,A101 A114 A117 A118 C016
+parque_de_galilea,,Parque de Galilea,10.399537,-75.456012,0,,,interpolated,A101
+el_jardin_camelia,,El Jardín Camelia,10.398137,-75.454314,0,,,interpolated,A101
+el_jardin_orquidea,,El Jardín Orquidea,10.396149,-75.455312,0,,,interpolated,A101
+cl_39h_entre_kr_91b_y_91a,,Cl 39H entre Kr 91B y 91A,10.394609,-75.456459,0,,,interpolated,A101
+ciudad_jardin_primavera_2,,ciudad jardin primavera 2,10.395603,-75.458463,0,,,map_label,A101
+refugio_la_carolina,,refugio la carolina,10.394377,-75.455992,0,,,map_label,A101
+parque_huellas_de_alberto_uribe,,Parque Huellas de Alberto Uribe,10.392709,-75.452733,0,,,map_label,A101
+nuevo_horizonte,,Nuevo horizonte,10.391886,-75.449923,0,,,map_label,A101
+brisas_de_galicia,,Brisas de galicia,10.390601,-75.448919,0,,,map_label,A101
+horizontes,,Horizontes,10.386378,-75.449813,0,,,map_label,A101
+villa_andrea,,Villa andrea,10.383618,-75.450306,0,,,map_label,A101
+villa_sol,,villa sol,10.382516,-75.450508,0,,,map_label,A101
+villa_grande_1,,Villa grande 1,10.38129,-75.450744,0,,,map_label,A101
+villa_grande_2,,Villa grande 2,10.378618,-75.451242,0,,,map_label,A101
+sena_ternera,,Sena Ternera,10.374854,-75.458758,0,,,map_label,A101
+quintas_del_manantial,,Quintas del Manantial,10.37707,-75.460795,0,,,map_label,A101 A102 X101
+centro_industrial_ternera,,Centro Industrial Ternera,10.379065,-75.462655,0,,,map_label,A101 A102
+la_princesa,,La Princesa,10.3811843,-75.4646084,0,,,osm_named,A101 A102 X106
+drogueria_calidad_y_musica_rs,,Drogueria Calidad y Musica RS,10.383244,-75.465604,0,,,map_label,A101 A102
+iglesia_ternera,,Iglesia Ternera,10.384825,-75.465732,0,,,map_label,A101 A102
+u_san_buenaventura_vuelta,,U. San Buenaventura Vuelta,10.386747,-75.466109,0,,,map_label,A101 A102
+marval,,Marval,10.389203,-75.467936,0,,,map_label,A101 A102
+iglesia_el_recreo,,Iglesia El Recreo,10.39114,-75.470575,0,,,map_label,A101 A102
+los_abetos,,Los Abetos,10.392586,-75.471599,0,,,map_label,A101 A102
+terrazas_de_granada_eje_6_vuelta,,Terrazas de Granada eje 6 Vuelta,10.393387,-75.470923,0,,,map_label,A101 A102
+terrazas_de_granada_eje_6,,Terrazas de Granada eje 6,10.394043,-75.471707,0,,,map_label,A102
+colegio_castillo,,Colegio Castillo,10.391677,-75.471059,0,,,map_label,A102 X101
+entrada_amarilo,,Entrada Amarilo,10.39064,-75.468584,0,,,map_label,A102 X101
+villa_del_sol,,Villa del sol,10.388183,-75.467566,0,,,map_label,A102 X101
+u_san_buenaventura,,U. San Buenaventura,10.386428,-75.466305,0,,,map_label,A102 X101
+cc_san_fernando,,CC. San Fernando,10.385211,-75.465767,0,,,map_label,A102 X101
+viper,,Viper,10.382887,-75.465592,0,,,map_label,A102 X101
+entrada_simon_bolivar,,Entrada Simon Bolivar,10.380056,-75.463674,0,,,map_label,A102 A105 X101
+cerveceria_aguila,,Cerveceria Aguila,10.376633,-75.460578,0,,,interpolated,A102
+tenaris,,Tenaris,10.373755,-75.463859,0,,,map_label,A102
+u_tecnologica,,U. Tecnologica,10.371273,-75.46604,0,,,map_label,A102
+tenaris_vuelta,,Tenaris Vuelta,10.371937,-75.465333,0,,,map_label,A102
+sonomarcas,,SonoMarcas,10.392015,-75.481075,0,,,map_label,A103 A104 A105
+centro_comercial_la_plazuela,,Centro Comercial La Plazuela,10.39097,-75.478432,0,,,map_label,A103 X106
+parque_santa_monica,,Parque Santa Monica,10.389336,-75.474368,0,,,map_label,A103 X106
+cementerio_jardines_de_cartagena,,Cementerio Jardines de Cartagena,10.387508,-75.473826,0,,,map_label,A103
+la_bonguita,,La bonguita,10.38633,-75.472064,0,,,map_label,A103
+c_c_neus_alameda_la_victoria,,C.C. Neus Alameda La Victoria,10.384351,-75.472281,0,,,map_label,A103
+tienda_y_terraza_zona_verde,,Tienda y terraza Zona Verde,10.382792,-75.473219,0,,,map_label,A103
+i_e_soledad_acosta_de_samper,,I.E. Soledad Acosta de Samper,10.379561,-75.475235,0,,,map_label,A103
+restaurante_chung_fa,,Restaurante Chung Fa,10.378876,-75.473046,0,,,map_label,A103 A105 X105
+la_algodonera,,La algodonera,10.377506,-75.47158,0,,,map_label,A103 X105
+hogar_de_bien,,Hogar de bien,10.375469,-75.47176,0,,,map_label,A103 X105
+punto_frio_el_gavilan,,Punto frio el Gavilan,10.372517,-75.473054,0,,,map_label,A103 A104
+coosalud,,Coosalud,10.370281,-75.474745,0,,,map_label,A103 A104
+tienda_la_primaveral,,Tienda La Primaveral,10.368131,-75.475097,0,,,map_label,A103 A104
+iglesia_cristiana_sendero_de_salvacion,,Iglesia Cristiana sendero de Salvacion,10.366721,-75.476854,0,,,map_label,A103 A104
+asadero_don_rico_pollo,,Asadero don Rico Pollo,10.365791,-75.478485,0,,,map_label,A103 A104
+restaurante_rossy,,Restaurante Rossy,10.365333,-75.480326,0,,,map_label,A103 A104
+final_mandela,,Final Mandela,10.364768,-75.482499,0,,,map_label,A103
+inicio_mandela,,Inicio Mandela,10.364832,-75.482215,0,,,map_label,A103
+arroz_chino_las_3_jjj,,Arroz chino las 3 jjj,10.365639,-75.479057,0,,,map_label,A103
+frigocarnes_mandela,,Frigocarnes Mandela,10.366932,-75.476573,0,,,map_label,A103 A104
+variedades,,Variedades,10.368505,-75.474558,0,,,map_label,A103 A104
+drogeria_mk,,Drogeria MK,10.372234,-75.473258,0,,,map_label,A103
+frente_chinito_expres,,Frente Chinito Expres,10.371882,-75.473517,0,,,map_label,A103 A104
+esquina_alegre,,Esquina Alegre,10.373507,-75.472357,0,,,map_label,A103
+estadio_de_softbol,,Estadio de Softbol,10.373288,-75.472521,0,,,map_label,A103 A104 X105
+la_algodonera_2,,La algodonera,10.377592,-75.471573,0,,,map_label,A103 X105
+calamari,,Calamarí,10.378839,-75.472552,0,,,map_label,A103 A105 X105
+estadio_de_futbol_san_fernando,,Estadio de Futbol San Fernando,10.37899,-75.474559,0,,,map_label,A103
+arepizza,,Arepizza,10.382716,-75.473264,0,,,map_label,A103
+arte_calamari,,Arte Calamari,10.38438,-75.472264,0,,,map_label,A103
+la_bodega_del_tablon,,La Bodega del Tablón,10.386542,-75.472225,0,,,map_label,A103
+urbanizacion_sevilla,,Urbanización Sevilla,10.38826,-75.474791,0,,,map_label,A103 X106
+ferreteria_antioquia,,Ferreteria Antioquia,10.390486,-75.476255,0,,,map_label,A103 X106
+el_campesino,,El Campesino,10.39035,-75.478177,0,,,map_label,A103
+centro_comercial_santa_lucia,,Centro Comercial Santa Lucia,10.39141,-75.479939,0,,,map_label,A103 A104 A111
+shopping_center,,Shopping center,10.390575,-75.480087,0,,,map_label,A104 A105
+biblioteca_distrital,,Biblioteca Distrital,10.388439,-75.481472,0,,,map_label,A104 A105
+colegio_naval,,Colegio Naval,10.386194,-75.480997,0,,,map_label,A104
+centro_crisitana_nueva_vida,,Centro Crisitana Nueva Vida,10.383633,-75.480444,0,,,map_label,A104
+brasas_de_cartagena,,Brasas de Cartagena,10.381423,-75.479596,0,,,map_label,A104
+portales_de_san_fernando_iii,,Portales de San Fernando III,10.379588,-75.479709,0,,,map_label,A104
+iglesia_la_consolata,,Iglesia La Consolata,10.377614,-75.48024,0,,,map_label,A104
+baby_celnet_celulares,,Baby Celnet Celulares,10.375077,-75.480828,0,,,map_label,A104
+ferreterias_y_materiales_el_educador,,Ferreterias y materiales El Educador,10.374505,-75.478395,0,,,map_label,A104 C001
+iglesia_cristiana_el_acta_del_pacto,,Iglesia Cristiana El acta del pacto,10.373982,-75.475686,0,,,map_label,A104 C001
+los_trupillos,,Los trupillos,10.364095,-75.48176,0,,,map_label,A104
+disco_black_and_white,,Disco black and white,10.36177,-75.481351,0,,,map_label,A104
+colegio_bertha_suttner,,Colegio bertha suttner,10.360044,-75.479751,0,,,map_label,A104
+las_vegas_1,,Las vegas 1,10.361916,-75.477808,0,,,map_label,A104
+colegio_jesus_maestro,,Colegio jesus maestro,10.363706,-75.476305,0,,,map_label,A104
+la_batea_mz_a_lt_7,,La batea MZ A LT #7,10.365123,-75.476959,0,,,map_label,A104
+drogeria_mk_2,,Drogeria MK,10.369321,-75.474728,0,,,map_label,A104
+ferreteria_y_variedades_el_chico,,Ferreteria y Variedades El Chico,10.373956,-75.475353,0,,,map_label,A104 C001
+restaurante_la_florida,,Restaurante La Florida,10.374359,-75.477754,0,,,map_label,A104 C001
+drogueria_y_variedades_maria_v,,Drogueria y variedades Maria V,10.37466,-75.479686,0,,,map_label,A104 A107 C001
+variedades_solo_kato,,Variedades solo Kato,10.376009,-75.480617,0,,,map_label,A104
+iglesia_la_consolata_2,,Iglesia La Consolata,10.378517,-75.479997,0,,,map_label,A104
+portales_san_fernando_iii,,Portales San Fernando III,10.380556,-75.47921,0,,,map_label,A104
+parque_lorduy,,Parque Lorduy,10.382344,-75.480204,0,,,map_label,A104
+parque_plan_134,,Parque Plan 134,10.383705,-75.4799,0,,,map_label,A104
+colegio_dulce_corazon_de_maria,,Colegio Dulce Corazon de Maria,10.385234,-75.479737,0,,,map_label,A104
+colegio_juan_jose_nieto,,Colegio Juan Jose Nieto,10.386431,-75.48124,0,,,map_label,A104 A105
+biblioteca_distrital_2,,Biblioteca Distrital,10.388688,-75.481322,0,,,map_label,A104 A105
+bodytech,,Bodytech,10.390095,-75.48048,0,,,map_label,A104 A105 A111
+colegio_juan_jose_nieto_2,,Colegio Juan Jose Nieto,10.386512,-75.482089,0,,,map_georef,A105
+supergiros,,Supergiros,10.38392,-75.482979,0,,,map_georef,A105
+olimpica_carmelo,,Olimpica Carmelo,10.381187,-75.484005,0,,,map_georef,A105
+los_jardines,,Los Jardines,10.379777,-75.483381,0,,,map_georef,A105 X105
+nueva_jerusalen_la_consolata,,Nueva Jerusalen La Consolata,10.379581,-75.480518,0,,,map_georef,A105 X105
+villa_rubia,,Villa Rubia,10.379301,-75.47845,0,,,map_georef,A105 X105
+clinica_ese_rafael_calvo,,Clinica ESE Rafael Calvo,10.379142,-75.476367,0,,,map_georef,A105 X105
+institucion_educativa_mecerdes_abrego,,Institución Educativa Mecerdes Abrego,10.379566,-75.470937,0,,,map_georef,A105
+olimpica_san_fernando,,Olimpica San Fernando,10.382172,-75.46919,0,,,map_georef,A105
+colegio_de_la_policia_nacional,,Colegio de la Policia Nacional,10.382394,-75.466283,0,,,map_georef,A105
+inicio_simon_bolivar,,Inicio Simon Bolivar,10.378868,-75.464696,0,,,map_georef,A105
+parque_simon_bolivar,,Parque Simon Bolivar,10.377665,-75.466321,0,,,map_georef,A105
+parque_11_de_noviembre,,Parque 11 de Noviembre,10.377939,-75.468611,0,,,map_georef,A105
+portal_de_medellin,,Portal de Medellin,10.379814,-75.470305,0,,,map_georef,A105
+clinica_ese_rafael_calvo_2,,Clinica ESE Rafael Calvo,10.379142,-75.475864,0,,,map_georef,A105 X105
+portales_de_san_fernando,,Portales de San Fernando,10.37936,-75.478914,0,,,map_georef,A105 X105
+efecty_socorro_mg1_l22,,Efecty Socorro MG1 L22,10.379685,-75.480689,0,,,map_georef,A105 X105
+los_jardines_mg2_l16,,Los Jardines MG2 L16,10.379785,-75.483479,0,,,map_georef,A105 X105
+olimpica_carmelo_2,,Olimpica Carmelo,10.381625,-75.483841,0,,,map_georef,A105
+supergiros_2,,Supergiros,10.384185,-75.482887,0,,,map_georef,A105
+coliseo_colegio_biffi,,Coliseo Colegio Biffi,10.392348,-75.478463,0,,,map_georef,A105
+clinica_madre_bernarda,,Clinica Madre Bernarda,10.393907,-75.477154,0,,,map_georef,A105
+chinatown,,Chinatown,10.392466,-75.485061,0,,,map_label,A107 A108 A111 X102 X103
+clinica_blas_de_lezo,,Clinica Blas de Lezo,10.391621,-75.487103,0,,,map_label,A107 A108 A111 X102 X103
+auto_coreano,,Auto Coreano,10.390783,-75.489194,0,,,map_label,A107 A108 A111 X102 X103
+olimpica_caracoles,,Olimpica Caracoles,10.390718,-75.489078,0,,,map_label,A107 A108 A111 X102
+cl_27a_bis_entre_kr_65_y_65a,,Cl 27A Bis entre Kr 65 y 65A,10.389365,-75.486929,0,,,map_label,A107
+kr_68_entre_kr_66_y_cl_25,,Kr 68 entre Kr 66 y Cl 25,10.386797,-75.485728,0,,,map_label,A107
+kr_68_entre_cl_22a_y_22,,Kr 68 entre Cl 22A y 22,10.38492,-75.485844,0,,,map_label,A107
+kr_68_entre_cl_21_y_19,,Kr 68 entre Cl 21 y 19,10.38265,-75.486923,0,,,map_label,A107
+kr_68_entre_cl_18_y_17,,Kr 68 entre Cl 18 y 17,10.381146,-75.487554,0,,,map_label,A107
+iglesia_nuestra_senora_del_carmelo,,Iglesia Nuestra Señora del Carmelo,10.380156,-75.49074,0,,,map_label,A107 C001 X105
+tienda_el_puentecito,,Tienda El Puentecito,10.379996,-75.491583,0,,,map_label,A107
+tienda_el_puente_com,,Tienda El Puente.Com,10.379238,-75.49069,0,,,map_label,A107 C001 X105
+institucion_educativa_san_lucas,,Institucion Educativa San Lucas,10.377707,-75.490686,0,,,map_label,A107 C001
+upa_la_reina,,UPA La Reina,10.376519,-75.489885,0,,,map_label,A107 C001
+institucion_educativa_fe_y_alegria_el_pr,,Institucion Educativa Fe y Alegria El Progreso,10.375447,-75.487333,0,,,map_label,A107 C001
+celumax,,Celumax,10.375447,-75.485394,0,,,map_label,A107 C001
+surtimax,,Surtimax,10.375294,-75.484115,0,,,map_label,A107 C001
+super_drywall,,Super Drywall,10.375063,-75.482913,0,,,map_label,A107 C001
+surtimateriales_la_consolata,,Surtimateriales La Consolata,10.374815,-75.48153,0,,,map_label,A107
+kr_78a_con_cl_4,,Kr 78A con Cl 4,10.371758,-75.481872,0,,,map_label,A107
+kr_78a_entre_cl_3o_y_3j,,Kr 78A entre Cl 3O y 3J,10.370568,-75.482947,0,,,map_label,A107
+kr_78a_la_gitana_mz_f,,Kr 78A La Gitana Mz F,10.369159,-75.484027,0,,,map_label,A107
+kr_78a_entre_cl_3j_y_3o,,Kr 78A entre Cl 3J y 3O,10.370444,-75.483043,0,,,map_label,A107
+kr_78a_entre_cl_3o_y_4,,Kr 78A entre Cl 3O y 4,10.371826,-75.481803,0,,,map_label,A107
+cl_4_con_kr_80a,,Cl 4 con Kr 80A,10.373712,-75.478813,0,,,map_label,A107
+kr_80b_entre_cl_4c_y_4f,,Kr 80B entre Cl 4C y 4F,10.374531,-75.478684,0,,,interpolated,A107
+cl_5_entre_kr_79_y_77,,Cl 5 entre Kr 79 y 77,10.374855,-75.481972,0,,,map_label,A107
+drogueria_yeika,,Drogueria Yeika,10.3751,-75.483185,0,,,map_label,A107 C001
+supergiros_3,,Supergiros,10.375341,-75.485349,0,,,map_label,A107 C001
+institucion_educativa_fe_y_alegria_el_pr_2,,Institucion Educativa Fe y Alegria El Progreso,10.375384,-75.487826,0,,,map_label,A107 C001
+upa_la_reina_2,,UPA La Reina,10.376336,-75.489716,0,,,map_label,A107 C001
+institucion_educativa_san_lucas_2,,Institucion Educativa San Lucas,10.378325,-75.490465,0,,,map_label,A107 C001
+calle_14_65_34,,Calle 14 #65-34,10.379088,-75.489793,0,,,map_label,A107 C001 X105
+kr_68_entre_cl_16_y_17,,Kr 68 entre Cl 16 y 17,10.381348,-75.487497,0,,,map_label,A107
+kr_68_entre_cl_19_y_21,,Kr 68 entre Cl 19 y 21,10.383003,-75.486541,0,,,map_label,A107
+kr_68_entre_cl_22_y_24,,Kr 68 entre Cl 22 y 24,10.385039,-75.485682,0,,,map_label,A107
+kr_68_entre_cl_26_y_26a,,Kr 68 entre Cl 26 y 26A,10.387071,-75.485579,0,,,map_label,A107
+cl_27a_bis_entre_kr_68_y_tv_54a,,Cl 27A Bis entre Kr 68 y Tv 54A,10.390074,-75.487562,0,,,map_label,A107
+aguas_de_cartagena,,Aguas de Cartagena,10.392601,-75.48453,0,,,map_label,A107 A108 X102 X103
+piko_riko,,Piko Riko,10.392669,-75.48201,0,,,map_label,A107 A108 X102 X103
+caracoles_mz_1_lote_11,,Caracoles Mz 1 Lote 11,10.38963,-75.49164,0,,,map_order,A108
+efecty_caracoles,,Efecty Caracoles,10.387646,-75.492188,0,,,map_order,A108 C001
+restaurante_nueva_fortuna_china,,Restaurante Nueva Fortuna China,10.386057,-75.493856,0,,,map_order,A108 C001
+cancha_microfutbol_el_campestre,,Cancha Microfutbol El campestre,10.38454,-75.494377,0,,,map_order,A108 C001
+cancha_2,,Cancha 2,10.382109,-75.495907,0,,,map_order,A108
+del_gordo,,Del Gordo,10.380546,-75.496647,0,,,map_order,A108
+patinodromo,,Patinodromo,10.379325,-75.497229,0,,,map_order,A108
+parque_indupollo,,Parque Indupollo,10.376905,-75.498105,0,,,map_order,A108
+olimpica,,Olimpica,10.376934,-75.499651,0,,,map_order,A108
+institucion_educativa_20_de_julio,,Institucion Educativa 20 de Julio,10.375173,-75.500093,0,,,photon,A108
+vidrios_y_auminios_1a,,Vidrios y Auminios 1A,10.373652,-75.500263,0,,,map_order,A108
+estibas_el_guedo,,Estibas El Guedo,10.372804,-75.502425,0,,,map_order,A108
+bellavista_mz_i_lote_5,,Bellavista Mz I Lote 5,10.372846,-75.504397,0,,,map_order,A108
+bloc_port,,Bloc Port,10.377691,-75.503447,0,,,map_order,A108
+hotel_la_estancia,,Hotel La Estancia,10.379772,-75.501798,0,,,photon,A108
+nuevo_campestre_mz_g_lote_2,,Nuevo Campestre Mz G Lote 2,10.378767,-75.499613,0,,,map_order,A108
+colegio_bertha_gedeon,,Colegio Bertha Gedeon,10.378102,-75.498168,0,,,map_order,A108
+mz_68_lote_1,,Mz 68 Lote 1,10.380062,-75.496884,0,,,map_order,A108
+mz_17_lote_22,,Mz 17 Lote 22,10.38306,-75.496798,0,,,map_order,A108
+colegio_militar_almirante_colon,,Colegio Militar Almirante Colon,10.385689,-75.495676,0,,,photon,A108
+parrilla_paki,,Parrilla Paki,10.388635,-75.49603,0,,,photon,A108
+entrada_almirante_colon,,Entrada Almirante Colon,10.3895,-75.495866,0,,,map_order,A108 A111 C001 X102
+napoleon_perea,,Napoleon Perea,10.389847,-75.49392,0,,,map_order,A108 A111 C001 X102
+entrada_los_caracoles,,Entrada Los Caracoles,10.390245,-75.491476,0,,,map_order,A108 A111 X102
+tacarigua_1,,Tacarigua 1,10.391461,-75.491186,0,,,map_label,A111
+conjunto_residencial_tacarigua,,Conjunto residencial Tacarigua,10.394716,-75.491874,0,,,map_label,A111
+restaurante_en_pin_cll_30_57_341,,Restaurante En Pin (Cll 30#57-341),10.395998,-75.493958,0,,,map_label,A111
+danna_express,,Danna Express,10.395965,-75.495713,0,,,map_label,A111
+tienda_la_rebaja_oficial,,Tienda La rebaja Oficial,10.394624,-75.497274,0,,,map_label,A111
+terraza_los_luceros,,Terraza los Luceros,10.394221,-75.498977,0,,,map_label,A111 C001
+mz49_lote_16,,Mz49 Lote 16,10.39175,-75.500112,0,,,map_label,A111
+mz56_lote8,,Mz56 Lote8,10.391397,-75.502957,0,,,map_label,A111
+excursiones_maria_elena,,Excursiones Maria Elena,10.38976,-75.503426,0,,,map_label,A111
+clinica_el_bosque_v,,Clinica El Bosque V,10.388528,-75.501657,0,,,map_label,A111 X102
+universidad_del_sinu_v,,Universidad del Sinu V,10.388818,-75.499935,0,,,map_label,A111 X102
+colegio_inem_v,,Colegio INEM V,10.389248,-75.497335,0,,,map_label,A111 C001 X102
+cl_30_entre_tv_54_y_kr_67,,Cl 30 entre Tv 54 y Kr 67,10.391535,-75.485502,0,,,map_label,A111
+cl_30_entre_kr_68b_y_68d,,Cl 30 entre Kr 68B y 68D,10.390547,-75.483545,0,,,map_label,A111
+cl_30_entre_kr_69_y_70,,Cl 30 entre Kr 69 y 70,10.389763,-75.482009,0,,,map_label,A111
+villa_rosita_2,,Villa Rosita,10.400024,-75.46698,0,,,map_label,A114 A118
+bomba_petromil_2,,Bomba Petromil,10.40214,-75.460908,0,,,map_label,A114 A118 X104
+central_de_abastos,,Central de Abastos,10.405274,-75.453547,0,,,map_label,A114 A117 C016 X104
+urbanizacion_la_india,,Urbanización La India,10.40896,-75.446917,0,,,map_label,A114
+estacion_terpel,,Estación Terpel,10.416694,-75.437362,0,,,map_label,A114
+la_sevillana_1,,La Sevillana 1,10.418773,-75.44082,0,,,map_label,A114
+la_sevillana_2,,La Sevillana 2,10.42541,-75.4426,0,,,map_label,A114
+villa_de_aranjuez_mz_1g,,Villa de Aranjuez Mz 1G,10.422879,-75.448204,0,,,map_label,A114
+ciudad_del_bicentenario_1,,Ciudad del Bicentenario 1,10.415897,-75.444931,0,,,map_label,A114
+bicentenario_mz_79,,Bicentenario Mz 79,10.41569,-75.444767,0,,,map_label,A114
+bicentenario_mz_75,,Bicentenario Mz 75,10.415111,-75.444239,0,,,map_label,A114
+ciudad_del_bicentenario_2,,Ciudad del Bicentenario 2,10.414391,-75.443502,0,,,map_label,A114
+bicentenario_mz_35_lote_1,,Bicentenario Mz 35 Lote 1,10.413522,-75.442647,0,,,map_label,A114
+bicentenario_mz_7_lote_1,,Bicentenario Mz 7 Lote 1,10.413198,-75.442043,0,,,map_label,A114
+colegio_gabriel_garcia_marquez,,Colegio Gabriel Garcia Marquez,10.412834,-75.442077,0,,,map_label,A114
+flor_del_campo_mz_1c_lote_4,,Flor del Campo Mz 1C Lote 4,10.412395,-75.44282,0,,,map_label,A114
+abastos_giraldo,,Abastos Giraldo,10.411813,-75.443758,0,,,map_label,A114
+colombiaton_mz_3g_casa_470,,Colombiatón  Mz 3G Casa 470,10.411234,-75.444549,0,,,map_label,A114
+colegio_gustavo_pulecio_gomez,,Colegio Gustavo Pulecio Gomez,10.41062,-75.445369,0,,,map_label,A114
+urbanizacion_la_india_v,,Urbanización La India V,10.409464,-75.446579,0,,,map_label,A114
+el_carinoso,,El Cariñoso,10.406768,-75.451534,0,,,map_label,A114 A118 C016 X104
+entrada_pozon,,Entrada Pozón,10.40586,-75.453355,0,,,map_label,A114 A117 A118
+el_carinoso_2,,El Cariñoso,10.404363,-75.456093,0,,,map_label,A114 A118
+portales_de_alicante,,Portales de Alicante,10.403515,-75.457882,0,,,map_label,A114 A118 C016
+villa_de_la_candelaria,,Villa de la Candelaria,10.402471,-75.459951,0,,,map_label,A114 A118 C016 X104
+megaluminios,,Megaluminios,10.401966,-75.461773,0,,,map_label,A114 A118 X104
+ipanema,,Ipanema,10.401581,-75.463497,0,,,map_label,A114 A117 A118 C016 X104
+entrada_las_palmeras,,Entrada Las Palmeras,10.400398,-75.46632,0,,,map_label,A114 A118 X104
+las_palmeras,,Las Palmeras,10.399885,-75.467376,0,,,map_label,A114 A118
+frente_central_de_abastos,,Frente Central de Abastos,10.406056,-75.451902,0,,,map_label,A117 A118 C016 X104
+pactemos,,Pactemos,10.406815,-75.454459,0,,,map_label,A117
+iglesia_pozon,,Iglesia Pozon,10.408746,-75.455442,0,,,map_label,A117
+mi_locura,,Mi locura,10.411182,-75.456659,0,,,map_label,A117
+hospital_el_pozon,,Hospital El Pozon,10.412419,-75.457263,0,,,map_label,A117
+barberia_migue,,Barberia Migue,10.413549,-75.457873,0,,,map_label,A117
+tv_72b_entre_kr_88_y_89,,Tv 72B entre Kr 88 y 89,10.415875,-75.457763,0,,,map_label,A117
+kr_89_entre_tv_73a_y_74a,,Kr 89 entre Tv 73A y 74A,10.417054,-75.458664,0,,,map_label,A117
+inicio_pozon,,Inicio Pozon,10.416345,-75.459886,0,,,map_label,A117
+kr_89_entre_tv_74b_y_75a,,Kr 89 entre Tv 74B y 75A,10.416104,-75.460047,0,,,map_label,A117
+la_carpa_roja,,La Carpa Roja,10.415287,-75.461189,0,,,map_label,A117
+drogueria_zharick,,Drogueria Zharick,10.415402,-75.463085,0,,,map_label,A117
+supertienda_el_canonazo,,Supertienda El Cañonazo,10.413984,-75.465065,0,,,map_label,A117
+acuacar,,Acuacar,10.410767,-75.465736,0,,,map_label,A117
+cda,,CDA,10.408827,-75.465073,0,,,map_label,A117
+billares_el_kiosko,,Billares el Kiosko,10.404989,-75.464311,0,,,map_label,A117
+sastreria_la_prosperidad,,Sastreria La prosperidad,10.402542,-75.462847,0,,,map_label,A117
+megaluminios_2,,Megaluminios,10.401262,-75.464881,0,,,map_label,A117 C016
+entrada_las_palmeras_2,,Entrada Las Palmeras,10.398428,-75.470852,0,,,map_label,A117 C016
+las_palmeras_2,,Las Palmeras,10.398024,-75.472223,0,,,map_label,A117 C016
+terminal_de_transportes,,Terminal de Transportes,10.400639,-75.45827,0,,,osm_station,A118 C016 X104
+palmas_de_salamanca_2,,Palmas de Salamanca 2,10.40147,-75.456979,0,,,map_georef,A118
+frente_a_yesos_cartagena,,Frente a Yesos Cartagena,10.407165,-75.450716,0,,,map_georef,A118
+frente_a_taller,,Frente a Taller,10.409611,-75.452544,0,,,map_georef,A118
+frente_a_chatarreria,,Frente a Chatarrería,10.41173,-75.453194,0,,,map_georef,A118
+corazon_de_jesus_mz_211,,Corazón de Jesús (Mz 211),10.41387,-75.454393,0,,,map_georef,A118
+frente_a_tienda_florecer,,Frente a Tienda Florecer,10.416022,-75.45556,0,,,map_georef,A118
+frente_a_polideportivo_el_20,,Frente a Polideportivo El 20,10.418056,-75.456663,0,,,map_georef,A118
+frente_a_panaderia_la_bendicion_de_dios,,Frente a Panadería La Bendición de Dios,10.420122,-75.457778,0,,,map_georef,A118
+mz_a1_torre_5,,Mz A1 Torre 5,10.421462,-75.459527,0,,,map_georef,A118
+mz_d_lote_3_frente_al_parque,,Mz D Lote 3 (frente al parque),10.420828,-75.46025,0,,,map_georef,A118
+panaderia_angie,,Panadería Angie,10.419857,-75.459905,0,,,map_georef,A118
+mz_h_bloque_1,,Mz H Bloque 1,10.420501,-75.459618,0,,,map_georef,A118
+mz_i_bloque_1,,Mz I Bloque 1,10.421269,-75.459289,0,,,map_georef,A118
+mz_i_bloque_1_2,,Mz I Bloque 1,10.421269,-75.459289,0,,,map_georef,A118
+sector_la_union_mz_h,,Sector La Unión Mz H,10.419696,-75.457773,0,,,map_georef,A118
+hogar_fami_mis_primeros_pasos,,Hogar Fami Mis Primeros Pasos,10.418384,-75.457061,0,,,map_georef,A118
+sector_minuto_de_dios_lote,,Sector Minuto de Dios (lote),10.415646,-75.455611,0,,,map_georef,A118
+miramar_mz_201_lote_12,,Miramar Mz 201 Lote 12,10.413413,-75.454376,0,,,map_georef,A118
+al_lado_de_chatarreria,,Al lado de Chatarrería,10.411352,-75.453298,0,,,map_georef,A118
+al_lado_de_taller_mecanico,,Al lado de Taller Mecánico,10.409374,-75.452649,0,,,map_georef,A118
+mi_tiendita,,Mi Tiendita,10.407059,-75.450936,0,,,map_georef,A118
+colegio_ciudadela_2000,,Colegio Ciudadela 2000,10.373914,-75.471274,0,,,map_label,C001 X105
+kiosko_61_21,,Kiosko #61-21,10.381041,-75.492588,0,,,map_label,C001 X105
+mz16_lt_a12,,MZ16 LT A12,10.383948,-75.494554,0,,,map_label,C001
+portal_de_belen,,Portal de belen,10.386197,-75.493709,0,,,map_label,C001
+barberia_plus,,Barberia Plus,10.387698,-75.492133,0,,,map_label,C001
+sala_de_belleza_montero,,Sala de belleza montero,10.389248,-75.491576,0,,,map_label,C001
+entrada_buenas_aires,,Entrada Buenas Aires,10.390235,-75.492234,0,,,map_label,C001 X102
+entrada_la_troncal,,Entrada La Troncal,10.389857,-75.494391,0,,,map_label,C001 X102
+plaza_colon,,Plaza Colon,10.389551,-75.496102,0,,,map_label,C001 X102
+paradero_seguridad_al_dia_ltda,,Paradero seguridad al dia ltda,10.391293,-75.497753,0,,,map_label,C001
+iglesia_san_enrique,,Iglesia San Enrique,10.392986,-75.499322,0,,,map_label,C001
+terraza_de_los_luceros,,Terraza de los Luceros,10.394214,-75.498979,0,,,map_label,C001
+mz_96_lt_28_calamares,,MZ 96 Lt 28 calamares,10.396526,-75.498675,0,,,map_label,C001
+cl_28_entre_kr_54_y_53,,Cl 28 entre Kr 54 y 53,10.397809,-75.499509,0,,,map_label,C001
+la_caci_k_cll30_50a_115,,La Caci-k (Cll30#50a-115),10.400476,-75.501573,0,,,map_label,C001
+tv_50_entre_cl_30c_y_30d,,Tv 50 entre Cl 30C y 30D,10.401546,-75.503325,0,,,map_label,C001
+dg_30_entre_kr_50_y_cl_30d,,Dg 30 entre Kr 50 y Cl 30D,10.4034291,-75.5055388,0,,,osm_order,C001
+dg_30_con_cl_30c,,Dg 30 con Cl 30C,10.4035081,-75.5055126,0,,,osm_order,C001
+dg_30_entre_cl_30a_y_kr_49,,Dg 30 entre Cl 30A y Kr 49,10.404748,-75.507704,0,,,map_label,C001
+cruz_roja,,Cruz Roja,10.405466,-75.510006,0,,,map_label,C001 X103
+mz_u_lote_2_las_lomas,,MZ U lote 2( las lomas),10.402161,-75.511507,0,,,map_label,C001
+mz_b_lote_16,,Mz B lote 16,10.400033,-75.512909,0,,,map_label,C001
+colegio_la_anunciacion,,Colegio la anunciacion,10.399778,-75.51453,0,,,map_label,C001
+parque_chile,,Parque chile,10.399779,-75.517133,0,,,map_label,C001
+supergiros_bruselas,,Supergiros Bruselas,10.401939,-75.519458,0,,,map_label,C001 X102 X105
+frente_a_sociedad_portuaria,,Frente a sociedad portuaria,10.407189,-75.528594,0,,,map_label,C001
+portus,,Portus,10.408884,-75.532143,0,,,map_label,C001
+mz_28_lt_35,,MZ 28 LT 35,10.410152,-75.533121,0,,,map_label,C001
+alheli,,Alheli,10.410141,-75.535499,0,,,map_label,C001
+conjunto_residencial_edificio_michael,,Conjunto residencial edificio michael,10.410281,-75.537914,0,,,map_label,C001
+edificio_olga,,edificio olga,10.413066,-75.5391,0,,,map_label,C001
+saludarte,,Saludarte,10.415027,-75.541322,0,,,map_label,C001
+fatima_dadis,,Fatima (dadis),10.418384,-75.546501,0,,,map_label,C001
+iglesia_tercera_orden,,Iglesia tercera orden,10.421277,-75.548252,0,,,map_label,C001
+muelle_de_los_pegasos,,Muelle de los Pegasos,10.421914,-75.548271,0,,,map_label,C001
+parque_de_la_marina,,Parque de la marina,10.420253,-75.551028,0,,,map_label,C001
+centro_convenciones,,Centro convenciones,10.41998,-75.547415,0,,,map_label,C001
+mz_17_lote_48,,mz 17 lote 48,10.415671,-75.538968,0,,,map_label,C001
+el_candil,,El candil,10.412389,-75.536853,0,,,map_label,C001
+mz_25_lt_42,,Mz 25 LT 42,10.410711,-75.535838,0,,,map_label,C001
+dian,,DIAN,10.411198,-75.532811,0,,,map_label,C001
+mz_27_lt_18,,Mz 27 LT 18,10.409212,-75.531593,0,,,map_label,C001
+sociedad_portuaria,,Sociedad portuaria,10.40748,-75.528847,0,,,map_label,C001
+la_cuchilla,,La Cuchilla,10.4054,-75.521748,0,,,map_label,C001
+coca_cola,,Coca Cola,10.404806,-75.520298,0,,,map_label,C001
+calle_del_mamon,,Calle del Mamón,10.402892,-75.519708,0,,,map_label,C001
+tcc,,TCC,10.4011,-75.519171,0,,,map_label,C001
+mz_24_lt_38,,Mz 24 Lt 38,10.399807,-75.516369,0,,,map_label,C001
+colegio_latino_americano_21a_116,,Colegio latino americano 21a 116,10.39979,-75.514823,0,,,map_label,C001
+junin_mz_e_lt_16,,Junín mz e lt 16,10.400326,-75.511745,0,,,map_label,C001
+casa_26_d_42_junin_2,,Casa 26 d 42 Junín 2,10.403457,-75.511397,0,,,map_label,C001
+kr_45_entre_cl_29_y_30,,Kr 45 entre Cl 29 y 30,10.404898,-75.510626,0,,,map_label,C001
+piedra_de_bolivar,,Piedra de Bolivar,10.405097,-75.507599,0,,,map_label,C001
+universidad_de_cartagena,,Universidad de Cartagena,10.405511,-75.503142,0,,,map_label,C001
+hospital_universitario,,Hospital Universitario*,10.401454,-75.503169,0,,,map_label,C001
+hogar_infantil_dulces_sonrisas,,Hogar infantil Dulces Sonrisas,10.400568,-75.501724,0,,,map_label,C001
+tienda_la_nacional_cll30_53_18,,Tienda La Nacional (Cll30#53-18),10.399556,-75.500047,0,,,map_label,C001
+parque_de_los_calamares,,Parque de los calamares,10.397257,-75.499364,0,,,map_label,C001
+mz_e_lt_10,,Mz e lt 10,10.391824,-75.499393,0,,,map_label,C001
+colegio_inem,,Colegio INEM,10.391886,-75.498613,0,,,map_label,C001
+universidad_del_sinu,,Universidad del Sinu,10.391999,-75.497962,0,,,map_label,C001
+clinica_el_bosque,,Clinica El Bosque,10.391479,-75.497791,0,,,map_label,C001
+clinica_el_bosque_v_2,,Clinica El Bosque V,10.391132,-75.497728,0,,,map_label,C001
+universidad_del_sinu_v_2,,Universidad del Sinu V,10.390548,-75.497621,0,,,map_label,C001
+caracoles_mz_1_lote_11_2,,Caracoles Mz 1 Lote 11,10.390218,-75.492343,0,,,map_label,C001
+cancha_2_2,,Cancha 2,10.383807,-75.49365,0,,,map_label,C001
+el_milagro_soldadura_diaz,,El Milagro Soldadura Diaz,10.381116,-75.494547,0,,,map_georef,C001 X105
+taller_mane,,Taller Mañe,10.381112,-75.492609,0,,,map_label,C001 X105
+surtimateriales_la_consolata_2,,Surtimateriales La Consolata,10.374812,-75.481468,0,,,map_label,C001
+estadio_de_softbol_2,,Estadio de Softbol,10.373908,-75.472057,0,,,map_label,C001
+entrada_pozon_2,,Entrada Pozón,10.406814,-75.449356,0,,,map_label,C016 X104
+parque_de_la_marina_2,,Parque de la Marina,10.420066,-75.551591,0,,,map_georef,C017
+cancha_bambino,,Cancha Bambino,10.42139,-75.552459,0,,,map_georef,C017 T102
+teatro_heredia,,Teatro Heredia,10.427092,-75.551598,0,,,map_georef,C017 T102
+el_boquetillo,,El Boquetillo,10.428614,-75.549395,0,,,map_georef,C017 T102
+colegio_modelo_de_la_costa,,Colegio Modelo de la Costa,10.432033,-75.544332,0,,,map_georef,C017 T102
+kr_1_entre_cl_43_y_44,,Kr 1 entre Cl 43 y 44,10.433324,-75.541928,0,,,map_georef,C017 T102
+entrada_al_cabrero,,Entrada al Cabrero,10.434547,-75.539623,0,,,map_georef,C017 T102
+datt,,DATT,10.436448,-75.536396,0,,,map_georef,C017 T102
+edificio_altamar,,Edificio Altamar,10.438211,-75.532018,0,,,map_georef,C017 T102
+terrazas_de_san_sebastian,,Terrazas de San Sebastián,10.439633,-75.529864,0,,,map_georef,C017 T102
+global_center,,Global Center,10.43948,-75.530097,0,,,map_georef,C017 T102
+bomba_terpel,,Bomba Terpel,10.441513,-75.527137,0,,,map_georef,C017 T102
+parque_de_las_americas,,Parque de las Américas,10.44265,-75.523082,0,,,map_georef,C017 T102
+calle_67,,Calle 67,10.442886,-75.519932,0,,,map_georef,C017 T102
+puente_crespito,,Puente Crespito,10.442954,-75.518323,0,,,map_georef,C017 T102
+iglesia_cristo_rey,,Iglesia Cristo Rey,10.444932,-75.517705,0,,,map_georef,C017 T102
+carrera_6,,Carrera 6,10.44736,-75.517455,0,,,map_georef,C017 T102
+ferreteria_crespo_70,,Ferretería Crespo 70,10.448935,-75.517278,0,,,map_georef,C017 T102
+frente_a_hotel_las_americas,,Frente a Hotel Las Américas,10.458792,-75.507247,0,,,map_georef,C017
+terminal_del_norte,,Terminal del Norte,10.49393,-75.4765,0,,,map_georef,C017
+serena_del_mar,,Serena del Mar,10.50882,-75.470209,0,,,map_georef,C017
+frente_a_barcelona_de_indias,,Frente a Barcelona de Indias,10.518056,-75.467906,0,,,map_georef,C017
+barceloneta,,Barceloneta,10.525449,-75.464906,0,,,map_georef,C017
+barcelona_de_indias,,Barcelona de Indias,10.522039,-75.466272,0,,,map_georef,C017
+las_ramblas,,Las Ramblas,10.517353,-75.468316,0,,,map_georef,C017
+frente_a_serena_del_mar,,Frente a Serena del Mar,10.507448,-75.472553,0,,,map_georef,C017
+boquilla_1,,Boquilla 1,10.477239,-75.491013,0,,,map_georef,C017
+boquilla_2,,Boquilla 2,10.469739,-75.497225,0,,,map_georef,C017
+morros_vitri,,Morros Vitri,10.467274,-75.499156,0,,,map_georef,C017
+murano,,Murano,10.465018,-75.501211,0,,,map_georef,C017
+playa_azul,,Playa Azul,10.458173,-75.508331,0,,,map_georef,C017
+terraza_de_san_sebastian,,Terraza de san Sebastian,10.439312,-75.53064,0,,,map_georef,C017 T102
+frente_al_ara,,Frente al ARA,10.436561,-75.536415,0,,,map_georef,C017 T102
+bellavista_hotel,,Bellavista Hotel,10.435399,-75.538399,0,,,map_georef,C017 T102
+el_cabrero,,El Cabrero,10.433896,-75.540939,0,,,map_georef,C017 T102
+costa_azul,,Costa Azul,10.43276,-75.543174,0,,,map_georef,C017 T102
+frente_parque_apolo,,Frente Parque Apolo,10.430209,-75.544479,0,,,map_georef,C017 T102
+boquetillo_de_paz_y_concordia,,Boquetillo de Paz y Concordia,10.427563,-75.544869,0,,,map_georef,C017
+estacion_centro,,Estación Centro,10.424225,-75.547644,0,,,map_georef,C017
+parque_de_la_marina_3,,Parque de la Marina,10.421976,-75.549658,0,,,map_georef,C017 C018 T102
+parque_de_la_marina_4,,Parque de la Marina,10.420411,-75.551139,0,,,shared_stop,C018
+mall_plaza,,Mall Plaza,10.426483,-75.541143,0,,,map_label,C018
+universidad_rafael_nunez,,Universidad Rafael Núñez,10.426361,-75.538934,0,,,map_label,C018
+super_wings_paseo_bolivar,,Super Wings Paseo Bolívar,10.429276,-75.537531,0,,,map_label,C018
+el_punto_del_movimiento,,El Punto del Movimiento,10.43115,-75.536556,0,,,map_label,C018
+antiguo_telecom_d1,,Antiguo Telecom – D1,10.432453,-75.534875,0,,,map_label,C018
+lubricantes_y_filtros_del_caribe,,Lubricantes y Filtros del Caribe,10.43355,-75.532603,0,,,map_label,C018
+pollo_express,,Pollo Express,10.434612,-75.530395,0,,,map_label,C018
+mercado_de_santa_rita,,Mercado de Santa Rita,10.436508,-75.527535,0,,,map_label,C018
+frente_a_las_dunas,,Frente a Las Dunas,10.437706,-75.525205,0,,,map_label,C018
+carrera_64_56,,Carrera 64-56,10.437621,-75.523391,0,,,map_label,C018
+parque_de_daniel_lemaitre,,Parque de Daniel Lemaitre,10.437547,-75.521524,0,,,map_label,C018
+iglesia_exodo,,Iglesia Éxodo,10.437466,-75.519341,0,,,map_label,C018
+conjunto_residencial_san_juan,,Conjunto Residencial San Juan,10.437684,-75.517432,0,,,map_label,C018
+institucion_educativa_santa_maria,,Institución Educativa Santa María,10.438849,-75.517381,0,,,map_label,C018
+baluarte_del_caribe,,Baluarte del Caribe,10.43957,-75.518169,0,,,map_label,C018
+colegio_liceo_de_bolivar,,Colegio Liceo de Bolívar,10.438439,-75.518913,0,,,map_label,C018
+drogas_la_rebaja,,Drogas La Rebaja,10.437515,-75.520666,0,,,map_label,C018
+farmacenter,,Farmacenter,10.437664,-75.524216,0,,,map_label,C018
+frente_al_mercado_de_santa_rita,,Frente al Mercado de Santa Rita,10.435944,-75.527975,0,,,map_label,C018
+parque_san_pedro,,Parque San Pedro,10.434289,-75.529326,0,,,map_label,C018
+surtimax_2,,Surtimax,10.432781,-75.530778,0,,,map_label,C018
+super_abasto_torices,,Súper Abasto Torices,10.431873,-75.531708,0,,,map_label,C018
+clinica_san_jose_de_torices,,Clínica San José de Torices,10.429188,-75.534422,0,,,map_label,C018
+loma_del_diamante,,Loma del Diamante,10.42746,-75.536123,0,,,map_label,C018
+parque_espiritu_del_manglar,,Parque Espíritu del Manglar,10.424428,-75.539068,0,,,map_label,C018
+frente_a_estacion_chambacu,,Frente a Estación Chambacú,10.425838,-75.540529,0,,,shared_stop,C018
+avenida_venezuela,,Avenida Venezuela,10.426621,-75.54444,0,,,map_label,C018
+kr_10,,Kr 10,10.448452,-75.51734,0,,,interpolated,T102
+kr_9_beach_club,,Kr 9 - Beach Club,10.45036,-75.516889,0,,,interpolated,T102
+tienda_glorimar,,Tienda Glorimar,10.450142,-75.51485,0,,,map_label,T102
+esquina_carrera_6,,Esquina carrera 6,10.451166,-75.515016,0,,,map_label,T102
+carrera_4,,Carrera 4,10.450318,-75.51651,0,,,map_label,T102
+carrera_2,,Carrera 2,10.448349,-75.517351,0,,,map_label,T102
+vivero_rincon_del_mar,,Vivero Rincon del Mar,10.447238,-75.517467,0,,,map_label,T102
+gimnasio_estetica_peluqueria,,Gimnasio-Estetica-Peluqueria,10.444291,-75.51777,0,,,map_label,T102
+calle_64,,Calle 64,10.443011,-75.519434,0,,,map_label,T102
+corales_de_indias,,Corales de Indias,10.442896,-75.522022,0,,,map_label,T102
+boquete_paz_concordia_san_diego,,Boquete Paz Concordia San Diego,10.426625,-75.544434,0,,,map_label,T102
+monumento_maria_mulata,,Monumento Maria Mulata,10.417609,-75.551207,0,,,map_label,T103 X105
+supermercado_olimpica,,Supermercado Olimpica,10.412778,-75.550398,0,,,map_label,T103 X105
+frente_ambientes,,Frente Ambientes,10.408708,-75.55079,0,,,map_label,T103 X105
+frente_crepes,,Frente Crepes,10.405622,-75.553131,0,,,map_label,T103 X105
+frente_miska,,Frente Miska,10.403134,-75.555244,0,,,map_label,T103 X105
+dulceria,,Dulceria,10.401235,-75.556998,0,,,map_label,T103 X105
+el_pueblito,,El pueblito,10.399249,-75.559334,0,,,map_label,T103 X105
+club_cartagena,,Club Cartagena,10.398477,-75.558878,0,,,map_label,T103
+cll_5a,,Cll 5A,10.400659,-75.556338,0,,,map_label,T103 X105
+frente_berlitz,,Frente Berlitz,10.402889,-75.554281,0,,,map_label,T103
+frente_porvenir,,Frente Porvenir,10.404791,-75.552662,0,,,map_label,T103
+frente_maternidad,,Frente Maternidad,10.406825,-75.55091,0,,,map_label,T103
+cll_10,,Cll 10,10.407461,-75.551535,0,,,map_label,T103 X105
+frente_ed_grupo_area,,Frente Ed. Grupo Area,10.408762,-75.550657,0,,,map_label,T103 X105
+entre_cll_12_y_cll_13,,Entre Cll 12 y Cll 13,10.411862,-75.550346,0,,,map_label,T103 X105
+edificio_la_marina,,Edificio La Marina,10.416989,-75.55049,0,,,map_label,T103 X105
+parque_huellas_de_alberto_uribe_2,,Parque Huellas de Alberto Uribe,10.392709,-75.452733,0,,,shared_stop,X101
+huellas_de_alberto_uribe,,Huellas de Alberto Uribe,10.385646,-75.45744,0,,,map_label,X101
+abastos_la_buenos_aires,,Abastos La Buenos Aires,10.388408,-75.454931,0,,,map_label,X101
+cll_102_dg_terraza_tribuna_verde,,Cll 102 Dg Terraza Tribuna Verde,10.391424,-75.452753,0,,,map_label,X101
+tienda_san_jose,,Tienda San José,10.392503,-75.452279,0,,,map_label,X101
+tienda_el_cambiazo,,Tienda El Cambiazo,10.390653,-75.453094,0,,,map_label,X101
+cll_35_100_27,,Cll 35 #100-27,10.388563,-75.454789,0,,,map_label,X101
+veterinaria_los_campanos,,Veterinaria Los Campanos,10.386304,-75.456842,0,,,map_label,X101
+la_princesa_2,,La Princesa,10.384286,-75.458688,0,,,map_label,X101
+drogueria_calidad_y_musica_rs_2,,Drogueria Calidad y Musica RS,10.38304,-75.460326,0,,,map_label,X101
+iglesia_ternera_2,,Iglesia Ternera,10.384099,-75.461547,0,,,map_label,X101
+u_san_buenaventura_vuelta_2,,U. San Buenaventura Vuelta,10.381893,-75.462684,0,,,map_label,X101
+marval_2,,Marval,10.382046,-75.465525,0,,,map_label,X101 X106
+iglesia_el_recreo_2,,Iglesia El Recreo,10.386105,-75.466239,0,,,map_label,X101
+los_abetos_2,,Los Abetos,10.387947,-75.46771,0,,,map_label,X101
+dg32_71a2_60,,Dg32 #71a2-60,10.390259,-75.469209,0,,,map_label,X101
+colegio_integral_moderno,,Colegio Integral Moderno,10.391268,-75.47245,0,,,map_label,X101
+balcones_de_cerezos,,Balcones de Cerezos,10.393737,-75.475872,0,,,map_label,X101
+entrada_viejo_porvenir,,Entrada Viejo Porvenir,10.395467,-75.47676,0,,,map_label,X101
+chapacua,,Chapacua,10.39712,-75.479064,0,,,map_label,X101
+olimpica_13_de_junio,,Olimpica 13 de Junio,10.399508,-75.480451,0,,,map_label,X101
+tienda_la_pradera,,Tienda La Pradera,10.402413,-75.482612,0,,,map_label,X101
+gaviotas_1,,Gaviotas 1,10.402671,-75.486763,0,,,map_label,X101
+parque_barrio_militar,,Parque Barrio Militar,10.400113,-75.489706,0,,,map_label,X101
+i_e_las_gaviotas,,I.E. Las Gaviotas,10.398591,-75.492011,0,,,map_label,X101
+frente_i_e_las_gaviotas,,Frente I.E. Las Gaviotas,10.396746,-75.492205,0,,,map_label,X101
+gaviotas_manzana_32_2da_etapa,,Gaviotas Manzana 32 2da Etapa,10.400029,-75.489797,0,,,map_label,X101
+gaviotas_manzana_36_1ra_etapa,,Gaviotas Manzana 36 1ra Etapa,10.401842,-75.487755,0,,,map_label,X101
+13_de_junio_tv69a_64b_14,,13 de Junio Tv69A #64B-14,10.402836,-75.485414,0,,,interpolated,X101
+dg_olimpica_13_de_junio,,Dg Olimpica 13 de Junio,10.402759,-75.48295,0,,,map_label,X101
+montebianco,,Montebianco,10.400078,-75.481025,0,,,map_label,X101
+entrada_los_cerezos,,Entrada Los Cerezos,10.397883,-75.479484,0,,,map_label,X101
+paraiso_real,,Paraiso Real,10.39514,-75.47666,0,,,map_label,X101
+entrada_baru,,Entrada Baru,10.391448,-75.473501,0,,,map_label,X101
+cerveceria_aguila_2,,Cerveceria Aguila,10.378828,-75.462585,0,,,interpolated,X101
+centro_industrial_ternera_2,,Centro Industrial Ternera,10.379048,-75.462655,0,,,shared_stop,X101
+villa_vanessa,,Villa Vanessa,10.376707,-75.460645,0,,,interpolated,X101
+ara_san_jose,,Ara San José,10.376095,-75.460926,0,,,map_label,X101
+campanos_cll35_101_08,,Campanos cll35 #101-08,10.376167,-75.460014,0,,,map_label,X101
+colegio_la_verdadera_ensenanza,,Colegio La verdadera enseñanza,10.378114,-75.461807,0,,,map_label,X101
+taller_lloreda,,Taller Lloreda,10.380207,-75.463697,0,,,map_label,X101
+supergiros_san_jose,,Supergiros San José,10.383301,-75.462098,0,,,map_label,X101
+diagonal_drogueria_shelema,,Diagonal Drogueria Shelema,10.383055,-75.460343,0,,,map_label,X101
+huellas_de_alberto_uribe_vuelta,,Huellas de Alberto Uribe Vuelta,10.384053,-75.458901,0,,,line_end,X101
+colegio_inem_2,,Colegio INEM,10.389288,-75.497773,0,,,map_label,X102
+universidad_del_sinu_2,,Universidad del Sinu,10.388878,-75.500199,0,,,map_label,X102
+clinica_el_bosque_2,,Clinica El Bosque,10.388505,-75.502393,0,,,map_label,X102
+entrada_nuevo_bosque,,Entrada Nuevo Bosque,10.388053,-75.504692,0,,,map_label,X102 X105
+estacion_de_policia_nuevo_bosque,,Estación de Policia Nuevo Bosque,10.387666,-75.507165,0,,,map_label,X102 X105
+san_isidro_no_25_43,,San Isidro No. 25-43,10.387642,-75.510771,0,,,map_label,X102 X105
+entrada_san_isidro_no_53_58,,Entrada San Isidro No. 53-58,10.388754,-75.513718,0,,,map_label,X102 X105
+crisanto_luque_los_olivos_no_52_49,,Crisanto Luque Los olivos No. 52-49,10.391236,-75.516183,0,,,map_label,X102
+paradero_provisional,,Paradero Provisional,10.393508,-75.516855,0,,,map_label,X102
+el_marion_no_46_43,,El Marión No. 46-43,10.398905,-75.518505,0,,,map_label,X102
+eds_esso_bruselas,,EDS Esso Bruselas,10.405649,-75.520438,0,,,map_label,X102 X105
+eds_mobil_el_bosque,,EDS Mobil El Bosque,10.408618,-75.521493,0,,,map_label,X102
+martinez_martelo_dg_22_no_20_50,,Martinez Martelo Dg 22 No. 20-50,10.409806,-75.521784,0,,,map_label,X102 X105
+cancha_microfutbol_martinez_martelo,,Cancha Microfutbol Martinez Martelo,10.407598,-75.522476,0,,,map_label,X102 X105
+la_cuchilla_2,,La Cuchilla,10.404401,-75.521427,0,,,map_label,X102 X105
+coca_cola_2,,Coca Cola,10.401711,-75.521548,0,,,map_label,X102 X105
+calle_del_mamon_2,,Calle del Mamón,10.399585,-75.520707,0,,,map_label,X102
+el_refugio,,El Refugio,10.397541,-75.518196,0,,,map_label,X102
+olimpica_alto_bosque,,Olimpica Alto Bosque,10.394513,-75.517278,0,,,map_label,X102
+alto_bosque_tv_51,,Alto Bosque Tv 51,10.393103,-75.516851,0,,,map_label,X102
+colegio_olga_gonzalez_arrauth,,Colegio Olga Gonzalez Arrauth,10.39057,-75.516079,0,,,map_label,X102
+nuevo_oriente_bascula,,Nuevo Oriente (Bascula),10.388214,-75.513122,0,,,map_label,X102 X105
+bajo_san_isidro,,Bajo San Isidro,10.38731,-75.511419,0,,,map_label,X102 X105
+entrada_ceballos,,Entrada Ceballos,10.384697,-75.50655,0,,,map_label,X102 X105
+proleca,,Proleca,10.382291,-75.501433,0,,,map_label,X102 X105
+los_corales,,Los Corales,10.385622,-75.500693,0,,,map_label,X102 X105
+edificio_conjunto_militar_los_corales,,Edificio Conjunto Militar Los Corales,10.387081,-75.502095,0,,,map_label,X102 X105
+tacarigua_1_2,,Tacarigua 1,10.39531,-75.492764,0,,,map_label,X103
+conjunto_residencial_tacarigua_2,,Conjunto residencial Tacarigua,10.396705,-75.49549,0,,,map_label,X103
+restaurante_en_pin_cll_30_57_341_2,,Restaurante En Pin (Cll 30#57-341),10.399154,-75.499457,0,,,map_label,X103
+escallon_villa_cll_30_56_73,,Escallon Villa (Cll 30#56-73),10.402358,-75.504507,0,,,map_label,X103
+escallon_villa_cll_30_55_69,,Escallon Villa (Cll 30#55-69),10.404933,-75.508255,0,,,map_label,X103
+hospital_universitario_2,,Hospital Universitario,10.40627,-75.511485,0,,,map_label,X103
+universidad_de_cartagena_2,,Universidad de Cartagena,10.406973,-75.512743,0,,,map_label,X103
+parque_piedra_de_bolivar,,Parque Piedra de Bolivar,10.407845,-75.514302,0,,,map_label,X103
+cruz_roja_2,,Cruz Roja,10.408888,-75.515464,0,,,map_label,X103
+amberes,,Amberes,10.40959,-75.516983,0,,,map_label,X103
+mitsubishi,,Mitsubishi,10.410292,-75.518226,0,,,map_label,X103
+colegio_octaviana,,Colegio Octaviana,10.411031,-75.519581,0,,,map_label,X103
+amberes_2,,Amberes*,10.410997,-75.519522,0,,,map_label,X103
+cruz_roja_3,,Cruz Roja*,10.410954,-75.519447,0,,,map_label,X103
+piedra_de_bolivar_2,,Piedra de Bolivar,10.410916,-75.519382,0,,,map_label,X103
+universidad_de_cartagena_3,,Universidad de Cartagena,10.410869,-75.5193,0,,,map_label,X103
+hospital_universitario_3,,Hospital Universitario*,10.408962,-75.516213,0,,,map_label,X103
+hogar_infantil_dulces_sonrisas_2,,Hogar infantil Dulces Sonrisas,10.407549,-75.513772,0,,,map_label,X103
+tienda_la_nacional_cll30_53_18_2,,Tienda La Nacional (Cll30#53-18),10.405146,-75.509397,0,,,map_label,X103
+zaragocilla_cll30_56_26,,Zaragocilla (Cll30#56-26),10.402538,-75.504655,0,,,map_label,X103
+camaguey_sector_la_gloria,,Camagüey Sector La Gloria,10.39903,-75.499252,0,,,map_label,X103
+conjunto_residencial_tacarigua_3,,Conjunto residencial Tacarigua,10.396948,-75.49587,0,,,map_label,X103
+paseo_de_la_castellana,,Paseo de La Castellana,10.394743,-75.491918,0,,,map_label,X103
+palmas_de_salamanca_directo,,Palmas de Salamanca - Directo,10.401996,-75.457132,0,,,map_label,X104
+portales_de_alicante_2,,Portales de Alicante,10.405305,-75.454462,0,,,map_label,X104
+entrada_nuevo_paraiso,,Entrada Nuevo Paraiso,10.401049,-75.470957,0,,,map_label,X104
+entrada_fredonia,,Entrada Fredonia,10.40247,-75.474338,0,,,map_label,X104
+cementerio_de_olaya,,Cementerio de Olaya,10.404288,-75.478326,0,,,map_label,X104
+olaya_sector_playa_blanca,,Olaya sector Playa Blanca,10.406013,-75.480645,0,,,map_label,X104
+olaya_sector_la_puntilla,,Olaya Sector La Puntilla,10.406096,-75.484083,0,,,map_label,X104
+centro_comercial_olaya_plaza,,Centro comercial Olaya plaza,10.405447,-75.486144,0,,,map_label,X104
+olaya_sector_la_central,,Olaya sector La Central,10.406336,-75.489616,0,,,map_label,X104
+colegio_almirante_colon,,Colegio Almirante Colon,10.406885,-75.492568,0,,,map_label,X104
+casa_justicia_chiquinquira,,Casa justicia Chiquinquira,10.407462,-75.495722,0,,,map_label,X104
+cai_arrocera,,Cai Arrocera,10.407976,-75.498473,0,,,map_label,X104
+salida_perimetral_sector_rafael_nunez,,Salida perimetral Sector Rafael Nuñez,10.408539,-75.501503,0,,,map_label,X104
+olaya_sector_el_tancon,,Olaya Sector El Tancón,10.409071,-75.504344,0,,,map_label,X104
+el_libano,,El Libano,10.409751,-75.507963,0,,,map_label,X104
+boston,,Boston,10.410145,-75.51087,0,,,map_label,X104
+pollito_pio,,Pollito Pio,10.409989,-75.513224,0,,,map_label,X104
+la_esquina_del_sabor,,La esquina del Sabor,10.410731,-75.515547,0,,,map_label,X104
+la_candelaria,,La Candelaria,10.411952,-75.517565,0,,,map_label,X104
+liceo_pedro_de_heredia,,Liceo Pedro de Heredia,10.413211,-75.521046,0,,,map_label,X104
+alcibia,,Alcibia,10.412246,-75.521612,0,,,map_label,X104
+alcibia_2,,Alcibia*,10.411802,-75.521399,0,,,map_label,X104
+liceo_pedro_de_heredia_2,,Liceo Pedro de Heredia*,10.412381,-75.519273,0,,,map_label,X104
+la_candelaria_2,,La Candelaria*,10.411694,-75.517022,0,,,map_label,X104
+la_esquina_del_sabor_2,,La esquina del sabor*,10.41011,-75.513881,0,,,map_label,X104
+tienda_la_unica,,Tienda La Unica,10.410152,-75.511083,0,,,map_label,X104
+boston_2,,Boston*,10.409852,-75.5085,0,,,map_label,X104
+el_libano_2,,El Libano*,10.409347,-75.505813,0,,,map_label,X104
+olaya_sector_el_tancon_2,,Olaya sector El Tancón*,10.408651,-75.502105,0,,,map_label,X104
+salida_perimetral_sector_rafael_nunez_2,,Salida perimetral Sector Rafael Nuñez*,10.407993,-75.498564,0,,,map_label,X104
+cai_arrocera_2,,Cai Arrocera*,10.407331,-75.495023,0,,,map_label,X104
+casa_justicia_chiquinquira_2,,Casa justicia Chiquinquira*,10.406797,-75.492096,0,,,map_label,X104
+i_e_fulgencio_lequerica,,I.E. Fulgencio Lequerica,10.405746,-75.487286,0,,,map_label,X104
+olaya_sector_la_central_2,,Olaya sector La Central*,10.406018,-75.484692,0,,,map_label,X104
+centro_comercial_olaya_plaza_2,,Centro comercial Olaya Plaza*,10.406156,-75.481947,0,,,map_label,X104
+olaya_sector_estela,,Olaya Sector Estela,10.404516,-75.478653,0,,,map_label,X104
+olaya_sector_playa_blanca_2,,Olaya Sector Playa Blanca*,10.402814,-75.47489,0,,,map_label,X104
+cementerio_de_olaya_2,,Cementerio de Olaya*,10.401627,-75.472367,0,,,map_label,X104
+entrada_fredonia_2,,Entrada Fredonia*,10.400259,-75.468987,0,,,map_label,X104
+entrada_las_palmeras_3,,Entrada Las Palmeras,10.398521,-75.470424,0,,,map_label,X104
+districarnes_jg,,Districarnes JG,10.379855,-75.486557,0,,,map_georef,X105
+cll_14_parque_campestre,,Cll 14 Parque Campestre,10.381509,-75.495574,0,,,map_georef,X105
+punta_alta,,Punta Alta,10.382941,-75.497942,0,,,map_georef,X105
+prosegur_villa_leon,,Prosegur (Villa Leon),10.383843,-75.50024,0,,,map_georef,X105
+punte_peatonal_cll_periodistas,,Punte peatonal Cll Periodistas,10.388633,-75.517288,0,,,map_georef,X105
+bodega_copetran,,Bodega Copetran,10.389789,-75.520791,0,,,map_georef,X105
+ara_buenos_aires,,Ara Buenos Aires,10.393276,-75.520596,0,,,map_georef,X105
+colegio_fernandez_baena,,Colegio Fernandez Baena,10.396153,-75.52044,0,,,map_georef,X105
+bosque_45_57,,Bosque #45-57,10.398958,-75.5203,0,,,map_georef,X105
+tv_33_entre_kr_22_y_23,,Tv 33 entre Kr 22 y 23,10.408364,-75.520401,0,,,map_georef,X105
+tv_33_con_29b,,Tv 33 con 29B,10.409445,-75.518577,0,,,map_georef,X105
+club_cartagena_2,,Club Cartagena,10.398477,-75.558878,0,,,shared_stop,X105
+cll_5a_2,,Cll 5A,10.397907,-75.559651,0,,,map_georef,X105
+frente_porvenir_2,,Frente Porvenir,10.402076,-75.555002,0,,,map_georef,X105
+frente_maternidad_2,,Frente Maternidad,10.40413,-75.553222,0,,,map_georef,X105
+hogar_san_pedro_claver,,Hogar San Pedro Claver,10.397799,-75.521843,0,,,map_georef,X105
+restaurante_bumangues,,Restaurante Bumangues,10.394095,-75.522062,0,,,map_georef,X105
+entrada_manzanillo,,Entrada Manzanillo,10.39228,-75.522139,0,,,map_georef,X105
+postobon,,Postobon,10.388806,-75.521354,0,,,map_georef,X105
+navitrans,,Navitrans,10.388593,-75.517885,0,,,map_georef,X105
+tv_54_con_dg_22,,Tv 54 con Dg 22,10.388496,-75.515392,0,,,map_georef,X105
+punta_alta_vuelta,,Punta Alta Vuelta,10.383676,-75.499814,0,,,map_georef,X105
+cll_14_entrada_golf,,Cll 14 Entrada Golf,10.38259,-75.497248,0,,,map_georef,X105
+super_mercado_precio_facil,,Super Mercado Precio Facil,10.379882,-75.487093,0,,,map_georef,X105
+sena_ternera_2,,Sena Ternera,10.374854,-75.458758,0,,,shared_stop,X106
+quintas_del_manantial_2,,Quintas del Manantial,10.371151,-75.455138,0,,,map_label,X106
+centro_industrial_ternera_3,,Centro Industrial Ternera,10.374306,-75.458087,0,,,map_label,X106
+centro_comercial_san_fernando,,Centro Comercial San Fernando,10.382837,-75.466739,0,,,map_label,X106
+la_bodega_del_tablon_2,,La Bodega del Tablón,10.384715,-75.469507,0,,,map_label,X106
+el_campesino_2,,El Campesino,10.393247,-75.481049,0,,,map_label,X106
+centro_comercial_santa_lucia_2,,Centro Comercial Santa Lucia,10.393322,-75.482924,0,,,map_label,X106
+sonomarcas_2,,SonoMarcas,10.392742,-75.482285,0,,,map_label,X106
+cementerio_jardines_de_cartagena_2,,Cementerio Jardines de Cartagena,10.383001,-75.467155,0,,,map_label,X106
+la_bonguita_2,,La bonguita,10.378572,-75.462351,0,,,map_label,X106
+mi_vaquita,,Mi Vaquita,10.375811,-75.45984,0,,,map_label,X106
+colegio_de_la_policia_nacional_2,,Colegio de la Policia Nacional,10.374337,-75.458324,0,,,map_label,X106
+entrada_simon_bolivar_2,,Entrada Simon Bolivar,10.370922,-75.455044,0,,,map_label,X106
+cerveceria_aguila_3,,Cerveceria Aguila,10.368513,-75.452842,0,,,map_label,X106
+el_rodeo,,El Rodeo,10.366051,-75.450657,0,,,map_label,X106
+gobernacion_de_bolivar,,Gobernación de Bolívar,10.366361,-75.450921,0,,,osm_poi,X106

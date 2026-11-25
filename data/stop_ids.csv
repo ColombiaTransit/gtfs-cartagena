@@ -1,0 +1,1044 @@
+route,direction,seq,name,stop_id
+A101,CIRCULAR,1,Patio Portal D2,st_patio_portal_d2
+A101,CIRCULAR,2,Villa Rosita,villa_rosita
+A101,CIRCULAR,3,Altamare,altamare
+A101,CIRCULAR,4,Bomba Petromil,bomba_petromil
+A101,CIRCULAR,5,Centro comercial Mio,centro_comercial_mio
+A101,CIRCULAR,6,Afueras Terminal de Transporte,afueras_terminal_de_transporte
+A101,CIRCULAR,7,Palmas de Salamanca,palmas_de_salamanca
+A101,CIRCULAR,8,Parque de Galilea,parque_de_galilea
+A101,CIRCULAR,9,El Jardín Camelia,el_jardin_camelia
+A101,CIRCULAR,10,El Jardín Orquidea,el_jardin_orquidea
+A101,CIRCULAR,11,Cl 39H entre Kr 91B y 91A,cl_39h_entre_kr_91b_y_91a
+A101,CIRCULAR,12,ciudad jardin primavera 2,ciudad_jardin_primavera_2
+A101,CIRCULAR,13,refugio la carolina,refugio_la_carolina
+A101,CIRCULAR,14,Parque Huellas de Alberto Uribe,parque_huellas_de_alberto_uribe
+A101,CIRCULAR,15,Nuevo horizonte,nuevo_horizonte
+A101,CIRCULAR,16,Brisas de galicia,brisas_de_galicia
+A101,CIRCULAR,17,Horizontes,horizontes
+A101,CIRCULAR,18,Villa andrea,villa_andrea
+A101,CIRCULAR,19,villa sol,villa_sol
+A101,CIRCULAR,20,Villa grande 1,villa_grande_1
+A101,CIRCULAR,21,Villa grande 2,villa_grande_2
+A101,CIRCULAR,22,Sena Ternera,sena_ternera
+A101,CIRCULAR,23,Quintas del Manantial,quintas_del_manantial
+A101,CIRCULAR,24,Centro Industrial Ternera,centro_industrial_ternera
+A101,CIRCULAR,25,La Princesa,la_princesa
+A101,CIRCULAR,26,Drogueria Calidad y Musica RS,drogueria_calidad_y_musica_rs
+A101,CIRCULAR,27,Iglesia Ternera,iglesia_ternera
+A101,CIRCULAR,28,U. San Buenaventura Vuelta,u_san_buenaventura_vuelta
+A101,CIRCULAR,29,Marval,marval
+A101,CIRCULAR,30,Iglesia El Recreo,iglesia_el_recreo
+A101,CIRCULAR,31,Los Abetos,los_abetos
+A101,CIRCULAR,32,Terrazas de Granada eje 6 Vuelta,terrazas_de_granada_eje_6_vuelta
+A101,CIRCULAR,33,Patio Portal C2,st_patio_portal_c2
+A102,IDA,1,Patio Portal D3,st_patio_portal_d3
+A102,IDA,2,Terrazas de Granada eje 6,terrazas_de_granada_eje_6
+A102,IDA,3,Colegio Castillo,colegio_castillo
+A102,IDA,4,Entrada Amarilo,entrada_amarilo
+A102,IDA,5,Villa del sol,villa_del_sol
+A102,IDA,6,U. San Buenaventura,u_san_buenaventura
+A102,IDA,7,CC. San Fernando,cc_san_fernando
+A102,IDA,8,Viper,viper
+A102,IDA,9,Entrada Simon Bolivar,entrada_simon_bolivar
+A102,IDA,10,Cerveceria Aguila,cerveceria_aguila
+A102,IDA,11,Tenaris,tenaris
+A102,VUELTA,12,U. Tecnologica,u_tecnologica
+A102,VUELTA,13,Tenaris Vuelta,tenaris_vuelta
+A102,VUELTA,14,Quintas del Manantial,quintas_del_manantial
+A102,VUELTA,15,Centro Industrial Ternera,centro_industrial_ternera
+A102,VUELTA,16,La Princesa,la_princesa
+A102,VUELTA,17,Drogueria Calidad y Musica RS,drogueria_calidad_y_musica_rs
+A102,VUELTA,18,Iglesia Ternera,iglesia_ternera
+A102,VUELTA,19,U. San Buenaventura Vuelta,u_san_buenaventura_vuelta
+A102,VUELTA,20,Marval,marval
+A102,VUELTA,21,Iglesia El Recreo,iglesia_el_recreo
+A102,VUELTA,22,Los Abetos,los_abetos
+A102,VUELTA,23,Terrazas de Granada eje 6 Vuelta,terrazas_de_granada_eje_6_vuelta
+A102,VUELTA,24,Patio Portal C2,st_patio_portal_c2
+A103,IDA,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A103,IDA,2,SonoMarcas,sonomarcas
+A103,IDA,3,Centro Comercial La Plazuela,centro_comercial_la_plazuela
+A103,IDA,4,Parque Santa Monica,parque_santa_monica
+A103,IDA,5,Cementerio Jardines de Cartagena,cementerio_jardines_de_cartagena
+A103,IDA,6,La bonguita,la_bonguita
+A103,IDA,7,C.C. Neus Alameda La Victoria,c_c_neus_alameda_la_victoria
+A103,IDA,8,Tienda y terraza Zona Verde,tienda_y_terraza_zona_verde
+A103,IDA,9,I.E. Soledad Acosta de Samper,i_e_soledad_acosta_de_samper
+A103,IDA,10,Restaurante Chung Fa,restaurante_chung_fa
+A103,IDA,11,La algodonera,la_algodonera
+A103,IDA,12,Hogar de bien,hogar_de_bien
+A103,IDA,13,Punto frio el Gavilan,punto_frio_el_gavilan
+A103,IDA,14,Coosalud,coosalud
+A103,IDA,15,Tienda La Primaveral,tienda_la_primaveral
+A103,IDA,16,Iglesia Cristiana sendero de Salvacion,iglesia_cristiana_sendero_de_salvacion
+A103,IDA,17,Asadero don Rico Pollo,asadero_don_rico_pollo
+A103,IDA,18,Restaurante Rossy,restaurante_rossy
+A103,IDA,19,Final Mandela,final_mandela
+A103,VUELTA,20,Inicio Mandela,inicio_mandela
+A103,VUELTA,21,Arroz chino las 3 jjj,arroz_chino_las_3_jjj
+A103,VUELTA,22,Frigocarnes Mandela,frigocarnes_mandela
+A103,VUELTA,23,Variedades,variedades
+A103,VUELTA,24,Drogeria MK,drogeria_mk
+A103,VUELTA,25,Frente Chinito Expres,frente_chinito_expres
+A103,VUELTA,26,Esquina Alegre,esquina_alegre
+A103,VUELTA,27,Estadio de Softbol,estadio_de_softbol
+A103,VUELTA,28,La algodonera,la_algodonera_2
+A103,VUELTA,29,Calamarí,calamari
+A103,VUELTA,30,Estadio de Futbol San Fernando,estadio_de_futbol_san_fernando
+A103,VUELTA,31,Arepizza,arepizza
+A103,VUELTA,32,Arte Calamari,arte_calamari
+A103,VUELTA,33,La Bodega del Tablón,la_bodega_del_tablon
+A103,VUELTA,34,Urbanización Sevilla,urbanizacion_sevilla
+A103,VUELTA,35,Ferreteria Antioquia,ferreteria_antioquia
+A103,VUELTA,36,El Campesino,el_campesino
+A103,VUELTA,37,Centro Comercial Santa Lucia,centro_comercial_santa_lucia
+A103,VUELTA,38,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A104,IDA,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A104,IDA,2,SonoMarcas,sonomarcas
+A104,IDA,3,Shopping center,shopping_center
+A104,IDA,4,Biblioteca Distrital,biblioteca_distrital
+A104,IDA,5,Colegio Naval,colegio_naval
+A104,IDA,6,Centro Crisitana Nueva Vida,centro_crisitana_nueva_vida
+A104,IDA,7,Brasas de Cartagena,brasas_de_cartagena
+A104,IDA,8,Portales de San Fernando III,portales_de_san_fernando_iii
+A104,IDA,9,Iglesia La Consolata,iglesia_la_consolata
+A104,IDA,10,Baby Celnet Celulares,baby_celnet_celulares
+A104,IDA,11,Ferreterias y materiales El Educador,ferreterias_y_materiales_el_educador
+A104,IDA,12,Iglesia Cristiana El acta del pacto,iglesia_cristiana_el_acta_del_pacto
+A104,IDA,13,Punto frio el Gavilan,punto_frio_el_gavilan
+A104,IDA,14,Coosalud,coosalud
+A104,IDA,15,Tienda La Primaveral,tienda_la_primaveral
+A104,IDA,16,Iglesia Cristiana sendero de Salvacion,iglesia_cristiana_sendero_de_salvacion
+A104,IDA,17,Asadero don Rico Pollo,asadero_don_rico_pollo
+A104,IDA,18,Restaurante Rossy,restaurante_rossy
+A104,IDA,19,Los trupillos,los_trupillos
+A104,VUELTA,20,Disco black and white,disco_black_and_white
+A104,VUELTA,21,Colegio bertha suttner,colegio_bertha_suttner
+A104,VUELTA,22,Las vegas 1,las_vegas_1
+A104,VUELTA,23,Colegio jesus maestro,colegio_jesus_maestro
+A104,VUELTA,24,La batea MZ A LT #7,la_batea_mz_a_lt_7
+A104,VUELTA,25,Frigocarnes Mandela,frigocarnes_mandela
+A104,VUELTA,26,Variedades,variedades
+A104,VUELTA,27,Drogeria MK,drogeria_mk_2
+A104,VUELTA,28,Frente Chinito Expres,frente_chinito_expres
+A104,VUELTA,29,Esquina Alegre,estadio_de_softbol
+A104,VUELTA,30,Ferreteria y Variedades El Chico,ferreteria_y_variedades_el_chico
+A104,VUELTA,31,Restaurante La Florida,restaurante_la_florida
+A104,VUELTA,32,Drogueria y variedades Maria V,drogueria_y_variedades_maria_v
+A104,VUELTA,33,Variedades solo Kato,variedades_solo_kato
+A104,VUELTA,34,Iglesia La Consolata,iglesia_la_consolata_2
+A104,VUELTA,35,Portales San Fernando III,portales_san_fernando_iii
+A104,VUELTA,36,Parque Lorduy,parque_lorduy
+A104,VUELTA,37,Parque Plan 134,parque_plan_134
+A104,VUELTA,38,Colegio Dulce Corazon de Maria,colegio_dulce_corazon_de_maria
+A104,VUELTA,39,Colegio Juan Jose Nieto,colegio_juan_jose_nieto
+A104,VUELTA,40,Biblioteca Distrital,biblioteca_distrital_2
+A104,VUELTA,41,Bodytech,bodytech
+A104,VUELTA,42,Centro Comercial Santa Lucia,centro_comercial_santa_lucia
+A104,VUELTA,43,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A105,IDA,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A105,IDA,2,SonoMarcas,sonomarcas
+A105,IDA,3,Shopping center,shopping_center
+A105,IDA,4,Biblioteca Distrital,biblioteca_distrital
+A105,IDA,5,Colegio Juan Jose Nieto,colegio_juan_jose_nieto_2
+A105,IDA,6,Supergiros,supergiros
+A105,IDA,7,Olimpica Carmelo,olimpica_carmelo
+A105,IDA,8,Los Jardines,los_jardines
+A105,IDA,9,Nueva Jerusalen La Consolata,nueva_jerusalen_la_consolata
+A105,IDA,10,Villa Rubia,villa_rubia
+A105,IDA,11,Clinica ESE Rafael Calvo,clinica_ese_rafael_calvo
+A105,IDA,12,Restaurante Chung Fa,restaurante_chung_fa
+A105,IDA,13,Institución Educativa Mecerdes Abrego,institucion_educativa_mecerdes_abrego
+A105,IDA,14,Olimpica San Fernando,olimpica_san_fernando
+A105,IDA,15,Colegio de la Policia Nacional,colegio_de_la_policia_nacional
+A105,IDA,16,Entrada Simon Bolivar,entrada_simon_bolivar
+A105,IDA,17,Inicio Simon Bolivar,inicio_simon_bolivar
+A105,VUELTA,18,Parque Simon Bolivar,parque_simon_bolivar
+A105,VUELTA,19,Parque 11 de Noviembre,parque_11_de_noviembre
+A105,VUELTA,20,Portal de Medellin,portal_de_medellin
+A105,VUELTA,21,Calamarí,calamari
+A105,VUELTA,22,Clinica ESE Rafael Calvo,clinica_ese_rafael_calvo_2
+A105,VUELTA,23,Portales de San Fernando,portales_de_san_fernando
+A105,VUELTA,24,Efecty Socorro MG1 L22,efecty_socorro_mg1_l22
+A105,VUELTA,25,Los Jardines MG2 L16,los_jardines_mg2_l16
+A105,VUELTA,26,Olimpica Carmelo,olimpica_carmelo_2
+A105,VUELTA,27,Supergiros,supergiros_2
+A105,VUELTA,28,Colegio Juan Jose Nieto,colegio_juan_jose_nieto
+A105,VUELTA,29,Biblioteca Distrital,biblioteca_distrital_2
+A105,VUELTA,30,Bodytech,bodytech
+A105,VUELTA,31,Coliseo Colegio Biffi,coliseo_colegio_biffi
+A105,VUELTA,32,Clinica Madre Bernarda,clinica_madre_bernarda
+A105,VUELTA,33,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A107,IDA,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A107,IDA,2,Chinatown,chinatown
+A107,IDA,3,Clinica Blas de Lezo,clinica_blas_de_lezo
+A107,IDA,4,Auto Coreano,auto_coreano
+A107,IDA,5,Olimpica Caracoles,olimpica_caracoles
+A107,IDA,6,Cl 27A Bis entre Kr 65 y 65A,cl_27a_bis_entre_kr_65_y_65a
+A107,IDA,7,Kr 68 entre Kr 66 y Cl 25,kr_68_entre_kr_66_y_cl_25
+A107,IDA,8,Kr 68 entre Cl 22A y 22,kr_68_entre_cl_22a_y_22
+A107,IDA,9,Kr 68 entre Cl 21 y 19,kr_68_entre_cl_21_y_19
+A107,IDA,10,Kr 68 entre Cl 18 y 17,kr_68_entre_cl_18_y_17
+A107,IDA,11,Iglesia Nuestra Señora del Carmelo,iglesia_nuestra_senora_del_carmelo
+A107,IDA,12,Tienda El Puentecito,tienda_el_puentecito
+A107,IDA,13,Tienda El Puente.Com,tienda_el_puente_com
+A107,IDA,14,Institucion Educativa San Lucas,institucion_educativa_san_lucas
+A107,IDA,15,UPA La Reina,upa_la_reina
+A107,IDA,16,Institucion Educativa Fe y Alegria El Progreso,institucion_educativa_fe_y_alegria_el_pr
+A107,IDA,17,Celumax,celumax
+A107,IDA,18,Surtimax,surtimax
+A107,IDA,19,Super Drywall,super_drywall
+A107,IDA,20,Surtimateriales La Consolata,surtimateriales_la_consolata
+A107,IDA,21,Kr 78A con Cl 4,kr_78a_con_cl_4
+A107,IDA,22,Kr 78A entre Cl 3O y 3J,kr_78a_entre_cl_3o_y_3j
+A107,IDA,23,Kr 78A La Gitana Mz F,kr_78a_la_gitana_mz_f
+A107,VUELTA,24,Kr 78A entre Cl 3J y 3O,kr_78a_entre_cl_3j_y_3o
+A107,VUELTA,25,Kr 78A entre Cl 3O y 4,kr_78a_entre_cl_3o_y_4
+A107,VUELTA,26,Cl 4 con Kr 80A,cl_4_con_kr_80a
+A107,VUELTA,27,Kr 80B entre Cl 4C y 4F,kr_80b_entre_cl_4c_y_4f
+A107,VUELTA,28,Drogueria y variedades Maria V,drogueria_y_variedades_maria_v
+A107,VUELTA,29,Cl 5 entre Kr 79 y 77,cl_5_entre_kr_79_y_77
+A107,VUELTA,30,Drogueria Yeika,drogueria_yeika
+A107,VUELTA,31,Supergiros,supergiros_3
+A107,VUELTA,32,Institucion Educativa Fe y Alegria El Progreso,institucion_educativa_fe_y_alegria_el_pr_2
+A107,VUELTA,33,UPA La Reina,upa_la_reina_2
+A107,VUELTA,34,Institucion Educativa San Lucas,institucion_educativa_san_lucas_2
+A107,VUELTA,35,Calle 14 #65-34,calle_14_65_34
+A107,VUELTA,36,Kr 68 entre Cl 16 y 17,kr_68_entre_cl_16_y_17
+A107,VUELTA,37,Kr 68 entre Cl 19 y 21,kr_68_entre_cl_19_y_21
+A107,VUELTA,38,Kr 68 entre Cl 22 y 24,kr_68_entre_cl_22_y_24
+A107,VUELTA,39,Kr 68 entre Cl 26 y 26A,kr_68_entre_cl_26_y_26a
+A107,VUELTA,40,Cl 27A Bis entre Kr 68 y Tv 54A,cl_27a_bis_entre_kr_68_y_tv_54a
+A107,VUELTA,41,Aguas de Cartagena,aguas_de_cartagena
+A107,VUELTA,42,Piko Riko,piko_riko
+A107,VUELTA,43,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A108,IDA,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A108,IDA,2,Chinatown,chinatown
+A108,IDA,3,Clinica Blas de Lezo,clinica_blas_de_lezo
+A108,IDA,4,Auto Coreano,auto_coreano
+A108,IDA,5,Caracoles Mz 1 Lote 11,caracoles_mz_1_lote_11
+A108,IDA,6,Efecty Caracoles,efecty_caracoles
+A108,IDA,7,Restaurante Nueva Fortuna China,restaurante_nueva_fortuna_china
+A108,IDA,8,Cancha Microfutbol El campestre,cancha_microfutbol_el_campestre
+A108,IDA,9,Cancha 2,cancha_2
+A108,IDA,10,Del Gordo,del_gordo
+A108,IDA,11,Patinodromo,patinodromo
+A108,IDA,12,Parque Indupollo,parque_indupollo
+A108,IDA,13,Olimpica,olimpica
+A108,IDA,14,Institucion Educativa 20 de Julio,institucion_educativa_20_de_julio
+A108,IDA,15,Vidrios y Auminios 1A,vidrios_y_auminios_1a
+A108,IDA,16,Estibas El Guedo,estibas_el_guedo
+A108,IDA,17,Bellavista Mz I Lote 5,bellavista_mz_i_lote_5
+A108,VUELTA,18,Bloc Port,bloc_port
+A108,VUELTA,19,Hotel La Estancia,hotel_la_estancia
+A108,VUELTA,20,Nuevo Campestre Mz G Lote 2,nuevo_campestre_mz_g_lote_2
+A108,VUELTA,21,Colegio Bertha Gedeon,colegio_bertha_gedeon
+A108,VUELTA,22,Mz 68 Lote 1,mz_68_lote_1
+A108,VUELTA,23,Mz 17 Lote 22,mz_17_lote_22
+A108,VUELTA,24,Colegio Militar Almirante Colon,colegio_militar_almirante_colon
+A108,VUELTA,25,Parrilla Paki,parrilla_paki
+A108,VUELTA,26,Entrada Almirante Colon,entrada_almirante_colon
+A108,VUELTA,27,Napoleon Perea,napoleon_perea
+A108,VUELTA,28,Entrada Los Caracoles,entrada_los_caracoles
+A108,VUELTA,29,Olimpica Caracoles,olimpica_caracoles
+A108,VUELTA,30,Aguas de Cartagena,aguas_de_cartagena
+A108,VUELTA,31,Piko Riko,piko_riko
+A108,VUELTA,32,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A111,CIRCULAR,1,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A111,CIRCULAR,2,Chinatown,chinatown
+A111,CIRCULAR,3,Clinica Blas de Lezo,clinica_blas_de_lezo
+A111,CIRCULAR,4,Auto Coreano,auto_coreano
+A111,CIRCULAR,5,Tacarigua 1,tacarigua_1
+A111,CIRCULAR,6,Conjunto residencial Tacarigua,conjunto_residencial_tacarigua
+A111,CIRCULAR,7,Restaurante En Pin (Cll 30#57-341),restaurante_en_pin_cll_30_57_341
+A111,CIRCULAR,8,Danna Express,danna_express
+A111,CIRCULAR,9,Tienda La rebaja Oficial,tienda_la_rebaja_oficial
+A111,CIRCULAR,10,Terraza los Luceros,terraza_los_luceros
+A111,CIRCULAR,11,Mz49 Lote 16,mz49_lote_16
+A111,CIRCULAR,12,Mz56 Lote8,mz56_lote8
+A111,CIRCULAR,13,Excursiones Maria Elena,excursiones_maria_elena
+A111,CIRCULAR,14,Clinica El Bosque V,clinica_el_bosque_v
+A111,CIRCULAR,15,Universidad del Sinu V,universidad_del_sinu_v
+A111,CIRCULAR,16,Colegio INEM V,colegio_inem_v
+A111,CIRCULAR,17,Entrada Almirante Colon,entrada_almirante_colon
+A111,CIRCULAR,18,Napoleon Perea,napoleon_perea
+A111,CIRCULAR,19,Entrada Los Caracoles,entrada_los_caracoles
+A111,CIRCULAR,20,Olimpica Caracoles,olimpica_caracoles
+A111,CIRCULAR,21,Cl 30 entre Tv 54 y Kr 67,cl_30_entre_tv_54_y_kr_67
+A111,CIRCULAR,22,Cl 30 entre Kr 68B y 68D,cl_30_entre_kr_68b_y_68d
+A111,CIRCULAR,23,Cl 30 entre Kr 69 y 70,cl_30_entre_kr_69_y_70
+A111,CIRCULAR,24,Bodytech,bodytech
+A111,CIRCULAR,25,Centro Comercial Santa Lucia,centro_comercial_santa_lucia
+A111,CIRCULAR,26,Transferencia Santa Lucia,st_transferencia_santa_lucia_p
+A114,IDA,1,Patio Portal D5,st_patio_portal_d5
+A114,IDA,2,Villa Rosita,villa_rosita_2
+A114,IDA,3,Altamare,altamare
+A114,IDA,4,Bomba Petromil,bomba_petromil_2
+A114,IDA,5,Centro comercial Mio,centro_comercial_mio
+A114,IDA,6,Palmas de Salamanca,palmas_de_salamanca
+A114,IDA,7,Central de Abastos,central_de_abastos
+A114,IDA,8,Urbanización La India,urbanizacion_la_india
+A114,IDA,9,Estación Terpel,estacion_terpel
+A114,IDA,10,La Sevillana 1,la_sevillana_1
+A114,VUELTA,11,La Sevillana 2,la_sevillana_2
+A114,VUELTA,12,Villa de Aranjuez Mz 1G,villa_de_aranjuez_mz_1g
+A114,VUELTA,13,Ciudad del Bicentenario 1,ciudad_del_bicentenario_1
+A114,VUELTA,14,Bicentenario Mz 79,bicentenario_mz_79
+A114,VUELTA,15,Bicentenario Mz 75,bicentenario_mz_75
+A114,VUELTA,16,Ciudad del Bicentenario 2,ciudad_del_bicentenario_2
+A114,VUELTA,17,Bicentenario Mz 35 Lote 1,bicentenario_mz_35_lote_1
+A114,VUELTA,18,Bicentenario Mz 7 Lote 1,bicentenario_mz_7_lote_1
+A114,VUELTA,19,Colegio Gabriel Garcia Marquez,colegio_gabriel_garcia_marquez
+A114,VUELTA,20,Flor del Campo Mz 1C Lote 4,flor_del_campo_mz_1c_lote_4
+A114,VUELTA,21,Abastos Giraldo,abastos_giraldo
+A114,VUELTA,22,Colombiatón  Mz 3G Casa 470,colombiaton_mz_3g_casa_470
+A114,VUELTA,23,Colegio Gustavo Pulecio Gomez,colegio_gustavo_pulecio_gomez
+A114,VUELTA,24,Urbanización La India V,urbanizacion_la_india_v
+A114,VUELTA,25,Frente Central de Abastos,el_carinoso
+A114,VUELTA,26,Entrada Pozón,entrada_pozon
+A114,VUELTA,27,El Cariñoso,el_carinoso_2
+A114,VUELTA,28,Portales de Alicante,portales_de_alicante
+A114,VUELTA,29,Villa de la Candelaria,villa_de_la_candelaria
+A114,VUELTA,30,Megaluminios,megaluminios
+A114,VUELTA,31,Ipanema,ipanema
+A114,VUELTA,32,Entrada Las Palmeras,entrada_las_palmeras
+A114,VUELTA,33,Las Palmeras,las_palmeras
+A114,VUELTA,34,Patio Portal C3,st_patio_portal_c3
+A117,IDA,1,Patio Portal D1,st_patio_portal_d1
+A117,IDA,2,Villa Rosita,villa_rosita
+A117,IDA,3,Altamare,altamare
+A117,IDA,4,Bomba Petromil,bomba_petromil
+A117,IDA,5,Centro comercial Mio,centro_comercial_mio
+A117,IDA,6,Palmas de Salamanca,palmas_de_salamanca
+A117,IDA,7,Central de Abastos,central_de_abastos
+A117,IDA,8,Frente Central de Abastos,frente_central_de_abastos
+A117,IDA,9,Entrada Pozón,entrada_pozon
+A117,IDA,10,Pactemos,pactemos
+A117,VUELTA,11,Iglesia Pozon,iglesia_pozon
+A117,VUELTA,12,Mi locura,mi_locura
+A117,VUELTA,13,Hospital El Pozon,hospital_el_pozon
+A117,VUELTA,14,Barberia Migue,barberia_migue
+A117,VUELTA,15,Tv 72B entre Kr 88 y 89,tv_72b_entre_kr_88_y_89
+A117,VUELTA,16,Kr 89 entre Tv 73A y 74A,kr_89_entre_tv_73a_y_74a
+A117,VUELTA,18,Inicio Pozon,inicio_pozon
+A117,VUELTA,18,Kr 89 entre Tv 74B y 75A,kr_89_entre_tv_74b_y_75a
+A117,VUELTA,19,La Carpa Roja,la_carpa_roja
+A117,VUELTA,20,Drogueria Zharick,drogueria_zharick
+A117,VUELTA,21,Supertienda El Cañonazo,supertienda_el_canonazo
+A117,VUELTA,22,Acuacar,acuacar
+A117,VUELTA,23,CDA,cda
+A117,VUELTA,24,Billares el Kiosko,billares_el_kiosko
+A117,VUELTA,25,Sastreria La prosperidad,sastreria_la_prosperidad
+A117,VUELTA,26,Megaluminios,megaluminios_2
+A117,VUELTA,27,Ipanema,ipanema
+A117,VUELTA,28,Entrada Las Palmeras,entrada_las_palmeras_2
+A117,VUELTA,29,Las Palmeras,las_palmeras_2
+A117,VUELTA,30,Patio Portal C1,st_patio_portal_c1
+A118,IDA,1,Patio Portal,st_patio_portal_p
+A118,IDA,2,Villa Rosita,villa_rosita_2
+A118,IDA,3,Altamare,altamare
+A118,IDA,4,Bomba Petromil,bomba_petromil_2
+A118,IDA,5,Centro Comercial MIO,centro_comercial_mio
+A118,IDA,6,Terminal de Transportes,terminal_de_transportes
+A118,IDA,7,Palmas de Salamanca 2,palmas_de_salamanca_2
+A118,IDA,8,Palmas de Salamanca,palmas_de_salamanca
+A118,IDA,9,Central de Abastos,frente_central_de_abastos
+A118,IDA,10,Frente a Yesos Cartagena,frente_a_yesos_cartagena
+A118,IDA,11,Frente a Taller,frente_a_taller
+A118,IDA,12,Frente a Chatarrería,frente_a_chatarreria
+A118,IDA,13,Corazón de Jesús (Mz 211),corazon_de_jesus_mz_211
+A118,IDA,14,Frente a Tienda Florecer,frente_a_tienda_florecer
+A118,IDA,15,Frente a Polideportivo El 20,frente_a_polideportivo_el_20
+A118,IDA,16,Frente a Panadería La Bendición de Dios,frente_a_panaderia_la_bendicion_de_dios
+A118,IDA,17,Mz A1 Torre 5,mz_a1_torre_5
+A118,IDA,18,Mz D Lote 3 (frente al parque),mz_d_lote_3_frente_al_parque
+A118,IDA,19,Panadería Angie,panaderia_angie
+A118,IDA,20,Mz H Bloque 1,mz_h_bloque_1
+A118,IDA,21,Mz I Bloque 1,mz_i_bloque_1
+A118,VUELTA,22,Mz I Bloque 1,mz_i_bloque_1_2
+A118,VUELTA,23,Sector La Unión Mz H,sector_la_union_mz_h
+A118,VUELTA,24,Hogar Fami Mis Primeros Pasos,hogar_fami_mis_primeros_pasos
+A118,VUELTA,25,Sector Minuto de Dios (lote),sector_minuto_de_dios_lote
+A118,VUELTA,26,Miramar Mz 201 Lote 12,miramar_mz_201_lote_12
+A118,VUELTA,27,Al lado de Chatarrería,al_lado_de_chatarreria
+A118,VUELTA,28,Al lado de Taller Mecánico,al_lado_de_taller_mecanico
+A118,VUELTA,29,Mi Tiendita,mi_tiendita
+A118,VUELTA,30,Frente a Central de Abastos,el_carinoso
+A118,VUELTA,31,Entrada El Pozón,entrada_pozon
+A118,VUELTA,32,El Cariñoso,el_carinoso_2
+A118,VUELTA,33,Portales de Alicante,portales_de_alicante
+A118,VUELTA,34,Villas de la Candelaria,villa_de_la_candelaria
+A118,VUELTA,35,Megaluminios,megaluminios
+A118,VUELTA,36,Ipanema,ipanema
+A118,VUELTA,37,Entrada a Las Palmeras,entrada_las_palmeras
+A118,VUELTA,38,Las Palmeras,las_palmeras
+A118,VUELTA,39,Patio Portal,st_patio_portal_p
+C001,IDA,1,Colegio Ciudadela 2000,colegio_ciudadela_2000
+C001,IDA,2,Ferreteria y Variedades El Chico,ferreteria_y_variedades_el_chico
+C001,IDA,3,Restaurante La Florida,restaurante_la_florida
+C001,IDA,4,Drogueria y variedades Maria V,drogueria_y_variedades_maria_v
+C001,IDA,5,Drogueria Yeika,drogueria_yeika
+C001,IDA,6,Supergiros,supergiros_3
+C001,IDA,7,Institucion Educativa Fe y Alegria El Progreso,institucion_educativa_fe_y_alegria_el_pr_2
+C001,IDA,8,UPA La Reina,upa_la_reina_2
+C001,IDA,9,Institucion Educativa San Lucas,institucion_educativa_san_lucas_2
+C001,IDA,10,Calle 14 #65-34,calle_14_65_34
+C001,IDA,11,Iglesia Nuestra Señora del Carmelo,iglesia_nuestra_senora_del_carmelo
+C001,IDA,12,Kiosko #61-21,kiosko_61_21
+C001,IDA,13,MZ16 LT A12,mz16_lt_a12
+C001,IDA,14,Portal de belen,portal_de_belen
+C001,IDA,15,Barberia Plus,barberia_plus
+C001,IDA,16,Sala de belleza montero,sala_de_belleza_montero
+C001,IDA,17,Entrada Buenas Aires,entrada_buenas_aires
+C001,IDA,18,Entrada La Troncal,entrada_la_troncal
+C001,IDA,19,Plaza Colon,plaza_colon
+C001,IDA,20,Paradero seguridad al dia ltda,paradero_seguridad_al_dia_ltda
+C001,IDA,21,Iglesia San Enrique,iglesia_san_enrique
+C001,IDA,22,Terraza de los Luceros,terraza_de_los_luceros
+C001,IDA,23,MZ 96 Lt 28 calamares,mz_96_lt_28_calamares
+C001,IDA,24,Cl 28 entre Kr 54 y 53,cl_28_entre_kr_54_y_53
+C001,IDA,25,La Caci-k (Cll30#50a-115),la_caci_k_cll30_50a_115
+C001,IDA,26,Tv 50 entre Cl 30C y 30D,tv_50_entre_cl_30c_y_30d
+C001,IDA,27,Dg 30 entre Kr 50 y Cl 30D,dg_30_entre_kr_50_y_cl_30d
+C001,IDA,28,Dg 30 con Cl 30C,dg_30_con_cl_30c
+C001,IDA,29,Dg 30 entre Cl 30A y Kr 49,dg_30_entre_cl_30a_y_kr_49
+C001,IDA,30,Cruz Roja,cruz_roja
+C001,IDA,31,MZ U lote 2( las lomas),mz_u_lote_2_las_lomas
+C001,IDA,32,Mz B lote 16,mz_b_lote_16
+C001,IDA,33,Colegio la anunciacion,colegio_la_anunciacion
+C001,IDA,34,Parque chile,parque_chile
+C001,IDA,35,Supergiros Bruselas,supergiros_bruselas
+C001,IDA,36,Frente a sociedad portuaria,frente_a_sociedad_portuaria
+C001,IDA,37,Portus,portus
+C001,IDA,38,MZ 28 LT 35,mz_28_lt_35
+C001,IDA,39,Alheli,alheli
+C001,IDA,40,Conjunto residencial edificio michael,conjunto_residencial_edificio_michael
+C001,IDA,41,edificio olga,edificio_olga
+C001,IDA,42,Saludarte,saludarte
+C001,IDA,43,Fatima (dadis),fatima_dadis
+C001,IDA,44,Iglesia tercera orden,iglesia_tercera_orden
+C001,IDA,45,Muelle de los Pegasos,muelle_de_los_pegasos
+C001,IDA,46,Parque de la marina,parque_de_la_marina
+C001,VUELTA,47,Centro convenciones,centro_convenciones
+C001,VUELTA,48,mz 17 lote 48,mz_17_lote_48
+C001,VUELTA,49,El candil,el_candil
+C001,VUELTA,50,Mz 25 LT 42,mz_25_lt_42
+C001,VUELTA,51,DIAN,dian
+C001,VUELTA,52,Mz 27 LT 18,mz_27_lt_18
+C001,VUELTA,53,Sociedad portuaria,sociedad_portuaria
+C001,VUELTA,54,La Cuchilla,la_cuchilla
+C001,VUELTA,55,Coca Cola,coca_cola
+C001,VUELTA,56,Calle del Mamón,calle_del_mamon
+C001,VUELTA,57,TCC,tcc
+C001,VUELTA,58,Mz 24 Lt 38,mz_24_lt_38
+C001,VUELTA,59,Colegio latino americano 21a 116,colegio_latino_americano_21a_116
+C001,VUELTA,60,Junín mz e lt 16,junin_mz_e_lt_16
+C001,VUELTA,61,Casa 26 d 42 Junín 2,casa_26_d_42_junin_2
+C001,VUELTA,62,Kr 45 entre Cl 29 y 30,kr_45_entre_cl_29_y_30
+C001,VUELTA,63,Piedra de Bolivar,piedra_de_bolivar
+C001,VUELTA,64,Universidad de Cartagena,universidad_de_cartagena
+C001,VUELTA,65,Hospital Universitario*,hospital_universitario
+C001,VUELTA,66,Hogar infantil Dulces Sonrisas,hogar_infantil_dulces_sonrisas
+C001,VUELTA,67,Tienda La Nacional (Cll30#53-18),tienda_la_nacional_cll30_53_18
+C001,VUELTA,68,Parque de los calamares,parque_de_los_calamares
+C001,VUELTA,69,Terraza los Luceros,terraza_los_luceros
+C001,VUELTA,70,Mz e lt 10,mz_e_lt_10
+C001,VUELTA,71,Colegio INEM,colegio_inem
+C001,VUELTA,72,Universidad del Sinu,universidad_del_sinu
+C001,VUELTA,73,Clinica El Bosque,clinica_el_bosque
+C001,VUELTA,74,Clinica El Bosque V,clinica_el_bosque_v_2
+C001,VUELTA,75,Universidad del Sinu V,universidad_del_sinu_v_2
+C001,VUELTA,76,Colegio INEM V,colegio_inem_v
+C001,VUELTA,77,Entrada Almirante Colon,entrada_almirante_colon
+C001,VUELTA,78,Napoleon Perea,napoleon_perea
+C001,VUELTA,79,Caracoles Mz 1 Lote 11,caracoles_mz_1_lote_11_2
+C001,VUELTA,80,Efecty Caracoles,efecty_caracoles
+C001,VUELTA,81,Restaurante Nueva Fortuna China,restaurante_nueva_fortuna_china
+C001,VUELTA,82,Cancha Microfutbol El campestre,cancha_microfutbol_el_campestre
+C001,VUELTA,83,Cancha 2,cancha_2_2
+C001,VUELTA,84,El Milagro Soldadura Diaz,el_milagro_soldadura_diaz
+C001,VUELTA,85,Taller Mañe,taller_mane
+C001,VUELTA,86,Tienda El Puente.Com,tienda_el_puente_com
+C001,VUELTA,87,Institucion Educativa San Lucas,institucion_educativa_san_lucas
+C001,VUELTA,88,UPA La Reina,upa_la_reina
+C001,VUELTA,89,Institucion Educativa Fe y Alegria El Progreso,institucion_educativa_fe_y_alegria_el_pr
+C001,VUELTA,90,Celumax,celumax
+C001,VUELTA,91,Surtimax,surtimax
+C001,VUELTA,92,Super Drywall,super_drywall
+C001,VUELTA,93,Surtimateriales La Consolata,surtimateriales_la_consolata_2
+C001,VUELTA,94,Ferreterias y materiales El Educador,ferreterias_y_materiales_el_educador
+C001,VUELTA,95,Iglesia Cristiana El acta del pacto,iglesia_cristiana_el_acta_del_pacto
+C001,VUELTA,96,Estadio de Softbol,estadio_de_softbol_2
+C016,CIRCULAR,1,Patio Portal D4,st_patio_portal_d4
+C016,CIRCULAR,2,Villa Rosita,villa_rosita
+C016,CIRCULAR,3,Altamare,altamare
+C016,CIRCULAR,4,Bomba Petromil,bomba_petromil
+C016,CIRCULAR,5,Centro comercial Mio,centro_comercial_mio
+C016,CIRCULAR,6,Terminal de Transportes,terminal_de_transportes
+C016,CIRCULAR,7,Palmas de Salamanca,palmas_de_salamanca
+C016,CIRCULAR,8,Central de Abastos,central_de_abastos
+C016,CIRCULAR,9,Frente Central de Abastos,frente_central_de_abastos
+C016,CIRCULAR,10,Entrada Pozón,entrada_pozon_2
+C016,CIRCULAR,11,El Cariñoso,el_carinoso
+C016,CIRCULAR,12,Portales de Alicante,portales_de_alicante
+C016,CIRCULAR,13,Villa de la Candelaria,villa_de_la_candelaria
+C016,CIRCULAR,14,Megaluminios,megaluminios_2
+C016,CIRCULAR,15,Ipanema,ipanema
+C016,CIRCULAR,16,Entrada Las Palmeras,entrada_las_palmeras_2
+C016,CIRCULAR,17,Las Palmeras,las_palmeras_2
+C016,CIRCULAR,18,Patio Portal C1,st_patio_portal_c1
+C017,IDA,1,Parque de la Marina,parque_de_la_marina_2
+C017,IDA,2,Cancha Bambino,cancha_bambino
+C017,IDA,3,Teatro Adolfo Mejía,teatro_heredia
+C017,IDA,4,El Boquetillo,el_boquetillo
+C017,IDA,5,Colegio Modelo de la Costa,colegio_modelo_de_la_costa
+C017,IDA,6,Droguería Inglesa Edificio Zafiro,kr_1_entre_cl_43_y_44
+C017,IDA,7,Entrada al Cabrero,entrada_al_cabrero
+C017,IDA,8,DATT,datt
+C017,IDA,9,Edificio Altamar,edificio_altamar
+C017,IDA,10,Terrazas de San Sebastián,terrazas_de_san_sebastian
+C017,IDA,11,Global Center,global_center
+C017,IDA,12,Bomba Terpel,bomba_terpel
+C017,IDA,13,Parque de las Américas,parque_de_las_americas
+C017,IDA,14,Calle 67,calle_67
+C017,IDA,15,Puente Crespito,puente_crespito
+C017,IDA,16,Iglesia Cristo Rey,iglesia_cristo_rey
+C017,IDA,17,Carrera 6,carrera_6
+C017,IDA,18,Ferretería Crespo 70,ferreteria_crespo_70
+C017,IDA,19,Frente a Hotel Las Américas,frente_a_hotel_las_americas
+C017,IDA,20,Terminal del Norte,terminal_del_norte
+C017,IDA,21,Serena del Mar,serena_del_mar
+C017,IDA,22,Frente a Barcelona de Indias,frente_a_barcelona_de_indias
+C017,VUELTA,23,Barceloneta,barceloneta
+C017,VUELTA,24,Barcelona de Indias,barcelona_de_indias
+C017,VUELTA,25,Las Ramblas,las_ramblas
+C017,VUELTA,26,Frente a Serena del Mar,frente_a_serena_del_mar
+C017,VUELTA,27,Boquilla 1,boquilla_1
+C017,VUELTA,28,Boquilla 2,boquilla_2
+C017,VUELTA,29,Morros Vitri,morros_vitri
+C017,VUELTA,30,Murano,murano
+C017,VUELTA,31,Playa Azul,playa_azul
+C017,VUELTA,32,Terrazas de San Sebastián,terraza_de_san_sebastian
+C017,VUELTA,33,Frente al ARA,frente_al_ara
+C017,VUELTA,34,Bellavista Hotel,bellavista_hotel
+C017,VUELTA,35,El Cabrero,el_cabrero
+C017,VUELTA,36,Costa Azul,costa_azul
+C017,VUELTA,37,Frente a Parque Apolo,frente_parque_apolo
+C017,VUELTA,38,Boquetillo de Paz y Concordia,boquetillo_de_paz_y_concordia
+C017,VUELTA,39,Estación Centro,estacion_centro
+C017,VUELTA,40,Parque de la Marina,parque_de_la_marina_3
+C018,IDA,1,Parque de la Marina,parque_de_la_marina_4
+C018,IDA,2,Mall Plaza,mall_plaza
+C018,IDA,3,Universidad Rafael Núñez,universidad_rafael_nunez
+C018,IDA,4,Super Wings Paseo Bolívar,super_wings_paseo_bolivar
+C018,IDA,5,El Punto del Movimiento,el_punto_del_movimiento
+C018,IDA,6,Antiguo Telecom – D1,antiguo_telecom_d1
+C018,IDA,7,Lubricantes y Filtros del Caribe,lubricantes_y_filtros_del_caribe
+C018,IDA,8,Pollo Express,pollo_express
+C018,IDA,9,Mercado de Santa Rita,mercado_de_santa_rita
+C018,IDA,10,Frente a Las Dunas,frente_a_las_dunas
+C018,IDA,11,Carrera 64-56,carrera_64_56
+C018,IDA,12,Parque de Daniel Lemaitre,parque_de_daniel_lemaitre
+C018,IDA,13,Iglesia Éxodo,iglesia_exodo
+C018,IDA,14,Conjunto Residencial San Juan,conjunto_residencial_san_juan
+C018,IDA,15,Institución Educativa Santa María,institucion_educativa_santa_maria
+C018,VUELTA,16,Baluarte del Caribe,baluarte_del_caribe
+C018,VUELTA,17,Colegio Liceo de Bolívar,colegio_liceo_de_bolivar
+C018,VUELTA,18,Drogas La Rebaja,drogas_la_rebaja
+C018,VUELTA,19,Farmacenter,farmacenter
+C018,VUELTA,20,Frente al Mercado de Santa Rita,frente_al_mercado_de_santa_rita
+C018,VUELTA,21,Parque San Pedro,parque_san_pedro
+C018,VUELTA,22,Surtimax,surtimax_2
+C018,VUELTA,23,Súper Abasto Torices,super_abasto_torices
+C018,VUELTA,24,Clínica San José de Torices,clinica_san_jose_de_torices
+C018,VUELTA,25,Loma del Diamante,loma_del_diamante
+C018,VUELTA,26,Parque Espíritu del Manglar,parque_espiritu_del_manglar
+C018,VUELTA,27,Frente a Estación Chambacú,frente_a_estacion_chambacu
+C018,VUELTA,28,Avenida Venezuela,avenida_venezuela
+C018,VUELTA,29,Parque de la Marina,parque_de_la_marina_3
+T100E,IDA,1,Patio Portal A3,st_patio_portal_a3
+T100E,IDA,2,Madre Bernarda B1,st_madre_bernarda_b1
+T100E,IDA,3,La Castellana A1,st_la_castellana_a1
+T100E,IDA,4,Cuatro Vientos A1,st_cuatro_vientos_a1
+T100E,IDA,5,Maria Auxiliadora A1,st_maria_auxiliadora_a1
+T100E,IDA,6,Centro B1,st_centro_b1
+T100E,IDA,7,La Bodeguita B1,st_la_bodeguita_b1
+T100E,VUELTA,8,La Bodeguita B2,st_la_bodeguita_b2
+T100E,VUELTA,9,Centro B2,st_centro_b2
+T100E,VUELTA,10,Maria Auxiliadora A2,st_maria_auxiliadora_a2
+T100E,VUELTA,11,Cuatro Vientos A2,st_cuatro_vientos_a2
+T100E,VUELTA,12,La Castellana A2,st_la_castellana_a2
+T100E,VUELTA,13,Madre Bernarda B2,st_madre_bernarda_b2
+T100E,VUELTA,14,Patio Portal A1,st_patio_portal_a1
+T101,IDA,1,Patio Portal A2,st_patio_portal_a2
+T101,IDA,2,Madre Bernarda A1,st_madre_bernarda_a1
+T101,IDA,3,La Castellana B1,st_la_castellana_b1
+T101,IDA,4,Los Ejecutivos A1,st_los_ejecutivos_a1
+T101,IDA,5,Cuatro Vientos B1,st_cuatro_vientos_b1
+T101,IDA,6,España A1,st_espana_a1
+T101,IDA,7,El Prado A1,st_el_prado_a1
+T101,IDA,8,Bazurto A1,st_bazurto_a1
+T101,IDA,9,La Popa A1,st_la_popa_a1
+T101,IDA,10,Chambacu A1,st_chambacu_a1
+T101,IDA,11,Centro A1,st_centro_a1
+T101,IDA,12,La Bodeguita A1,st_la_bodeguita_a1
+T101,VUELTA,13,La Bodeguita A2,st_la_bodeguita_a2
+T101,VUELTA,14,Centro A2,st_centro_a2
+T101,VUELTA,15,Chambacu A2,st_chambacu_a2
+T101,VUELTA,16,La Popa A2,st_la_popa_a2
+T101,VUELTA,17,Bazurto A2,st_bazurto_a2
+T101,VUELTA,18,El Prado A2,st_el_prado_a2
+T101,VUELTA,19,España A2,st_espana_a2
+T101,VUELTA,20,Cuatro Vientos B2,st_cuatro_vientos_b2
+T101,VUELTA,21,Los Ejecutivos A2,st_los_ejecutivos_a2
+T101,VUELTA,22,La Castellana B2,st_la_castellana_b2
+T101,VUELTA,23,Madre Bernarda A2,st_madre_bernarda_a2
+T101,VUELTA,24,Patio Portal A1,st_patio_portal_a1
+T102,IDA,1,Patio Portal B5,st_patio_portal_b5
+T102,IDA,2,Madre Bernarda B1,st_madre_bernarda_b1
+T102,IDA,3,Los Angeles A1,st_los_angeles_a1
+T102,IDA,4,Villa Olímpica A1,st_villa_olimpica_a1
+T102,IDA,5,República del Líbano A1,st_republica_del_libano_a1
+T102,IDA,6,Maria Auxiliadora A1,st_maria_auxiliadora_a1
+T102,IDA,7,El Prado A1,st_el_prado_a1
+T102,IDA,8,Bazurto B1,st_bazurto_b1
+T102,IDA,9,Chambacu A1,st_chambacu_a1
+T102,IDA,10,Centro A1,st_centro_a1
+T102,IDA,11,Parque de la marina,parque_de_la_marina_3
+T102,IDA,12,Cancha Bambino,cancha_bambino
+T102,IDA,13,Teatro Heredia,teatro_heredia
+T102,IDA,14,El boquetillo,el_boquetillo
+T102,IDA,15,Colegio Modelo de la Costa,colegio_modelo_de_la_costa
+T102,IDA,16,Kr 1 entre Cl 43 y 44,kr_1_entre_cl_43_y_44
+T102,IDA,17,Entrada El cabrero,entrada_al_cabrero
+T102,IDA,18,DATT,datt
+T102,IDA,19,Edificio Altamar,edificio_altamar
+T102,IDA,20,Terrazas de San Sebastian,terrazas_de_san_sebastian
+T102,IDA,21,Global Center,global_center
+T102,IDA,22,Bomba Terpel,bomba_terpel
+T102,IDA,23,Parque de Las Americas,parque_de_las_americas
+T102,IDA,24,Calle 67,calle_67
+T102,IDA,25,Puente Crespito,puente_crespito
+T102,IDA,26,Iglesia Cristo Rey,iglesia_cristo_rey
+T102,IDA,27,Carrera 6,carrera_6
+T102,IDA,28,Ferreteria Crespo 70,ferreteria_crespo_70
+T102,IDA,29,Kr 10,kr_10
+T102,VUELTA,30,Kr 9 - Beach Club,kr_9_beach_club
+T102,VUELTA,31,Tienda Glorimar,tienda_glorimar
+T102,VUELTA,32,Esquina carrera 6,esquina_carrera_6
+T102,VUELTA,33,Carrera 4,carrera_4
+T102,VUELTA,34,Carrera 2,carrera_2
+T102,VUELTA,35,Vivero Rincon del Mar,vivero_rincon_del_mar
+T102,VUELTA,36,Gimnasio-Estetica-Peluqueria,gimnasio_estetica_peluqueria
+T102,VUELTA,37,Calle 64,calle_64
+T102,VUELTA,38,Corales de Indias,corales_de_indias
+T102,VUELTA,39,Terraza de san Sebastian,terraza_de_san_sebastian
+T102,VUELTA,40,Kr 1 entre Cl 47 y 46,frente_al_ara
+T102,VUELTA,41,Bellavista Hotel,bellavista_hotel
+T102,VUELTA,42,El cabrero,el_cabrero
+T102,VUELTA,43,Costa Azul,costa_azul
+T102,VUELTA,44,Frente Parque Apolo,frente_parque_apolo
+T102,VUELTA,45,Boquete Paz Concordia San Diego,boquete_paz_concordia_san_diego
+T102,VUELTA,46,Chambacu A2,st_chambacu_a2
+T102,VUELTA,47,Bazurto B2,st_bazurto_b2
+T102,VUELTA,48,El Prado A2,st_el_prado_a2
+T102,VUELTA,49,Maria Auxiliadora A2,st_maria_auxiliadora_a2
+T102,VUELTA,50,República del Líbano A2,st_republica_del_libano_a2
+T102,VUELTA,51,Villa Olímpica A2,st_villa_olimpica_a2
+T102,VUELTA,52,Los Angeles A2,st_los_angeles_a2
+T102,VUELTA,53,Madre Bernarda B2,st_madre_bernarda_b2
+T102,VUELTA,54,Patio Portal B1,st_patio_portal_b1
+T103,IDA,1,Patio Portal A4,st_patio_portal_a4
+T103,IDA,2,Madre Bernarda A1,st_madre_bernarda_a1
+T103,IDA,3,La Castellana B1,st_la_castellana_b1
+T103,IDA,4,Los Ejecutivos A1,st_los_ejecutivos_a1
+T103,IDA,5,Cuatro Vientos A1,st_cuatro_vientos_a1
+T103,IDA,6,España A1,st_espana_a1
+T103,IDA,7,Bazurto B1,st_bazurto_b1
+T103,IDA,8,La Popa A1,st_la_popa_a1
+T103,IDA,9,Chambacu A1,st_chambacu_a1
+T103,IDA,10,La Bodeguita A1,st_la_bodeguita_a1
+T103,IDA,11,Monumento Maria Mulata,monumento_maria_mulata
+T103,IDA,12,Supermercado Olimpica,supermercado_olimpica
+T103,IDA,13,Frente Ambientes,frente_ambientes
+T103,IDA,14,Frente Crepes,frente_crepes
+T103,IDA,15,Frente Miska,frente_miska
+T103,IDA,16,Dulceria,dulceria
+T103,IDA,17,El pueblito,el_pueblito
+T103,IDA,18,Club Cartagena,club_cartagena
+T103,VUELTA,19,Cll 5A,cll_5a
+T103,VUELTA,20,Frente Berlitz,frente_berlitz
+T103,VUELTA,21,Frente Porvenir,frente_porvenir
+T103,VUELTA,22,Frente Maternidad,frente_maternidad
+T103,VUELTA,23,Cll 10,cll_10
+T103,VUELTA,24,Frente Ed. Grupo Area,frente_ed_grupo_area
+T103,VUELTA,25,Entre Cll 12 y Cll 13,entre_cll_12_y_cll_13
+T103,VUELTA,26,Edificio La Marina,edificio_la_marina
+T103,VUELTA,27,La Bodeguita B2,st_la_bodeguita_b2
+T103,VUELTA,28,Chambacu A2,st_chambacu_a2
+T103,VUELTA,29,La Popa A2,st_la_popa_a2
+T103,VUELTA,30,Bazurto B2,st_bazurto_b2
+T103,VUELTA,31,España A2,st_espana_a2
+T103,VUELTA,32,Cuatro Vientos A2,st_cuatro_vientos_a2
+T103,VUELTA,33,Los Ejecutivos A2,st_los_ejecutivos_a2
+T103,VUELTA,34,La Castellana B2,st_la_castellana_b2
+T103,VUELTA,35,Madre Bernarda A2,st_madre_bernarda_a2
+T103,VUELTA,36,Patio Portal A1,st_patio_portal_a1
+X101,IDA,1,Parque Huellas de Alberto Uribe,parque_huellas_de_alberto_uribe_2
+X101,IDA,2,Huellas de Alberto Uribe,huellas_de_alberto_uribe
+X101,IDA,3,Abastos La Buenos Aires,abastos_la_buenos_aires
+X101,IDA,4,Cll 102 Dg Terraza Tribuna Verde,cll_102_dg_terraza_tribuna_verde
+X101,IDA,5,Tienda San José,tienda_san_jose
+X101,IDA,6,Tienda El Cambiazo,tienda_el_cambiazo
+X101,IDA,7,Cll 35 #100-27,cll_35_100_27
+X101,IDA,8,Veterinaria Los Campanos,veterinaria_los_campanos
+X101,IDA,9,La Princesa,la_princesa_2
+X101,IDA,10,Drogueria Calidad y Musica RS,drogueria_calidad_y_musica_rs_2
+X101,IDA,11,Iglesia Ternera,iglesia_ternera_2
+X101,IDA,12,U. San Buenaventura Vuelta,u_san_buenaventura_vuelta_2
+X101,IDA,13,Marval,marval_2
+X101,IDA,14,Iglesia El Recreo,iglesia_el_recreo_2
+X101,IDA,15,Los Abetos,los_abetos_2
+X101,IDA,16,Dg32 #71a2-60,dg32_71a2_60
+X101,IDA,17,Colegio Integral Moderno,colegio_integral_moderno
+X101,IDA,18,Balcones de Cerezos,balcones_de_cerezos
+X101,IDA,19,Entrada Viejo Porvenir,entrada_viejo_porvenir
+X101,IDA,20,Chapacua,chapacua
+X101,IDA,21,Olimpica 13 de Junio,olimpica_13_de_junio
+X101,IDA,22,Tienda La Pradera,tienda_la_pradera
+X101,IDA,23,Gaviotas 1,gaviotas_1
+X101,IDA,24,Parque Barrio Militar,parque_barrio_militar
+X101,IDA,25,I.E. Las Gaviotas,i_e_las_gaviotas
+X101,IDA,26,Los Ejecutivos A1,st_los_ejecutivos_a1
+X101,IDA,27,Villa Olímpica A1,st_villa_olimpica_a1
+X101,IDA,28,Cuatro Vientos B1,st_cuatro_vientos_b1
+X101,IDA,29,República del Líbano A1,st_republica_del_libano_a1
+X101,IDA,30,España A1,st_espana_a1
+X101,IDA,31,Maria Auxiliadora A1,st_maria_auxiliadora_a1
+X101,IDA,32,Bazurto B1,st_bazurto_b1
+X101,IDA,33,Chambacu A1,st_chambacu_a1
+X101,IDA,34,Centro A1,st_centro_a1
+X101,IDA,35,La Bodeguita A1,st_la_bodeguita_a1
+X101,VUELTA,36,La Bodeguita A2,st_la_bodeguita_a2
+X101,VUELTA,37,Centro A2,st_centro_a2
+X101,VUELTA,38,Chambacu A2,st_chambacu_a2
+X101,VUELTA,39,Bazurto B2,st_bazurto_b2
+X101,VUELTA,40,Maria Auxiliadora A2,st_maria_auxiliadora_a2
+X101,VUELTA,41,España A2,st_espana_a2
+X101,VUELTA,42,República del Líbano A2,st_republica_del_libano_a2
+X101,VUELTA,43,Cuatro Vientos B2,st_cuatro_vientos_b2
+X101,VUELTA,44,Villa Olímpica A2,st_villa_olimpica_a2
+X101,VUELTA,45,Los Ejecutivos A2,st_los_ejecutivos_a2
+X101,VUELTA,46,Frente I.E. Las Gaviotas,frente_i_e_las_gaviotas
+X101,VUELTA,47,Gaviotas Manzana 32 2da Etapa,gaviotas_manzana_32_2da_etapa
+X101,VUELTA,48,Gaviotas Manzana 36 1ra Etapa,gaviotas_manzana_36_1ra_etapa
+X101,VUELTA,49,13 de Junio Tv69A #64B-14,13_de_junio_tv69a_64b_14
+X101,VUELTA,50,Dg Olimpica 13 de Junio,dg_olimpica_13_de_junio
+X101,VUELTA,51,Montebianco,montebianco
+X101,VUELTA,52,Entrada Los Cerezos,entrada_los_cerezos
+X101,VUELTA,53,Paraiso Real,paraiso_real
+X101,VUELTA,54,Entrada Baru,entrada_baru
+X101,VUELTA,55,Colegio Castillo,colegio_castillo
+X101,VUELTA,56,Entrada Amarilo,entrada_amarilo
+X101,VUELTA,57,Villa del sol,villa_del_sol
+X101,VUELTA,58,U. San Buenaventura,u_san_buenaventura
+X101,VUELTA,59,CC. San Fernando,cc_san_fernando
+X101,VUELTA,60,Viper,viper
+X101,VUELTA,61,Entrada Simon Bolivar,entrada_simon_bolivar
+X101,VUELTA,62,Cerveceria Aguila,cerveceria_aguila_2
+X101,VUELTA,63,Quintas del Manantial,quintas_del_manantial
+X101,VUELTA,64,Centro Industrial Ternera,centro_industrial_ternera_2
+X101,VUELTA,65,Villa Vanessa,villa_vanessa
+X101,VUELTA,66,Ara San José,ara_san_jose
+X101,VUELTA,67,Campanos cll35 #101-08,campanos_cll35_101_08
+X101,VUELTA,68,Colegio La verdadera enseñanza,colegio_la_verdadera_ensenanza
+X101,VUELTA,69,Taller Lloreda,taller_lloreda
+X101,VUELTA,70,Supergiros San José,supergiros_san_jose
+X101,VUELTA,71,Diagonal Drogueria Shelema,diagonal_drogueria_shelema
+X101,VUELTA,72,Huellas de Alberto Uribe Vuelta,huellas_de_alberto_uribe_vuelta
+X102,IDA,1,Patio Portal B6,st_patio_portal_b6
+X102,IDA,2,Madre Bernarda B1,st_madre_bernarda_b1
+X102,IDA,3,Chinatown,chinatown
+X102,IDA,4,Clinica Blas de Lezo,clinica_blas_de_lezo
+X102,IDA,5,Auto Coreano,auto_coreano
+X102,IDA,6,Entrada Buenas Aires,entrada_buenas_aires
+X102,IDA,7,Entrada La Troncal,entrada_la_troncal
+X102,IDA,8,Plaza Colon,plaza_colon
+X102,IDA,9,Colegio INEM,colegio_inem_2
+X102,IDA,10,Universidad del Sinu,universidad_del_sinu_2
+X102,IDA,11,Clinica El Bosque,clinica_el_bosque_2
+X102,IDA,12,Entrada Nuevo Bosque,entrada_nuevo_bosque
+X102,IDA,13,Estación de Policia Nuevo Bosque,estacion_de_policia_nuevo_bosque
+X102,IDA,14,San Isidro No. 25-43,san_isidro_no_25_43
+X102,IDA,15,Entrada San Isidro No. 53-58,entrada_san_isidro_no_53_58
+X102,IDA,16,Crisanto Luque Los olivos No. 52-49,crisanto_luque_los_olivos_no_52_49
+X102,IDA,17,Paradero Provisional,paradero_provisional
+X102,IDA,18,El Marión No. 46-43,el_marion_no_46_43
+X102,IDA,19,Supergiros Bruselas,supergiros_bruselas
+X102,IDA,20,EDS Esso Bruselas,eds_esso_bruselas
+X102,IDA,21,EDS Mobil El Bosque,eds_mobil_el_bosque
+X102,IDA,22,Bazurto A1,st_bazurto_a1
+X102,IDA,23,Delicias A1,st_delicias_a1
+X102,IDA,24,Lo Amador A1,st_lo_amador_a1
+X102,IDA,25,Centro B1,st_centro_b1
+X102,IDA,26,La Bodeguita A1,st_la_bodeguita_a1
+X102,VUELTA,27,La Bodeguita B2,st_la_bodeguita_b2
+X102,VUELTA,28,Centro B2,st_centro_b2
+X102,VUELTA,29,Lo Amador A2,st_lo_amador_a2
+X102,VUELTA,30,Delicias A2,st_delicias_a2
+X102,VUELTA,31,Bazurto A2,st_bazurto_a2
+X102,VUELTA,32,Martinez Martelo Dg 22 No. 20-50,martinez_martelo_dg_22_no_20_50
+X102,VUELTA,33,Cancha Microfutbol Martinez Martelo,cancha_microfutbol_martinez_martelo
+X102,VUELTA,34,La Cuchilla,la_cuchilla_2
+X102,VUELTA,35,Coca Cola,coca_cola_2
+X102,VUELTA,36,Calle del Mamón,calle_del_mamon_2
+X102,VUELTA,37,El Refugio,el_refugio
+X102,VUELTA,38,Olimpica Alto Bosque,olimpica_alto_bosque
+X102,VUELTA,39,Alto Bosque Tv 51,alto_bosque_tv_51
+X102,VUELTA,40,Colegio Olga Gonzalez Arrauth,colegio_olga_gonzalez_arrauth
+X102,VUELTA,41,Nuevo Oriente (Bascula),nuevo_oriente_bascula
+X102,VUELTA,42,Bajo San Isidro,bajo_san_isidro
+X102,VUELTA,43,Entrada Ceballos,entrada_ceballos
+X102,VUELTA,44,Proleca,proleca
+X102,VUELTA,45,Los Corales,los_corales
+X102,VUELTA,46,Edificio Conjunto Militar Los Corales,edificio_conjunto_militar_los_corales
+X102,VUELTA,47,Clinica El Bosque V,clinica_el_bosque_v
+X102,VUELTA,48,Universidad del Sinu V,universidad_del_sinu_v
+X102,VUELTA,49,Colegio INEM V,colegio_inem_v
+X102,VUELTA,50,Entrada Almirante Colon,entrada_almirante_colon
+X102,VUELTA,51,Napoleon Perea,napoleon_perea
+X102,VUELTA,52,Entrada Los Caracoles,entrada_los_caracoles
+X102,VUELTA,53,Olimpica Caracoles,olimpica_caracoles
+X102,VUELTA,54,Aguas de Cartagena,aguas_de_cartagena
+X102,VUELTA,55,Piko Riko,piko_riko
+X102,VUELTA,56,Madre Bernarda B2,st_madre_bernarda_b2
+X102,VUELTA,57,Patio Portal B2,st_patio_portal_b2
+X103,IDA,1,Patio Portal B4,st_patio_portal_b4
+X103,IDA,2,Madre Bernarda A1,st_madre_bernarda_a1
+X103,IDA,3,Chinatown,chinatown
+X103,IDA,4,Clinica Blas de Lezo,clinica_blas_de_lezo
+X103,IDA,5,Auto Coreano,auto_coreano
+X103,IDA,6,Tacarigua 1,tacarigua_1_2
+X103,IDA,7,Conjunto residencial Tacarigua,conjunto_residencial_tacarigua_2
+X103,IDA,8,Restaurante En Pin (Cll 30#57-341),restaurante_en_pin_cll_30_57_341_2
+X103,IDA,9,Escallon Villa (Cll 30#56-73),escallon_villa_cll_30_56_73
+X103,IDA,10,Escallon Villa (Cll 30#55-69),escallon_villa_cll_30_55_69
+X103,IDA,11,La Caci-k (Cll30#50a-115),cruz_roja
+X103,IDA,12,Hospital Universitario,hospital_universitario_2
+X103,IDA,13,Universidad de Cartagena,universidad_de_cartagena_2
+X103,IDA,14,Parque Piedra de Bolivar,parque_piedra_de_bolivar
+X103,IDA,15,Cruz Roja,cruz_roja_2
+X103,IDA,16,Amberes,amberes
+X103,IDA,17,Mitsubishi,mitsubishi
+X103,IDA,18,El Prado A1,st_el_prado_a1
+X103,IDA,19,Bazurto A1,st_bazurto_a1
+X103,IDA,20,Delicias B1,st_delicias_b1
+X103,IDA,21,Centro A1,st_centro_a1
+X103,IDA,22,La Bodeguita B1,st_la_bodeguita_b1
+X103,VUELTA,23,La Bodeguita A2,st_la_bodeguita_a2
+X103,VUELTA,24,Centro A2,st_centro_a2
+X103,VUELTA,25,Delicias B2,st_delicias_b2
+X103,VUELTA,26,Bazurto A2,st_bazurto_a2
+X103,VUELTA,27,El Prado A2,st_el_prado_a2
+X103,VUELTA,28,Colegio Octaviana,colegio_octaviana
+X103,VUELTA,29,Amberes*,amberes_2
+X103,VUELTA,30,Cruz Roja*,cruz_roja_3
+X103,VUELTA,31,Piedra de Bolivar,piedra_de_bolivar_2
+X103,VUELTA,32,Universidad de Cartagena,universidad_de_cartagena_3
+X103,VUELTA,33,Hospital Universitario*,hospital_universitario_3
+X103,VUELTA,34,Hogar infantil Dulces Sonrisas,hogar_infantil_dulces_sonrisas_2
+X103,VUELTA,35,Tienda La Nacional (Cll30#53-18),tienda_la_nacional_cll30_53_18_2
+X103,VUELTA,36,Zaragocilla (Cll30#56-26),zaragocilla_cll30_56_26
+X103,VUELTA,37,Camagüey Sector La Gloria,camaguey_sector_la_gloria
+X103,VUELTA,38,Conjunto residencial Tacarigua,conjunto_residencial_tacarigua_3
+X103,VUELTA,39,Paseo de La Castellana,paseo_de_la_castellana
+X103,VUELTA,40,Aguas de Cartagena,aguas_de_cartagena
+X103,VUELTA,41,Piko Riko,piko_riko
+X103,VUELTA,42,Madre Bernarda A2,st_madre_bernarda_a2
+X103,VUELTA,43,Patio Portal B3,st_patio_portal_b3
+X104,IDA,1,Terminal de Transportes,terminal_de_transportes
+X104,IDA,2,Palmas de Salamanca - Directo,palmas_de_salamanca_directo
+X104,IDA,3,Central de Abastos,central_de_abastos
+X104,IDA,4,Frente Central de Abastos,frente_central_de_abastos
+X104,IDA,5,Entrada Pozón,entrada_pozon_2
+X104,IDA,6,El Cariñoso,el_carinoso
+X104,IDA,7,Portales de Alicante,portales_de_alicante_2
+X104,IDA,8,Villa de la Candelaria,villa_de_la_candelaria
+X104,IDA,9,Megaluminios,megaluminios
+X104,IDA,10,Ipanema,ipanema
+X104,IDA,11,Entrada Las palmeras,entrada_las_palmeras
+X104,IDA,12,Entrada Nuevo Paraiso,entrada_nuevo_paraiso
+X104,IDA,13,Entrada Fredonia,entrada_fredonia
+X104,IDA,14,Cementerio de Olaya,cementerio_de_olaya
+X104,IDA,15,Olaya sector Playa Blanca,olaya_sector_playa_blanca
+X104,IDA,16,Olaya Sector La Puntilla,olaya_sector_la_puntilla
+X104,IDA,17,Centro comercial Olaya plaza,centro_comercial_olaya_plaza
+X104,IDA,18,Olaya sector La Central,olaya_sector_la_central
+X104,IDA,19,Colegio Almirante Colon,colegio_almirante_colon
+X104,IDA,20,Casa justicia Chiquinquira,casa_justicia_chiquinquira
+X104,IDA,21,Cai Arrocera,cai_arrocera
+X104,IDA,22,Salida perimetral Sector Rafael Nuñez,salida_perimetral_sector_rafael_nunez
+X104,IDA,23,Olaya Sector El Tancón,olaya_sector_el_tancon
+X104,IDA,24,El Libano,el_libano
+X104,IDA,25,Boston,boston
+X104,IDA,26,Pollito Pio,pollito_pio
+X104,IDA,27,La esquina del Sabor,la_esquina_del_sabor
+X104,IDA,28,La Candelaria,la_candelaria
+X104,IDA,29,Liceo Pedro de Heredia,liceo_pedro_de_heredia
+X104,IDA,30,Alcibia,alcibia
+X104,IDA,31,Bazurto B1,st_bazurto_b1
+X104,IDA,32,La Popa A1,st_la_popa_a1
+X104,IDA,33,Chambacu A1,st_chambacu_a1
+X104,IDA,34,Centro B1,st_centro_b1
+X104,IDA,35,La Bodeguita A1,st_la_bodeguita_a1
+X104,VUELTA,36,La Bodeguita B2,st_la_bodeguita_b2
+X104,VUELTA,37,Centro B2,st_centro_b2
+X104,VUELTA,38,Chambacu A2,st_chambacu_a2
+X104,VUELTA,39,La Popa A2,st_la_popa_a2
+X104,VUELTA,40,Bazurto B2,st_bazurto_b2
+X104,VUELTA,41,Alcibia*,alcibia_2
+X104,VUELTA,42,Liceo Pedro de Heredia*,liceo_pedro_de_heredia_2
+X104,VUELTA,43,La Candelaria*,la_candelaria_2
+X104,VUELTA,44,La esquina del sabor*,la_esquina_del_sabor_2
+X104,VUELTA,45,Tienda La Unica,tienda_la_unica
+X104,VUELTA,46,Boston*,boston_2
+X104,VUELTA,47,El Libano*,el_libano_2
+X104,VUELTA,48,Olaya sector El Tancón*,olaya_sector_el_tancon_2
+X104,VUELTA,49,Salida perimetral Sector Rafael Nuñez*,salida_perimetral_sector_rafael_nunez_2
+X104,VUELTA,50,Cai Arrocera*,cai_arrocera_2
+X104,VUELTA,51,Casa justicia Chiquinquira*,casa_justicia_chiquinquira_2
+X104,VUELTA,52,I.E. Fulgencio Lequerica,i_e_fulgencio_lequerica
+X104,VUELTA,53,Olaya sector La Central*,olaya_sector_la_central_2
+X104,VUELTA,54,Centro comercial Olaya Plaza*,centro_comercial_olaya_plaza_2
+X104,VUELTA,55,Olaya Sector Estela,olaya_sector_estela
+X104,VUELTA,56,Olaya Sector Playa Blanca*,olaya_sector_playa_blanca_2
+X104,VUELTA,57,Cementerio de Olaya*,cementerio_de_olaya_2
+X104,VUELTA,58,Entrada Fredonia*,entrada_fredonia_2
+X104,VUELTA,59,Entrada Las Palmeras,entrada_las_palmeras_3
+X104,VUELTA,60,Altamare,altamare
+X104,VUELTA,61,Bomba Petromil,bomba_petromil_2
+X104,VUELTA,62,Centro comercial Mio,centro_comercial_mio
+X105,IDA,1,Colegio Ciudadela 2000,colegio_ciudadela_2000
+X105,IDA,2,Estadio de Softbol,estadio_de_softbol
+X105,IDA,3,La algodonera,la_algodonera_2
+X105,IDA,4,Calamarí,calamari
+X105,IDA,5,Clinica ESE Rafael Calvo,clinica_ese_rafael_calvo_2
+X105,IDA,6,Portales de San Fernando,portales_de_san_fernando
+X105,IDA,7,Efecty Socorro MG1 L22,efecty_socorro_mg1_l22
+X105,IDA,8,Los Jardines MG2 L16,los_jardines_mg2_l16
+X105,IDA,9,Districarnes JG,districarnes_jg
+X105,IDA,10,Iglesia Nuestra Señora del Carmelo,iglesia_nuestra_senora_del_carmelo
+X105,IDA,11,Kiosko #61-21,kiosko_61_21
+X105,IDA,12,Cll 14 Parque Campestre,cll_14_parque_campestre
+X105,IDA,13,Punta Alta,punta_alta
+X105,IDA,14,Prosegur (Villa Leon),prosegur_villa_leon
+X105,IDA,15,Los Corales,los_corales
+X105,IDA,16,Edificio Conjunto Militar Los Corales,edificio_conjunto_militar_los_corales
+X105,IDA,17,Entrada Nuevo Bosque,entrada_nuevo_bosque
+X105,IDA,18,Estación de Policia Nuevo Bosque,estacion_de_policia_nuevo_bosque
+X105,IDA,19,San Isidro No. 25-43,san_isidro_no_25_43
+X105,IDA,20,Entrada San Isidro No. 53-58,entrada_san_isidro_no_53_58
+X105,IDA,21,Punte peatonal Cll Periodistas,punte_peatonal_cll_periodistas
+X105,IDA,22,Bodega Copetran,bodega_copetran
+X105,IDA,23,Ara Buenos Aires,ara_buenos_aires
+X105,IDA,24,Colegio Fernandez Baena,colegio_fernandez_baena
+X105,IDA,25,Bosque #45-57,bosque_45_57
+X105,IDA,26,Supergiros Bruselas,supergiros_bruselas
+X105,IDA,27,EDS Esso Bruselas,eds_esso_bruselas
+X105,IDA,28,Tv 33 entre Kr 22 y 23,tv_33_entre_kr_22_y_23
+X105,IDA,29,Tv 33 con 29B,tv_33_con_29b
+X105,IDA,30,Bazurto A1,st_bazurto_a1
+X105,IDA,31,Delicias A1,st_delicias_a1
+X105,IDA,32,Lo Amador A1,st_lo_amador_a1
+X105,IDA,33,Centro B1,st_centro_b1
+X105,IDA,34,La Bodeguita A1,st_la_bodeguita_a1
+X105,IDA,35,Monumento Maria Mulata,monumento_maria_mulata
+X105,IDA,36,Supermercado Olimpica,supermercado_olimpica
+X105,IDA,37,Frente Ambientes,frente_ambientes
+X105,IDA,38,Frente Crepes,frente_crepes
+X105,IDA,39,Frente Miska,frente_miska
+X105,IDA,40,Dulceria,dulceria
+X105,IDA,41,El pueblito,el_pueblito
+X105,IDA,42,Club Cartagena,club_cartagena_2
+X105,VUELTA,43,Cll 5A,cll_5a_2
+X105,VUELTA,44,Frente Berlitz,cll_5a
+X105,VUELTA,45,Frente Porvenir,frente_porvenir_2
+X105,VUELTA,46,Frente Maternidad,frente_maternidad_2
+X105,VUELTA,47,Cll 10,cll_10
+X105,VUELTA,48,Frente Ed. Grupo Area,frente_ed_grupo_area
+X105,VUELTA,49,Entre Cll 12 y Cll 13,entre_cll_12_y_cll_13
+X105,VUELTA,50,Edificio La Marina,edificio_la_marina
+X105,VUELTA,51,La Bodeguita B2,st_la_bodeguita_b2
+X105,VUELTA,52,Centro B2,st_centro_b2
+X105,VUELTA,53,Lo Amador A2,st_lo_amador_a2
+X105,VUELTA,54,Delicias A2,st_delicias_a2
+X105,VUELTA,55,Bazurto A2,st_bazurto_a2
+X105,VUELTA,56,Martinez Martelo Dg 22 No. 20-50,martinez_martelo_dg_22_no_20_50
+X105,VUELTA,57,Cancha Microfutbol Martinez Martelo,cancha_microfutbol_martinez_martelo
+X105,VUELTA,58,La Cuchilla,la_cuchilla_2
+X105,VUELTA,59,Coca Cola,coca_cola_2
+X105,VUELTA,60,Hogar San Pedro Claver,hogar_san_pedro_claver
+X105,VUELTA,61,Restaurante Bumangues,restaurante_bumangues
+X105,VUELTA,62,Entrada Manzanillo,entrada_manzanillo
+X105,VUELTA,63,Postobon,postobon
+X105,VUELTA,64,Navitrans,navitrans
+X105,VUELTA,65,Tv 54 con Dg 22,tv_54_con_dg_22
+X105,VUELTA,66,Nuevo Oriente (Bascula),nuevo_oriente_bascula
+X105,VUELTA,67,Bajo San Isidro,bajo_san_isidro
+X105,VUELTA,68,Entrada Ceballos,entrada_ceballos
+X105,VUELTA,69,Proleca,proleca
+X105,VUELTA,70,Punta Alta Vuelta,punta_alta_vuelta
+X105,VUELTA,71,Cll 14 Entrada Golf,cll_14_entrada_golf
+X105,VUELTA,72,El Milagro Soldadura Diaz,el_milagro_soldadura_diaz
+X105,VUELTA,73,Taller Mañe,taller_mane
+X105,VUELTA,74,Tienda El Puente.Com,tienda_el_puente_com
+X105,VUELTA,75,Calle 14 #65-34,calle_14_65_34
+X105,VUELTA,76,Super Mercado Precio Facil,super_mercado_precio_facil
+X105,VUELTA,77,Los Jardines,los_jardines
+X105,VUELTA,78,Nueva Jerusalen La Consolata,nueva_jerusalen_la_consolata
+X105,VUELTA,79,Villa Rubia,villa_rubia
+X105,VUELTA,80,Clinica ESE Rafael Calvo,clinica_ese_rafael_calvo
+X105,VUELTA,81,Restaurante Chung Fa,restaurante_chung_fa
+X105,VUELTA,82,La algodonera,la_algodonera
+X105,VUELTA,83,Hogar de bien,hogar_de_bien
+X106,IDA,1,Sena Ternera,sena_ternera_2
+X106,IDA,2,Quintas del Manantial,quintas_del_manantial_2
+X106,IDA,3,Centro Industrial Ternera,centro_industrial_ternera_3
+X106,IDA,4,La Princesa,la_princesa
+X106,IDA,5,Hotel Confort,marval_2
+X106,IDA,6,Centro Comercial San Fernando,centro_comercial_san_fernando
+X106,IDA,7,La Bodega del Tablón,la_bodega_del_tablon_2
+X106,IDA,8,Urbanización Sevilla,urbanizacion_sevilla
+X106,IDA,9,Ferreteria Antioquia,ferreteria_antioquia
+X106,IDA,10,El Campesino,el_campesino_2
+X106,IDA,11,Centro Comercial Santa Lucia,centro_comercial_santa_lucia_2
+X106,IDA,12,La Castellana A1,st_la_castellana_a1
+X106,IDA,13,Los Ejecutivos A1,st_los_ejecutivos_a1
+X106,IDA,14,República del Líbano A1,st_republica_del_libano_a1
+X106,IDA,15,Maria Auxiliadora A1,st_maria_auxiliadora_a1
+X106,IDA,16,Delicias B1,st_delicias_b1
+X106,IDA,17,La Popa A1,st_la_popa_a1
+X106,IDA,18,Lo Amador A1,st_lo_amador_a1
+X106,IDA,19,Centro A1,st_centro_a1
+X106,IDA,20,La Bodeguita B1,st_la_bodeguita_b1
+X106,VUELTA,21,La Bodeguita A2,st_la_bodeguita_a2
+X106,VUELTA,22,Centro A2,st_centro_a2
+X106,VUELTA,23,Lo Amador A2,st_lo_amador_a2
+X106,VUELTA,24,La Popa A2,st_la_popa_a2
+X106,VUELTA,25,Delicias B2,st_delicias_b2
+X106,VUELTA,26,Maria Auxiliadora A2,st_maria_auxiliadora_a2
+X106,VUELTA,27,República del Líbano A2,st_republica_del_libano_a2
+X106,VUELTA,28,Los Ejecutivos A2,st_los_ejecutivos_a2
+X106,VUELTA,29,La Castellana A2,st_la_castellana_a2
+X106,VUELTA,30,SonoMarcas,sonomarcas_2
+X106,VUELTA,31,Centro Comercial La Plazuela,centro_comercial_la_plazuela
+X106,VUELTA,32,Parque Santa Monica,parque_santa_monica
+X106,VUELTA,33,Cementerio Jardines de Cartagena,cementerio_jardines_de_cartagena_2
+X106,VUELTA,34,La bonguita,la_bonguita_2
+X106,VUELTA,35,Mi Vaquita,mi_vaquita
+X106,VUELTA,36,Colegio de la Policia Nacional,colegio_de_la_policia_nacional_2
+X106,VUELTA,37,Entrada Simon Bolivar,entrada_simon_bolivar_2
+X106,VUELTA,38,Cerveceria Aguila,cerveceria_aguila_3
+X106,VUELTA,39,El Rodeo,el_rodeo
+X106,VUELTA,40,Gobernación de Bolívar,gobernacion_de_bolivar
