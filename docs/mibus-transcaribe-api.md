@@ -537,6 +537,14 @@ curl.exe -i "https://zn5.m2mcontrol.com.br/api/forecast/lines/load/busStop/10.39
 
 This endpoint could be used to validate geographical stop searches.
 
+**Validated 2026-11-25** (`busStop/10.3956/-75.4724/1343?radiusInMeters=400`):
+24 stops with `_id`, `id`, `name`, `latLng`. Unlike `allPoints`, it includes
+the start and end points of the route variants (`allLines[].trajetos[].startPoint`
+/ `endPoint`), e.g. 242523 Patio Portal D3, 242635 Patio Portal D4, 242409
+Patio Portal D2, as well as depots (GARAGE TA, Patio Transambiental, Patio
+Transcaribe). `fetch_m2m.py --terminals` uses it to fetch all start and end
+points into `raw/m2m/terminals.json`.
+
 ### 11.5 Forecast endpoints (validated 2026-11-25)
 
 Not used now (no realtime, section 0); recorded for later and for the

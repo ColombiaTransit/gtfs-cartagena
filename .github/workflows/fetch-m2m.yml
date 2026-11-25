@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       dates:
-        description: "Dates for the departures (YYYY-MM-DD, space separated): a weekday, a Saturday, a Sunday, holidays"
+        description: "Dates for the departures (YYYY-MM-DD, space separated; past dates or this week), or --terminals for the start/end points only"
         required: true
         default: "2026-12-02 2026-12-05 2026-12-06 2026-12-08"
 
