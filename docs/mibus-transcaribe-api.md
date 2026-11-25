@@ -465,16 +465,33 @@ explicit trips. There is no day type field, but the endpoint takes a
 | 2026-11-25 | Wednesday | 102 departures, 05:00-22:00, 8-9 min in the peaks, 12 min off-peak |
 | 2026-11-28 | Saturday | 53 departures, 06:00-19:00, every 15 min |
 | 2026-11-29 | Sunday | none (A102 does not run on Sundays) |
-| 2026-12-08 | Tuesday, festivo (Inmaculada Concepción) | none: holidays follow the Sunday schedule |
 
-So the schedule system knows the day types and the Colombian holidays, and all
-of them can be collected in one run, for any date. For the one-off feed:
-collect every variant for one weekday, one Saturday and one Sunday to build
-`calendar.txt`, and check the holidays in the feed period (and special days
-such as the días cívicos in November) with `date` to build
-`calendar_dates.txt`.
+**Horizon.** Departures exist for past dates and up to the end of the current
+week only: on 2026-11-25, `date=2026-11-20` and `2026-11-26` answer, but
+`2026-11-30`, `2026-12-02` and later are empty for every variant (one variant,
+T100E, returned 115 times `"00:00"` for 2026-12-02). An empty list therefore
+does not mean "no service" for dates beyond the horizon. (An earlier test of
+the festivo 2026-12-08 was empty for this reason, not because of the holiday.)
 
-The endpoint may be the primary source for `trips.txt`, `stop_times.txt`, `calendar.txt` and `calendar_dates.txt`.
+**Snapshot of 2026-11-25** (`raw/m2m/`), all 46 variants (A000 test lines left
+out), dates 2026-11-20 (Fri), 2026-11-23 (Mon), 2026-11-26 (Thu), 2026-11-21
+(Sat), 2026-11-22 (Sun), 2026-11-02 and 2026-11-16 (festivos, Mondays):
+
+| Day | Departures (all variants) |
+|---|---|
+| Mon, Thu, Fri | 5,990 each, identical per variant |
+| Saturday | 3,952 |
+| Sunday | 2,642 |
+| Festivo 2026-11-02 | 2,642, identical to Sunday |
+| Festivo 2026-11-16 | 2,710: the Sunday schedule plus A111 (10) and the X106 extension (58) with their weekday departures |
+
+So: one weekday, one Saturday and one Sunday/holiday schedule. Not on
+Saturday nor Sunday: A111, C017, C018, the X106 extension; not on Sunday:
+A102, T100E. On 2026-11-16 the API still had A111 and the X106 extension
+running, while Transcaribe announced they would not run (news 10211); the API
+holds the base schedule, not such announcements. Holidays beyond the horizon
+are modelled as Sunday service in `calendar_dates.txt` (Colombian festivos),
+with A111, C017, C018 and the X106 extension not running.
 
 ## 11. Additional endpoints
 
@@ -788,7 +805,7 @@ The API stop dataset should additionally be compared with the previously identif
 - [x] Validate route stop sequence endpoint
 - [x] Validate departure endpoint
 - [x] Confirm identifier types required by each endpoint (`id_migracao`)
-- [x] Identify service day categories (`date` parameter: weekday, Saturday, Sunday/holiday)
+- [x] Identify service day categories (weekday, Saturday, Sunday/holiday; horizon: end of the current week)
 - [ ] Identify scheduled travel times
 - [x] Validate fare JSON (general fare only)
 - [ ] Investigate A000 routes
@@ -824,7 +841,8 @@ If route geometry, ordered stops and departure schedules are available through t
 The `bustop` and `departure` endpoints were validated with route A102 on
 2026-11-25: ordered stops with their position along the route, and individual
 scheduled departures. The `departure` endpoint takes a `date`
-parameter and knows holidays. `pattern` takes the line id and returns
+parameter (past dates and up to the end of the current week); weekday,
+Saturday and Sunday/holiday schedules were collected on 2026-11-25. `pattern` takes the line id and returns
 the geometry of all variants as plain coordinates. Next: a collector that
 stores one snapshot of all endpoints, with departures for a weekday, a
 Saturday, a Sunday and the holidays of the feed period, in `raw/m2m/`; and the licensing question.
