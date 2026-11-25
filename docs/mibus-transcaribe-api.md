@@ -8,8 +8,7 @@
 ## 0. Decisions (2026-11-25)
 
 - **Use:** the M2M Control API is the source for a **one-off static GTFS feed**
-  (routes, stops per route variant, scheduled departures, and shapes if the
-  pattern format can be decoded). The existing sources (open data, news, OSM,
+  (routes, stops per route variant, scheduled departures and shapes). The existing sources (open data, news, OSM,
   route maps) are used to check it and to fill gaps.
 - **No daily refresh.** The data is collected once (per service day type, see
   10.4) and kept in the repo as a snapshot; no scheduled workflow.
@@ -89,7 +88,7 @@ All paths listed below were identified in the application configuration. Only en
 |---|---|---|---|
 | GET | `/forecast/lines/load/allLines/1343` | All bus lines and route variants | Validated |
 | GET | `/forecast/lines/load/allPoints/1343` | All bus stops | Validated |
-| GET | `/forecast/lines/load/pattern/{id_migracao}/1343` | Route geometry | Answers; binary format, not yet decoded |
+| GET | `/forecast/lines/load/pattern/{lineId}/1343` | Route geometry of all variants of a line | Validated |
 | GET | `/forecast/lines/load/bustop/{id_migracao}/1343` | Stops associated with a route variant | Validated |
 | GET | `/forecast/lines/load/departure/{id_migracao}/1343` | Scheduled departures | Validated |
 | GET* | `/forecast/lines/load/linesFromBusstop/{stopId}/1343` | Lines serving a stop | Untested |
@@ -100,9 +99,11 @@ All paths listed below were identified in the application configuration. Only en
 
 \* HTTP method and parameter semantics remain to be validated.
 
-**Route variant identifier:** `pattern`, `bustop` and `departure` take the
-numeric `trajetos[].id_migracao` (e.g. `20337`). With the MongoDB id
-(`659b60837b35aa4792d76a9f`) they return a client error (tested 2026-11-25).
+**Identifiers:** `bustop` and `departure` take the numeric
+`trajetos[].id_migracao` of a route variant (e.g. `20337`); `pattern` takes the
+numeric line id `allLines[].id` (e.g. `9892` for A102) and returns all variants
+of that line. With the MongoDB ids they return a client error, and `pattern`
+with an `id_migracao` returns something that is not JSON (tested 2026-11-25).
 
 ## 5. Bus lines
 
@@ -320,30 +321,48 @@ These records may support station grouping using `parent_station` and `location_
 
 ### 8.1 Endpoint
 
-`/forecast/lines/load/pattern/{patternId}/1343`
+`/forecast/lines/load/pattern/{lineId}/1343` (`lineId` = `allLines[].id`)
 
 ### 8.2 Example request
 
 ```powershell
-curl.exe -i "https://zn5.m2mcontrol.com.br/api/forecast/lines/load/pattern/659b60837b35aa4792d76a9f/1343"
+curl.exe -s "https://zn5.m2mcontrol.com.br/api/forecast/lines/load/pattern/9892/1343"
 ```
 
-### 8.3 Expected data
+### 8.3 Validated response (2026-11-25)
 
-- Route geometry
-- Ordered geographical coordinates
-- Route variant identification
+A JSON array with one object per route variant of the line:
 
-Tested 2026-11-25 with `pattern/20337/1343`: the endpoint answers, but the
-body is binary (possibly compressed or protobuf), not JSON. The format still
-has to be decoded; the APK class `PolylinePoint` is the starting point. Until
-then, shapes can be routed over the OSM road network (issue #28).
+```json
+[
+  {
+    "id": 20337,
+    "type": "U. Tecnologica",
+    "polyLine": [
+      {"lat": 10.37068386310623, "lng": -75.46589938929544},
+      {"lat": 10.3706347014851, "lng": -75.46597034545246}
+    ]
+  }
+]
+```
+
+| Field | Description | GTFS |
+|---|---|---|
+| `id` | Route variant (`id_migracao`) | `shape_id` |
+| `type` | Destination of the variant | candidate for `trip_headsign` |
+| `polyLine[].lat`, `.lng` | Coordinates, in array order (not an encoded polyline) | `shape_pt_lat`, `shape_pt_lon`, `shape_pt_sequence` |
+
+- One request returns all variants of the line.
+- For A102 the geometry runs **against** the direction of travel. The
+  generator checks the direction against `startPoint`, `endPoint` and the stop
+  order from `bustop`, and reverses where needed.
+- `shape_dist_traveled` and the variant length come from the geometry itself;
+  `kmTrajeto` and `porcentagemTrajeto` are a check.
 
 ### 8.4 GTFS implementation
 
-If the API provides complete and ordered geographical coordinates, these should be used directly to generate `shapes.txt`.
-
-GraphHopper should only be used as a fallback for missing or invalid route geometries, or for calculating travel times where necessary.
+These geometries are used directly for `shapes.txt`. Routing over the OSM road
+network (issue #28) is only a fallback for missing or invalid geometries.
 
 ## 9. Stops per route variant
 
@@ -730,7 +749,7 @@ The API stop dataset should additionally be compared with the previously identif
 - [x] Validate unauthenticated stop endpoint
 - [x] Identify transport operators
 - [x] Identify route variant IDs
-- [ ] Validate route geometry endpoint (answers; binary format to decode)
+- [x] Validate route geometry endpoint (`pattern/{lineId}`; A102 geometry reversed)
 - [x] Validate route stop sequence endpoint
 - [x] Validate departure endpoint
 - [x] Confirm identifier types required by each endpoint (`id_migracao`)
@@ -770,9 +789,9 @@ If route geometry, ordered stops and departure schedules are available through t
 The `bustop` and `departure` endpoints were validated with route A102 on
 2026-11-25: ordered stops with their position along the route, and individual
 scheduled departures. The `departure` endpoint takes a `date`
-parameter and knows holidays. Next: a collector that stores one snapshot of
-all endpoints, with departures for a weekday, a Saturday, a Sunday and the
-holidays of the feed period, in `raw/m2m/`; decoding the `pattern` format,
-and the licensing question.
+parameter and knows holidays. `pattern` takes the line id and returns
+the geometry of all variants as plain coordinates. Next: a collector that
+stores one snapshot of all endpoints, with departures for a weekday, a
+Saturday, a Sunday and the holidays of the feed period, in `raw/m2m/`; and the licensing question.
 
 The inventory counts are preliminary results from the preceding analysis and should be independently reproduced by the API collector before publication.
