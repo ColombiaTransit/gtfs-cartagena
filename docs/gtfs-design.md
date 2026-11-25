@@ -63,7 +63,17 @@ no `block_id` (the API does not say which vehicle runs which trips).
 - `attributions.txt`: the operators per route (Transcaribe Operador,
   Transambiental, Sotramac), `is_operator=1`.
 - `feed_info.txt`: publisher ColombiaTransit, contact via GitHub issues.
-- Fares: not yet (issue #29).
+- Fares (Fares v2), one flat fare per leg:
+  - `fare_media.txt`: Tarjeta TransCaribe (`fare_media_type=2`), contactless
+    bank card / Visa (`3`).
+  - `rider_categories.txt`: `general` (default) and `diferencial` (students,
+    older people, disability; personalised card).
+  - `fare_products.txt`: `pasaje` 3,900.00 COP on both media (from
+    `raw/m2m/valorTarifa.json`, checked against Decreto 017 de 2026), and
+    2,900.00 COP for `diferencial` on the card only (Decreto 0176 de 2026).
+  - `fare_leg_rules.txt`: every leg costs `pasaje`.
+  - No `fare_transfer_rules.txt` yet: the rule of four transfers in the same
+    direction within 90 minutes is from 2020 (news 1096) and not confirmed.
 
 ## Known limits
 
