@@ -9,6 +9,9 @@ the first two were exported by hand from Overpass Turbo on 2026-11-08. The
 exact queries are in the script.
 
 - `overpass_stops.json`, `overpass_routes.json`: see below.
+- `overpass_stations.json`: `public_transport=stop_area` relations with their
+  members, and the Transcaribe stations, platforms (vagones) and stop
+  positions, all with geometry (`out geom`).
 - `roads.geojson.gz`: drivable roads (motorway to service, busway), one
   LineString per way with `nodes` (OSM node ids, for routing) and the tags
   highway, name, ref, oneway, junction, access, bus, psv, lanes, maxspeed.
