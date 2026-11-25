@@ -37,6 +37,8 @@ SAMPLE_DATES = {"weekday": ["2026-11-26", "2026-11-20", "2026-11-23"],
                 "saturday": ["2026-11-21"], "sunday": ["2026-11-22"]}
 DWELL_STREET = 20                      # s at a street stop
 DWELL_STATION = 30                     # s at a trunk station platform
+FARE_GENERAL = 3900                    # COP, since 23 Jan 2026
+FARE_REDUCED = 2900                    # COP, tarifa diferencial since May 2026
 FALLBACK_KMH = 20                      # where GraphHopper has nothing usable
 ROUTE_TYPES = {"T": ("Troncal", "E4572E"), "X": ("Pretroncal", "2E86AB"),
                "A": ("Alimentadora", "2D7246"), "C": ("Complementaria", "00A6A6")}
@@ -288,6 +290,33 @@ def main() -> int:
                              "feed_start_date": start.strftime("%Y%m%d"),
                              "feed_end_date": end.strftime("%Y%m%d"),
                              "feed_version": date.today().isoformat()}])
+
+    # Fares v2: a flat fare per leg (no transfer rules yet: the 2020 rule of four
+    # transfers in 90 minutes is not confirmed). General fare: raw/m2m/valorTarifa.json
+    # and Decreto 017 de 2026; reduced fare: Decreto 0176 de 2026, personalised card only.
+    fare_general = FARE_GENERAL
+    vt = M2M / "valorTarifa.json"
+    if vt.exists():                                 # "$ 3.900,00" -> 3900
+        fare_general = int(read_json(vt)["valor"].replace("$", "").strip().split(",")[0].replace(".", ""))
+        if fare_general != FARE_GENERAL:
+            print(f"warning: app fare {fare_general} differs from {FARE_GENERAL}", file=sys.stderr)
+    write("fare_media.txt", [
+        {"fare_media_id": "tarjeta", "fare_media_name": "Tarjeta TransCaribe", "fare_media_type": 2},
+        {"fare_media_id": "sin_contacto", "fare_media_name": "Tarjeta bancaria sin contacto", "fare_media_type": 3}])
+    write("rider_categories.txt", [
+        {"rider_category_id": "general", "rider_category_name": "General", "is_default_fare_category": 1,
+         "eligibility_url": ""},
+        {"rider_category_id": "diferencial", "rider_category_name": "Tarifa diferencial",
+         "is_default_fare_category": 0, "eligibility_url": "https://transcaribe.gov.co"}])
+    write("fare_products.txt", [
+        {"fare_product_id": "pasaje", "fare_product_name": "Pasaje", "rider_category_id": "general",
+         "fare_media_id": "tarjeta", "amount": f"{fare_general:.2f}", "currency": "COP"},
+        {"fare_product_id": "pasaje", "fare_product_name": "Pasaje", "rider_category_id": "general",
+         "fare_media_id": "sin_contacto", "amount": f"{fare_general:.2f}", "currency": "COP"},
+        {"fare_product_id": "pasaje", "fare_product_name": "Pasaje (tarifa diferencial)",
+         "rider_category_id": "diferencial", "fare_media_id": "tarjeta", "amount": f"{FARE_REDUCED:.2f}",
+         "currency": "COP"}])
+    write("fare_leg_rules.txt", [{"leg_group_id": "sitm", "fare_product_id": "pasaje"}])
 
     zpath = BUILD / "transcaribe-gtfs.zip"
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:
