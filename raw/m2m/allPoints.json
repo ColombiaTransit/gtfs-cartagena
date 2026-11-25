@@ -1,23 +1,5 @@
 [
  {
-  "_id": "658dda9ea5ba2d1568a6baa3",
-  "id": 242085,
-  "name": "13 de Junio Tv69A No 64B-14",
-  "latLng": {
-   "lat": 10.402819,
-   "lng": -75.484697
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb05",
-  "id": 242086,
-  "name": "Alto Bosque Tv 51",
-  "latLng": {
-   "lat": 10.392916948588239,
-   "lng": -75.51682502031328
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baa4",
   "id": 242087,
   "name": "Aguas De Cartagena",
@@ -33,15 +15,6 @@
   "latLng": {
    "lat": 10.425277,
    "lng": -75.44426
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baa5",
-  "id": 242089,
-  "name": "Bellavista Mz I Lt 5",
-  "latLng": {
-   "lat": 10.372842209007372,
-   "lng": -75.50413548946382
   }
  },
  {
@@ -63,93 +36,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb08",
-  "id": 242092,
-  "name": "Centro Comercial San Fernando",
-  "latLng": {
-   "lat": 10.384237,
-   "lng": -75.468734
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baa7",
-  "id": 242093,
-  "name": "Centro B2",
-  "latLng": {
-   "lat": 10.42493518919537,
-   "lng": -75.546672642231
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb09",
-  "id": 242094,
-  "name": "Clinica ESE Rafael Calvo",
-  "latLng": {
-   "lat": 10.379071,
-   "lng": -75.475927
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba25",
-  "id": 242095,
-  "name": "Arepizza",
-  "latLng": {
-   "lat": 10.382531,
-   "lng": -75.473363
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba30",
-  "id": 242096,
-  "name": "Baby Celnet Celulares",
-  "latLng": {
-   "lat": 10.374936,
-   "lng": -75.480889
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baa8",
-  "id": 242097,
-  "name": "Cl 4 con Kr 80A",
-  "latLng": {
-   "lat": 10.371586,
-   "lng": -75.480332
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb0a",
-  "id": 242098,
-  "name": "Colegio Juan Jose Nieto",
-  "latLng": {
-   "lat": 10.385923,
-   "lng": -75.482258
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba5f",
   "id": 242099,
   "name": "Bazurto A1",
   "latLng": {
    "lat": 10.413747,
    "lng": -75.52398
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba26",
-  "id": 242100,
-  "name": "Bodytech",
-  "latLng": {
-   "lat": 10.390179,
-   "lng": -75.480338
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba31",
-  "id": 242101,
-  "name": "Boston",
-  "latLng": {
-   "lat": 10.409576763020212,
-   "lng": -75.50674527883531
   }
  },
  {
@@ -162,39 +54,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba60",
-  "id": 242103,
-  "name": "Cai Arrocera",
-  "latLng": {
-   "lat": 10.407358143895648,
-   "lng": -75.49482554197313
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb0b",
-  "id": 242104,
-  "name": "Cuatro Vientos B2",
-  "latLng": {
-   "lat": 10.406546,
-   "lng": -75.50325
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba27",
   "id": 242105,
   "name": "Carrera 4",
   "latLng": {
    "lat": 10.445677,
    "lng": -75.517659
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba32",
-  "id": 242106,
-  "name": "CC. San Fernando",
-  "latLng": {
-   "lat": 10.384820195300296,
-   "lng": -75.46581208705902
   }
  },
  {
@@ -213,15 +78,6 @@
   "latLng": {
    "lat": 10.387489,
    "lng": -75.473851
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb0c",
-  "id": 242109,
-  "name": "Edificio La Marina",
-  "latLng": {
-   "lat": 10.41496,
-   "lng": -75.550423
   }
  },
  {
@@ -270,66 +126,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba29",
-  "id": 242115,
-  "name": "Cll 14 Entrada Golf",
-  "latLng": {
-   "lat": 10.382472124000152,
-   "lng": -75.49696862697603
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba34",
-  "id": 242116,
-  "name": "Coca Cola",
-  "latLng": {
-   "lat": 10.401382830808751,
-   "lng": -75.5216744542122
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baac",
-  "id": 242117,
-  "name": "El Refugio",
-  "latLng": {
-   "lat": 10.397426,
-   "lng": -75.518228
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba63",
-  "id": 242118,
-  "name": "Colegio Ciudadela 2000",
-  "latLng": {
-   "lat": 10.373448321158111,
-   "lng": -75.47164274239151
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb0e",
   "id": 242119,
   "name": "Estación De Policia Nuevo Bosque",
   "latLng": {
    "lat": 10.387701,
    "lng": -75.507461
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba2a",
-  "id": 242120,
-  "name": "Colegio Latino Americano 21A 116",
-  "latLng": {
-   "lat": 10.399729,
-   "lng": -75.514761
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba35",
-  "id": 242121,
-  "name": "Colegio Olga Gonzalez Arrauth",
-  "latLng": {
-   "lat": 10.390626979034867,
-   "lng": -75.51613837480545
   }
  },
  {
@@ -351,57 +153,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb0f",
-  "id": 242124,
-  "name": "Frigocarnes Mandela",
-  "latLng": {
-   "lat": 10.366212,
-   "lng": -75.477531
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba2b",
-  "id": 242125,
-  "name": "Delicias A2",
-  "latLng": {
-   "lat": 10.416298,
-   "lng": -75.52761
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba36",
   "id": 242126,
   "name": "Dg 30 entre Kr 50 y Cl 30D",
   "latLng": {
    "lat": 10.405552,
    "lng": -75.503187
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baae",
-  "id": 242127,
-  "name": "Frente I.E. Las Gaviotas",
-  "latLng": {
-   "lat": 10.398504614896233,
-   "lng": -75.49201190471649
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba65",
-  "id": 242128,
-  "name": "Disco Black And White",
-  "latLng": {
-   "lat": 10.361628,
-   "lng": -75.481232
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb10",
-  "id": 242129,
-  "name": "Iglesia La Consolata",
-  "latLng": {
-   "lat": 10.378379,
-   "lng": -75.480054
   }
  },
  {
@@ -423,66 +180,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6baaf",
-  "id": 242132,
-  "name": "Iglesia Cristiana El Acta Del Pacto",
-  "latLng": {
-   "lat": 10.373897,
-   "lng": -75.475233
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba66",
-  "id": 242133,
-  "name": "El Marión No. 46-43",
-  "latLng": {
-   "lat": 10.398966,
-   "lng": -75.518481
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb11",
-  "id": 242134,
-  "name": "Kr 68 entre Cl 21 y 19",
-  "latLng": {
-   "lat": 10.383335,
-   "lng": -75.486377
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba2d",
   "id": 242135,
   "name": "Entrada La Troncal",
   "latLng": {
    "lat": 10.389966,
    "lng": -75.494102
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba38",
-  "id": 242136,
-  "name": "Entrada Los Cerezos",
-  "latLng": {
-   "lat": 10.396810913571581,
-   "lng": -75.47832995653154
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab0",
-  "id": 242137,
-  "name": "Kr 10",
-  "latLng": {
-   "lat": 10.451159,
-   "lng": -75.515556
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb12",
-  "id": 242138,
-  "name": "La Candelaria*",
-  "latLng": {
-   "lat": 10.410651,
-   "lng": -75.515486
   }
  },
  {
@@ -495,48 +198,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba2e",
-  "id": 242140,
-  "name": "Excursiones Maria Elena",
-  "latLng": {
-   "lat": 10.389766,
-   "lng": -75.503466
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba39",
-  "id": 242141,
-  "name": "Ferreterias y Materiales El Educador",
-  "latLng": {
-   "lat": 10.374441,
-   "lng": -75.478109
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab1",
-  "id": 242142,
-  "name": "La Bodeguita B1",
-  "latLng": {
-   "lat": 10.419836022394465,
-   "lng": -75.55167496204376
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb13",
   "id": 242143,
   "name": "Los Ejecutivos A2",
   "latLng": {
    "lat": 10.399548,
    "lng": -75.493653
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba68",
-  "id": 242144,
-  "name": "Frente Berlitz",
-  "latLng": {
-   "lat": 10.401866,
-   "lng": -75.555094
   }
  },
  {
@@ -549,120 +216,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba3a",
-  "id": 242146,
-  "name": "Hospital El Pozon",
-  "latLng": {
-   "lat": 10.412753,
-   "lng": -75.457413
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab2",
-  "id": 242147,
-  "name": "Los Abetos",
-  "latLng": {
-   "lat": 10.391239046273283,
-   "lng": -75.47192752361299
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb14",
-  "id": 242148,
-  "name": "Mz 68 Lt 1",
-  "latLng": {
-   "lat": 10.379969,
-   "lng": -75.496875
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba69",
-  "id": 242149,
-  "name": "Huellas De Alberto Uribe",
-  "latLng": {
-   "lat": 10.390796,
-   "lng": -75.453095
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb77",
-  "id": 242150,
-  "name": "Iglesia Ternera",
-  "latLng": {
-   "lat": 10.384187009270331,
-   "lng": -75.46567261219026
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba3b",
-  "id": 242151,
-  "name": "Institucion Educativa Fe y Alegria El Progreso",
-  "latLng": {
-   "lat": 10.375294,
-   "lng": -75.488052
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab3",
-  "id": 242152,
-  "name": "Mz 17 Lt 48",
-  "latLng": {
-   "lat": 10.41534,
-   "lng": -75.541708
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb15",
-  "id": 242153,
-  "name": "Olimpica Caracoles",
-  "latLng": {
-   "lat": 10.390737784399658,
-   "lng": -75.48884421586992
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba6a",
   "id": 242154,
   "name": "Ipanema",
   "latLng": {
    "lat": 10.400446292338213,
    "lng": -75.46641290187837
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb78",
-  "id": 242155,
-  "name": "Kr 78A con Cl 4",
-  "latLng": {
-   "lat": 10.371935,
-   "lng": -75.48173
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba3c",
-  "id": 242156,
-  "name": "Kr 80B entre Cl 4C y 4F",
-  "latLng": {
-   "lat": 10.373174,
-   "lng": -75.478914
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab4",
-  "id": 242157,
-  "name": "Olaya Sector Playa Blanca",
-  "latLng": {
-   "lat": 10.405849157306443,
-   "lng": -75.4802316427231
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb16",
-  "id": 242158,
-  "name": "Parrilla Paki",
-  "latLng": {
-   "lat": 10.387935979540378,
-   "lng": -75.49587160348894
   }
  },
  {
@@ -675,30 +234,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb79",
-  "id": 242160,
-  "name": "La Castellana B2",
-  "latLng": {
-   "lat": 10.394424,
-   "lng": -75.486725
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba3d",
   "id": 242161,
   "name": "La Popa A2",
   "latLng": {
    "lat": 10.420552,
    "lng": -75.531143
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab5",
-  "id": 242162,
-  "name": "Parque Lorduy",
-  "latLng": {
-   "lat": 10.381829,
-   "lng": -75.480118
   }
  },
  {
@@ -711,39 +252,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba6c",
-  "id": 242164,
-  "name": "Las Vegas 1",
-  "latLng": {
-   "lat": 10.361866,
-   "lng": -75.47784
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb7a",
   "id": 242165,
   "name": "Madre Bernarda A2",
   "latLng": {
    "lat": 10.395204,
    "lng": -75.478365
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba3e",
-  "id": 242166,
-  "name": "Martinez Martelo Dg 22 No. 20-50",
-  "latLng": {
-   "lat": 10.408964731734468,
-   "lng": -75.52175223827363
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab6",
-  "id": 242167,
-  "name": "Patio Portal D5",
-  "latLng": {
-   "lat": 10.395065,
-   "lng": -75.472348
   }
  },
  {
@@ -774,39 +288,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba3f",
-  "id": 242171,
-  "name": "Nueva Jerusalen La Consolata",
-  "latLng": {
-   "lat": 10.379581,
-   "lng": -75.481397
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab7",
-  "id": 242172,
-  "name": "Restaurante Chung Fa",
-  "latLng": {
-   "lat": 10.378827,
-   "lng": -75.472568
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb19",
   "id": 242173,
   "name": "Teatro Heredia",
   "latLng": {
    "lat": 10.42738,
    "lng": -75.551172
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba6e",
-  "id": 242174,
-  "name": "Olaya Sector El Tancón*",
-  "latLng": {
-   "lat": 10.408367,
-   "lng": -75.500878
   }
  },
  {
@@ -819,69 +306,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba40",
-  "id": 242176,
-  "name": "Paraiso Real",
-  "latLng": {
-   "lat": 10.393621348289434,
-   "lng": -75.47588914632799
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab8",
-  "id": 242177,
-  "name": "Surtimax 1",
-  "latLng": {
-   "lat": 10.3752,
-   "lng": -75.484709
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb1a",
-  "id": 242178,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.395429,
-   "lng": -75.477506
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba6f",
-  "id": 242179,
-  "name": "Parque De La Marina",
-  "latLng": {
-   "lat": 10.42050079175804,
-   "lng": -75.55100149293092
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb7d",
-  "id": 242180,
-  "name": "Patio Portal A3",
-  "latLng": {
-   "lat": 10.395272,
-   "lng": -75.473145
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba41",
-  "id": 242181,
-  "name": "Patio Portal B4",
-  "latLng": {
-   "lat": 10.395297,
-   "lng": -75.472667
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bab9",
-  "id": 242182,
-  "name": "Tienda Y Terraza Zona Verde",
-  "latLng": {
-   "lat": 10.382355,
-   "lng": -75.473534
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb1b",
   "id": 242183,
   "name": "Villa De Aranjuez Mz 1G",
@@ -891,48 +315,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba70",
-  "id": 242184,
-  "name": "Patio Portal C3",
-  "latLng": {
-   "lat": 10.395617,
-   "lng": -75.472125
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb1c",
   "id": 242185,
   "name": "Amberes",
   "latLng": {
    "lat": 10.407073,
    "lng": -75.512863
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba71",
-  "id": 242186,
-  "name": "Quintas Del Manantial",
-  "latLng": {
-   "lat": 10.377062,
-   "lng": -75.46082
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baba",
-  "id": 242187,
-  "name": "Variedades",
-  "latLng": {
-   "lat": 10.367877,
-   "lng": -75.475353
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb7e",
-  "id": 242188,
-  "name": "Portales San Fernando III",
-  "latLng": {
-   "lat": 10.380581,
-   "lng": -75.479132
   }
  },
  {
@@ -963,105 +351,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6babb",
-  "id": 242192,
-  "name": "Alcibia",
-  "latLng": {
-   "lat": 10.412713,
-   "lng": -75.519834
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba43",
-  "id": 242193,
-  "name": "Super Drywall",
-  "latLng": {
-   "lat": 10.374952,
-   "lng": -75.482837
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb7f",
-  "id": 242194,
-  "name": "Sastreria La prosperidad",
-  "latLng": {
-   "lat": 10.40261,
-   "lng": -75.462917
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb1e",
-  "id": 242195,
-  "name": "Cancha Microfutbol El campestre",
-  "latLng": {
-   "lat": 10.383994414931875,
-   "lng": -75.49457341432573
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba73",
-  "id": 242196,
-  "name": "Tienda La Pradera",
-  "latLng": {
-   "lat": 10.402984173176439,
-   "lng": -75.48432737588884
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6babc",
-  "id": 242197,
-  "name": "Biblioteca Distrital",
-  "latLng": {
-   "lat": 10.388814,
-   "lng": -75.481368
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba44",
-  "id": 242198,
-  "name": "Tienda El Cambiazo",
-  "latLng": {
-   "lat": 10.383297908388858,
-   "lng": -75.4596295952797
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb1f",
-  "id": 242200,
-  "name": "Centro Comercial Santa Lucia",
-  "latLng": {
-   "lat": 10.391647,
-   "lng": -75.480237
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba74",
-  "id": 242201,
-  "name": "UPA La Reina",
-  "latLng": {
-   "lat": 10.375286,
-   "lng": -75.489389
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6babd",
-  "id": 242202,
-  "name": "Calle Del Mamón",
-  "latLng": {
-   "lat": 10.399549323281551,
-   "lng": -75.52060693502428
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba45",
-  "id": 242203,
-  "name": "U. Tecnologica",
-  "latLng": {
-   "lat": 10.370691,
-   "lng": -75.465812
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb81",
   "id": 242204,
   "name": "Tv 50 entre Cl 30C y 30D",
@@ -1080,30 +369,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba75",
-  "id": 242206,
-  "name": "Abastos La Buenos Aires",
-  "latLng": {
-   "lat": 10.38846890480973,
-   "lng": -75.45491158962251
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6babe",
   "id": 242207,
   "name": "Centro Comercial La Plazuela",
   "latLng": {
    "lat": 10.390482,
    "lng": -75.478655
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba46",
-  "id": 242208,
-  "name": "Villa Vanessa",
-  "latLng": {
-   "lat": 10.381311,
-   "lng": -75.463105
   }
  },
  {
@@ -1116,84 +387,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb21",
-  "id": 242210,
-  "name": "Colegio Juan Jose Nieto",
-  "latLng": {
-   "lat": 10.386146,
-   "lng": -75.482268
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba76",
   "id": 242211,
   "name": "Bazurto A2",
   "latLng": {
    "lat": 10.413809,
    "lng": -75.524132
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6babf",
-  "id": 242212,
-  "name": "Cl 5 entre Kr 79 y 77",
-  "latLng": {
-   "lat": 10.374859,
-   "lng": -75.481698
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba47",
-  "id": 242213,
-  "name": "Bajo San Isidro",
-  "latLng": {
-   "lat": 10.387141866438368,
-   "lng": -75.51148205995561
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba77",
-  "id": 242214,
-  "name": "Cai Arrocera*",
-  "latLng": {
-   "lat": 10.407147,
-   "lng": -75.4943
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac0",
-  "id": 242215,
-  "name": "Colegio INEM",
-  "latLng": {
-   "lat": 10.389388,
-   "lng": -75.49747
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb83",
-  "id": 242216,
-  "name": "Arroz Chino las 3 JJJ",
-  "latLng": {
-   "lat": 10.365425,
-   "lng": -75.479785
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb22",
-  "id": 242217,
-  "name": "Danna Express",
-  "latLng": {
-   "lat": 10.395943,
-   "lng": -75.495746
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba48",
-  "id": 242218,
-  "name": "Boston*",
-  "latLng": {
-   "lat": 10.409389,
-   "lng": -75.506365
   }
  },
  {
@@ -1233,42 +432,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba49",
-  "id": 242223,
-  "name": "CDA",
-  "latLng": {
-   "lat": 10.407678,
-   "lng": -75.464695
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba79",
-  "id": 242224,
-  "name": "Cl 30 entre Kr 68B y 68D",
-  "latLng": {
-   "lat": 10.390471,
-   "lng": -75.483485
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb24",
-  "id": 242225,
-  "name": "Entrada Ceballos",
-  "latLng": {
-   "lat": 10.384830748389929,
-   "lng": -75.50702422857286
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac2",
-  "id": 242226,
-  "name": "Drogueria Zharick",
-  "latLng": {
-   "lat": 10.415557,
-   "lng": -75.462871
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba4a",
   "id": 242227,
   "name": "Ciudad Del Bicentenario 2",
@@ -1287,15 +450,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb25",
-  "id": 242229,
-  "name": "Estación Terpel",
-  "latLng": {
-   "lat": 10.420304,
-   "lng": -75.431956
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bac3",
   "id": 242230,
   "name": "El Rodeo",
@@ -1305,57 +459,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba4b",
-  "id": 242231,
-  "name": "Colegio Almirante Colon",
-  "latLng": {
-   "lat": 10.406524508850058,
-   "lng": -75.49019873142244
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bac4",
   "id": 242232,
   "name": "España A1",
   "latLng": {
    "lat": 10.408304,
    "lng": -75.512845
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba7b",
-  "id": 242233,
-  "name": "Coosalud",
-  "latLng": {
-   "lat": 10.369524,
-   "lng": -75.475062
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb26",
-  "id": 242234,
-  "name": "Gaviotas 1",
-  "latLng": {
-   "lat": 10.40198696258474,
-   "lng": -75.48770159482956
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba4c",
-  "id": 242235,
-  "name": "Coliseo Colegio Biffi",
-  "latLng": {
-   "lat": 10.392061,
-   "lng": -75.478601
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac5",
-  "id": 242236,
-  "name": "Frente Maternidad",
-  "latLng": {
-   "lat": 10.40442,
-   "lng": -75.552922
   }
  },
  {
@@ -1377,57 +486,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba4d",
-  "id": 242239,
-  "name": "Dg Olimpica 13 De Junio",
-  "latLng": {
-   "lat": 10.401435593455883,
-   "lng": -75.481835603714
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac6",
-  "id": 242240,
-  "name": "Iglesia Cristiana Sendero De Salvacion",
-  "latLng": {
-   "lat": 10.366463,
-   "lng": -75.477287
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba7d",
-  "id": 242241,
-  "name": "El Milagro Soldadura Diaz",
-  "latLng": {
-   "lat": 10.381069,
-   "lng": -75.494446
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb85",
   "id": 242242,
   "name": "Carrera 6",
   "latLng": {
    "lat": 10.447174,
    "lng": -75.51741
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb28",
-  "id": 242243,
-  "name": "Kr 68 entre Cl 22 y 24",
-  "latLng": {
-   "lat": 10.384996,
-   "lng": -75.485655
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac7",
-  "id": 242244,
-  "name": "Kr 45 entre Cl 29 y 30",
-  "latLng": {
-   "lat": 10.405127,
-   "lng": -75.510434
   }
  },
  {
@@ -1440,39 +504,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba4e",
-  "id": 242246,
-  "name": "El Jardín Camelia",
-  "latLng": {
-   "lat": 10.396847,
-   "lng": -75.454976
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb86",
   "id": 242247,
   "name": "Chambacu A1",
   "latLng": {
    "lat": 10.42588,
    "lng": -75.540433
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb29",
-  "id": 242248,
-  "name": "La Carpa Roja",
-  "latLng": {
-   "lat": 10.415263,
-   "lng": -75.46063
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac8",
-  "id": 242249,
-  "name": "La Bodeguita B2",
-  "latLng": {
-   "lat": 10.419738417249432,
-   "lng": -75.55164545774461
   }
  },
  {
@@ -1485,15 +522,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba4f",
-  "id": 242251,
-  "name": "Entrada Manzanillo",
-  "latLng": {
-   "lat": 10.392215,
-   "lng": -75.522234
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb87",
   "id": 242252,
   "name": "Cll 14 Parque Campestre",
@@ -1503,75 +531,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb2a",
-  "id": 242253,
-  "name": "Los Jardines",
-  "latLng": {
-   "lat": 10.379699,
-   "lng": -75.483174
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bac9",
-  "id": 242254,
-  "name": "Los Angeles A1",
-  "latLng": {
-   "lat": 10.395094,
-   "lng": -75.490287
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba80",
-  "id": 242255,
-  "name": "Huellas De Alberto Uribe Vuelta",
-  "latLng": {
-   "lat": 10.391601,
-   "lng": -75.452657
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba50",
-  "id": 242256,
-  "name": "Final Mandela",
-  "latLng": {
-   "lat": 10.364781,
-   "lng": -75.482467
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb88",
-  "id": 242257,
-  "name": "Colegio Militar Almirante Colon",
-  "latLng": {
-   "lat": 10.385471,
-   "lng": -75.495653
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb2b",
   "id": 242258,
   "name": "Mz 96 Lt 28 Calamares",
   "latLng": {
    "lat": 10.396531,
    "lng": -75.498641
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baca",
-  "id": 242259,
-  "name": "Mz 24 Lt 38",
-  "latLng": {
-   "lat": 10.399754,
-   "lng": -75.516328
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba81",
-  "id": 242260,
-  "name": "Junín Mz E Lt 16",
-  "latLng": {
-   "lat": 10.400347,
-   "lng": -75.511471
   }
  },
  {
@@ -1590,33 +555,6 @@
   "latLng": {
    "lat": 10.416633,
    "lng": -75.527864
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb2c",
-  "id": 242263,
-  "name": "Olimpica Carmelo",
-  "latLng": {
-   "lat": 10.380895,
-   "lng": -75.484127
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bacb",
-  "id": 242264,
-  "name": "Olaya Sector Playa Blanca*",
-  "latLng": {
-   "lat": 10.404582,
-   "lng": -75.478805
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba82",
-  "id": 242265,
-  "name": "La Batea Mz A Lt 7",
-  "latLng": {
-   "lat": 10.365388,
-   "lng": -75.477111
   }
  },
  {
@@ -1656,39 +594,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba83",
-  "id": 242270,
-  "name": "Liceo Pedro de Heredia",
-  "latLng": {
-   "lat": 10.412014323981822,
-   "lng": -75.5177128314972
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba53",
-  "id": 242271,
-  "name": "Kr 89 entre Tv 73A y 74A",
-  "latLng": {
-   "lat": 10.41594,
-   "lng": -75.457738
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb8b",
   "id": 242272,
   "name": "Entrada Las Palmeras",
   "latLng": {
    "lat": 10.399099,
    "lng": -75.469325
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb2e",
-  "id": 242273,
-  "name": "Portal De Medellin",
-  "latLng": {
-   "lat": 10.37969,
-   "lng": -75.470139
   }
  },
  {
@@ -1701,24 +612,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba84",
-  "id": 242275,
-  "name": "Montebianco",
-  "latLng": {
-   "lat": 10.39910347593864,
-   "lng": -75.48014044761659
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba54",
-  "id": 242276,
-  "name": "La Princesa",
-  "latLng": {
-   "lat": 10.381160889995364,
-   "lng": -75.4645112156868
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb8c",
   "id": 242277,
   "name": "Fatima (Dadis)",
@@ -1728,57 +621,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb2f",
-  "id": 242278,
-  "name": "Salida Perimetral Sector Rafael Nuñez",
-  "latLng": {
-   "lat": 10.407964902179923,
-   "lng": -75.4979717731476
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bace",
   "id": 242279,
   "name": "Restaurante En Pin",
   "latLng": {
    "lat": 10.395635,
    "lng": -75.493265
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba85",
-  "id": 242280,
-  "name": "Olaya Sector Estela",
-  "latLng": {
-   "lat": 10.405937,
-   "lng": -75.480541
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba55",
-  "id": 242281,
-  "name": "Marval",
-  "latLng": {
-   "lat": 10.388524307879633,
-   "lng": -75.46788811683656
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb8d",
-  "id": 242282,
-  "name": "Hogar De Bien",
-  "latLng": {
-   "lat": 10.37438,
-   "lng": -75.471932
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb30",
-  "id": 242283,
-  "name": "Tenaris",
-  "latLng": {
-   "lat": 10.371688,
-   "lng": -75.465592
   }
  },
  {
@@ -1800,120 +648,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba56",
-  "id": 242286,
-  "name": "Nuevo Campestre Mz G Lt 2",
-  "latLng": {
-   "lat": 10.378629,
-   "lng": -75.499473
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb8e",
-  "id": 242287,
-  "name": "Inicio Mandela",
-  "latLng": {
-   "lat": 10.364678047934945,
-   "lng": -75.48291337132734
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb31",
-  "id": 242288,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.395477,
-   "lng": -75.477393
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bad0",
-  "id": 242289,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.395119,
-   "lng": -75.478249
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba87",
-  "id": 242290,
-  "name": "Patio Portal D1",
-  "latLng": {
-   "lat": 10.395488228578538,
-   "lng": -75.47219000835013
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba57",
-  "id": 242291,
-  "name": "Parque 11 De Noviembre",
-  "latLng": {
-   "lat": 10.377813,
-   "lng": -75.468094
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb8f",
-  "id": 242292,
-  "name": "Kr 78A entre Cl 3J y 3O",
-  "latLng": {
-   "lat": 10.370459748695982,
-   "lng": -75.4830077290535
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb32",
   "id": 242293,
   "name": "Villa De La Candelaria",
   "latLng": {
    "lat": 10.401973771947087,
    "lng": -75.46188801527023
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bad1",
-  "id": 242294,
-  "name": "Variedades Solo Kato",
-  "latLng": {
-   "lat": 10.375421,
-   "lng": -75.480715
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba88",
-  "id": 242295,
-  "name": "Refugio La Carolina",
-  "latLng": {
-   "lat": 10.394302,
-   "lng": -75.455941
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba58",
-  "id": 242296,
-  "name": "Patio Portal B5",
-  "latLng": {
-   "lat": 10.395372468005109,
-   "lng": -75.47264053272379
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb90",
-  "id": 242297,
-  "name": "La Cuchilla",
-  "latLng": {
-   "lat": 10.404036780899753,
-   "lng": -75.52160739898683
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba89",
-  "id": 242298,
-  "name": "Supergiros San José",
-  "latLng": {
-   "lat": 10.388262,
-   "lng": -75.454976
   }
  },
  {
@@ -1935,57 +675,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba5a",
-  "id": 242301,
-  "name": "Super Mercado Precio Facil",
-  "latLng": {
-   "lat": 10.379831,
-   "lng": -75.486617
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba8a",
-  "id": 242302,
-  "name": "Tienda La Primaveral",
-  "latLng": {
-   "lat": 10.367713,
-   "lng": -75.475667
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb92",
-  "id": 242303,
-  "name": "Mz 49 Lt 16",
-  "latLng": {
-   "lat": 10.391759,
-   "lng": -75.500105
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba5b",
-  "id": 242304,
-  "name": "Tienda El Puente.Com",
-  "latLng": {
-   "lat": 10.379045,
-   "lng": -75.490372
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba8b",
   "id": 242305,
   "name": "UPA La Reina",
   "latLng": {
    "lat": 10.375538615080975,
    "lng": -75.48954159021379
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb93",
-  "id": 242306,
-  "name": "Palmas De Salamanca",
-  "latLng": {
-   "lat": 10.400065,
-   "lng": -75.456729
   }
  },
  {
@@ -1998,57 +693,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb94",
-  "id": 242308,
-  "name": "Patio Portal A4",
-  "latLng": {
-   "lat": 10.394965,
-   "lng": -75.473461
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba5d",
-  "id": 242309,
-  "name": "Viper",
-  "latLng": {
-   "lat": 10.382847,
-   "lng": -75.465677
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb95",
   "id": 242310,
   "name": "Portus",
   "latLng": {
    "lat": 10.409185,
    "lng": -75.5315
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb96",
-  "id": 242311,
-  "name": "Sena Ternera",
-  "latLng": {
-   "lat": 10.374921,
-   "lng": -75.458695
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb97",
-  "id": 242312,
-  "name": "Terraza Los Luceros",
-  "latLng": {
-   "lat": 10.393989,
-   "lng": -75.499087
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb98",
-  "id": 242313,
-  "name": "Tv 54 con Dg 22",
-  "latLng": {
-   "lat": 10.388408,
-   "lng": -75.515596
   }
  },
  {
@@ -2070,75 +720,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bad2",
-  "id": 242316,
-  "name": "Alcibia*",
-  "latLng": {
-   "lat": 10.412523,
-   "lng": -75.51969
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb33",
   "id": 242317,
   "name": "Amberes*",
   "latLng": {
    "lat": 10.40724,
    "lng": -75.513317
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba5e",
-  "id": 242318,
-  "name": "Balcones De Cerezos",
-  "latLng": {
-   "lat": 10.396847847966376,
-   "lng": -75.47786325216295
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb9a",
-  "id": 242319,
-  "name": "Arte Calamari",
-  "latLng": {
-   "lat": 10.384196,
-   "lng": -75.472357
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba8d",
-  "id": 242320,
-  "name": "Bazurto B1",
-  "latLng": {
-   "lat": 10.414136,
-   "lng": -75.524586
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bad3",
-  "id": 242321,
-  "name": "Biblioteca Distrital",
-  "latLng": {
-   "lat": 10.389173,
-   "lng": -75.481157
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb34",
-  "id": 242322,
-  "name": "Billares El Kiosko",
-  "latLng": {
-   "lat": 10.404118,
-   "lng": -75.464165
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbdf",
-  "id": 242323,
-  "name": "Brasas De Cartagena",
-  "latLng": {
-   "lat": 10.38139,
-   "lng": -75.479637
   }
  },
  {
@@ -2169,33 +756,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb35",
-  "id": 242327,
-  "name": "Cancha Microfutbol Martinez Martelo",
-  "latLng": {
-   "lat": 10.407666799344263,
-   "lng": -75.52255421876909
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbe0",
-  "id": 242328,
-  "name": "Celumax",
-  "latLng": {
-   "lat": 10.375369,
-   "lng": -75.486239
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb9c",
-  "id": 242329,
-  "name": "Casa 26 D 42 Junín 2",
-  "latLng": {
-   "lat": 10.40319,
-   "lng": -75.51149
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba8f",
   "id": 242330,
   "name": "Centro A1",
@@ -2214,15 +774,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbe1",
-  "id": 242332,
-  "name": "Ciudad Jardin Primavera 2",
-  "latLng": {
-   "lat": 10.395548,
-   "lng": -75.458447
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb9d",
   "id": 242333,
   "name": "Chambacu A2",
@@ -2232,75 +783,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb36",
-  "id": 242334,
-  "name": "Centro Convenciones",
-  "latLng": {
-   "lat": 10.419884,
-   "lng": -75.548193
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba90",
-  "id": 242335,
-  "name": "Cl 30 entre Kr 69 y 70",
-  "latLng": {
-   "lat": 10.389698,
-   "lng": -75.481983
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bad6",
   "id": 242336,
   "name": "Clinica Blas De Lezo",
   "latLng": {
    "lat": 10.391797,
    "lng": -75.486751
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb9e",
-  "id": 242337,
-  "name": "Cll 35 No 100-27",
-  "latLng": {
-   "lat": 10.383973,
-   "lng": -75.461258
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbe2",
-  "id": 242338,
-  "name": "Colegio Bertha Gedeon",
-  "latLng": {
-   "lat": 10.378056,
-   "lng": -75.498178
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb37",
-  "id": 242339,
-  "name": "Clinica Madre Bernarda",
-  "latLng": {
-   "lat": 10.393476,
-   "lng": -75.477431
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba91",
-  "id": 242340,
-  "name": "Colegio Dulce Corazon De Maria",
-  "latLng": {
-   "lat": 10.385425,
-   "lng": -75.479692
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bad7",
-  "id": 242341,
-  "name": "Colegio INEM V",
-  "latLng": {
-   "lat": 10.389173314538667,
-   "lng": -75.49735486507417
   }
  },
  {
@@ -2322,15 +810,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb38",
-  "id": 242344,
-  "name": "Colegio Juan Jose Nieto",
-  "latLng": {
-   "lat": 10.386669,
-   "lng": -75.481596
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba92",
   "id": 242345,
   "name": "Corales de Indias",
@@ -2346,15 +825,6 @@
   "latLng": {
    "lat": 10.416707,
    "lng": -75.527962
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbe4",
-  "id": 242347,
-  "name": "Dg32 No 71A2-60",
-  "latLng": {
-   "lat": 10.39205,
-   "lng": -75.474589
   }
  },
  {
@@ -2376,30 +846,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba93",
-  "id": 242350,
-  "name": "Drogeria MK",
-  "latLng": {
-   "lat": 10.369347,
-   "lng": -75.47475
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bba1",
   "id": 242351,
   "name": "El Cabrero",
   "latLng": {
    "lat": 10.434021,
    "lng": -75.54073
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbe5",
-  "id": 242352,
-  "name": "El Jardín Orquidea",
-  "latLng": {
-   "lat": 10.394845,
-   "lng": -75.455982
   }
  },
  {
@@ -2430,15 +882,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bba2",
-  "id": 242356,
-  "name": "Entrada Las Palmeras",
-  "latLng": {
-   "lat": 10.400452,
-   "lng": -75.469641
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbe6",
   "id": 242357,
   "name": "Entrada Nuevo Bosque",
@@ -2457,66 +900,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bada",
-  "id": 242359,
-  "name": "Entrada Almirante Colon",
-  "latLng": {
-   "lat": 10.389439776231963,
-   "lng": -75.49588769674303
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba95",
-  "id": 242360,
-  "name": "Entrada Viejo Porvenir",
-  "latLng": {
-   "lat": 10.397813417022848,
-   "lng": -75.47939479351045
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bba3",
-  "id": 242361,
-  "name": "Ferreteria Antioquia",
-  "latLng": {
-   "lat": 10.389584,
-   "lng": -75.476789
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbe7",
   "id": 242362,
   "name": "Flor del Campo Mz 1C Lt 4",
   "latLng": {
    "lat": 10.418635740784566,
    "lng": -75.44762134552003
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb3c",
-  "id": 242363,
-  "name": "Estadio De Futbol San Fernando",
-  "latLng": {
-   "lat": 10.379821,
-   "lng": -75.475047
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6badb",
-  "id": 242364,
-  "name": "España A2",
-  "latLng": {
-   "lat": 10.408284,
-   "lng": -75.512983
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba96",
-  "id": 242365,
-  "name": "Frente Chinito Expres",
-  "latLng": {
-   "lat": 10.371531,
-   "lng": -75.473617
   }
  },
  {
@@ -2538,57 +927,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb3d",
-  "id": 242368,
-  "name": "Gaviotas Mz 32 2da Etapa",
-  "latLng": {
-   "lat": 10.400464759321112,
-   "lng": -75.48913657665254
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6badc",
   "id": 242369,
   "name": "Frente Miska",
   "latLng": {
    "lat": 10.402812,
    "lng": -75.555538
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba97",
-  "id": 242370,
-  "name": "I.E. Fulgencio Lequerica",
-  "latLng": {
-   "lat": 10.406207,
-   "lng": -75.489205
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bba5",
-  "id": 242371,
-  "name": "N Transversal1055",
-  "latLng": {
-   "lat": 10.416225,
-   "lng": -75.459998
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbe9",
-  "id": 242372,
-  "name": "Institución Educativa Mecerdes Abrego",
-  "latLng": {
-   "lat": 10.379702,
-   "lng": -75.470801
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb3e",
-  "id": 242373,
-  "name": "Iglesia Pozon",
-  "latLng": {
-   "lat": 10.408736,
-   "lng": -75.455411
   }
  },
  {
@@ -2607,69 +951,6 @@
   "latLng": {
    "lat": 10.380916,
    "lng": -75.492178
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bba6",
-  "id": 242376,
-  "name": "Kr 78A entre Cl 3O y 3J",
-  "latLng": {
-   "lat": 10.370747333460987,
-   "lng": -75.48283338546754
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbea",
-  "id": 242377,
-  "name": "Kr 89 entre Tv 74B y 75A",
-  "latLng": {
-   "lat": 10.416961,
-   "lng": -75.458502
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb3f",
-  "id": 242378,
-  "name": "Kr 68 entre Cl 22A y 22",
-  "latLng": {
-   "lat": 10.385058,
-   "lng": -75.485882
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bade",
-  "id": 242379,
-  "name": "Kr 68 entre Cl 16 y 17",
-  "latLng": {
-   "lat": 10.380619,
-   "lng": -75.48761
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba99",
-  "id": 242380,
-  "name": "La Bodega del Tablón",
-  "latLng": {
-   "lat": 10.386134,
-   "lng": -75.471565
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bba7",
-  "id": 242381,
-  "name": "La Esquina Del Sabor",
-  "latLng": {
-   "lat": 10.41020462145328,
-   "lng": -75.51057010889053
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbeb",
-  "id": 242382,
-  "name": "La Sevillana 1",
-  "latLng": {
-   "lat": 10.416849085684877,
-   "lng": -75.43902462160919
   }
  },
  {
@@ -2727,24 +1008,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6ba9a",
-  "id": 242389,
-  "name": "Liceo Pedro de Heredia*",
-  "latLng": {
-   "lat": 10.411584,
-   "lng": -75.516945
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae1",
-  "id": 242390,
-  "name": "Mz 25 Lt 42",
-  "latLng": {
-   "lat": 10.41031014375492,
-   "lng": -75.53760409355165
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb42",
   "id": 242391,
   "name": "Mz B Lt 16",
@@ -2754,111 +1017,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbed",
-  "id": 242392,
-  "name": "Nuevo Horizonte",
-  "latLng": {
-   "lat": 10.391824730180549,
-   "lng": -75.4498878121376
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bba9",
-  "id": 242393,
-  "name": "Mz 56 Lt 8",
-  "latLng": {
-   "lat": 10.39141316863066,
-   "lng": -75.5030679702759
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6ba9b",
   "id": 242394,
   "name": "Monumento Maria Mulata",
   "latLng": {
    "lat": 10.414827,
    "lng": -75.550579
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae2",
-  "id": 242395,
-  "name": "Olimpica",
-  "latLng": {
-   "lat": 10.37685,
-   "lng": -75.499459
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb43",
-  "id": 242396,
-  "name": "Olimpica Carmelo",
-  "latLng": {
-   "lat": 10.381175,
-   "lng": -75.483946
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbee",
-  "id": 242397,
-  "name": "Parque Barrio Militar",
-  "latLng": {
-   "lat": 10.399968788543564,
-   "lng": -75.48998147249222
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba9c",
-  "id": 242399,
-  "name": "Olaya sector La Central",
-  "latLng": {
-   "lat": 10.405820138262046,
-   "lng": -75.48732608556749
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae3",
-  "id": 242400,
-  "name": "Parque Plan 134",
-  "latLng": {
-   "lat": 10.383627,
-   "lng": -75.479897
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb44",
-  "id": 242401,
-  "name": "Patinodromo",
-  "latLng": {
-   "lat": 10.379088,
-   "lng": -75.497381
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbef",
-  "id": 242402,
-  "name": "Patio Portal B6",
-  "latLng": {
-   "lat": 10.395398861247388,
-   "lng": -75.47266728999664
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbab",
-  "id": 242403,
-  "name": "Patio Portal B1",
-  "latLng": {
-   "lat": 10.394695,
-   "lng": -75.473308
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba9d",
-  "id": 242404,
-  "name": "Parque De Los Calamares",
-  "latLng": {
-   "lat": 10.396998,
-   "lng": -75.499017
   }
  },
  {
@@ -2880,48 +1044,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbac",
-  "id": 242407,
-  "name": "Postobon",
-  "latLng": {
-   "lat": 10.388729,
-   "lng": -75.521225
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf0",
-  "id": 242408,
-  "name": "Punta Alta Vuelta",
-  "latLng": {
-   "lat": 10.383529,
-   "lng": -75.499722
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba9e",
-  "id": 242409,
-  "name": "Patio Portal D2",
-  "latLng": {
-   "lat": 10.3955,
-   "lng": -75.471892
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bae5",
   "id": 242410,
   "name": "Restaurante La Florida",
   "latLng": {
    "lat": 10.374324971386566,
    "lng": -75.47762721776962
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbad",
-  "id": 242411,
-  "name": "Shopping Center",
-  "latLng": {
-   "lat": 10.389972,
-   "lng": -75.48074
   }
  },
  {
@@ -2934,60 +1062,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb46",
-  "id": 242413,
-  "name": "Salida Perimetral Sector Rafael Nuñez*",
-  "latLng": {
-   "lat": 10.407929,
-   "lng": -75.498448
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6ba9f",
-  "id": 242414,
-  "name": "República Del Líbano A1",
-  "latLng": {
-   "lat": 10.407362,
-   "lng": -75.507395
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae6",
-  "id": 242415,
-  "name": "Taller Lloreda",
-  "latLng": {
-   "lat": 10.38589924687157,
-   "lng": -75.45714050531389
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbae",
-  "id": 242416,
-  "name": "Terrazas De Granada Eje 6",
-  "latLng": {
-   "lat": 10.392345,
-   "lng": -75.471896
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf2",
-  "id": 242417,
-  "name": "Tienda El Puentecito",
-  "latLng": {
-   "lat": 10.380098,
-   "lng": -75.491514
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb47",
-  "id": 242418,
-  "name": "Tenaris Vuelta",
-  "latLng": {
-   "lat": 10.371943,
-   "lng": -75.465308
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baa0",
   "id": 242419,
   "name": "Supermercado Olimpica",
@@ -2997,57 +1071,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bae7",
-  "id": 242420,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.395175,
-   "lng": -75.478119
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbaf",
-  "id": 242421,
-  "name": "Tv 72B entre Kr 88 y 89",
-  "latLng": {
-   "lat": 10.414578,
-   "lng": -75.457646
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbf3",
   "id": 242422,
   "name": "Universidad De Cartagena",
   "latLng": {
    "lat": 10.403536,
    "lng": -75.505521
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb48",
-  "id": 242423,
-  "name": "Transferencia Santa Lucia Desc",
-  "latLng": {
-   "lat": 10.395214379486452,
-   "lng": -75.4780373512542
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baa1",
-  "id": 242424,
-  "name": "Tienda La Rebaja Oficial",
-  "latLng": {
-   "lat": 10.394650243874798,
-   "lng": -75.49729585647584
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae8",
-  "id": 242425,
-  "name": "Veterinaria Los Campanos",
-  "latLng": {
-   "lat": 10.381494,
-   "lng": -75.46308
   }
  },
  {
@@ -3069,33 +1098,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6baa2",
-  "id": 242428,
-  "name": "Urbanización La India",
-  "latLng": {
-   "lat": 10.41103,
-   "lng": -75.444473
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb49",
-  "id": 242429,
-  "name": "Villa Del Sol",
-  "latLng": {
-   "lat": 10.38742,
-   "lng": -75.467633
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bae9",
-  "id": 242430,
-  "name": "Acuacar",
-  "latLng": {
-   "lat": 10.410925,
-   "lng": -75.46604
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb4a",
   "id": 242431,
   "name": "Alheli",
@@ -3111,24 +1113,6 @@
   "latLng": {
    "lat": 10.39329,
    "lng": -75.520558
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc23",
-  "id": 242433,
-  "name": "Barberia Migue",
-  "latLng": {
-   "lat": 10.413959,
-   "lng": -75.458079
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf5",
-  "id": 242434,
-  "name": "Asadero Don Rico Pollo",
-  "latLng": {
-   "lat": 10.365531,
-   "lng": -75.479567
   }
  },
  {
@@ -3150,30 +1134,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbb2",
-  "id": 242437,
-  "name": "Bloc Port",
-  "latLng": {
-   "lat": 10.376043,
-   "lng": -75.504073
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbf6",
   "id": 242438,
   "name": "Boquete Paz Concordia San Diego",
   "latLng": {
    "lat": 10.427604,
    "lng": -75.544905
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc24",
-  "id": 242439,
-  "name": "Brisas De Galicia",
-  "latLng": {
-   "lat": 10.39061,
-   "lng": -75.449038
   }
  },
  {
@@ -3186,138 +1152,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb4c",
-  "id": 242441,
-  "name": "Campanos Cll35 No 101-08",
-  "latLng": {
-   "lat": 10.382936,
-   "lng": -75.460234
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbb3",
-  "id": 242442,
-  "name": "Caracoles Mz 1 Lt 11",
-  "latLng": {
-   "lat": 10.389704,
-   "lng": -75.491692
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf7",
-  "id": 242443,
-  "name": "Casa Justicia Chiquinquira",
-  "latLng": {
-   "lat": 10.406767212953966,
-   "lng": -75.49151301383974
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc25",
-  "id": 242444,
-  "name": "Cementerio De Olaya",
-  "latLng": {
-   "lat": 10.403741312423568,
-   "lng": -75.47642827033998
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baec",
   "id": 242445,
   "name": "Centro A2",
   "latLng": {
    "lat": 10.425298,
    "lng": -75.546235
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb4d",
-  "id": 242446,
-  "name": "Centro Comercial Olaya Plaza",
-  "latLng": {
-   "lat": 10.406083947657306,
-   "lng": -75.4845714569092
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbb4",
-  "id": 242447,
-  "name": "Centro Crisitana Nueva Vida",
-  "latLng": {
-   "lat": 10.383755,
-   "lng": -75.480476
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf8",
-  "id": 242448,
-  "name": "Chapacua",
-  "latLng": {
-   "lat": 10.399625829566325,
-   "lng": -75.48038184642793
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc26",
-  "id": 242449,
-  "name": "Cl 27A Bis entre Kr 65 y 65A",
-  "latLng": {
-   "lat": 10.389797,
-   "lng": -75.487563
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbb5",
-  "id": 242450,
-  "name": "Cll 10",
-  "latLng": {
-   "lat": 10.40588,
-   "lng": -75.551625
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbf9",
-  "id": 242451,
-  "name": "Cll 5A",
-  "latLng": {
-   "lat": 10.399376,
-   "lng": -75.557635
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc27",
-  "id": 242452,
-  "name": "Colegio Bertha Suttner",
-  "latLng": {
-   "lat": 10.359873,
-   "lng": -75.479586
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb4e",
-  "id": 242453,
-  "name": "Clinica El Bosque",
-  "latLng": {
-   "lat": 10.388638,
-   "lng": -75.502123
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baed",
-  "id": 242454,
-  "name": "Cl 30 entre Tv 54 y Kr 67",
-  "latLng": {
-   "lat": 10.391516,
-   "lng": -75.48558
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbfa",
-  "id": 242455,
-  "name": "Colegio Naval",
-  "latLng": {
-   "lat": 10.386253,
-   "lng": -75.481187
   }
  },
  {
@@ -3339,15 +1179,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb4f",
-  "id": 242458,
-  "name": "Colegio Integral Moderno",
-  "latLng": {
-   "lat": 10.394006524982384,
-   "lng": -75.47589451074602
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baee",
   "id": 242459,
   "name": "Colegio Fernandez Baena",
@@ -3366,24 +1197,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc29",
-  "id": 242461,
-  "name": "Diagonal Drogueria Shelema",
-  "latLng": {
-   "lat": 10.390007,
-   "lng": -75.4534
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbb7",
-  "id": 242462,
-  "name": "Del Gordo",
-  "latLng": {
-   "lat": 10.380624,
-   "lng": -75.496645
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baef",
   "id": 242463,
   "name": "Costa Azul",
@@ -3393,84 +1206,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb50",
-  "id": 242464,
-  "name": "Cuatro Vientos A2",
-  "latLng": {
-   "lat": 10.406464,
-   "lng": -75.502748
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbfc",
-  "id": 242465,
-  "name": "El Campesino",
-  "latLng": {
-   "lat": 10.390802,
-   "lng": -75.478878
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc2a",
-  "id": 242466,
-  "name": "El Libano",
-  "latLng": {
-   "lat": 10.408898780015612,
-   "lng": -75.50302505493165
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb51",
   "id": 242467,
   "name": "Edificio Altamar",
   "latLng": {
    "lat": 10.437117,
    "lng": -75.53358
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baf0",
-  "id": 242468,
-  "name": "Drogueria Calidad y Musica RS",
-  "latLng": {
-   "lat": 10.383282078676672,
-   "lng": -75.46557605266572
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbfd",
-  "id": 242469,
-  "name": "Entrada Las palmeras",
-  "latLng": {
-   "lat": 10.400794526689218,
-   "lng": -75.47018945217134
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbb8",
-  "id": 242470,
-  "name": "EDS Mobil El Bosque",
-  "latLng": {
-   "lat": 10.40851,
-   "lng": -75.52137
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc2b",
-  "id": 242471,
-  "name": "Entrada Nuevo Paraiso",
-  "latLng": {
-   "lat": 10.401446145984236,
-   "lng": -75.47175854444505
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb52",
-  "id": 242472,
-  "name": "Entrada Amarilo",
-  "latLng": {
-   "lat": 10.388814514275879,
-   "lng": -75.46826362609865
   }
  },
  {
@@ -3492,48 +1233,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbb9",
-  "id": 242475,
-  "name": "Entrada Fredonia",
-  "latLng": {
-   "lat": 10.402348385839257,
-   "lng": -75.47394990921022
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc2c",
   "id": 242476,
   "name": "Frente a Sociedad Portuaria",
   "latLng": {
    "lat": 10.407738,
    "lng": -75.529099
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb53",
-  "id": 242477,
-  "name": "Esquina Alegre",
-  "latLng": {
-   "lat": 10.372924,
-   "lng": -75.472667
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbff",
-  "id": 242478,
-  "name": "Hogar San Pedro Claver",
-  "latLng": {
-   "lat": 10.397718,
-   "lng": -75.521895
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baf2",
-  "id": 242479,
-  "name": "Entre Cll 12 y Cll 13",
-  "latLng": {
-   "lat": 10.410503,
-   "lng": -75.550433
   }
  },
  {
@@ -3546,30 +1251,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc2d",
-  "id": 242481,
-  "name": "Hotel Confort",
-  "latLng": {
-   "lat": 10.382454,
-   "lng": -75.466113
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb54",
   "id": 242482,
   "name": "Frente Parque Apolo",
   "latLng": {
    "lat": 10.4301,
    "lng": -75.5446
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc00",
-  "id": 242483,
-  "name": "Inicio Simon Bolivar",
-  "latLng": {
-   "lat": 10.379084,
-   "lng": -75.464408
   }
  },
  {
@@ -3582,51 +1269,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbbb",
-  "id": 242485,
-  "name": "Gaviotas Mz 36 1ra Etapa",
-  "latLng": {
-   "lat": 10.402121507056856,
-   "lng": -75.48732072114946
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb55",
-  "id": 242486,
-  "name": "Iglesia El Recreo",
-  "latLng": {
-   "lat": 10.391014797639748,
-   "lng": -75.47057300806047
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc2e",
-  "id": 242487,
-  "name": "Institucion Educativa San Lucas",
-  "latLng": {
-   "lat": 10.376914,
-   "lng": -75.490921
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc01",
-  "id": 242488,
-  "name": "Kr 78A entre Cl 3O y 4",
-  "latLng": {
-   "lat": 10.371685,
-   "lng": -75.481832
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baf4",
-  "id": 242489,
-  "name": "I.E. Las Gaviotas",
-  "latLng": {
-   "lat": 10.39882383171817,
-   "lng": -75.49188315868379
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbbc",
   "id": 242490,
   "name": "Iglesia San Enrique",
@@ -3636,48 +1278,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb56",
-  "id": 242491,
-  "name": "Kr 68 entre Cl 18 y 17",
-  "latLng": {
-   "lat": 10.381204,
-   "lng": -75.487583
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc2f",
-  "id": 242492,
-  "name": "Kr 9 - Beach Club",
-  "latLng": {
-   "lat": 10.450253042932317,
-   "lng": -75.51599621772768
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc02",
-  "id": 242493,
-  "name": "La Esquina Del Sabor*",
-  "latLng": {
-   "lat": 10.409978,
-   "lng": -75.512365
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baf5",
   "id": 242494,
   "name": "Kr 1 entre Cl 43 y 44",
   "latLng": {
    "lat": 10.433328,
    "lng": -75.541761
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbbd",
-  "id": 242495,
-  "name": "Kr 68 entre Cl 26 y 26A",
-  "latLng": {
-   "lat": 10.387795,
-   "lng": -75.485587
   }
  },
  {
@@ -3735,66 +1341,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc31",
-  "id": 242502,
-  "name": "Mi Locura",
-  "latLng": {
-   "lat": 10.411325,
-   "lng": -75.456691
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc04",
-  "id": 242503,
-  "name": "Napoleon Perea",
-  "latLng": {
-   "lat": 10.38976,
-   "lng": -75.493943
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6baf7",
   "id": 242504,
   "name": "Lo Amador A1",
   "latLng": {
    "lat": 10.422391,
    "lng": -75.534549
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbbf",
-  "id": 242505,
-  "name": "Los Trupillos",
-  "latLng": {
-   "lat": 10.3638,
-   "lng": -75.48148
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb59",
-  "id": 242506,
-  "name": "Mz 27 Lt 18",
-  "latLng": {
-   "lat": 10.408901,
-   "lng": -75.532176
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc05",
-  "id": 242507,
-  "name": "Paradero Provisional",
-  "latLng": {
-   "lat": 10.392799,
-   "lng": -75.516592
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc32",
-  "id": 242508,
-  "name": "Nuevo Oriente (Bascula)",
-  "latLng": {
-   "lat": 10.388049424104535,
-   "lng": -75.51332205533983
   }
  },
  {
@@ -3807,48 +1359,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb5a",
-  "id": 242510,
-  "name": "Olimpica 13 de Junio",
-  "latLng": {
-   "lat": 10.401936838158711,
-   "lng": -75.48206090927124
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbc0",
-  "id": 242511,
-  "name": "Mz E Lt 10",
-  "latLng": {
-   "lat": 10.391839,
-   "lng": -75.498624
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc33",
   "id": 242512,
   "name": "Parque Chile",
   "latLng": {
    "lat": 10.399784,
    "lng": -75.517825
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc06",
-  "id": 242513,
-  "name": "Patio Portal B2",
-  "latLng": {
-   "lat": 10.394876,
-   "lng": -75.473116
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6baf9",
-  "id": 242514,
-  "name": "Olaya sector La Central*",
-  "latLng": {
-   "lat": 10.405704,
-   "lng": -75.48733
   }
  },
  {
@@ -3861,42 +1377,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbc1",
-  "id": 242516,
-  "name": "Olimpica San Fernando",
-  "latLng": {
-   "lat": 10.381933,
-   "lng": -75.469298
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc07",
-  "id": 242517,
-  "name": "Proleca",
-  "latLng": {
-   "lat": 10.382474762292397,
-   "lng": -75.5011957883835
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc34",
-  "id": 242518,
-  "name": "Patio Portal C1",
-  "latLng": {
-   "lat": 10.395238,
-   "lng": -75.472534
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bafa",
-  "id": 242519,
-  "name": "Parque Huellas de Alberto Uribe",
-  "latLng": {
-   "lat": 10.392674213104915,
-   "lng": -75.45262097784321
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb5c",
   "id": 242520,
   "name": "Plaza Colon",
@@ -3906,48 +1386,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbc2",
-  "id": 242521,
-  "name": "Patio Portal A1",
-  "latLng": {
-   "lat": 10.395372125712502,
-   "lng": -75.47281224176054
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc08",
-  "id": 242522,
-  "name": "Sociedad Portuaria",
-  "latLng": {
-   "lat": 10.407768,
-   "lng": -75.529393
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bafb",
-  "id": 242523,
-  "name": "Patio Portal D3",
-  "latLng": {
-   "lat": 10.395530944375192,
-   "lng": -75.4722113163705
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc35",
   "id": 242524,
   "name": "Punte Peatonal Cll Periodistas",
   "latLng": {
    "lat": 10.388658,
    "lng": -75.517089
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb5d",
-  "id": 242525,
-  "name": "Restaurante Nueva Fortuna China",
-  "latLng": {
-   "lat": 10.38607,
-   "lng": -75.493883
   }
  },
  {
@@ -3969,33 +1413,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc09",
-  "id": 242528,
-  "name": "Terrazas De Granada Eje 6 Vuelta",
-  "latLng": {
-   "lat": 10.39248,
-   "lng": -75.471651
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc36",
-  "id": 242529,
-  "name": "Supergiros",
-  "latLng": {
-   "lat": 10.38346,
-   "lng": -75.483174
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb5e",
-  "id": 242530,
-  "name": "Taller Mañe",
-  "latLng": {
-   "lat": 10.380185,
-   "lng": -75.49221
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbc4",
   "id": 242531,
   "name": "Saludarte",
@@ -4005,84 +1422,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc0a",
-  "id": 242532,
-  "name": "U. San Buenaventura",
-  "latLng": {
-   "lat": 10.386271241782207,
-   "lng": -75.46660602092744
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bafd",
-  "id": 242533,
-  "name": "Supertienda El Cañonazo",
-  "latLng": {
-   "lat": 10.413163,
-   "lng": -75.465735
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc37",
-  "id": 242534,
-  "name": "Tienda Glorimar",
-  "latLng": {
-   "lat": 10.448954,
-   "lng": -75.517304
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb5f",
-  "id": 242535,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.395228,
-   "lng": -75.477994
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbc5",
   "id": 242536,
   "name": "Terminal De Transportes",
   "latLng": {
    "lat": 10.40100293948618,
    "lng": -75.45891344547273
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc0b",
-  "id": 242537,
-  "name": "Villa Rubia",
-  "latLng": {
-   "lat": 10.379241,
-   "lng": -75.478493
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bafe",
-  "id": 242538,
-  "name": "Tienda La Unica",
-  "latLng": {
-   "lat": 10.409819,
-   "lng": -75.50854
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc38",
-  "id": 242539,
-  "name": "Universidad Del Sinu",
-  "latLng": {
-   "lat": 10.388971,
-   "lng": -75.499989
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb60",
-  "id": 242540,
-  "name": "Vidrios y Auminios 1A",
-  "latLng": {
-   "lat": 10.373609974746119,
-   "lng": -75.50028920173646
   }
  },
  {
@@ -4113,15 +1458,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbc7",
-  "id": 242544,
-  "name": "Villa Grande 1",
-  "latLng": {
-   "lat": 10.381315,
-   "lng": -75.45081
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc0c",
   "id": 242545,
   "name": "Altamare",
@@ -4149,24 +1485,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbc8",
-  "id": 242548,
-  "name": "Afueras Terminal de Transporte",
-  "latLng": {
-   "lat": 10.401479,
-   "lng": -75.459046
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc3a",
-  "id": 242549,
-  "name": "Ara San José",
-  "latLng": {
-   "lat": 10.383845,
-   "lng": -75.461708
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc0d",
   "id": 242550,
   "name": "Bicentenario Mz 7 Lt 1",
@@ -4185,15 +1503,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb62",
-  "id": 242552,
-  "name": "C.C. Neus Alameda La Victoria",
-  "latLng": {
-   "lat": 10.383799,
-   "lng": -75.472636
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc3b",
   "id": 242553,
   "name": "Bodega Copetran",
@@ -4209,33 +1518,6 @@
   "latLng": {
    "lat": 10.435529,
    "lng": -75.538304
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc0e",
-  "id": 242555,
-  "name": "Cancha 2",
-  "latLng": {
-   "lat": 10.38218,
-   "lng": -75.495935
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb02",
-  "id": 242556,
-  "name": "Casa Justicia Chiquinquira*",
-  "latLng": {
-   "lat": 10.40667,
-   "lng": -75.491661
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb63",
-  "id": 242557,
-  "name": "Cementerio De Olaya*",
-  "latLng": {
-   "lat": 10.403418,
-   "lng": -75.476112
   }
  },
  {
@@ -4266,75 +1548,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc3d",
-  "id": 242561,
-  "name": "Centro Industrial Ternera",
-  "latLng": {
-   "lat": 10.379108,
-   "lng": -75.4627
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc0f",
-  "id": 242562,
-  "name": "Centro Comercial Olaya Plaza*",
-  "latLng": {
-   "lat": 10.406039,
-   "lng": -75.484006
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbcb",
   "id": 242563,
   "name": "Centro B1",
   "latLng": {
    "lat": 10.425014327184186,
    "lng": -75.54668068885805
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb04",
-  "id": 242564,
-  "name": "Club Cartagena",
-  "latLng": {
-   "lat": 10.397712796008337,
-   "lng": -75.55990642082855
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc3e",
-  "id": 242565,
-  "name": "Cll 102 Dg Terraza Tribuna Verde",
-  "latLng": {
-   "lat": 10.38629498612316,
-   "lng": -75.45688301324846
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc10",
-  "id": 242566,
-  "name": "Clinica El Bosque V",
-  "latLng": {
-   "lat": 10.388376566338046,
-   "lng": -75.50210505723955
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbcc",
-  "id": 242567,
-  "name": "Cl 39H entre Kr 91B y 91A",
-  "latLng": {
-   "lat": 10.395091,
-   "lng": -75.457306
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc3f",
-  "id": 242568,
-  "name": "Colegio La Verdadera Enseñanza",
-  "latLng": {
-   "lat": 10.384107860926417,
-   "lng": -75.45877128839494
   }
  },
  {
@@ -4347,30 +1566,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc11",
-  "id": 242570,
-  "name": "Colegio Jesus Maestro",
-  "latLng": {
-   "lat": 10.36377,
-   "lng": -75.476214
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbcd",
   "id": 242571,
   "name": "Colegio Gabriel Garcia Marquez",
   "latLng": {
    "lat": 10.420516619582731,
    "lng": -75.44926553964616
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb64",
-  "id": 242572,
-  "name": "Cl 27A Bis entre Kr 68 y Tv 54A",
-  "latLng": {
-   "lat": 10.389957,
-   "lng": -75.487371
   }
  },
  {
@@ -4401,48 +1602,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbce",
-  "id": 242576,
-  "name": "Crisanto Luque Los olivos No. 52-49",
-  "latLng": {
-   "lat": 10.391022,
-   "lng": -75.51609
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb65",
-  "id": 242577,
-  "name": "Colegio Castillo",
-  "latLng": {
-   "lat": 10.390919821699379,
-   "lng": -75.47076880931856
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc41",
-  "id": 242578,
-  "name": "Efecty Caracoles",
-  "latLng": {
-   "lat": 10.387697,
-   "lng": -75.492176
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc13",
   "id": 242579,
   "name": "Edificio Conjunto Militar Los Corales",
   "latLng": {
    "lat": 10.386759319539616,
    "lng": -75.50175100564958
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc53",
-  "id": 242580,
-  "name": "El Candil",
-  "latLng": {
-   "lat": 10.413187,
-   "lng": -75.539258
   }
  },
  {
@@ -4464,57 +1629,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc42",
-  "id": 242583,
-  "name": "Entrada Fredonia*",
-  "latLng": {
-   "lat": 10.401822,
-   "lng": -75.472931
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc14",
-  "id": 242584,
-  "name": "Entrada Baru",
-  "latLng": {
-   "lat": 10.391347213203671,
-   "lng": -75.4732257127762
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc54",
-  "id": 242585,
-  "name": "Entrada Los Caracoles",
-  "latLng": {
-   "lat": 10.390218,
-   "lng": -75.491309
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bbd0",
   "id": 242586,
   "name": "El Pueblito",
   "latLng": {
    "lat": 10.399388,
    "lng": -75.559257
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb67",
-  "id": 242587,
-  "name": "DIAN",
-  "latLng": {
-   "lat": 10.409413203052814,
-   "lng": -75.53448468446733
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc43",
-  "id": 242588,
-  "name": "Estibas El Guedo",
-  "latLng": {
-   "lat": 10.37261267043112,
-   "lng": -75.50251811742784
   }
  },
  {
@@ -4545,48 +1665,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb68",
-  "id": 242592,
-  "name": "El Libano*",
-  "latLng": {
-   "lat": 10.408806,
-   "lng": -75.503258
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc44",
   "id": 242593,
   "name": "Gimnasio-Estetica-Peluqueria",
   "latLng": {
    "lat": 10.442969,
    "lng": -75.520921
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc16",
-  "id": 242594,
-  "name": "Frente Porvenir",
-  "latLng": {
-   "lat": 10.402751,
-   "lng": -75.554304
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc56",
-  "id": 242595,
-  "name": "Horizontes",
-  "latLng": {
-   "lat": 10.386384,
-   "lng": -75.449862
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbd2",
-  "id": 242596,
-  "name": "Frente Ed. Grupo Area",
-  "latLng": {
-   "lat": 10.408279,
-   "lng": -75.550782
   }
  },
  {
@@ -4608,57 +1692,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc17",
-  "id": 242599,
-  "name": "Iglesia La Consolata",
-  "latLng": {
-   "lat": 10.378083,
-   "lng": -75.480069
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc57",
-  "id": 242600,
-  "name": "Institucion Educativa 20 De Julio",
-  "latLng": {
-   "lat": 10.375166607405308,
-   "lng": -75.5001148581505
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbd3",
-  "id": 242601,
-  "name": "I.E. Soledad Acosta De Samper",
-  "latLng": {
-   "lat": 10.380055,
-   "lng": -75.474971
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb6a",
   "id": 242602,
   "name": "Frente Ambientes",
   "latLng": {
    "lat": 10.407206,
    "lng": -75.551835
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc46",
-  "id": 242603,
-  "name": "Kr 68 entre Kr 66 y Cl 25",
-  "latLng": {
-   "lat": 10.387599,
-   "lng": -75.485842
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc18",
-  "id": 242604,
-  "name": "Kr 68 entre Cl 19 y 21",
-  "latLng": {
-   "lat": 10.383195,
-   "lng": -75.486313
   }
  },
  {
@@ -4671,24 +1710,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc58",
-  "id": 242606,
-  "name": "Kr 78A La Gitana Mz F",
-  "latLng": {
-   "lat": 10.368852,
-   "lng": -75.484303
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb6b",
-  "id": 242607,
-  "name": "Hotel La Estancia",
-  "latLng": {
-   "lat": 10.379731,
-   "lng": -75.501837
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc47",
   "id": 242608,
   "name": "La Castellana B1",
@@ -4698,30 +1719,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc19",
-  "id": 242609,
-  "name": "La Candelaria",
-  "latLng": {
-   "lat": 10.410616158227807,
-   "lng": -75.51511645317079
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc59",
   "id": 242610,
   "name": "La Popa A1",
   "latLng": {
    "lat": 10.420495,
    "lng": -75.53104
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbd5",
-  "id": 242611,
-  "name": "La Bodeguita A2",
-  "latLng": {
-   "lat": 10.420279202127771,
-   "lng": -75.55111438035966
   }
  },
  {
@@ -4770,15 +1773,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb6d",
-  "id": 242617,
-  "name": "La Algodonera Vuelta",
-  "latLng": {
-   "lat": 10.376418,
-   "lng": -75.471696
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc49",
   "id": 242618,
   "name": "Mz U Lote 2( Las Lomas)",
@@ -4797,48 +1791,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc5b",
-  "id": 242620,
-  "name": "Navitrans",
-  "latLng": {
-   "lat": 10.38851,
-   "lng": -75.517589
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbd7",
-  "id": 242621,
-  "name": "Mz 17 Lt 22",
-  "latLng": {
-   "lat": 10.382994,
-   "lng": -75.496755
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb6e",
   "id": 242622,
   "name": "Las Palmeras",
   "latLng": {
    "lat": 10.398356,
    "lng": -75.471098
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc4a",
-  "id": 242623,
-  "name": "Pactemos",
-  "latLng": {
-   "lat": 10.406535,
-   "lng": -75.454295
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc1c",
-  "id": 242624,
-  "name": "Olimpica Alto Bosque",
-  "latLng": {
-   "lat": 10.394354766515134,
-   "lng": -75.51726490259172
   }
  },
  {
@@ -4851,15 +1809,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbd8",
-  "id": 242626,
-  "name": "Olaya Sector La Puntilla",
-  "latLng": {
-   "lat": 10.406197385628682,
-   "lng": -75.48212528228761
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb6f",
   "id": 242627,
   "name": "Mi Vaquita",
@@ -4869,93 +1818,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bc4b",
-  "id": 242628,
-  "name": "Patio Portal A2",
-  "latLng": {
-   "lat": 10.39529830220853,
-   "lng": -75.47274238517669
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc5d",
-  "id": 242629,
-  "name": "Patio Portal B3",
-  "latLng": {
-   "lat": 10.395083,
-   "lng": -75.472896
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbd9",
-  "id": 242630,
-  "name": "Parque Indupollo",
-  "latLng": {
-   "lat": 10.376783,
-   "lng": -75.498146
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc1d",
-  "id": 242631,
-  "name": "Parque Simon Bolivar",
-  "latLng": {
-   "lat": 10.377531,
-   "lng": -75.466543
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb70",
-  "id": 242632,
-  "name": "Olaya Sector El Tancón",
-  "latLng": {
-   "lat": 10.408410736862702,
-   "lng": -75.50036430358888
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc4c",
-  "id": 242633,
-  "name": "Portales De San Fernando Iii",
-  "latLng": {
-   "lat": 10.380054,
-   "lng": -75.479535
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc5e",
   "id": 242634,
   "name": "Prosegur (Villa Leon)",
   "latLng": {
    "lat": 10.383873,
    "lng": -75.500204
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbda",
-  "id": 242635,
-  "name": "Patio Portal D4",
-  "latLng": {
-   "lat": 10.395304154769171,
-   "lng": -75.47271032830314
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc1e",
-  "id": 242636,
-  "name": "Pollito Pio",
-  "latLng": {
-   "lat": 10.40984320729955,
-   "lng": -75.50795227289201
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb71",
-  "id": 242637,
-  "name": "Parque De Galilea",
-  "latLng": {
-   "lat": 10.39881,
-   "lng": -75.455096
   }
  },
  {
@@ -4977,48 +1845,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bbdb",
-  "id": 242640,
-  "name": "Restaurante Bumangues",
-  "latLng": {
-   "lat": 10.394099,
-   "lng": -75.522154
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc1f",
-  "id": 242641,
-  "name": "Restaurante Rossy",
-  "latLng": {
-   "lat": 10.365175,
-   "lng": -75.480907
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbdc",
-  "id": 242642,
-  "name": "Surtimateriales La Consolata",
-  "latLng": {
-   "lat": 10.374758,
-   "lng": -75.481134
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc60",
   "id": 242643,
   "name": "Terrazas De San Sebastian",
   "latLng": {
    "lat": 10.438301310236863,
    "lng": -75.53181856870653
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc20",
-  "id": 242644,
-  "name": "TCC",
-  "latLng": {
-   "lat": 10.400938,
-   "lng": -75.51884
   }
  },
  {
@@ -5031,42 +1863,6 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb72",
-  "id": 242646,
-  "name": "Patio Portal C2",
-  "latLng": {
-   "lat": 10.395389087124833,
-   "lng": -75.47237415382226
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbdd",
-  "id": 242647,
-  "name": "Tienda San José",
-  "latLng": {
-   "lat": 10.384756876755004,
-   "lng": -75.45828312635423
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc61",
-  "id": 242648,
-  "name": "U. San Buenaventura Vuelta",
-  "latLng": {
-   "lat": 10.38607073394211,
-   "lng": -75.46610176563264
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc21",
-  "id": 242649,
-  "name": "Transferencia Santa Lucia",
-  "latLng": {
-   "lat": 10.39537,
-   "lng": -75.477646
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bc4f",
   "id": 242650,
   "name": "Tv 33 entre Kr 22 y 23",
@@ -5076,84 +1872,12 @@
   }
  },
  {
-  "_id": "658dda9ea5ba2d1568a6bb73",
-  "id": 242651,
-  "name": "Punto Frio El Gavilan",
-  "latLng": {
-   "lat": 10.372235,
-   "lng": -75.473268
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bbde",
-  "id": 242652,
-  "name": "Urbanización Sevilla",
-  "latLng": {
-   "lat": 10.388137,
-   "lng": -75.474518
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc62",
-  "id": 242653,
-  "name": "Villa Sol",
-  "latLng": {
-   "lat": 10.382524,
-   "lng": -75.450576
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc22",
-  "id": 242654,
-  "name": "Villa Andrea",
-  "latLng": {
-   "lat": 10.383647,
-   "lng": -75.450371
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bc50",
-  "id": 242655,
-  "name": "Villa Grande 2",
-  "latLng": {
-   "lat": 10.378635,
-   "lng": -75.451274
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb74",
-  "id": 242656,
-  "name": "Supergiros",
-  "latLng": {
-   "lat": 10.383739,
-   "lng": -75.482963
-  }
- },
- {
   "_id": "658dda9ea5ba2d1568a6bb75",
   "id": 242657,
   "name": "Tienda La Nacional (Cll30 53-18)",
   "latLng": {
    "lat": 10.399316,
    "lng": -75.499735
-  }
- },
- {
-  "_id": "658dda9ea5ba2d1568a6bb76",
-  "id": 242658,
-  "name": "Universidad Del Sinu V",
-  "latLng": {
-   "lat": 10.388782855409376,
-   "lng": -75.49977958202363
-  }
- },
- {
-  "_id": "659dc2bc4e3c390acf2b0d39",
-  "id": 244069,
-  "name": "GARAGE TA",
-  "latLng": {
-   "lat": 10.395092648749758,
-   "lng": -75.47167467252568
   }
  },
  {
@@ -5280,42 +2004,6 @@
   "latLng": {
    "lat": 10.366559626037825,
    "lng": -75.45114079936687
-  }
- },
- {
-  "_id": "66144f301d2aa41241d190a3",
-  "id": 244507,
-  "name": "Patio Sotramac",
-  "latLng": {
-   "lat": 10.392974,
-   "lng": -75.469723
-  }
- },
- {
-  "_id": "66144f301d2aa41241d190a4",
-  "id": 244508,
-  "name": "Patio Transambiental",
-  "latLng": {
-   "lat": 10.395106,
-   "lng": -75.471423
-  }
- },
- {
-  "_id": "66144f301d2aa41241d190a5",
-  "id": 244509,
-  "name": "Patio Transcaribe",
-  "latLng": {
-   "lat": 10.393966,
-   "lng": -75.470436
-  }
- },
- {
-  "_id": "662a7dccbcb6e40e2f2b4486",
-  "id": 244550,
-  "name": "ESTACION SERVICIO X104",
-  "latLng": {
-   "lat": 10.402311452095217,
-   "lng": -75.45966982841493
   }
  },
  {
@@ -5463,15 +2151,6 @@
   }
  },
  {
-  "_id": "6668bc5ad1ac2e03ae62111d",
-  "id": 245195,
-  "name": "Institucion Educativa Santa Maria",
-  "latLng": {
-   "lat": 10.439506791641936,
-   "lng": -75.51794886589052
-  }
- },
- {
   "_id": "6668bc5ad1ac2e03ae621121",
   "id": 245196,
   "name": "Frente a las dunas",
@@ -5553,75 +2232,12 @@
   }
  },
  {
-  "_id": "66918b0bc31240444248f2fa",
-  "id": 245322,
-  "name": "CLUB DE SUBOFICIALES",
-  "latLng": {
-   "lat": 10.45228407959671,
-   "lng": -75.51473557949068
-  }
- },
- {
-  "_id": "6705b333bdfb460fa7c01769",
-  "id": 246889,
-  "name": "Marina 2",
-  "latLng": {
-   "lat": 10.41977477346058,
-   "lng": -75.55183860593729
-  }
- },
- {
   "_id": "674098f5985447149cd24099",
   "id": 288668,
   "name": "Avenida venezuela",
   "latLng": {
    "lat": 10.425797792188423,
    "lng": -75.54576069116594
-  }
- },
- {
-  "_id": "6750c5d4cd27536092469dd4",
-  "id": 288687,
-  "name": "PARADERO A105",
-  "latLng": {
-   "lat": 10.378654491792592,
-   "lng": -75.46501815319063
-  }
- },
- {
-  "_id": "6750ce7d245fd0609324a05e",
-  "id": 288688,
-  "name": "PARADERO PARQUE SIMON B",
-  "latLng": {
-   "lat": 10.37770997020742,
-   "lng": -75.46628952026369
-  }
- },
- {
-  "_id": "680fad66a8fed4310b589a92",
-  "id": 289232,
-  "name": "Carolina del Mar",
-  "latLng": {
-   "lat": 10.400501693283681,
-   "lng": -75.4645085334778
-  }
- },
- {
-  "_id": "680faf453370b57861b30450",
-  "id": 289233,
-  "name": "El Club",
-  "latLng": {
-   "lat": 10.39843074649424,
-   "lng": -75.4636985063553
-  }
- },
- {
-  "_id": "680fb06da8fed4310b589af5",
-  "id": 289234,
-  "name": "Frente al ara",
-  "latLng": {
-   "lat": 10.396834657111594,
-   "lng": -75.46167075634004
   }
  },
  {
@@ -5730,15 +2346,6 @@
   "latLng": {
    "lat": 10.423455305100253,
    "lng": -75.46146154403687
-  }
- },
- {
-  "_id": "68f914ad5b1d83334ef1f2de",
-  "id": 301637,
-  "name": "Mz I Bloque 1",
-  "latLng": {
-   "lat": 10.424476188463617,
-   "lng": -75.4610323905945
   }
  },
  {
