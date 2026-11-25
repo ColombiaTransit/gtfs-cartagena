@@ -515,7 +515,13 @@ Example request:
 curl.exe -i "https://m2m-web-teste.s3.us-east-1.amazonaws.com/cargas/1343/valorTarifa.json"
 ```
 
-The contents and availability of this resource have not yet been validated.
+Validated 2026-11-25 and stored in `raw/m2m/valorTarifa.json`: one field,
+`{"valor" : "$ 3.900,00"}`, the general fare as display text. It matches the
+fare in force since 23 Jan 2026. It has no reduced fare (tarifa diferencial
+2.900 COP), fare media or transfer rules, so `fare_products.txt` /
+`fare_media.txt` / `fare_transfer_rules.txt` still come from Transcaribe's own
+information (issue #29). The bucket is named `m2m-web-teste`, so the file may not
+be maintained.
 
 Potential GTFS integration:
 
@@ -730,7 +736,7 @@ The API stop dataset should additionally be compared with the previously identif
 - [x] Confirm identifier types required by each endpoint (`id_migracao`)
 - [x] Identify service day categories (`date` parameter: weekday, Saturday, Sunday/holiday)
 - [ ] Identify scheduled travel times
-- [ ] Validate fare JSON
+- [x] Validate fare JSON (general fare only)
 - [ ] Investigate A000 routes
 - [ ] Investigate additional X106 route variant
 - [ ] Validate BRT station and platform relationships
