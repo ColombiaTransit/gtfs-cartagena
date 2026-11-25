@@ -1,0 +1,353 @@
+[
+ {
+  "_id": "658dda9ea5ba2d1568a6baa5",
+  "id": 242089,
+  "name": "Bellavista Mz I Lt 5",
+  "latLng": {
+   "lat": 10.372842209007372,
+   "lng": -75.50413548946382
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba63",
+  "id": 242118,
+  "name": "Colegio Ciudadela 2000",
+  "latLng": {
+   "lat": 10.373448321158111,
+   "lng": -75.47164274239151
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab1",
+  "id": 242142,
+  "name": "La Bodeguita B1",
+  "latLng": {
+   "lat": 10.419836022394465,
+   "lng": -75.55167496204376
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bab6",
+  "id": 242167,
+  "name": "Patio Portal D5",
+  "latLng": {
+   "lat": 10.395065,
+   "lng": -75.472348
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba6f",
+  "id": 242179,
+  "name": "Parque De La Marina",
+  "latLng": {
+   "lat": 10.42050079175804,
+   "lng": -75.55100149293092
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba70",
+  "id": 242184,
+  "name": "Patio Portal C3",
+  "latLng": {
+   "lat": 10.395617,
+   "lng": -75.472125
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba45",
+  "id": 242203,
+  "name": "U. Tecnologica",
+  "latLng": {
+   "lat": 10.370691,
+   "lng": -75.465812
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac3",
+  "id": 242230,
+  "name": "El Rodeo",
+  "latLng": {
+   "lat": 10.374704,
+   "lng": -75.458859
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bac8",
+  "id": 242249,
+  "name": "La Bodeguita B2",
+  "latLng": {
+   "lat": 10.419738417249432,
+   "lng": -75.55164545774461
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba50",
+  "id": 242256,
+  "name": "Final Mandela",
+  "latLng": {
+   "lat": 10.364781,
+   "lng": -75.482467
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb8e",
+  "id": 242287,
+  "name": "Inicio Mandela",
+  "latLng": {
+   "lat": 10.364678047934945,
+   "lng": -75.48291337132734
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba87",
+  "id": 242290,
+  "name": "Patio Portal D1",
+  "latLng": {
+   "lat": 10.395488228578538,
+   "lng": -75.47219000835013
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba58",
+  "id": 242296,
+  "name": "Patio Portal B5",
+  "latLng": {
+   "lat": 10.395372468005109,
+   "lng": -75.47264053272379
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb96",
+  "id": 242311,
+  "name": "Sena Ternera",
+  "latLng": {
+   "lat": 10.374921,
+   "lng": -75.458695
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbeb",
+  "id": 242382,
+  "name": "La Sevillana 1",
+  "latLng": {
+   "lat": 10.416849085684877,
+   "lng": -75.43902462160919
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbef",
+  "id": 242402,
+  "name": "Patio Portal B6",
+  "latLng": {
+   "lat": 10.395398861247388,
+   "lng": -75.47266728999664
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbab",
+  "id": 242403,
+  "name": "Patio Portal B1",
+  "latLng": {
+   "lat": 10.394695,
+   "lng": -75.473308
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6ba9e",
+  "id": 242409,
+  "name": "Patio Portal D2",
+  "latLng": {
+   "lat": 10.3955,
+   "lng": -75.471892
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bae7",
+  "id": 242420,
+  "name": "Transferencia Santa Lucia",
+  "latLng": {
+   "lat": 10.395175,
+   "lng": -75.478119
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb48",
+  "id": 242423,
+  "name": "Transferencia Santa Lucia Desc",
+  "latLng": {
+   "lat": 10.395214379486452,
+   "lng": -75.4780373512542
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc00",
+  "id": 242483,
+  "name": "Inicio Simon Bolivar",
+  "latLng": {
+   "lat": 10.379084,
+   "lng": -75.464408
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6baf6",
+  "id": 242499,
+  "name": "La Bodeguita A1",
+  "latLng": {
+   "lat": 10.420331961577846,
+   "lng": -75.55115193128587
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbbf",
+  "id": 242505,
+  "name": "Los Trupillos",
+  "latLng": {
+   "lat": 10.3638,
+   "lng": -75.48148
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc34",
+  "id": 242518,
+  "name": "Patio Portal C1",
+  "latLng": {
+   "lat": 10.395238,
+   "lng": -75.472534
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafa",
+  "id": 242519,
+  "name": "Parque Huellas de Alberto Uribe",
+  "latLng": {
+   "lat": 10.392674213104915,
+   "lng": -75.45262097784321
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc2",
+  "id": 242521,
+  "name": "Patio Portal A1",
+  "latLng": {
+   "lat": 10.395372125712502,
+   "lng": -75.47281224176054
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bafb",
+  "id": 242523,
+  "name": "Patio Portal D3",
+  "latLng": {
+   "lat": 10.395530944375192,
+   "lng": -75.4722113163705
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc37",
+  "id": 242534,
+  "name": "Tienda Glorimar",
+  "latLng": {
+   "lat": 10.448954,
+   "lng": -75.517304
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbc5",
+  "id": 242536,
+  "name": "Terminal De Transportes",
+  "latLng": {
+   "lat": 10.40100293948618,
+   "lng": -75.45891344547273
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb04",
+  "id": 242564,
+  "name": "Club Cartagena",
+  "latLng": {
+   "lat": 10.397712796008337,
+   "lng": -75.55990642082855
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc58",
+  "id": 242606,
+  "name": "Kr 78A La Gitana Mz F",
+  "latLng": {
+   "lat": 10.368852,
+   "lng": -75.484303
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbd5",
+  "id": 242611,
+  "name": "La Bodeguita A2",
+  "latLng": {
+   "lat": 10.420279202127771,
+   "lng": -75.55111438035966
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4a",
+  "id": 242623,
+  "name": "Pactemos",
+  "latLng": {
+   "lat": 10.406535,
+   "lng": -75.454295
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc4b",
+  "id": 242628,
+  "name": "Patio Portal A2",
+  "latLng": {
+   "lat": 10.39529830220853,
+   "lng": -75.47274238517669
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bc5d",
+  "id": 242629,
+  "name": "Patio Portal B3",
+  "latLng": {
+   "lat": 10.395083,
+   "lng": -75.472896
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bbda",
+  "id": 242635,
+  "name": "Patio Portal D4",
+  "latLng": {
+   "lat": 10.395304154769171,
+   "lng": -75.47271032830314
+  }
+ },
+ {
+  "_id": "658dda9ea5ba2d1568a6bb72",
+  "id": 242646,
+  "name": "Patio Portal C2",
+  "latLng": {
+   "lat": 10.395389087124833,
+   "lng": -75.47237415382226
+  }
+ },
+ {
+  "_id": "6668bc5ad1ac2e03ae62111d",
+  "id": 245195,
+  "name": "Institucion Educativa Santa Maria",
+  "latLng": {
+   "lat": 10.439506791641936,
+   "lng": -75.51794886589052
+  }
+ },
+ {
+  "_id": "68f914ad5b1d83334ef1f2de",
+  "id": 301637,
+  "name": "Mz I Bloque 1",
+  "latLng": {
+   "lat": 10.424476188463617,
+   "lng": -75.4610323905945
+  }
+ }
+]
