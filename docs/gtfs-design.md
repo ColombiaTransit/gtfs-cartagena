@@ -72,8 +72,15 @@ no `block_id` (the API does not say which vehicle runs which trips).
     `raw/m2m/valorTarifa.json`, checked against Decreto 017 de 2026), and
     2,900.00 COP for `diferencial` on the card only (Decreto 0176 de 2026).
   - `fare_leg_rules.txt`: every leg costs `pasaje`.
-  - No `fare_transfer_rules.txt` yet: the rule of four transfers in the same
-    direction within 90 minutes is from 2020 (news 1096) and not confirmed.
+  - `fare_transfer_rules.txt`: transfers between routes are free within 90
+    minutes, any number (`transfer_count=-1`, `duration_limit=5400`,
+    `duration_limit_type=1`, no fare product = cost 0). Source: Transcaribe,
+    "Todo lo que debes saber para pagar tu pasaje en TransCaribe con tu tarjeta
+    VISA" (2026): a 90-minute window for transfers between routes in the same
+    direction without extra charge, with the same payment medium. Not
+    expressible in GTFS: "same direction" (the rule allows any transfer within
+    the window) and "same medium". Assumed to apply to the TransCaribe card as
+    well (the 2020 news 1096 said the same for the card, with four transfers).
 
 ## Known limits
 
