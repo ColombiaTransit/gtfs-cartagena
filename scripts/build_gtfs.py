@@ -38,6 +38,7 @@ SAMPLE_DATES = {"weekday": ["2026-11-26", "2026-11-20", "2026-11-23"],
 DWELL_STREET = 20                      # s at a street stop
 DWELL_STATION = 30                     # s at a trunk station platform
 FARE_GENERAL = 3900                    # COP, since 23 Jan 2026
+TRANSFER_WINDOW_S = 90 * 60             # free transfers within 90 minutes
 FARE_REDUCED = 2900                    # COP, tarifa diferencial since May 2026
 FALLBACK_KMH = 20                      # where GraphHopper has nothing usable
 ROUTE_TYPES = {"T": ("Troncal", "E4572E"), "X": ("Pretroncal", "2E86AB"),
@@ -317,6 +318,13 @@ def main() -> int:
          "rider_category_id": "diferencial", "fare_media_id": "tarjeta", "amount": f"{FARE_REDUCED:.2f}",
          "currency": "COP"}])
     write("fare_leg_rules.txt", [{"leg_group_id": "sitm", "fare_product_id": "pasaje"}])
+    # transfers: free between routes within 90 minutes, any number, same payment medium
+    # (Transcaribe, "Todo lo que debes saber para pagar tu pasaje ... con tu tarjeta VISA").
+    # "Same direction" cannot be expressed in GTFS; no fare_product_id = transfer costs 0.
+    write("fare_transfer_rules.txt", [{"from_leg_group_id": "sitm", "to_leg_group_id": "sitm",
+                                       "transfer_count": -1, "duration_limit": TRANSFER_WINDOW_S,
+                                       "duration_limit_type": 1, "fare_transfer_type": 0,
+                                       "fare_product_id": ""}])
 
     zpath = BUILD / "transcaribe-gtfs.zip"
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:

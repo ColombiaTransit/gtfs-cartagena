@@ -14,7 +14,7 @@
 - Complementaria: C001 Ciudadela 2000–Manga, C017, C018 Bodeguita–Torices (circulair, sinds 6 aug 2024), C017 Bodeguita–Zona Norte (sinds 12 feb 2024). C016 is Portal–Terminal de Transportes; "C106" en "X016" in nieuwsbericht 6077 zijn tikfouten voor C017 en X106.
 - Alimentador A118 Portal–Ciudadela de la Paz sinds 27 okt 2025 (25e route), dagelijks; haltes in nieuwsbericht 7309.
 - 2025: route Ciudadela La Paz. Gepland: Castillogrande–Laguito, Parque Heredia, Mamonal.
-- Overstap: in 2020 "cuatro transbordos permitidos en el mismo sentido hasta en 90 minutos" (bericht 1096); nagaan of dat nog geldt (Fares v2 transfer_rules).
+- Overstap: gratis binnen 90 minuten tussen routes in dezelfde richting, met hetzelfde betaalmiddel (Transcaribe, "Todo lo que debes saber para pagar tu pasaje en TransCaribe con tu tarjeta VISA", 2026; geen maximum genoemd). In 2020: "cuatro transbordos permitidos en el mismo sentido hasta en 90 minutos" (bericht 1096). In de feed: `fare_transfer_rules.txt`.
 - Overstappen tussen routes zonder extra kosten (o.a. bij Bodeguita en Parque de la Marina).
 
 ## Dienstregeling (algemeen)
