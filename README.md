@@ -5,7 +5,10 @@ GTFS feed for public transport in Cartagena de Indias, Colombia — starting wit
 
 ## Status
 
-Research and data collection. No feed is published yet.
+A first static feed can be built (`python scripts/build_gtfs.py` ->
+`build/transcaribe-gtfs.zip`, see `docs/gtfs-design.md`): 24 routes, 638 stops,
+12,584 trips, no validator errors. Not published: the licensing of the API
+data still has to be settled with Transcaribe / M2M Control.
 
 - `scripts/scrape_transcaribe.py` downloads the Transcaribe datasets from the
   Cartagena open-data portal (CKAN API, with the XLSX files as fallback) and
