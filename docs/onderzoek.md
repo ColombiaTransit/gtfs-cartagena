@@ -58,3 +58,8 @@
 
 ## C017-traject
 De officiële kaart (`raw/web/C017-min.png`) bevestigt bericht 5309: heen door Crespo (Global Center t/m Ferretería Crespo 70), terug door de tunnel van Crespo. De OSM-relatie heeft het omgekeerd. T102 rijdt sinds 25 nov 2024 juist heen door de tunnel (bericht 6277).
+
+## App-API (Mi Bus Transcaribe, 25 nov 2026)
+Zie `docs/mibus-transcaribe-api.md`. De app gebruikt de API van M2M Control (klant 1343). Zonder inloggen: alle lijnen met varianten (`allLines`), alle haltes (`allPoints`), per variant de haltes in volgorde met positie langs de route (`bustop`) en de geplande vertrektijden (`departure`, per dag). Getest met A102: 102 resp. 108 vertrekken per richting, 7-12 min.
+Besluit: eenmalig een statische feed uit de API bouwen; niet dagelijks verversen, geen realtime voorlopig. Licentie nog navragen bij Transcaribe / M2M voor publicatie.
+

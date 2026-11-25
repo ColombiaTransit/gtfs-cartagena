@@ -94,6 +94,11 @@ Research and data collection. No feed is published yet.
   holidays, suspended routes, detours with skipped stops, and extra stops or
   trips (31 Dec 2024 to Nov 2026). Basis for `calendar_dates.txt`.
   `X106-ext` is the X106 extension to the Gobernación de Bolívar.
+- `docs/mibus-transcaribe-api.md`: the API behind the *Mi Bus Transcaribe*
+  app (M2M Control): lines, stops per route variant in order, scheduled
+  departures and route geometry, without authentication. Decided to use it
+  for a one-off static feed (no daily refresh, no realtime for now); licensing
+  still to be asked.
 - `docs/onderzoek.md` holds the research notes (network, timetable, fares,
   sources), in Dutch.
 
