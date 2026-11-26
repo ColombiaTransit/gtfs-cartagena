@@ -12,7 +12,8 @@ A first static feed can be built (`python scripts/build_gtfs.py` ->
 **Download:** the current feed always sits at a fixed address,
 <https://github.com/ColombiaTransit/gtfs-cartagena/releases/latest/download/transcaribe-gtfs.zip>
 (release `latest`). Each version is also kept as a dated release
-(`v2026-11-26`, ...), with the validation report attached.
+(`v2026-11-26`, ...), with the validation report attached. The workflow
+*Publish GTFS* builds, validates and publishes a new version.
 
 - `scripts/scrape_transcaribe.py` downloads the Transcaribe datasets from the
   Cartagena open-data portal (CKAN API, with the XLSX files as fallback) and
