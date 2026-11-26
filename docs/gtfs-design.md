@@ -84,11 +84,15 @@ no `block_id` (the API does not say which vehicle runs which trips).
 
 ## Known limits
 
-- Running times are estimates. Totals for a few routes against outside
-  figures: T101 Portal - Centro 38 min here, 24 min in Moovit, ~30 min one way
-  from Transcaribe's "about one hour round trip"; X101 50-59 min here, 35-39
-  min in Moovit. The estimates are on the long side; calibrate with the
-  forecast endpoints (sampling) or a few timed trips.
+- Running times are estimates. GraphHopper's bus profile gives bus lanes
+  (`highway=busway`, or `highway=service` without car access such as the
+  Transcaribe trunk) 40 km/h since 2026-11-26; before, they came out at
+  18 km/h. Checks: a route that starts its return trips later than its
+  outbound trips has a gap of at most running time + turnaround; the feed's
+  outbound times fit inside every such gap (T100E 20 min in 36, C018 15 in 17,
+  A102 12 in 22, C001 45 in 72). T101 now takes 21-22 min per direction (about
+  an hour round trip with turnaround, as Transcaribe says); X101 40-45 min
+  (Moovit 35-39). Calibrate further with the forecast endpoints or timed trips.
 - Announced changes (detours, suspended routes on special days) are not in the
   API's base schedule and not in the feed.
 - One stop (X101 "Frente I.E. Las Gaviotas") lies 137 m from its geometry.
