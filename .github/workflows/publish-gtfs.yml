@@ -1,0 +1,114 @@
+name: Publish GTFS
+
+# Builds the feed from the repository (raw/m2m/ snapshot, data/running_times.csv),
+# validates it with the MobilityData GTFS Validator and publishes it as
+#   - a dated release v<feed_version> (kept as history), and
+#   - the release "latest", replaced every time, so the current feed is always at
+#     https://github.com/<repo>/releases/latest/download/transcaribe-gtfs.zip
+# Stops without publishing when the validator reports errors. Started by hand.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Feed start date YYYY-MM-DD (empty = today)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-gtfs
+  cancel-in-progress: false
+
+env:
+  VALIDATOR_VERSION: v7.1.0
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build feed
+        env:
+          START: ${{ github.event.inputs.start }}
+        run: |
+          if [ -n "$START" ]; then python scripts/build_gtfs.py --start "$START"
+          else python scripts/build_gtfs.py; fi
+          VERSION=$(python -c "import csv; print(next(csv.DictReader(open('build/gtfs/feed_info.txt')))['feed_version'])")
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          echo "Feed version $VERSION"
+
+      - name: Validate
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download "$VALIDATOR_VERSION" -R MobilityData/gtfs-validator -p '*cli.jar' -O validator.jar
+          java -jar validator.jar -i build/transcaribe-gtfs.zip -o vout -c co
+          cp vout/report.html build/validation-report.html
+          python - <<'EOF'
+          import json, sys
+          r = json.load(open("vout/report.json"))
+          counts = {}
+          for n in r["notices"]:
+              counts[n["severity"]] = counts.get(n["severity"], 0) + n["totalNotices"]
+              print(n["severity"], n["code"], n["totalNotices"])
+          errors = counts.get("ERROR", 0)
+          warnings = counts.get("WARNING", 0)
+          with open("build/notes.md", "w") as f:
+              f.write(f"MobilityData GTFS Validator {__import__('os').environ['VALIDATOR_VERSION']}: "
+                      f"{errors} errors, {warnings} warnings (see validation-report.html).\n")
+          sys.exit(1 if errors else 0)
+          EOF
+
+      - name: Release notes
+        run: |
+          python - <<'EOF'
+          import csv, os
+          g = "build/gtfs/"
+          n = lambda f: sum(1 for _ in csv.DictReader(open(g + f)))
+          fi = next(csv.DictReader(open(g + "feed_info.txt")))
+          val = open("build/notes.md").read()
+          stations = sum(1 for s in csv.DictReader(open(g + "stops.txt")) if s.get("location_type") == "1")
+          body = (f"GTFS feed for Transcaribe (Cartagena), version {fi['feed_version']}.\n\n"
+                  f"- {n('routes.txt')} routes, {n('stops.txt')} stops ({stations} stations), "
+                  f"{n('trips.txt')} trips, {n('stop_times.txt')} stop_times\n"
+                  f"- Valid {fi['feed_start_date']} to {fi['feed_end_date']}; Colombian holidays run the Sunday service\n"
+                  f"- {val}\n"
+                  "Sources: Mi Bus Transcaribe API (M2M Control) snapshot in raw/m2m/, running times from GraphHopper. "
+                  "Model: docs/gtfs-design.md.\n")
+          open("build/notes.md", "w").write(body)
+          open("build/notes-latest.md", "w").write(
+              "Current feed, replaced with every new version; the dated releases keep the history.\n\n" + body)
+          EOF
+
+      - name: Publish releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd build
+          TAG="v$VERSION"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" transcaribe-gtfs.zip validation-report.html --clobber
+            gh release edit "$TAG" --notes-file notes.md --latest=false
+          else
+            gh release create "$TAG" transcaribe-gtfs.zip validation-report.html \
+              --target "$GITHUB_SHA" --title "GTFS $VERSION" --notes-file notes.md --latest=false
+          fi
+          gh release delete latest --yes --cleanup-tag 2>/dev/null || true
+          gh release create latest transcaribe-gtfs.zip validation-report.html \
+            --target "$GITHUB_SHA" --title "Latest GTFS ($VERSION)" --notes-file notes-latest.md --latest

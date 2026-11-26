@@ -107,6 +107,8 @@ above).
 
 ## Publication
 
+The workflow *Publish GTFS* (`.github/workflows/publish-gtfs.yml`, started by
+hand) builds and validates the feed, stops on validator errors, and publishes it.
 Each version is a dated GitHub release `v<feed_version>` with
 `transcaribe-gtfs.zip` and the validator report. The release `latest` carries
 the same files and is replaced with every new version, so the current feed is
