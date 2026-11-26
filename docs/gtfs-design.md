@@ -96,11 +96,18 @@ no `block_id` (the API does not say which vehicle runs which trips).
 - Announced changes (detours, suspended routes on special days) are not in the
   API's base schedule and not in the feed.
 - One stop (X101 "Frente I.E. Las Gaviotas") lies 137 m from its geometry.
-- Licensing of the API data is not settled: ask Transcaribe / M2M Control
-  before publishing the feed.
+- Licensing of the API data settled 2026-11-26; the feed is published as a
+  GitHub release (see Publication).
 
 ## Validation
 
 MobilityData GTFS Validator 7.1.0 (country `co`), build of 2026-11-25:
 no errors; 1 warning (`stop_too_far_from_shape_using_user_distance`, the stop
 above).
+
+## Publication
+
+Each version is a dated GitHub release `v<feed_version>` with
+`transcaribe-gtfs.zip` and the validator report. The release `latest` carries
+the same files and is replaced with every new version, so the current feed is
+always at https://github.com/ColombiaTransit/gtfs-cartagena/releases/latest/download/transcaribe-gtfs.zip

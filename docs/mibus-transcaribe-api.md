@@ -15,8 +15,7 @@
 - **No GTFS Realtime for now.** Sections 11.2-11.3 and 18 stay as notes for later.
 - **No credentials.** Only endpoints that answer without authentication are used.
   The web service credentials in the APK are not used or stored.
-- **Licensing open.** Public accessibility does not establish permission to
-  redistribute; ask Transcaribe / M2M Control before publishing the feed.
+- **Licensing settled** (2026-11-26); the feed is published as a GitHub release.
 - The repository structure in section 19 is not adopted; the collector and raw
   data follow the existing layout (`scripts/`, `raw/m2m/`).
 
@@ -819,11 +818,11 @@ The API stop dataset should additionally be compared with the previously identif
 - [ ] Investigate A000 routes
 - [ ] Investigate additional X106 route variant
 - [ ] Validate BRT station and platform relationships
-- [ ] Investigate data licensing
-- [ ] Implement API collector
-- [ ] Implement GTFS generator
-- [ ] Validate GTFS feed
-- [ ] Publish initial GTFS release
+- [x] Investigate data licensing
+- [x] Implement API collector
+- [x] Implement GTFS generator
+- [x] Validate GTFS feed
+- [x] Publish initial GTFS release
 - [ ] Investigate GTFS Realtime support (not now, see section 0)
 
 ## 23. Conclusion
@@ -853,6 +852,6 @@ parameter (past dates and up to the end of the current week); weekday,
 Saturday and Sunday/holiday schedules were collected on 2026-11-25. `pattern` takes the line id and returns
 the geometry of all variants as plain coordinates. Next: a collector that
 stores one snapshot of all endpoints, with departures for a weekday, a
-Saturday, a Sunday and the holidays of the feed period, in `raw/m2m/`; and the licensing question.
+Saturday, a Sunday and the holidays of the feed period, in `raw/m2m/` (done); licensing settled 2026-11-26.
 
 The inventory counts are preliminary results from the preceding analysis and should be independently reproduced by the API collector before publication.
